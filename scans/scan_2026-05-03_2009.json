@@ -1,0 +1,349 @@
+{
+  "scan_time": "2026-05-03T20:08:59.547114+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "name": "Brila",
+        "tagline": "One-page websites from real Google Maps reviews",
+        "description": "Website generators give you a template with made-up copy. You rewrite it for hours – still sounds generic. Brila does content first. It reads your Google Maps reviews, finds why customers actually choose you using Jobs to Be Done, and builds a one-page site from real patterns, real wording, real photos. When a business has enough reviews, the results often surprise even the owners. Not a single prompt – a serious AI system behind every website. Free plan gives you a fully generated site.",
+        "votes": 1298,
+        "ph_url": "https://www.producthunt.com/posts/brila-2",
+        "website": "https://www.producthunt.com/r/2ENSJE4L7JILGP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Website Builder",
+          "Artificial Intelligence",
+          "Alpha"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "Fathom 3.0",
+        "tagline": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
+        "description": "The Fathom you know, leveled up. The best AI notetaking, now with bot-free capture, account-wide AI search & insights, Claude + ChatGPT integrations, live summaries & in-meeting scratchpads, and a redesigned desktop experience. And we’re not stopping there. It’s the most flexible meeting AI ever built.",
+        "votes": 760,
+        "ph_url": "https://www.producthunt.com/posts/fathom-3-0",
+        "website": "https://www.producthunt.com/r/CS4BN7LVLISWRQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Meetings",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "ProdShort",
+        "tagline": "Turn meetings into ready-to-post shorts and posts",
+        "description": "Founders fail at content because it's time consuming and AI just still feels fake. Prodshort fixes that. We don’t generate content. We capture it. Everything you say in meetings is already valuable. We cut it, refine it, and turn it into ready-to-post shorts, Linkedin, Twitter... Automatically. No scripts. No fake voice. No overthinking. Just you, turned into content.",
+        "votes": 714,
+        "ph_url": "https://www.producthunt.com/posts/prodshort",
+        "website": "https://www.producthunt.com/r/5O7FS7MXUZ4VCP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Meetings",
+          "Alpha"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "Plurai",
+        "tagline": "Vibe-train evals and guardrails tailored to your use case",
+        "description": "Vibe training for AI agent reliability. Describe what your agent should and should not do — Plurai generates training data, validates it, and deploys a custom model in minutes. It feels like vibe coding, but for evaluation and guardrails. No labeled data. No annotation pipeline. No prompt engineering. Under the hood, small language models deliver sub 100ms latency, 8x lower cost than GPT as judge, and over 43% fewer failures. Always on, not sampled. Built on published research (BARRED).",
+        "votes": 698,
+        "ph_url": "https://www.producthunt.com/posts/plurai",
+        "website": "https://www.producthunt.com/r/2SG5VACZQUBMO7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "Velo",
+        "tagline": "Share anything as video messages",
+        "description": "Velo turns your raw screen recordings into watch-worthy, ready-to-share videos with AI.",
+        "votes": 666,
+        "ph_url": "https://www.producthunt.com/posts/velo-10",
+        "website": "https://www.producthunt.com/r/5NXKZ7EKGRZVKR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "Clera",
+        "tagline": "An AI agent matching candidates to the right roles.",
+        "description": "Meet Clera: your AI talent agent for finding roles you actually want. Clera gets to know what you’re looking for over iMessage and WhatsApp. It surfaces roles you’d actually be excited by and makes direct intros to relevant companies. You hear about good opportunities without spending hours searching and applying.",
+        "votes": 650,
+        "ph_url": "https://www.producthunt.com/posts/clera",
+        "website": "https://www.producthunt.com/r/MHJ73XCI7VH4JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Hiring",
+          "iMessage Apps",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "Dune",
+        "tagline": "Context-aware Mac keypad to automate workflows + meetings",
+        "description": "Dune is a Context-aware Keypad for Mac that sits next to your keyboard and changes what its three keys do in real time based on the app running in the foreground. Built for developers who live in GitHub, VS Code, Claude, Openclaw, and for anyone running AI agents or in back to back meetings on Zoom, Teams, and Google Meet.",
+        "votes": 627,
+        "ph_url": "https://www.producthunt.com/posts/dune-5",
+        "website": "https://www.producthunt.com/r/67NKXLWIKHXRHK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "NovaVoice",
+        "tagline": "Smart dictation, AI assistant, + app control via voice",
+        "description": "NovaVoice is Your Voice OS that lets you work at the speed of thought. Typing is slow. Switching apps breaks focus. Formatting wastes time. Speak at 200+ wpm, get context-aware text. Hit hotkey, ask anything without googling. Execute actions without switching apps (just with voice commands). NovaVoice remembers contacts, addresses, links. NovaVoice writes, answers, and acts across your desktop.",
+        "votes": 605,
+        "ph_url": "https://www.producthunt.com/posts/novavoice",
+        "website": "https://www.producthunt.com/r/K7EU2IVQNJ6SLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Writing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "Open Wearables",
+        "tagline": "Open infrastructure for wearable-powered health products.",
+        "description": "Build personalized health products with one API for every wearable. Access wearable data, open health scoring algorithms, and structured context your AI can reason with. Self-hosted, open-source, MIT licensed.",
+        "votes": 600,
+        "ph_url": "https://www.producthunt.com/posts/open-wearables-3",
+        "website": "https://www.producthunt.com/r/IUMQA6GC7RBMJ5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Wearables",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "name": "RankAI",
+        "tagline": "RankAI autonomously gets you buyers from Google & AI Search",
+        "description": "RankAI is the first SEO/GEO agent that truly works. It handles everything autonomously to drive you millions of visitors from Google & AI Search like ChatGPT. Drop in your website, and RankAI handles the rest: it finds high-intent queries your customers search on Google and ChatGPT, publishes optimized pages, tracks performance, and recreate pages iteratively until they get you visitors.",
+        "votes": 597,
+        "ph_url": "https://www.producthunt.com/posts/rankai-2",
+        "website": "https://www.producthunt.com/r/SWCJJYGQH4XRUK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "SEO",
+          "Search"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "name": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+        "url": "https://hnup.date/hn-sota",
+        "points": 140,
+        "comments": 79,
+        "hn_url": "https://news.ycombinator.com/item?id=47990708"
+      },
+      {
+        "name": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
+        "url": "https://github.com/bring-shrubbery/ml-sharp-web",
+        "points": 139,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=47995037"
+      },
+      {
+        "name": "Show HN: I built a tool that helps predict HN front page success",
+        "url": "https://wannalaunch.com/",
+        "points": 25,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=47996094"
+      },
+      {
+        "name": "Show HN: I built a RISC-V emulator that runs DOOM",
+        "url": "https://github.com/lalitshankarch/rvcore",
+        "points": 25,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=47996055"
+      },
+      {
+        "name": "Show HN: Ableton Live MCP",
+        "url": "https://github.com/bschoepke/ableton-live-mcp",
+        "points": 15,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=47999656"
+      },
+      {
+        "name": "Show HN: Bhatti – Self-hostable Firecracker orchestrator with auto pause/wake",
+        "url": "https://bhatti.sh/",
+        "points": 15,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=47996509"
+      },
+      {
+        "name": "Show HN: Julius, a New Lisp Implementation",
+        "url": "https://github.com/tgflynn/Julius",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=47994161"
+      },
+      {
+        "name": "Show HN: I built my site as a Windows 95 experience (2025)",
+        "url": "https://wes.dev/",
+        "points": 8,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=47996281"
+      },
+      {
+        "name": "Show HN: Software Engineer to Novelist: Writing a Book Like Coding",
+        "url": "https://frequal.com/forwriters/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=47998570"
+      },
+      {
+        "name": "Show HN: Kadō – habit tracker app for iOS, open source and privacy-friendly",
+        "url": "https://github.com/scastiel/kado",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=47998670"
+      },
+      {
+        "name": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+        "url": "https://github.com/MinishLab/semble",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=47997629"
+      },
+      {
+        "name": "Show HN: I'm running parallel Pi agents on a local sandbox",
+        "url": "https://github.com/CelestoAI/SmolVM/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=47992937"
+      },
+      {
+        "name": "Show HN: Hello, World in many different languages",
+        "url": "https://languages.jdunn.dev/",
+        "points": 5,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=47996975"
+      },
+      {
+        "name": "Show HN: I made a simulator for personal finance (5 year update)",
+        "url": "https://projectionlab.com/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=47996907"
+      },
+      {
+        "name": "Show HN: BoxLite – the all-terrain micro-VM",
+        "url": "https://github.com/boxlite-ai/boxlite",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=47994768"
+      }
+    ],
+    "betalist": [
+      {
+        "name": "URL to Video",
+        "description": "Turn product links into high-converting ecommerce video ads",
+        "url": "https://betalist.com/startups/url-to-video"
+      },
+      {
+        "name": "ChatGPT Free",
+        "description": "Chat instantly with multiple AI models, no login or limits",
+        "url": "https://betalist.com/startups/chatgpt-free"
+      },
+      {
+        "name": "Flynomi",
+        "description": "Find business and first class fares Google Flights misses",
+        "url": "https://betalist.com/startups/flynomi"
+      }
+    ],
+    "indiehackers": [
+      {
+        "title": "I’m launching on Product Hunt in 12 days with zero customers. Here’s my exact plan.",
+        "url": "https://www.indiehackers.com/post/i-m-launching-on-product-hunt-in-12-days-with-zero-customers-here-s-my-exact-plan-beaab1d1e1",
+        "votes": "—"
+      },
+      {
+        "title": "Startups are not small businesses.",
+        "url": "https://www.indiehackers.com/post/startups-are-not-small-businesses-8815059f82",
+        "votes": "—"
+      },
+      {
+        "title": "Show IH: I launched a SaaS with no audience. Here's what happened in the first week.",
+        "url": "https://www.indiehackers.com/post/show-ih-i-launched-a-saas-with-no-audience-heres-what-happened-in-the-first-week-7d911dae8e",
+        "votes": "—"
+      },
+      {
+        "title": "LeadSynth will show you why “just keep going” is bad advice",
+        "url": "https://www.indiehackers.com/product/leadsynthai?post=I5ZYxKF3tpUNDJlJ4hXg",
+        "votes": "—"
+      },
+      {
+        "title": "I built a tool that tells you if your startup idea has real demand — before you write a line of code",
+        "url": "https://www.indiehackers.com/post/i-built-a-tool-that-tells-you-if-your-startup-idea-has-real-demand-before-you-write-a-line-of-code-da427e21e8",
+        "votes": "—"
+      },
+      {
+        "title": "KashifData: I built an AI analyst. It confidently gave wrong answers for 3 versions straight. Here's the ugly truth and how I fixed it.",
+        "url": "https://www.indiehackers.com/product/kashifdata?post=YT4YtEIBSDxt3kD5eH7P",
+        "votes": "—"
+      },
+      {
+        "title": "I launched on Product Hunt today and realized something uncomfortable",
+        "url": "https://www.indiehackers.com/post/i-launched-on-product-hunt-today-and-realized-something-uncomfortable-35d871866b",
+        "votes": "—"
+      },
+      {
+        "title": "Most users assume your product is abandoned. Here’s why that’s a retention problem.",
+        "url": "https://www.indiehackers.com/post/most-users-assume-your-product-is-abandoned-here-s-why-that-s-a-retention-problem-c1a43c4f9e",
+        "votes": "—"
+      },
+      {
+        "title": "LeadSynth will show you why “getting feedback” is broken",
+        "url": "https://www.indiehackers.com/product/leadsynthai?post=Uh3uhaGq9HUyiwkT9M69",
+        "votes": "—"
+      },
+      {
+        "title": "Building a $15M+ ARR SaaS from a gap he found at his brick-and-mortar",
+        "url": "https://www.indiehackers.com/post/tech/building-a-15m-arr-saas-from-a-gap-he-found-at-his-brick-and-mortar-HFriCBQLHukAmdXVEj1q",
+        "votes": "—"
+      },
+      {
+        "title": "Building a $1.7M/yr tech-enabled consultancy by productizing a repeatable 2-week service",
+        "url": "https://www.indiehackers.com/post/services/building-a-1-7m-yr-tech-enabled-consultancy-by-productizing-a-repeatable-2-week-service-ss4jghP8eGhgaTs70kks",
+        "votes": "—"
+      },
+      {
+        "title": "Hitting $7M+ ARR thanks to the pressures of bootstrapping",
+        "url": "https://www.indiehackers.com/post/tech/hitting-7m-arr-thanks-to-the-pressures-of-bootstrapping-igZlngx39s8WnbclJ9NM",
+        "votes": "—"
+      },
+      {
+        "title": "Growing a fully bootstrapped email-marketing platform to $37M ARR",
+        "url": "https://www.indiehackers.com/post/tech/growing-a-fully-bootstrapped-email-marketing-platform-to-37m-arr-yEzvbRhw1NFn0lHedTWu",
+        "votes": "—"
+      },
+      {
+        "title": "Maintaining $340k/yr revenue while halving agency workload and headcount",
+        "url": "https://www.indiehackers.com/post/services/maintaining-340k-yr-revenue-while-halving-agency-workload-and-headcount-SEDr4DTBIq7lv8s8Az2n",
+        "votes": "—"
+      },
+      {
+        "title": "Hitting a 7-figure ARR by building a community into his product",
+        "url": "https://www.indiehackers.com/post/tech/hitting-a-7-figure-arr-by-building-a-community-into-his-product-6LeFoYyWrOyqlw9aLqUf",
+        "votes": "—"
+      }
+    ]
+  }
+}
