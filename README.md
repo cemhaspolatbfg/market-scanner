@@ -7,8 +7,10 @@ ABD/Avrupa pazarındaki yeni ürünleri Türkiye pazarı perspektifiyle her saba
 ```
 06:00 UTC (TR 09:00) → GitHub Actions
                        └→ scanner.py (cloud)
-                       └→ scans/ klasörüne JSON
-                       └→ commit + push
+                       └→ 4 kaynaktan veri çek
+                       └→ state/seen.json'a göre dedup
+                       └→ scans/ klasörüne yeni ürünleri JSON olarak yaz
+                       └→ commit + push (scans/ + state/)
 
 07:00 UTC (TR 10:00) → Claude Routine
                        └→ En yeni JSON'u oku
@@ -21,42 +23,32 @@ ABD/Avrupa pazarındaki yeni ürünleri Türkiye pazarı perspektifiyle her saba
 
 ## Kaynaklar
 
-- **Product Hunt** — günün en çok oy alan 10 ürünü (API)
+- **Product Hunt** — son 7 gün içinde launch olan, en çok oy alan 10 ürün (API)
 - **Hacker News** — son 24 saatte "Show HN" postları (Algolia API)
 - **BetaList** — yeni eklenen startuplar (scrape)
 - **Indie Hackers** — haftanın trend gönderileri (Playwright)
 
+## Deduplikasyon
+
+`state/seen.json` dosyası daha önce raporlanmış her ürünün ID'sini ve görüldüğü tarihi tutar. Scanner her çalıştığında:
+
+1. seen.json'ı yükler
+2. Her kaynaktan veri çeker
+3. Daha önce görülen ID'leri filtreler (sadece yeni olanlar JSON'a gider)
+4. Yeni ID'leri seen.json'a ekler
+5. 90 günden eski entry'leri otomatik temizler (yeniden trending olursa tekrar değerlendirilebilsin)
+
+Yani bir ürün rapora bir kez girdiğinde 90 gün boyunca tekrar görünmez. Bu sürenin sonunda hâlâ trend ise yeni bir fırsat olarak yeniden değerlendirilir.
+
 ## Kurulum
 
-### 1. Repo'yu GitHub'a yükle
+### 1. Repo'yu GitHub'a yükle (yapıldı)
 
-```bash
-cd /Users/cemhaspolat/Desktop/claude/market_scanner
-git init
-git add .
-git commit -m "Initial commit"
-gh repo create market-scanner --private --source=. --push
-```
+### 2. GitHub Secret ekle (yapıldı)
 
-### 2. GitHub Secret ekle
+`PRODUCTHUNT_TOKEN` repo secrets'ında.
 
-Product Hunt API token'ını GitHub Secret olarak ekle:
-
-1. Repo → Settings → Secrets and variables → Actions
-2. "New repository secret"
-3. Name: `PRODUCTHUNT_TOKEN`
-4. Value: Senin token'ın
-
-Token nereden alınır: https://www.producthunt.com/v2/oauth/applications
-
-### 3. GitHub Actions test et
-
-İlk çalıştırmayı manuel tetikle:
-1. Repo → Actions → "Daily Market Scan"
-2. "Run workflow" → main branch → çalıştır
-3. Birkaç dakika bekle, `scans/` klasöründe yeni dosya görmen lazım
-
-### 4. Claude Routine kur
+### 3. Claude Routine kur
 
 `claude.ai/code` → Routines → Create routine:
 
@@ -73,15 +65,18 @@ Bugünün market raporunu hazırla.
 1. scans/ klasöründeki en yeni scan_YYYY-MM-DD_HHMM.json 
    dosyasını oku.
 
-2. Repo'daki SKILL.md dosyasındaki kurallara göre filtreli, 
-   kategorize edilmiş bir rapor üret. Filtreleme kurallarını 
-   agresif uygula — Türkiye pazarı için gerçek fırsat olan 
-   8-15 fikri seç.
+2. JSON'daki "stats" alanına bak. Toplam yeni ürün sayısı 
+   azsa rapor da kısa olsun. SKILL.md'deki kurallara uy. 
+   Hayalî fikir uydurma.
 
-3. Raporu reports/report_YYYY-MM-DD.md olarak kaydet 
+3. Repo'daki SKILL.md dosyasındaki filtreleme kurallarını 
+   agresif uygula — Türkiye pazarı için gerçek fırsat olan 
+   fikirleri seç.
+
+4. Raporu reports/report_YYYY-MM-DD.md olarak kaydet 
    (bugünün UTC tarihi).
 
-4. Repo'ya commit et:
+5. Repo'ya commit et:
    - Commit mesajı: "Daily report: YYYY-MM-DD"
    - Branch: main
 ```
@@ -95,7 +90,7 @@ Manuel çalıştırmak istersen:
 pip install -r requirements.txt
 playwright install chromium
 
-# .env oluştur
+# .env oluştur (zaten var)
 echo "PRODUCTHUNT_TOKEN=your_token_here" > .env
 
 # Çalıştır
@@ -109,21 +104,24 @@ market_scanner/
 ├── .github/
 │   └── workflows/
 │       └── scanner.yml       # GitHub Actions workflow
-├── scanner.py                # Veri çekme scripti
+├── scanner.py                # Veri çekme + dedup
 ├── SKILL.md                  # Routine için talimat
 ├── requirements.txt          # Python bağımlılıkları
 ├── .env                      # PRODUCTHUNT_TOKEN (gitignore'da, sadece lokal)
 ├── .gitignore
 ├── README.md
-├── scans/                    # Ham JSON çıktıları (tracked)
+├── scans/                    # Ham JSON çıktıları (sadece yeni ürünler)
 │   └── scan_YYYY-MM-DD_HHMM.json
-└── reports/                  # İşlenmiş markdown raporlar (tracked)
+├── state/                    # Persistent state (dedup için)
+│   └── seen.json
+└── reports/                  # İşlenmiş markdown raporlar
     └── report_YYYY-MM-DD.md
 ```
 
 ## Bakım
 
 - Scanner 30 günden eski JSON dosyalarını otomatik siler
-- Tüm zaman damgaları UTC (GitHub Actions UTC'de çalışır)
+- seen.json'da 90 günden eski entry'ler otomatik temizlenir
+- Tüm zaman damgaları UTC
 - Rapor günde tek tane (üzerine yazılır)
-- GitHub Actions ücretsiz quota: aylık 2000 dakika (bu workflow ~2 dk → bol bol yeter)
+- GitHub Actions ücretsiz quota: aylık 2000 dakika

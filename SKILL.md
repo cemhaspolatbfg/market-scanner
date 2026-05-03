@@ -1,11 +1,13 @@
 ---
 name: market-scanner
-description: Use when generating the daily market opportunity report. Reads the latest scan JSON from the scans/ directory (already produced by GitHub Actions), filters for Turkish-market opportunities, and writes a categorized markdown report to reports/.
+description: Use when generating the daily market opportunity report. Reads the latest scan JSON from the scans/ directory (already produced by GitHub Actions, with deduplication), filters for Turkish-market opportunities, and writes a categorized markdown report to reports/.
 ---
 
 ## Bağlam
 
-GitHub Actions her sabah otomatik olarak `scanner.py`'yi çalıştırır ve `scans/` klasörüne yeni bir JSON dosyası ekler. Senin görevin **scanner'ı çalıştırmak değil**, hazır JSON'u okuyup filtreli rapor üretmektir.
+GitHub Actions her sabah otomatik olarak `scanner.py`'yi çalıştırır ve `scans/` klasörüne yeni bir JSON dosyası ekler. JSON içeriği **deduplikasyondan geçmiş** — yani daha önce raporlanmış ürünler zaten elenmiş, sadece **yeni** ürünler gelir.
+
+Senin görevin **scanner'ı çalıştırmak değil**, hazır JSON'u okuyup filtreli rapor üretmektir.
 
 ## Adımlar
 
@@ -13,15 +15,35 @@ GitHub Actions her sabah otomatik olarak `scanner.py`'yi çalıştırır ve `sca
 
 `scans/` klasöründeki dosyalar `scan_YYYY-MM-DD_HHMM.json` formatında. **En son timestamp'li olanı** seç ve oku.
 
-### 2. Raporu yaz
+### 2. JSON'daki veri miktarını değerlendir
 
-JSON'daki ham veriyi kullanarak aşağıdaki kurallara göre markdown raporu üret.
+JSON'un üst kısmında `stats` alanı var, her kaynak için `new` sayısı gösterir:
+
+```json
+"stats": {
+  "producthunt": {"raw": 10, "new": 3},
+  "hackernews": {"raw": 15, "new": 12},
+  ...
+}
+```
+
+**Toplam yeni ürün sayısına göre rapor uzunluğu:**
+
+- **0-2 yeni ürün varsa:** Çok kısa rapor — "Bugün yeni fırsat yok / sadece şu 1-2 fikir var" diye not düş, varsa olanları göster.
+- **3-7 yeni ürün varsa:** Kısa rapor, hepsini değerlendir.
+- **8+ yeni ürün varsa:** Normal rapor, agresif filtreleme uygula.
+
+**Hayalî fikir uydurma. JSON'da olmayanı yazma.** Az veri geldiyse az yaz.
+
+### 3. Raporu yaz
+
+Aşağıdaki kurallara göre markdown raporu üret.
 
 **Amaç:** Okuyan kişi "aa bu iyi fikir", "bunu Türkiye'ye getirmeliyim" desin. Yatırım yapmayı bekleyen bir girişimciye sunulacak rapor gibi düşün.
 
 #### Filtreleme — agresif uygula
 
-Scanner ham 30-40 sonuç getirir. **Bunların çoğu rapora girmemeli.** Türkiye pazarı için fırsat olabilecek 8-15 maddeyi seç. Şunları **ele**:
+Türkiye pazarı için gerçek fırsat olabilecek fikirleri seç. Şunları **ele**:
 
 - **Saf altyapı / niş geliştirici araçları** — örn: "Rust ile Kubernetes yeniden yazıldı", "Postgres üzerinde private GitHub", "Terminal email client". Bunlar iş fikri değil, hobby projeleri.
 - **Açıklaması olmayan, ne işe yaradığı belli olmayan girişimler** — başlığı kriptik, tagline'ı yok.
@@ -56,7 +78,7 @@ Kaynak bazlı **değil**, fikir kategorisine göre grupla. Örnek kategoriler:
 
 **Kural:** "Diğer" kategorisi 5 maddeyi geçerse, içindeki maddeleri yeni alt kategorilere böl. 5 maddeden az ise olduğu gibi kalsın.
 
-### 3. Raporu kaydet
+### 4. Raporu kaydet
 
 `reports/report_YYYY-MM-DD.md` olarak kaydet (UTC tarihi). Aynı gün için zaten rapor varsa **üzerine yaz**. Günde tek rapor.
 
@@ -64,7 +86,7 @@ Rapor başlığı:
 ```markdown
 # Market Scanner — YYYY-MM-DD
 
-Bugün X kaynaktan Y ham içerik tarandı, Türkiye pazarı için Z fırsat seçildi.
+Bugün X yeni içerik geldi (ham toplam: Y), Türkiye pazarı için Z fırsat seçildi.
 
 ---
 ```
@@ -75,7 +97,7 @@ Sonunda:
 *Oluşturulma: YYYY-MM-DD HH:MM UTC*
 ```
 
-### 4. Commit
+### 5. Commit
 
 Raporu repo'ya commit et:
 - Commit mesajı: `Daily report: YYYY-MM-DD`
