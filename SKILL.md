@@ -1,6 +1,6 @@
 ---
 name: market-scanner
-description: Use when generating the daily market opportunity report. Reads the latest scan JSON from the scans/ directory (already produced by GitHub Actions, with deduplication), filters for Turkish-market opportunities, and writes a categorized markdown report to reports/.
+description: Use when generating the daily market opportunity report. Reads the latest scan JSON from the scans/ directory (already produced by GitHub Actions, with deduplication), filters by quality criteria, ranks by score, and writes a categorized markdown report to reports/.
 ---
 
 ## Bağlam
@@ -39,20 +39,29 @@ JSON'un üst kısmında `stats` alanı var, her kaynak için `new` sayısı gös
 
 Aşağıdaki kurallara göre markdown raporu üret.
 
-**Amaç:** Okuyan kişi "aa bu iyi fikir", "bunu Türkiye'ye getirmeliyim" desin. Yatırım yapmayı bekleyen bir girişimciye sunulacak rapor gibi düşün.
+**Amaç:** Okuyan kişi "aa bu iyi fikir" desin. Yatırım yapmayı bekleyen bir girişimciye sunulacak rapor gibi düşün — coğrafyadan bağımsız, gerçek bir iş fırsatı olabilecek fikirleri öne çıkar.
 
 #### Filtreleme — agresif uygula
 
-Türkiye pazarı için gerçek fırsat olabilecek fikirleri seç. Şunları **ele**:
+Şunları **ele**:
 
 - **Saf altyapı / niş geliştirici araçları** — örn: "Rust ile Kubernetes yeniden yazıldı", "Postgres üzerinde private GitHub", "Terminal email client". Bunlar iş fikri değil, hobby projeleri.
 - **Açıklaması olmayan, ne işe yaradığı belli olmayan girişimler** — başlığı kriptik, tagline'ı yok.
-- **Türkiye'de ölçeklemesi imkansız niş ürünler** — örn: ABD'ye özgü polis radyosu, ABD eyalet seçim sistemleri.
 - **Trolllük, şaka projeleri, meme ürünler** — örn: "AI talking fruit videos", "matchstick puzzle builder".
-- **Mevcut araçların çok benzeri kopyaları** — pazarda zaten 10 muadili olan SaaS klonları.
+- **Mevcut araçların çok benzeri kopyaları** — pazarda zaten 10 muadili olan SaaS klonları, farklılaşma yok.
 - **Indie Hackers'taki "ben şunu yaptım" tarzı blog post'ları** — eğer içerik bir iş fikri değil sadece bir hikaye ise (örn: "PH'de launch ettim, şu oldu") rapora alma. Ama içeriği gerçek bir iş modeli/niş anlatıyorsa al (örn: "$15M ARR kazandığım brick-and-mortar gap'i").
 
-**Tutmak için kriter:** Açık bir problem çözüyor + iş modeli net + Türkiye'de muadili yok veya zayıf + ölçeklenebilir.
+**Tutmak için kriter:** Açık bir problem çözüyor + iş modeli net + farklılaşma var + ölçeklenebilir.
+
+#### Sıralama
+
+Kalanları **puana göre azalan** sırala:
+- Product Hunt: `votes`
+- Hacker News: `points` (tiebreak: `comments`)
+- BetaList: skor yok, listede geldikleri sırayla
+- Indie Hackers: `votes` varsa ona göre, yoksa listede geldikleri sırayla
+
+Kategori içinde de puanı yüksek olan üstte olsun.
 
 #### Her fikir için format
 
@@ -86,7 +95,7 @@ Rapor başlığı:
 ```markdown
 # Market Scanner — YYYY-MM-DD
 
-Bugün X yeni içerik geldi (ham toplam: Y), Türkiye pazarı için Z fırsat seçildi.
+Bugün X yeni içerik geldi (ham toplam: Y), Z fırsat seçildi.
 
 ---
 ```
