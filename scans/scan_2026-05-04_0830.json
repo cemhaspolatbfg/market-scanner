@@ -1,0 +1,152 @@
+{
+  "scan_time": "2026-05-04T08:29:51.153397+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "huddle01-vms",
+        "name": "Huddle01 VMs",
+        "tagline": "Virtual Machines for Your Agents",
+        "description": "Huddle01 Cloud allows you to spin up a Virtual Machine (VM) from your favourite AI assistant now! The MCP server lets you control your infrastructure setup on Huddle01 just by chatting. Works with Claude, Cursor, Antigravity, or anywhere you can set up MCPs. Your virtual machines come with Unlimited Ingress, Per-second billing, and Unthrottled NVMe Storage.",
+        "votes": 385,
+        "ph_url": "https://www.producthunt.com/posts/huddle01-vms",
+        "website": "https://www.producthunt.com/r/UYBGFPMMHGEL7A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "pandaprobe-2",
+        "name": "PandaProbe",
+        "tagline": "open source agent engineering platform",
+        "description": "PandaProbe is an open-source agent engineering platform that gives you deep observability into AI agent applications. Use it to trace, evaluate, monitor and debug your AI agents in development and production.",
+        "votes": 365,
+        "ph_url": "https://www.producthunt.com/posts/pandaprobe-2",
+        "website": "https://www.producthunt.com/r/BLAIC7M7XUPFXD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "radar-42edb7b0-e388-4fa8-9ba5-4876c2c0d638",
+        "name": "Radar",
+        "tagline": "The missing open-source Kubernetes UI",
+        "description": "Radar brings your Kubernetes workflows into one fast, open-source UI: real-time topology, resources, events, Helm, GitOps, live traffic flows, security & best-practice checks, image filesystem inspection, and MCP for AI agents. Run it locally as a single binary or self-host it in-cluster with RBAC + OIDC — no account, agents, or cloud required.",
+        "votes": 359,
+        "ph_url": "https://www.producthunt.com/posts/radar-42edb7b0-e388-4fa8-9ba5-4876c2c0d638",
+        "website": "https://www.producthunt.com/r/ZVGW24KQL2TDTF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "47996331",
+        "name": "Show HN: Parrot – a fun, skeuomorphic audio recorder to hear yourself",
+        "url": "https://www.zkhrv.com/parrot",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=47996331"
+      },
+      {
+        "id": "48002134",
+        "name": "Show HN: Triggering anti-cheats with just a browser tab title",
+        "url": "https://github.com/elliott-diy/DontTrustTitles",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48002134"
+      },
+      {
+        "id": "48001695",
+        "name": "Show HN: Playground for the Spectre Programming Language",
+        "url": "https://spectrelang.org/playground",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48001695"
+      },
+      {
+        "id": "48005847",
+        "name": "Show HN: Generate SKILL.md files from URLs, in the browser",
+        "url": "https://www.getskillify.dev/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48005847"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/spaiky",
+        "name": "Spaiky",
+        "description": "Learn AI with daily 5-minute gamified lessons",
+        "url": "https://betalist.com/startups/spaiky"
+      },
+      {
+        "id": "/startups/jobs-by-culture",
+        "name": "Jobs by Culture",
+        "description": "Find tech jobs at companies that match your values and culture",
+        "url": "https://betalist.com/startups/jobs-by-culture"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/filleo?post=LMJodSg5iXfTnytUGuBI",
+        "title": "Filleo: I'm 17 & I built an \"Agentic AI\" to kill the 15-minute Shopify listing grind",
+        "url": "https://www.indiehackers.com/product/filleo?post=LMJodSg5iXfTnytUGuBI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/your-files-aren-t-messy-they-re-just-stuck-in-the-wrong-system-bf68d2eba4",
+        "title": "Your files aren’t messy. They’re just stuck in the wrong system.",
+        "url": "https://www.indiehackers.com/post/your-files-aren-t-messy-they-re-just-stuck-in-the-wrong-system-bf68d2eba4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=Q3CnRTmnIzms3c78VIeY",
+        "title": "LiFast: My LinkedIn autopilot hit 47 qualified leads in 3 weeks. Here’s what happened.",
+        "url": "https://www.indiehackers.com/product/lifast?post=Q3CnRTmnIzms3c78VIeY",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-wasted-6-months-building-a-failed-startup-built-trendyrevenue-to-validate-ideas-in-10-seconds-ec7806e968",
+        "title": "I wasted 6 months building a failed startup. Built TrendyRevenue to validate ideas in 10 seconds.",
+        "url": "https://www.indiehackers.com/post/i-wasted-6-months-building-a-failed-startup-built-trendyrevenue-to-validate-ideas-in-10-seconds-ec7806e968",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-tiny-tool-to-monitor-cron-jobs-and-scheduled-tasks-looking-for-feedback-826392654f",
+        "title": "I built a tiny tool to monitor cron jobs and scheduled tasks — looking for feedback",
+        "url": "https://www.indiehackers.com/post/i-built-a-tiny-tool-to-monitor-cron-jobs-and-scheduled-tasks-looking-for-feedback-826392654f",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 4
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
