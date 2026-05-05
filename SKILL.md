@@ -31,7 +31,7 @@ JSON'un üst kısmında `stats` alanı var, her kaynak için `new` sayısı gös
 
 - **0-2 yeni ürün varsa:** Çok kısa rapor — "Bugün yeni fırsat yok / sadece şu 1-2 fikir var" diye not düş, varsa olanları göster.
 - **3-7 yeni ürün varsa:** Kısa rapor, hepsini değerlendir.
-- **8+ yeni ürün varsa:** Normal rapor, agresif filtreleme uygula.
+- **8+ yeni ürün varsa:** Normal rapor, seçici filtreleme uygula.
 
 **Hayalî fikir uydurma. JSON'da olmayanı yazma.** Az veri geldiyse az yaz.
 
@@ -39,19 +39,19 @@ JSON'un üst kısmında `stats` alanı var, her kaynak için `new` sayısı gös
 
 Aşağıdaki kurallara göre markdown raporu üret.
 
-**Amaç:** Okuyan kişi "aa bu iyi fikir" desin. Yatırım yapmayı bekleyen bir girişimciye sunulacak rapor gibi düşün — coğrafyadan bağımsız, gerçek bir iş fırsatı olabilecek fikirleri öne çıkar.
+**Amaç:** Bir girişimciye **ilham verecek** raporu hazırlıyorsun. Kaynaklarda gördüğün fikirlerden iyi, kayda değer, yaratıcı olanları öne çıkar — okuyan "vay be, bu güzel fikirmiş" ya da "şuna kafa yormamışım" desin. **İnovatif olmak şart değil; basit ama daha önce düşünülmemiş bir açı da değerli.**
 
-#### Filtreleme — agresif uygula
+#### Filtreleme — seçici uygula
 
 Şunları **ele**:
 
-- **Saf altyapı / niş geliştirici araçları** — örn: "Rust ile Kubernetes yeniden yazıldı", "Postgres üzerinde private GitHub", "Terminal email client". Bunlar iş fikri değil, hobby projeleri.
+- **Saf altyapı / niş geliştirici araçları** — örn: "Rust ile Kubernetes yeniden yazıldı", "Postgres üzerinde private GitHub", "Terminal email client". Bunlar iş fikri değil, geliştirici hobi projeleri.
 - **Açıklaması olmayan, ne işe yaradığı belli olmayan girişimler** — başlığı kriptik, tagline'ı yok.
 - **Trolllük, şaka projeleri, meme ürünler** — örn: "AI talking fruit videos", "matchstick puzzle builder".
-- **Mevcut araçların çok benzeri kopyaları** — pazarda zaten 10 muadili olan SaaS klonları, farklılaşma yok.
-- **Indie Hackers'taki "ben şunu yaptım" tarzı blog post'ları** — eğer içerik bir iş fikri değil sadece bir hikaye ise (örn: "PH'de launch ettim, şu oldu") rapora alma. Ama içeriği gerçek bir iş modeli/niş anlatıyorsa al (örn: "$15M ARR kazandığım brick-and-mortar gap'i").
+- **Birebir kopyalar** — taze bir açısı, twist'i veya farklı bir kullanıcı kitlesi olmayan klonlar. *Aynı kategoride başka ürünler olması tek başına eleme sebebi değil — yaklaşım orijinalse al.*
+- **Indie Hackers'taki "ben şunu yaptım" hikayeleri** — post sadece launch/yol hikayesi anlatıyor, altında somut bir ürün/fikir durmuyorsa ele. Ama post bir ürün/fikir tanıtıyorsa, hikaye çerçevesinde olsa bile al.
 
-**Tutmak için kriter:** Açık bir problem çözüyor + iş modeli net + farklılaşma var + ölçeklenebilir.
+**Tutmak için kriter:** Yaratıcı bir açı + ilham verici. Basit-ama-orijinal de değerli; illa büyük iş modeli aranmıyor.
 
 #### Sıralama
 
