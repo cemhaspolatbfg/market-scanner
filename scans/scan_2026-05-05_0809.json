@@ -1,0 +1,210 @@
+{
+  "scan_time": "2026-05-05T08:09:28.089634+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "48011116",
+        "name": "Show HN: Muesli – If Granola and Wisprflow had an open source on device baby",
+        "url": "https://freedspeech.xyz",
+        "points": 14,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48011116"
+      },
+      {
+        "id": "48010204",
+        "name": "Show HN: Bonsai 1.7B ternary model at 442T/s on M4 Max",
+        "url": "https://agents2agents.ai/bonsai",
+        "points": 13,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48010204"
+      },
+      {
+        "id": "48011395",
+        "name": "Show HN: Retrodex – Retro game collection tracker and game encyclopedia",
+        "url": "https://retrodex.games",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48011395"
+      },
+      {
+        "id": "48016525",
+        "name": "Show HN: I built a native macOS audio player and it changed my life",
+        "url": "https://github.com/chrisallick/light-crime-audio-player",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48016525"
+      },
+      {
+        "id": "48015655",
+        "name": "Show HN: I indexed 8,643 BSides talks across 227 chapters and 6 continents",
+        "url": "https://allbsides.com/",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48015655"
+      },
+      {
+        "id": "48017118",
+        "name": "Show HN: A tiny C program where an LLM rewires its DAG while running",
+        "url": "https://github.com/kouhxp/liteflow",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48017118"
+      },
+      {
+        "id": "48008906",
+        "name": "Show HN: Replacing spec-driven development with just facts",
+        "url": "https://github.com/av/facts",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48008906"
+      },
+      {
+        "id": "48013746",
+        "name": "Show HN: Agent-evals – Claude skill to build your own evals",
+        "url": "https://github.com/fsilavong/agent-eval",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48013746"
+      },
+      {
+        "id": "48015639",
+        "name": "Show HN: Dust3D 1.0 – low-poly 3D modeling tool (10 years in the making)",
+        "url": "https://dust3d.org",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48015639"
+      },
+      {
+        "id": "48016648",
+        "name": "Show HN: Kanban-CLI – a web UI for local Markdown todo lists",
+        "url": "https://github.com/Vochsel/kanban-cli",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48016648"
+      },
+      {
+        "id": "48015876",
+        "name": "Show HN: Node-Vmm – Linux MicroVMs in Pure Node.js for Mac/Windows/Linux in ~1s",
+        "url": "https://github.com/misaelzapata/node-vmm",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48015876"
+      },
+      {
+        "id": "48008836",
+        "name": "Show HN:Privacy-First Pdf Converter",
+        "url": "https://privapdf.net",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48008836"
+      },
+      {
+        "id": "48006869",
+        "name": "Show HN: Weather app to show actual performance of weather models",
+        "url": "https://apps.apple.com/nl/app/verisky/id6759251875",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48006869"
+      },
+      {
+        "id": "48009970",
+        "name": "Show HN: A Soccer Game Simulator Played by AI Agent",
+        "url": "https://github.com/gangtao/AgentPitch/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48009970"
+      },
+      {
+        "id": "48016120",
+        "name": "Show HN: Continuum, a pedantic recreation of the OMNI font",
+        "url": "https://github.com/ChristopherDrum/continuum/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48016120"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/warmly-cards",
+        "name": "Warmly Cards",
+        "description": "Send heartfelt, customizable e-cards in seconds",
+        "url": "https://betalist.com/startups/warmly-cards"
+      },
+      {
+        "id": "/startups/real-estate-ledger",
+        "name": "Real Estate Ledger",
+        "description": "Your property documents organized, verified, searchable, and shareable",
+        "url": "https://betalist.com/startups/real-estate-ledger"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/mediafast-15?post=DRrkHJa45U9ZGBoazcz7",
+        "title": "MediaFast: Everyone says \"build karma first.\" The real threshold is 45 days and nobody tells you.",
+        "url": "https://www.indiehackers.com/product/mediafast-15?post=DRrkHJa45U9ZGBoazcz7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/filleo?post=ZVEdU8XEJqFqVu6lQe8c",
+        "title": "Filleo: I'm 17 & I built an \"Agentic AI\" to kill the 15-minute Shopify listing grind",
+        "url": "https://www.indiehackers.com/product/filleo?post=ZVEdU8XEJqFqVu6lQe8c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/filleo?post=ab328SHlVnT4o4UD4fIZ",
+        "title": "Filleo: I’m launching on ProductHunt in 7 days with zero customers. Here’s my exact plan.",
+        "url": "https://www.indiehackers.com/product/filleo?post=ab328SHlVnT4o4UD4fIZ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-an-ai-nutrition-tracker-after-getting-frustrated-with-calai-pricing-and-accuracy-07fb32e33b",
+        "title": "Built an AI nutrition tracker after getting frustrated with CalAI pricing and accuracy",
+        "url": "https://www.indiehackers.com/post/built-an-ai-nutrition-tracker-after-getting-frustrated-with-calai-pricing-and-accuracy-07fb32e33b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/why-direction-matters-more-than-motivation-in-exam-preparation-3cfab96bb2",
+        "title": "Why Direction Matters More Than Motivation in Exam Preparation",
+        "url": "https://www.indiehackers.com/post/why-direction-matters-more-than-motivation-in-exam-preparation-3cfab96bb2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/linxli?post=BzIGTHwaHWJZUm49yWL7",
+        "title": "Linxli: I built a free link-in-bio tool where your page is truly yours - no branding, no paywalled basics",
+        "url": "https://www.indiehackers.com/product/linxli?post=BzIGTHwaHWJZUm49yWL7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=dwfEgLfnbwF9dly2rT7K",
+        "title": "LiFast: Spent 15 hours weekly on client LinkedIn, cut it to under 1 hour somehow",
+        "url": "https://www.indiehackers.com/product/lifast?post=dwfEgLfnbwF9dly2rT7K",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/leaving-his-vc-backed-company-to-bootstrap-a-product-to-1m-arr-in-10-months-42RGhUiSGBTIdX6zLsaD",
+        "title": "Leaving his VC-backed company to bootstrap a product to $1M ARR in 10 months",
+        "url": "https://www.indiehackers.com/post/tech/leaving-his-vc-backed-company-to-bootstrap-a-product-to-1m-arr-in-10-months-42RGhUiSGBTIdX6zLsaD",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}

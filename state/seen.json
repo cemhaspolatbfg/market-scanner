@@ -3,8 +3,10 @@
     "/startups/chatgpt-free": "2026-05-03",
     "/startups/flynomi": "2026-05-03",
     "/startups/jobs-by-culture": "2026-05-04",
+    "/startups/real-estate-ledger": "2026-05-05",
     "/startups/spaiky": "2026-05-04",
-    "/startups/url-to-video": "2026-05-03"
+    "/startups/url-to-video": "2026-05-03",
+    "/startups/warmly-cards": "2026-05-05"
   },
   "hackernews": {
     "47990708": "2026-05-03",
@@ -25,9 +27,25 @@
     "47999656": "2026-05-03",
     "48001695": "2026-05-04",
     "48002134": "2026-05-04",
-    "48005847": "2026-05-04"
+    "48005847": "2026-05-04",
+    "48006869": "2026-05-05",
+    "48008836": "2026-05-05",
+    "48008906": "2026-05-05",
+    "48009970": "2026-05-05",
+    "48010204": "2026-05-05",
+    "48011116": "2026-05-05",
+    "48011395": "2026-05-05",
+    "48013746": "2026-05-05",
+    "48015639": "2026-05-05",
+    "48015655": "2026-05-05",
+    "48015876": "2026-05-05",
+    "48016120": "2026-05-05",
+    "48016525": "2026-05-05",
+    "48016648": "2026-05-05",
+    "48017118": "2026-05-05"
   },
   "indiehackers": {
+    "https://www.indiehackers.com/post/built-an-ai-nutrition-tracker-after-getting-frustrated-with-calai-pricing-and-accuracy-07fb32e33b": "2026-05-05",
     "https://www.indiehackers.com/post/i-built-a-tiny-tool-to-monitor-cron-jobs-and-scheduled-tasks-looking-for-feedback-826392654f": "2026-05-04",
     "https://www.indiehackers.com/post/i-built-a-tool-that-tells-you-if-your-startup-idea-has-real-demand-before-you-write-a-line-of-code-da427e21e8": "2026-05-03",
     "https://www.indiehackers.com/post/i-launched-on-product-hunt-today-and-realized-something-uncomfortable-35d871866b": "2026-05-03",
@@ -42,12 +60,19 @@
     "https://www.indiehackers.com/post/tech/growing-a-fully-bootstrapped-email-marketing-platform-to-37m-arr-yEzvbRhw1NFn0lHedTWu": "2026-05-03",
     "https://www.indiehackers.com/post/tech/hitting-7m-arr-thanks-to-the-pressures-of-bootstrapping-igZlngx39s8WnbclJ9NM": "2026-05-03",
     "https://www.indiehackers.com/post/tech/hitting-a-7-figure-arr-by-building-a-community-into-his-product-6LeFoYyWrOyqlw9aLqUf": "2026-05-03",
+    "https://www.indiehackers.com/post/tech/leaving-his-vc-backed-company-to-bootstrap-a-product-to-1m-arr-in-10-months-42RGhUiSGBTIdX6zLsaD": "2026-05-05",
+    "https://www.indiehackers.com/post/why-direction-matters-more-than-motivation-in-exam-preparation-3cfab96bb2": "2026-05-05",
     "https://www.indiehackers.com/post/your-files-aren-t-messy-they-re-just-stuck-in-the-wrong-system-bf68d2eba4": "2026-05-04",
     "https://www.indiehackers.com/product/filleo?post=LMJodSg5iXfTnytUGuBI": "2026-05-04",
+    "https://www.indiehackers.com/product/filleo?post=ZVEdU8XEJqFqVu6lQe8c": "2026-05-05",
+    "https://www.indiehackers.com/product/filleo?post=ab328SHlVnT4o4UD4fIZ": "2026-05-05",
     "https://www.indiehackers.com/product/kashifdata?post=YT4YtEIBSDxt3kD5eH7P": "2026-05-03",
     "https://www.indiehackers.com/product/leadsynthai?post=I5ZYxKF3tpUNDJlJ4hXg": "2026-05-03",
     "https://www.indiehackers.com/product/leadsynthai?post=Uh3uhaGq9HUyiwkT9M69": "2026-05-03",
-    "https://www.indiehackers.com/product/lifast?post=Q3CnRTmnIzms3c78VIeY": "2026-05-04"
+    "https://www.indiehackers.com/product/lifast?post=Q3CnRTmnIzms3c78VIeY": "2026-05-04",
+    "https://www.indiehackers.com/product/lifast?post=dwfEgLfnbwF9dly2rT7K": "2026-05-05",
+    "https://www.indiehackers.com/product/linxli?post=BzIGTHwaHWJZUm49yWL7": "2026-05-05",
+    "https://www.indiehackers.com/product/mediafast-15?post=DRrkHJa45U9ZGBoazcz7": "2026-05-05"
   },
   "producthunt": {
     "clera": "2026-05-03",
