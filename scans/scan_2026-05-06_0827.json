@@ -1,0 +1,245 @@
+{
+  "scan_time": "2026-05-06T08:27:03.336594+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "kilo-code-v7-for-vs-code",
+        "name": "Kilo Code v7 for VS Code",
+        "tagline": "Parallel agents, diff reviewer, and multi-model comparisons",
+        "description": "We've completely rebuilt Kilo Code for VS Code, built on OpenCode server. New portable core, parallel tool calls, subagent delegation, inline code review, multi-model comparisons. Get started: kilo.ai/install",
+        "votes": 554,
+        "ph_url": "https://www.producthunt.com/posts/kilo-code-v7-for-vs-code",
+        "website": "https://www.producthunt.com/r/SNLH5TXRYOCJUJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Software Engineering",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "velo-2-0",
+        "name": "Velo 2.0",
+        "tagline": "Instantly turn your voice and screen into shareable videos",
+        "description": "Velo 2.0 is a whole new way to make video messages. It turns raw screen recordings into polished videos and docs, with a chat-native editor, real-time processing, voice cloning, and smart script rewriting. Edit by chatting, not timelines. Record once and get both a video and a doc. Write a script even when there is no audio. Change tone anytime. Everything updates live, so the whole experience feels faster, easier, and more natural.",
+        "votes": 505,
+        "ph_url": "https://www.producthunt.com/posts/velo-2-0",
+        "website": "https://www.producthunt.com/r/GOBREWJTJKPLRQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Sales",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "mindra",
+        "name": "Mindra",
+        "tagline": "Agent Teams You Can Actually Delegate To",
+        "description": "Mindra is the command center for your non-sleeping, 24/7 awake agentic team. Explain your task, and Mindra will create the best agentic team for you. Automate your marketing, supply chain and more. With Mindra's built-in governance, human oversight, and support for your existing stack, you can finally trust your agents.",
+        "votes": 348,
+        "ph_url": "https://www.producthunt.com/posts/mindra",
+        "website": "https://www.producthunt.com/r/TKXFPMBGKX7BTI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48026342",
+        "name": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+        "url": "https://paletteinspiration.com/",
+        "points": 160,
+        "comments": 58,
+        "hn_url": "https://news.ycombinator.com/item?id=48026342"
+      },
+      {
+        "id": "48023496",
+        "name": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+        "url": "",
+        "points": 117,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=48023496"
+      },
+      {
+        "id": "48021420",
+        "name": "Show HN: I built a new word game, Wordtrak",
+        "url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
+        "points": 69,
+        "comments": 40,
+        "hn_url": "https://news.ycombinator.com/item?id=48021420"
+      },
+      {
+        "id": "48023587",
+        "name": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
+        "url": "https://github.com/aragossa/pii-shield",
+        "points": 23,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48023587"
+      },
+      {
+        "id": "48021431",
+        "name": "Show HN: Orch8 – Durable workflow engine in Rust, one binary, Postgres or SQLite",
+        "url": "https://github.com/orch8-io/engine",
+        "points": 23,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48021431"
+      },
+      {
+        "id": "48023602",
+        "name": "Show HN: New Benchmark from SWE-bench team is 0% solved",
+        "url": "https://programbench.com/",
+        "points": 16,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48023602"
+      },
+      {
+        "id": "48020249",
+        "name": "Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative",
+        "url": "https://idiotproofseo.com/",
+        "points": 13,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48020249"
+      },
+      {
+        "id": "48023567",
+        "name": "Show HN: Codeberg (Forgejo) CLI, built with Xclif",
+        "url": "https://codeberg.org/thatxliner/codeberg-cli",
+        "points": 13,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48023567"
+      },
+      {
+        "id": "48022529",
+        "name": "Show HN: Open-source CLI to generate UI tests from user flows",
+        "url": "https://resources.kusho.ai/kusho-ai-ui-testing-tui",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48022529"
+      },
+      {
+        "id": "48024791",
+        "name": "Show HN: Pathetic – Java pathfinding: 10k concurrent paths in ~7ms",
+        "url": "https://github.com/bsommerfeld/pathetic",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48024791"
+      },
+      {
+        "id": "48021665",
+        "name": "Show HN: Furwall – macOS menu bar app that blocks keys when your cat sits down",
+        "url": "https://olliewagner.com/furwall",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48021665"
+      },
+      {
+        "id": "48030177",
+        "name": "Show HN: Better Design – 28 Shadcn design systems (OSS, MCP: Cursor/Claude Code)",
+        "url": "https://github.com/marvkr/better-design",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48030177"
+      },
+      {
+        "id": "48030480",
+        "name": "Show HN: Design Taste for AI Agents",
+        "url": "https://aidesigntaste.com/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48030480"
+      },
+      {
+        "id": "48020928",
+        "name": "Show HN: I needed to animate my Excalidraw -ings for my tech blog",
+        "url": "https://marketplace.visualstudio.com/items?itemName=martin-lysk.excaliframe",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48020928"
+      },
+      {
+        "id": "48022476",
+        "name": "Show HN: Octopus Code Review is now free for OSI-licensed repos",
+        "url": "https://octopus-review.ai/login?callbackUrl=%2Fopen-source",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48022476"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/realtykit",
+        "name": "RealtyKit",
+        "description": "Automate listing copy, staging prompts, emails, and video scripts",
+        "url": "https://betalist.com/startups/realtykit"
+      },
+      {
+        "id": "/startups/hi-ai",
+        "name": "Hi-AI",
+        "description": "Affordable AI videos, music, voice, images, 3D, search, news, and reports",
+        "url": "https://betalist.com/startups/hi-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/agencies-charge-5-000-for-a-60-second-product-demo-video-i-make-mine-for-0-heres-the-exact-workflow-ab23fa5fad",
+        "title": "Agencies charge $5,000 for a 60-second product demo video. I make mine for $0. Here's the exact workflow.",
+        "url": "https://www.indiehackers.com/post/agencies-charge-5-000-for-a-60-second-product-demo-video-i-make-mine-for-0-heres-the-exact-workflow-ab23fa5fad",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/flashlog?post=Wvj0rUOq9W5rAdsv63RQ",
+        "title": "Flashlog: Better bug logs helped us understand issues. But something was still missing",
+        "url": "https://www.indiehackers.com/product/flashlog?post=Wvj0rUOq9W5rAdsv63RQ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/show-ih-i-built-a-tool-that-tells-site-owners-what-content-to-create-looking-for-10-people-to-break-it-6779cc1337",
+        "title": "Show IH: I built a tool that tells site owners what content to create. Looking for 10 people to break it.",
+        "url": "https://www.indiehackers.com/post/show-ih-i-built-a-tool-that-tells-site-owners-what-content-to-create-looking-for-10-people-to-break-it-6779cc1337",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/shipahead?post=hxslWDKNzJsVhE4a7RfX",
+        "title": "ShipAhead: How I validate SaaS ideas in 48 hours now without losing my mind or burning weeks",
+        "url": "https://www.indiehackers.com/product/shipahead?post=hxslWDKNzJsVhE4a7RfX",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-to-kill-the-3-week-excel-research-grind-it-got-8-ph-upvotes-what-did-i-do-wrong-49c9b1c7d1",
+        "title": "I built an AI to kill the 3-week Excel research grind. It got 8 PH upvotes. What did I do wrong?",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-to-kill-the-3-week-excel-research-grind-it-got-8-ph-upvotes-what-did-i-do-wrong-49c9b1c7d1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=buyXGV9E7WiX77iZuVW6",
+        "title": "IbexAI: I compiled a list of 70 creative ways to drive traffic to your website",
+        "url": "https://www.indiehackers.com/product/ibexai?post=buyXGV9E7WiX77iZuVW6",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
