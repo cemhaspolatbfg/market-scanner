@@ -1,0 +1,232 @@
+{
+  "scan_time": "2026-05-07T08:33:45.239369+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "kanwas",
+        "name": "Kanwas",
+        "tagline": "An open-source brain for your team",
+        "description": "For you, your agent, your coworker and their agent. It holds the team's critical know-how, research, decisions and data. But it's not a dead storage. It's a workspace that makes the context workable for humans as well as agents.",
+        "votes": 465,
+        "ph_url": "https://www.producthunt.com/posts/kanwas",
+        "website": "https://www.producthunt.com/r/B4UPX2JVYGVZFJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "shadow-2-0-2",
+        "name": "Shadow 2.0",
+        "tagline": "The work your meetings create, done before they end",
+        "description": "Every online call creates a to-do list. Shadow clears it live. It understands your conversation, tracks what needs to happen, and executes tasks in real time. PDF creation, slide generation, CRM updates, follow-ups, and scheduling before the call ends. Our goal is to have no post-call work. Just stay focused while Shadow handles everything in the background. Starting with core workflows and expanding to everything your calls create.",
+        "votes": 460,
+        "ph_url": "https://www.producthunt.com/posts/shadow-2-0-2",
+        "website": "https://www.producthunt.com/r/6DYONUBX4ZQVHY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Meetings",
+          "YC Application"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "superset-2-0",
+        "name": "Superset 2.0",
+        "tagline": "Run 100s of coding agents on any machine from anywhere",
+        "description": "Run 100s parallel coding agents, offload them to different machines. Rewritten from scratch to support remote workspaces. Share and collaborate with teammates in realtime. Works for any CLI agent.",
+        "votes": 398,
+        "ph_url": "https://www.producthunt.com/posts/superset-2-0",
+        "website": "https://www.producthunt.com/r/DLXL3IV2Y7S2VX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Text Editors",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48038257",
+        "name": "Show HN: Hallucinopedia",
+        "url": "http://halupedia.com/",
+        "points": 213,
+        "comments": 195,
+        "hn_url": "https://news.ycombinator.com/item?id=48038257"
+      },
+      {
+        "id": "48037724",
+        "name": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+        "url": "https://tilde.run/",
+        "points": 160,
+        "comments": 111,
+        "hn_url": "https://news.ycombinator.com/item?id=48037724"
+      },
+      {
+        "id": "48038019",
+        "name": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+        "url": "https://play.templatical.com",
+        "points": 132,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=48038019"
+      },
+      {
+        "id": "48041316",
+        "name": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
+        "url": "https://github.com/olivier-ls/php-fts",
+        "points": 70,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=48041316"
+      },
+      {
+        "id": "48035677",
+        "name": "Show HN: Adam – An embeddable cross-platform AI agent library",
+        "url": "https://github.com/sqliteai/adam",
+        "points": 24,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48035677"
+      },
+      {
+        "id": "48036182",
+        "name": "Show HN: NFC tags are good material for pranks on Android",
+        "url": "https://mastodon.social/@maxwellito/116524250100439866",
+        "points": 17,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48036182"
+      },
+      {
+        "id": "48046023",
+        "name": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+        "url": "https://github.com/darkrishabh/agent-skills-eval",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48046023"
+      },
+      {
+        "id": "48038654",
+        "name": "Show HN: DoodleMate: Animate Your Child's Hand Drawings Without Generative AI",
+        "url": "https://doodlemate.com/",
+        "points": 8,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48038654"
+      },
+      {
+        "id": "48035871",
+        "name": "Show HN: BattleClaws – A battle arena where AI agents fight autonomously",
+        "url": "https://battleclaws.ai/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48035871"
+      },
+      {
+        "id": "48042427",
+        "name": "Show HN: I wrote a flight simulator in my own programming language",
+        "url": "https://github.com/navid-m/flightsim",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48042427"
+      },
+      {
+        "id": "48037383",
+        "name": "Show HN: Skymap – a 3D galaxy catalog explorer in the browser via WebGPU",
+        "url": "https://skymap.rulkens.com/",
+        "points": 5,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48037383"
+      },
+      {
+        "id": "48035817",
+        "name": "Show HN: Arden – Runtime policy enforcement and governance for AI agents",
+        "url": "https://www.arden.sh/",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48035817"
+      },
+      {
+        "id": "48041926",
+        "name": "Show HN: I built a game where AI agents compete to ship code",
+        "url": "https://aion.quest/",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48041926"
+      },
+      {
+        "id": "48040566",
+        "name": "Show HN: Mac Juice Monitor – Bluetooth battery levels in the macOS menu bar",
+        "url": "https://github.com/p32929/mac-juice-monitor",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48040566"
+      },
+      {
+        "id": "48037640",
+        "name": "Show HN: Costanza – an autonomous AI agent that can't be turned off",
+        "url": "https://ahrussell.com/writing/costanza/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48037640"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/foodbe",
+        "name": "Foodbe",
+        "description": "AI that answers food questions like a scientist, historian, and chef",
+        "url": "https://betalist.com/startups/foodbe"
+      },
+      {
+        "id": "/startups/bizsupply",
+        "name": "bizSupply",
+        "description": "Track contracts, catch renewals, and cut vendor spend with AI",
+        "url": "https://betalist.com/startups/bizsupply"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=VbY7fGspMowm2pUdPnsF",
+        "title": "IbexAI: I compiled a list of 50 LinkedIn DM's that worked for me",
+        "url": "https://www.indiehackers.com/product/ibexai?post=VbY7fGspMowm2pUdPnsF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/filleo?post=SFV0e1qY41ev51Qrz76n",
+        "title": "Filleo: I'm 17 & I built an \"Agentic AI\" for Shopify - Join Waitlist Now for early access",
+        "url": "https://www.indiehackers.com/product/filleo?post=SFV0e1qY41ev51Qrz76n",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=FPDbcrSUxv922h7XIVnK",
+        "title": "LiFast: Tested 40 different LinkedIn formats and one got me 12 qualified leads per post",
+        "url": "https://www.indiehackers.com/product/lifast?post=FPDbcrSUxv922h7XIVnK",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/growing-an-ai-orchestration-platform-to-3k-mrr-in-4-weeks-gK3zYDqQjXYG9ANwmxzA",
+        "title": "Growing an AI orchestration platform to $3k MRR in 4 weeks",
+        "url": "https://www.indiehackers.com/post/tech/growing-an-ai-orchestration-platform-to-3k-mrr-in-4-weeks-gK3zYDqQjXYG9ANwmxzA",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
