@@ -1,0 +1,208 @@
+{
+  "scan_time": "2026-05-08T07:42:57.044418+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "flowmarket-2",
+        "name": "FlowMarket",
+        "tagline": "A social network of AI agents generating B2B deals",
+        "description": "FlowMarket is a network of AI agents that automatically discover, match, and generate B2B deals. Create your agent in minutes and let it run 24/7, finding partners, engaging with other agents, and delivering qualified leads. FlowMarket provides real-time, algorithmic deal flow and direct supply-demand matching, without the need for intermediaries, heavy advertising budgets, or large sales teams. On FlowMarket, your AI agents can find new customers within minutes and negotiate deals with them.",
+        "votes": 454,
+        "ph_url": "https://www.producthunt.com/posts/flowmarket-2",
+        "website": "https://www.producthunt.com/r/CGJHDKWTJR4FOU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48050732",
+        "name": "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
+        "url": "https://github.com/ReviewStage/stage-cli",
+        "points": 37,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=48050732"
+      },
+      {
+        "id": "48046874",
+        "name": "Show HN: Social Network for Corporate Cringe",
+        "url": "https://CringeOut.com",
+        "points": 28,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=48046874"
+      },
+      {
+        "id": "48052290",
+        "name": "Show HN: Full Python GUI apps in the browser – no JavaScript, no server",
+        "url": "https://github.com/pthom/imgui_bundle",
+        "points": 26,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48052290"
+      },
+      {
+        "id": "48048452",
+        "name": "Show HN: I made a vertical-pedalling bike with a novel drivetrain [video]",
+        "url": "https://www.youtube.com/watch?v=4HLOsi2gWXQ",
+        "points": 21,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48048452"
+      },
+      {
+        "id": "48047702",
+        "name": "Show HN: SereneUI – A VSCode-inspired, open-source UI for Postgres",
+        "url": "https://github.com/serenedb/serenedb/tree/main/serene-ui",
+        "points": 15,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48047702"
+      },
+      {
+        "id": "48054313",
+        "name": "Show HN: Veris – Agent sandboxes with simulated external services",
+        "url": "https://veris.ai/sandbox",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48054313"
+      },
+      {
+        "id": "48056267",
+        "name": "Show HN: Blamo A vibecoded app for vibecoding vibe games",
+        "url": "https://www.blamo.ai/",
+        "points": 8,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48056267"
+      },
+      {
+        "id": "48048118",
+        "name": "Show HN: LaoTzu Writer Studio",
+        "url": "",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48048118"
+      },
+      {
+        "id": "48049321",
+        "name": "Show HN: Transform Claude/Codex/Cursor sessions into high-value data assets",
+        "url": "https://github.com/max-ng/datamoat",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48049321"
+      },
+      {
+        "id": "48052319",
+        "name": "Show HN: Bookstoread.ai – Discover non-fiction books using AI",
+        "url": "https://bookstoread.ai",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48052319"
+      },
+      {
+        "id": "48049713",
+        "name": "Show HN: BrowserCode – Run Claude Code in the Browser via WebAssembly",
+        "url": "https://github.com/leaningtech/browsercode",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48049713"
+      },
+      {
+        "id": "48054923",
+        "name": "Show HN: DiffCAD, a FreeCAD workbench to review model changes like code",
+        "url": "https://github.com/eblanshey/DiffCAD",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48054923"
+      },
+      {
+        "id": "48049861",
+        "name": "Show HN: CloudCent – Know Your Cloud Costs Before Coding",
+        "url": "https://github.com/OverloadBlitz/cloudcent-cli",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48049861"
+      },
+      {
+        "id": "48053252",
+        "name": "Show HN: wfb-link, a userspace WiFiBroadcast radio stack for macOS",
+        "url": "https://github.com/arc-edge/wfb-link/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48053252"
+      },
+      {
+        "id": "48055702",
+        "name": "Show HN: Disputron – AI small claims court for petty disputes",
+        "url": "https://disputron.ai",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48055702"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/startup-factory",
+        "name": "Startup Factory",
+        "description": "Launch validated products and reach revenue with autonomous AI",
+        "url": "https://betalist.com/startups/startup-factory"
+      },
+      {
+        "id": "/startups/online-whiteboard",
+        "name": "Online Whiteboard",
+        "description": "Create and share a real-time whiteboard with one click",
+        "url": "https://betalist.com/startups/online-whiteboard"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/what-i-learned-after-launching-our-3-99-hermes-hosting-2fcfc9940b",
+        "title": "What I learned after launching our $3.99 Hermes hosting",
+        "url": "https://www.indiehackers.com/post/what-i-learned-after-launching-our-3-99-hermes-hosting-2fcfc9940b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ive-been-building-for-months-and-made-0-here-s-the-honest-psychological-reason-and-it-s-not-what-i-expected-d643113036",
+        "title": "I've been building for months and made $0. Here's the honest psychological reason — and it's not what I expected.",
+        "url": "https://www.indiehackers.com/post/ive-been-building-for-months-and-made-0-here-s-the-honest-psychological-reason-and-it-s-not-what-i-expected-d643113036",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/recurflux?post=dwBXshQcVWYmoxl2wjyt",
+        "title": "Recurflux: We serve where no one else does.",
+        "url": "https://www.indiehackers.com/product/recurflux?post=dwBXshQcVWYmoxl2wjyt",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=VKYjrojRi3K6c4Pbeyn1",
+        "title": "Pterocos: HTML CSS JS Code Editor with AI features and free forever!",
+        "url": "https://www.indiehackers.com/product/pterocos?post=VKYjrojRi3K6c4Pbeyn1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/your-mrr-isnt-just-churning-it-s-bleeding-275ed49d6d",
+        "title": "Your MRR isn't just churning. It's bleeding.",
+        "url": "https://www.indiehackers.com/post/your-mrr-isnt-just-churning-it-s-bleeding-275ed49d6d",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
