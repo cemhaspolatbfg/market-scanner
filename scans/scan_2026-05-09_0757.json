@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-05-09T07:56:48.966986+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "rankspot",
+        "name": "RankSpot",
+        "tagline": "AI SEO Blog driven by deep competitor intelligence",
+        "description": "RankSpot is your fully automated AI agent that researches, writes, and publishes SEO articles to your blog daily - getting you cited in AI answers and ranked on Google.",
+        "votes": 536,
+        "ph_url": "https://www.producthunt.com/posts/rankspot",
+        "website": "https://www.producthunt.com/r/6OTRNXDGVGQLGN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "SEO",
+          "YC Application"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "monid-2-0",
+        "name": "Monid 2.0",
+        "tagline": "OpenRouter for agent tools",
+        "description": "One skill, every tool your agent needs. Monid is OpenRouter for agent tools. Plug in once, and your agent can discover, compare, and pay for any of 200+ tools on demand: social scrapers, search APIs, ecommerce data, lead gen, and more.",
+        "votes": 443,
+        "ph_url": "https://www.producthunt.com/posts/monid-2-0",
+        "website": "https://www.producthunt.com/r/RGRECF5QMV23LX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "YC Application"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48063548",
+        "name": "Show HN: Git for AI Agents",
+        "url": "https://github.com/regent-vcs/re_gent",
+        "points": 100,
+        "comments": 46,
+        "hn_url": "https://news.ycombinator.com/item?id=48063548"
+      },
+      {
+        "id": "48065203",
+        "name": "Show HN: GETadb.com – every GET request creates a DB",
+        "url": "https://www.getadb.com/",
+        "points": 34,
+        "comments": 40,
+        "hn_url": "https://news.ycombinator.com/item?id=48065203"
+      },
+      {
+        "id": "48070022",
+        "name": "Show HN: CADara – I made an open-source in-browser CAD",
+        "url": "https://cadara.app",
+        "points": 21,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48070022"
+      },
+      {
+        "id": "48060900",
+        "name": "Show HN: A Local-First Agentic Knowledge Manager",
+        "url": "https://github.com/egroup-labs/kept",
+        "points": 16,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48060900"
+      },
+      {
+        "id": "48062402",
+        "name": "Show HN: Crit – local review tool for agent plans and code diffs",
+        "url": "https://crit.md/",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48062402"
+      },
+      {
+        "id": "48068896",
+        "name": "Show HN: The independent guide to agent orchestrators",
+        "url": "https://agentmgmt.dev/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48068896"
+      },
+      {
+        "id": "48062033",
+        "name": "Show HN: NanoCorp – Create autonomous companies run by AI",
+        "url": "https://www.nanocorp.so",
+        "points": 7,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48062033"
+      },
+      {
+        "id": "48065983",
+        "name": "Show HN: We built a tool that generates 3D objects with editable, separate parts",
+        "url": "https://nova3d.xyz/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48065983"
+      },
+      {
+        "id": "48063206",
+        "name": "Show HN: I built an open-source, local-first  alternative to LangSmith",
+        "url": "https://pypi.org/project/opensmith/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48063206"
+      },
+      {
+        "id": "48071638",
+        "name": "Show HN: Best Old School UFO Website",
+        "url": "http://www.ufoevidence.org/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48071638"
+      },
+      {
+        "id": "48069001",
+        "name": "Show HN: Vibe code your agents without vibe coding your agent",
+        "url": "https://deepeval.com/docs/vibe-coding",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48069001"
+      },
+      {
+        "id": "48062214",
+        "name": "Show HN: An agent that tunes its own cache",
+        "url": "",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48062214"
+      },
+      {
+        "id": "48062139",
+        "name": "Show HN: I was surprised by this interactive GPU line rasterization explanation",
+        "url": "https://twitter.com/SandboxSpirit/status/2052331740836855915",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48062139"
+      },
+      {
+        "id": "48060243",
+        "name": "Show HN: Corsproxy – Fix CORS Errors Instantly – Free for Development",
+        "url": "https://corsproxy.io/",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48060243"
+      },
+      {
+        "id": "48069590",
+        "name": "Show HN: Contral – the agent which will teach you while you build with AI",
+        "url": "https://contral.ai",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48069590"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/fluenta",
+        "name": "Fluenta",
+        "description": "Validate startup ideas in 15 minutes with 6 market signals",
+        "url": "https://betalist.com/startups/fluenta"
+      },
+      {
+        "id": "/startups/cerevity",
+        "name": "CEREVITY",
+        "description": "Concierge therapy for high-achievers nationwide",
+        "url": "https://betalist.com/startups/cerevity"
+      },
+      {
+        "id": "/startups/bugzy",
+        "name": "Bugzy",
+        "description": "brings clarity to QA workflows from bug report to release sign-off",
+        "url": "https://betalist.com/startups/bugzy"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/this-system-tells-you-what-s-working-in-your-startup-every-week-c854a65fbf",
+        "title": "This system tells you what’s working in your startup, every week",
+        "url": "https://www.indiehackers.com/post/this-system-tells-you-what-s-working-in-your-startup-every-week-c854a65fbf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/blogbowl?post=WMkp0QWnz3MyMQrPhsbv",
+        "title": "BlogBowl 🚀: Launching on Product Hunt: Full-Stack AI SEO Agent",
+        "url": "https://www.indiehackers.com/product/blogbowl?post=WMkp0QWnz3MyMQrPhsbv",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=cf7ru5uEznH8rpAXHscN",
+        "title": "Pterocos: Explore HTML CSS JS Projects (Codes with Preview) or share it within devs",
+        "url": "https://www.indiehackers.com/product/pterocos?post=cf7ru5uEznH8rpAXHscN",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/filleo?post=1Qr21FgNaesQuKda2pMT",
+        "title": "Filleo: I'm 17 & I built an \"AgenticAI\" for Shopify - JoinWaitlist Now for early access",
+        "url": "https://www.indiehackers.com/product/filleo?post=1Qr21FgNaesQuKda2pMT",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=hrOjEoz6Eu58hv5VRohY",
+        "title": "LiFast: I studied 500 top B2B LinkedIn profiles and the results completely changed my approach",
+        "url": "https://www.indiehackers.com/product/lifast?post=hrOjEoz6Eu58hv5VRohY",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/micro-saas-examples?post=xVSOMsRZRuZI0jOBg1HJ",
+        "title": "Micro SaaS Examples: I’m sharing one micro SaaS idea worth building every week",
+        "url": "https://www.indiehackers.com/product/micro-saas-examples?post=xVSOMsRZRuZI0jOBg1HJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/shattering-the-7-figure-ceiling-after-a-4-year-plateau-OCmI5NQKKqyyCH0SqoiQ",
+        "title": "Shattering the 7-figure ceiling after a 4-year plateau",
+        "url": "https://www.indiehackers.com/post/tech/shattering-the-7-figure-ceiling-after-a-4-year-plateau-OCmI5NQKKqyyCH0SqoiQ",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
