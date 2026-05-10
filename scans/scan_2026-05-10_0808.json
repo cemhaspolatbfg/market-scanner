@@ -1,0 +1,196 @@
+{
+  "scan_time": "2026-05-10T08:08:01.417132+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "flare-12",
+        "name": "Flare",
+        "tagline": "AI-native voice-first social app for GenZ",
+        "description": "Flare is an AI-native voice-first social app for Gen Z. Capture real moments: photos, short videos, or moods, and your AI Orb uses agents to turn them into memory, identity, and friendship context. No likes, followers, comments, or stranger feed. Just you, your friends, and an Orb that talks back about what matters. A social app you listen to instead of scrolling.",
+        "votes": 386,
+        "ph_url": "https://www.producthunt.com/posts/flare-12",
+        "website": "https://www.producthunt.com/r/FLBPXYPO7MDZP3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Artificial Intelligence",
+          "YC Application"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48080587",
+        "name": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+        "url": "https://github.com/imtomt/ymawky",
+        "points": 227,
+        "comments": 100,
+        "hn_url": "https://news.ycombinator.com/item?id=48080587"
+      },
+      {
+        "id": "48076815",
+        "name": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+        "url": "https://github.com/nooga/let-go",
+        "points": 153,
+        "comments": 40,
+        "hn_url": "https://news.ycombinator.com/item?id=48076815"
+      },
+      {
+        "id": "48078575",
+        "name": "Show HN: Rust but Lisp",
+        "url": "https://github.com/ThatXliner/rust-but-lisp",
+        "points": 125,
+        "comments": 65,
+        "hn_url": "https://news.ycombinator.com/item?id=48078575"
+      },
+      {
+        "id": "48075059",
+        "name": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
+        "url": "https://mochijs.com/",
+        "points": 41,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=48075059"
+      },
+      {
+        "id": "48079425",
+        "name": "Show HN: Countries where you can leave your MacBook at a random coffee shop",
+        "url": "https://vouchatlas.com",
+        "points": 20,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48079425"
+      },
+      {
+        "id": "48075340",
+        "name": "Show HN: Create flashcards with Space CLI",
+        "url": "https://getspace.app/cli",
+        "points": 18,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48075340"
+      },
+      {
+        "id": "48075590",
+        "name": "Show HN: A search engine for deleted YouTube videos (1.5B+ indexed since 2005)",
+        "url": "https://tube.archivarix.net/",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48075590"
+      },
+      {
+        "id": "48074027",
+        "name": "Show HN: Concord – Feature rich TUI for discord",
+        "url": "https://github.com/chojs23/concord",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48074027"
+      },
+      {
+        "id": "48074178",
+        "name": "Show HN: nocal is a calendar that turns your week into a workspace",
+        "url": "https://nocal.app/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48074178"
+      },
+      {
+        "id": "48075333",
+        "name": "Show HN: Chuchu, an Android SSH client built on libghostty",
+        "url": "https://github.com/jossephus/chuchu",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48075333"
+      },
+      {
+        "id": "48075356",
+        "name": "Show HN: JSLike, a CSP-Safe Interpreter for JS, TS, JSX, TSX in JS",
+        "url": "https://github.com/artpar/jslike",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48075356"
+      },
+      {
+        "id": "48077627",
+        "name": "Show HN: ChonkLM – Tiny language models running offline in the browser",
+        "url": "https://chonklm.com",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48077627"
+      },
+      {
+        "id": "48075411",
+        "name": "Show HN: Real-workload SQLite benchmarks on Hetzner's cheapest VPS",
+        "url": "https://s13k.dev/blog/real-workload-sqlite-bench-on-5-dollar-vps/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48075411"
+      },
+      {
+        "id": "48080675",
+        "name": "Show HN: Modafinil - Let agents continue running while MacBook lid is closed",
+        "url": "https://github.com/narcotic-sh/modafinil",
+        "points": 5,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48080675"
+      },
+      {
+        "id": "48074668",
+        "name": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+        "url": "https://github.com/tsirysndr/rockbox-zig",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48074668"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/nannycontract-app",
+        "name": "NannyContract.App",
+        "description": "Create, negotiate, and e-sign a clear nanny contract in minutes",
+        "url": "https://betalist.com/startups/nannycontract-app"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-saas-in-10-days-3-weeks-live-0-paying-customers-heres-the-data-7cb6b6accf",
+        "title": "I built a SaaS in 10 days. 3 weeks live. 0 paying customers. Here's the data.",
+        "url": "https://www.indiehackers.com/post/i-built-a-saas-in-10-days-3-weeks-live-0-paying-customers-heres-the-data-7cb6b6accf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/filleo?post=73bW3zpcVqtbkls8CKlM",
+        "title": "Filleo: I’m 17 and I built an Agentic AI to kill the 15-minute Shopify listing grind",
+        "url": "https://www.indiehackers.com/product/filleo?post=73bW3zpcVqtbkls8CKlM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/echoed?post=nAQVWJR3UfWb1iHfErmK",
+        "title": "Echoed: Discord became something i love to something that needs a replacement",
+        "url": "https://www.indiehackers.com/product/echoed?post=nAQVWJR3UfWb1iHfErmK",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launching-lifepilot-on-product-hunt-tomorrow-would-love-your-support-5e7668df14",
+        "title": "Launching LifePilot on Product Hunt tomorrow. Would love your support!",
+        "url": "https://www.indiehackers.com/post/launching-lifepilot-on-product-hunt-tomorrow-would-love-your-support-5e7668df14",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 1
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
