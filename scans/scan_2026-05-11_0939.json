@@ -1,0 +1,220 @@
+{
+  "scan_time": "2026-05-11T09:39:28.194044+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "ghost-8",
+        "name": "Ghost",
+        "tagline": "Open-source, self-hosted game servers",
+        "description": "Open-source dedicated game server platform. Spin up Minecraft, Valheim, Rust, Palworld, Enshrouded and Terraria on your own Hetzner Cloud account in seconds.",
+        "votes": 332,
+        "ph_url": "https://www.producthunt.com/posts/ghost-8",
+        "website": "https://www.producthunt.com/r/2P6JXG53QD4245?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "GitHub",
+          "Games"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48083580",
+        "name": "Show HN: An index of indie web/blog indexes",
+        "url": "https://theindex.fyi",
+        "points": 115,
+        "comments": 38,
+        "hn_url": "https://news.ycombinator.com/item?id=48083580"
+      },
+      {
+        "id": "48090276",
+        "name": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+        "url": "https://github.com/adamjgmiller/adamsreview",
+        "points": 32,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48090276"
+      },
+      {
+        "id": "48084385",
+        "name": "Show HN: Codebook of 450k+ unique words and phrases acts as a text compressor",
+        "url": "https://i.postimg.cc/WpBcB4HK/IMG-20260510-103853.jpg",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48084385"
+      },
+      {
+        "id": "48088819",
+        "name": "Show HN: I trained a chess engine to play like humans",
+        "url": "",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48088819"
+      },
+      {
+        "id": "48082576",
+        "name": "Show HN: ASCII pixel art editor for the terminal",
+        "url": "https://github.com/Mr-Robot-err-404/perkins",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48082576"
+      },
+      {
+        "id": "48084063",
+        "name": "Show HN: All 55,256 Slides of the WAR.GOV/UFO Files Searchable and Linkable",
+        "url": "https://hypergrid.systems/war.gov-ufo-viewer/?item=095-dow-uap-pr38-unresolved-uap-report-middle-east-2013&folder=media-video&page=1221",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48084063"
+      },
+      {
+        "id": "48087020",
+        "name": "Show HN: Open-source 2D IDE for managing agent CLIs",
+        "url": "https://49agents.com",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48087020"
+      },
+      {
+        "id": "48084995",
+        "name": "Show HN: NostalgiApp – A LaunchBox-style game launcher for macOS",
+        "url": "",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48084995"
+      },
+      {
+        "id": "48087236",
+        "name": "Show HN: Web-REPL \"skred\" : my OSS sound engine w/retro C64 appearance",
+        "url": "https://octetta.github.io/pulp/doc/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48087236"
+      },
+      {
+        "id": "48082634",
+        "name": "Show HN: Akmon, a Rust AI coding agent for regulated engineering",
+        "url": "https://github.com/radotsvetkov/akmon",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48082634"
+      },
+      {
+        "id": "48082649",
+        "name": "Show HN: Make your codebase agent ready",
+        "url": "https://github.com/jaksa76/agentize",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48082649"
+      },
+      {
+        "id": "48087703",
+        "name": "Show HN: Hustler Bingo – a tiny bingo game about startup Twitter clichés",
+        "url": "https://hustlerbingo.app",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48087703"
+      },
+      {
+        "id": "48087439",
+        "name": "Show HN: Launch Party – a community for early-stage B2B SaaS founders",
+        "url": "https://joinlaunchparty.com",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48087439"
+      },
+      {
+        "id": "48087087",
+        "name": "Show HN: Unlinked, MCP Server for LinkedIn",
+        "url": "https://github.com/larsbaunwall/Unlinked",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48087087"
+      },
+      {
+        "id": "48086441",
+        "name": "Show HN: KI im Mittelstand oder KI-Frustration? inkl. Demo",
+        "url": "https://christopher-helm.com/einfuehrung-von-ki-im-mittelstand/",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48086441"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/hobbimate",
+        "name": "Hobbimate",
+        "description": "Find hobby partners nearby and turn your hobbies into hangouts",
+        "url": "https://betalist.com/startups/hobbimate"
+      },
+      {
+        "id": "/startups/the-place",
+        "name": "The Place",
+        "description": "Unify email, calendar, tasks, and goals in one focused workspace",
+        "url": "https://betalist.com/startups/the-place"
+      },
+      {
+        "id": "/startups/gryphin",
+        "name": "Gryphin",
+        "description": "Manage projects visually with AI, sprints, and real-time collaboration",
+        "url": "https://betalist.com/startups/gryphin"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=8Zez5nmGdkyZNfLNu0MJ",
+        "title": "LiFast: Dropped my LinkedIn tool price to test demand, here's what happened in 48 hours",
+        "url": "https://www.indiehackers.com/product/lifast?post=8Zez5nmGdkyZNfLNu0MJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/most-ai-agent-failures-are-actually-workflow-failures-fa45127a69",
+        "title": "Most AI agent failures are actually workflow failures",
+        "url": "https://www.indiehackers.com/post/most-ai-agent-failures-are-actually-workflow-failures-fa45127a69",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/recurflux?post=YnWGaVCwMXlIfzJDtNhR",
+        "title": "Recurflux: The product that pays for itself",
+        "url": "https://www.indiehackers.com/product/recurflux?post=YnWGaVCwMXlIfzJDtNhR",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/strangers-on-the-internet-explained-our-product-better-than-we-did-f56fc317ec",
+        "title": "Strangers on the internet explained our product better than we did",
+        "url": "https://www.indiehackers.com/post/strangers-on-the-internet-explained-our-product-better-than-we-did-f56fc317ec",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/11-weeks-ago-i-had-0-users-now-vidi-has-reviewed-10m-in-contracts-and-i-m-opening-a-small-safe-round-7e9ac36d9b",
+        "title": "11 Weeks Ago I Had 0 Users. Now VIDI Has Reviewed $10M+ in Contracts - and I’m Opening a Small SAFE Round",
+        "url": "https://www.indiehackers.com/post/11-weeks-ago-i-had-0-users-now-vidi-has-reviewed-10m-in-contracts-and-i-m-opening-a-small-safe-round-7e9ac36d9b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=NQ2gyom334M8xy38NYLv",
+        "title": "Pterocos: HTML CSS JS Online Editor with AI chat builder/editor and can be used to learn!",
+        "url": "https://www.indiehackers.com/product/pterocos?post=NQ2gyom334M8xy38NYLv",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
