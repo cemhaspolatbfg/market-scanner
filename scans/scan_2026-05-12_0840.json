@@ -1,0 +1,255 @@
+{
+  "scan_time": "2026-05-12T08:39:53.559435+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "articuler-ai-4",
+        "name": "articuler.ai",
+        "tagline": "Describe your goal. Meet the right professional.",
+        "description": "Networking is broken because keyword search is broken. We bring real connections to the table — the investor who funds your round, the hire who ships your roadmap, the partner who opens your next market. Tell us your intent and Articuler does three things: (1) Match across 980M public profiles, or within a scope like \"VCs who wrote checks in Q1 2026.\" (2) Playbook: decode anyone from their public footprint. (3) Cold email: a first note that actually lands. 15% reply rate. 8x cold outreach.",
+        "votes": 426,
+        "ph_url": "https://www.producthunt.com/posts/articuler-ai-4",
+        "website": "https://www.producthunt.com/r/ZTPLA6JAPDGMNV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Network",
+          "Career",
+          "Community"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "openjobs-ai-2",
+        "name": "OpenJobs AI",
+        "tagline": "End-to-End Autonomous AI Recruiter",
+        "description": "Tell us what role you’re hiring for. AI recruiter sources qualified candidates, screens them against your requirements, sends personalized outreach, tracks replies, and books interviews directly on your calendar.",
+        "votes": 374,
+        "ph_url": "https://www.producthunt.com/posts/openjobs-ai-2",
+        "website": "https://www.producthunt.com/r/DZIBWQICPJ7Z4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Hiring",
+          "Pitch Singapore"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "graphbit-prflow",
+        "name": "Graphbit PRFlow",
+        "tagline": "AI code reviewer that catches what others miss",
+        "description": "Your AI teammate that reviews every pull request before it ships. Tested on 10 real projects, PRFlow found 7 critical security issues where competitors found zero. Learns your team's standards over time. Pay per review, not per seat.",
+        "votes": 356,
+        "ph_url": "https://www.producthunt.com/posts/graphbit-prflow",
+        "website": "https://www.producthunt.com/r/K4W36ZSYF7WPLV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48096842",
+        "name": "Show HN: TikTok but for scientific papers",
+        "url": "https://andreaturchet.github.io/website/index.html",
+        "points": 116,
+        "comments": 58,
+        "hn_url": "https://news.ycombinator.com/item?id=48096842"
+      },
+      {
+        "id": "48100192",
+        "name": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+        "url": "https://github.com/ab-613/opengravity",
+        "points": 81,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=48100192"
+      },
+      {
+        "id": "48100227",
+        "name": "Show HN: E2a – Open-source email gateway for AI agents",
+        "url": "https://github.com/Mnexa-AI/e2a",
+        "points": 38,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48100227"
+      },
+      {
+        "id": "48096045",
+        "name": "Show HN: Free tool to see how much AI bots are costing your site",
+        "url": "https://botcost.dev",
+        "points": 18,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48096045"
+      },
+      {
+        "id": "48102636",
+        "name": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
+        "url": "https://www.npmjs.com/package/@gkiely/safe-install",
+        "points": 13,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48102636"
+      },
+      {
+        "id": "48095686",
+        "name": "Show HN: SLayer, a semantic layer maintained by your agent",
+        "url": "https://github.com/MotleyAI/slayer",
+        "points": 12,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48095686"
+      },
+      {
+        "id": "48095283",
+        "name": "Show HN: I built Tokenyst to stop getting shocked by Claude Code API bills",
+        "url": "https://github.com/jher7/tokenyst",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48095283"
+      },
+      {
+        "id": "48104863",
+        "name": "Show HN: Agent FM – local, open-source radio for Claude Code and Codex agents",
+        "url": "https://github.com/agentfm-ai/agent-fm",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48104863"
+      },
+      {
+        "id": "48093184",
+        "name": "Show HN: AI Agents in 30 Lines of YAML: Lowdefy v5.3",
+        "url": "https://lowdefy.com/articles/lowdefy-agents/",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48093184"
+      },
+      {
+        "id": "48104254",
+        "name": "Show HN: Doomscroll the Goverment's UFO Files as One Gigantic Microfilm",
+        "url": "https://hypergrid.systems/war.gov-ufo-viewer/microfilm2?page=2",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48104254"
+      },
+      {
+        "id": "48100248",
+        "name": "Show HN: It's like Fiverr but for AI agents – Platform and Open-source kit",
+        "url": "https://streetai.org/docs/truuze.html",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48100248"
+      },
+      {
+        "id": "48100204",
+        "name": "Show HN: n8n like workflows for AI agents that control a real VM",
+        "url": "https://github.com/aadya940/orbit-ui",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48100204"
+      },
+      {
+        "id": "48099731",
+        "name": "Show HN: A geocities inspired place for your vibed tools",
+        "url": "https://www.tinytooltown.com/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48099731"
+      },
+      {
+        "id": "48103112",
+        "name": "Show HN: Personal Trainer – Lift, share plans, and rank with friends",
+        "url": "https://mobile-squad.com/#personal-trainer",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48103112"
+      },
+      {
+        "id": "48100201",
+        "name": "Show HN: I've implemented multi-repo workspace support in Agent of Empires",
+        "url": "https://github.com/njbrake/agent-of-empires",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48100201"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/augurine",
+        "name": "Augurine",
+        "description": "See which life chapter you're in and what to do next",
+        "url": "https://betalist.com/startups/augurine"
+      },
+      {
+        "id": "/startups/mockupanda",
+        "name": "Mockupanda",
+        "description": "Generate unlimited professional mockups for print-on-demand",
+        "url": "https://betalist.com/startups/mockupanda"
+      },
+      {
+        "id": "/startups/checkcompany",
+        "name": "CheckCompany",
+        "description": "Decode any company with corporate data, strategy, and financials",
+        "url": "https://betalist.com/startups/checkcompany"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-stopped-losing-leads-from-my-instagram-bio-after-switching-to-this-one-tool-b674a3b164",
+        "title": "I stopped losing leads from my Instagram bio after switching to this one tool",
+        "url": "https://www.indiehackers.com/post/i-stopped-losing-leads-from-my-instagram-bio-after-switching-to-this-one-tool-b674a3b164",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/indiedeck-2?post=7RCfPqI21DLcjQ6aCQyp",
+        "title": "IndieDeck: My dad never understood what I was building. He supported it anyway.",
+        "url": "https://www.indiehackers.com/product/indiedeck-2?post=7RCfPqI21DLcjQ6aCQyp",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=QuhfZFvz1EzCif8h469n",
+        "title": "LiFast: We analyzed 69,420 LinkedIn posts in Q1 2026. Here's what actually works now",
+        "url": "https://www.indiehackers.com/product/lifast?post=QuhfZFvz1EzCif8h469n",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/7-years-in-agency-200-b2b-campaigns-now-building-outbound-glow-4a1c1458c4",
+        "title": "7 years in agency, 200+ B2B campaigns, now building Outbound Glow",
+        "url": "https://www.indiehackers.com/post/7-years-in-agency-200-b2b-campaigns-now-building-outbound-glow-4a1c1458c4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/filleo?post=lt6qB9aWzgzpGtQH0Kjl",
+        "title": "Filleo: I'm 17 & I built a Shopify App - It Launched Just Today!",
+        "url": "https://www.indiehackers.com/product/filleo?post=lt6qB9aWzgzpGtQH0Kjl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/mediafast?post=SRIMbAFaGTHsHK7Xe03D",
+        "title": "MediaFast: Reddit will let you spam if you wait long enough. Here's the exact waiting period.",
+        "url": "https://www.indiehackers.com/product/mediafast?post=SRIMbAFaGTHsHK7Xe03D",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-20k-mo-portfolio-and-finally-going-all-in-on-a-17-year-old-product-rlmrN46082fF4duta84Q",
+        "title": "Building a $20k/mo portfolio and finally going all-in on a 17-year-old product",
+        "url": "https://www.indiehackers.com/post/tech/building-a-20k-mo-portfolio-and-finally-going-all-in-on-a-17-year-old-product-rlmrN46082fF4duta84Q",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
