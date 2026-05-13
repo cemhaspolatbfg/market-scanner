@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-05-13T08:44:28.540180+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "kelviq-2",
+        "name": "Kelviq",
+        "tagline": "Payments, tax, and billing for SaaS & AI companies",
+        "description": "Kelviq is the complete monetization platform for SaaS, AI, and digital products. It handles payments, global tax, subscriptions, usage-based billing, digital delivery, license keys, and compliance in one place, for 3.5% + 40¢ per transaction.",
+        "votes": 466,
+        "ph_url": "https://www.producthunt.com/posts/kelviq-2",
+        "website": "https://www.producthunt.com/r/F6U3WKKQYBLXSI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Payments",
+          "SaaS",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "genpire-2",
+        "name": "Genpire",
+        "tagline": "Make Real Products with AI, literally.",
+        "description": "Most AI stops at the idea. Genpire takes it to the factory. Think Lovable, but for consumer goods manufacturing - an agentic platform that turns prompts and sketches into products, collections, and factory-ready specs, then lets you work with your own factory or tap into a vetted network for instant quotation, sampling, and bulk production. One workflow, all the way from an idea to the factory floor. Genpire makes building physical products faster, simpler, and finally accessible to anyone.",
+        "votes": 367,
+        "ph_url": "https://www.producthunt.com/posts/genpire-2",
+        "website": "https://www.producthunt.com/r/SBMCMSDZBENDWN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Artificial Intelligence",
+          "Maker Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48111896",
+        "name": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+        "url": "https://github.com/cactus-compute/needle",
+        "points": 439,
+        "comments": 149,
+        "hn_url": "https://news.ycombinator.com/item?id=48111896"
+      },
+      {
+        "id": "48108778",
+        "name": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+        "url": "https://github.com/statewright/statewright",
+        "points": 91,
+        "comments": 33,
+        "hn_url": "https://news.ycombinator.com/item?id=48108778"
+      },
+      {
+        "id": "48111143",
+        "name": "Show HN: Agentic interface for mainframes and COBOL",
+        "url": "https://www.hypercubic.ai/hopper",
+        "points": 70,
+        "comments": 41,
+        "hn_url": "https://news.ycombinator.com/item?id=48111143"
+      },
+      {
+        "id": "48110593",
+        "name": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+        "url": "",
+        "points": 49,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=48110593"
+      },
+      {
+        "id": "48107362",
+        "name": "Show HN: Retrace – reverse debugging for production CPython applications",
+        "url": "https://github.com/retracesoftware/retracesoftware",
+        "points": 14,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48107362"
+      },
+      {
+        "id": "48109600",
+        "name": "Show HN: Reducing LLM input tokens by 70%",
+        "url": "https://adola.app/",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48109600"
+      },
+      {
+        "id": "48109443",
+        "name": "Show HN: UIGen – Production UI from any API spec with full override control",
+        "url": "https://github.com/darula-hpp/uigen",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48109443"
+      },
+      {
+        "id": "48109313",
+        "name": "Show HN: Grunden – Frontier AI inference hosted in Sweden, OpenAI-compatible",
+        "url": "https://grunden.ai",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48109313"
+      },
+      {
+        "id": "48118177",
+        "name": "Show HN: Can you really detect AI writing from human writing?",
+        "url": "https://trulytyped.com/quiz",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48118177"
+      },
+      {
+        "id": "48106909",
+        "name": "Show HN: Music visualizers that react to audio in real time",
+        "url": "https://vizz.fm/app/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48106909"
+      },
+      {
+        "id": "48108137",
+        "name": "Show HN: Nimbalyst open source Obsidian, Codex app, and Linear for coding agents",
+        "url": "https://github.com/nimbalyst/nimbalyst",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48108137"
+      },
+      {
+        "id": "48112050",
+        "name": "Show HN: I submitted 316 AI-generated PRs to open source",
+        "url": "https://june.kim/speedrunning-open-source",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48112050"
+      },
+      {
+        "id": "48107580",
+        "name": "Show HN: Is Github Online?",
+        "url": "https://isgithub.online/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48107580"
+      },
+      {
+        "id": "48110929",
+        "name": "Show HN: How we made MCP development feel good",
+        "url": "https://manufact.com/blog/mcp-testing",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48110929"
+      },
+      {
+        "id": "48109657",
+        "name": "Show HN: X509-certificate-exporter – Prometheus exporter for TLS cert expiration",
+        "url": "https://github.com/enix/x509-certificate-exporter",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48109657"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/zappr",
+        "name": "Zappr",
+        "description": "Meet real people nearby right now",
+        "url": "https://betalist.com/startups/zappr"
+      },
+      {
+        "id": "/startups/3vo",
+        "name": "3vo",
+        "description": "Use AI agents to design, build, and launch your product in days",
+        "url": "https://betalist.com/startups/3vo"
+      },
+      {
+        "id": "/startups/bytechef",
+        "name": "ByteChef",
+        "description": "Build workflows and AI agents with no vendor lock-in",
+        "url": "https://betalist.com/startups/bytechef"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/saasoffers?post=HcYAcLDvmnMJkOT32zcn",
+        "title": "SaaSOffers.tech just hit $3K MRR and I'm launching on Product Hunt today. Wild week.",
+        "url": "https://www.indiehackers.com/product/saasoffers?post=HcYAcLDvmnMJkOT32zcn",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-portfolio-and-growing-it-to-3m-yr-via-youtube-G2t49DpfChnjJsTqwRsB",
+        "title": "Building a portfolio and growing it to $3M/yr via YouTube",
+        "url": "https://www.indiehackers.com/post/tech/building-a-portfolio-and-growing-it-to-3m-yr-via-youtube-G2t49DpfChnjJsTqwRsB",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=pZaH1W7N7EKw1VUMSMu6",
+        "title": "LiFast: I was broke spending 6 hours weekly on LinkedIn until I cracked a system that pulled 4 qualified leads in 7 days",
+        "url": "https://www.indiehackers.com/product/lifast?post=pZaH1W7N7EKw1VUMSMu6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=UuekbQnMcghD81kbZnFV",
+        "title": "Pterocos: HTML CSS JS Online Editor with AI Builder",
+        "url": "https://www.indiehackers.com/product/pterocos?post=UuekbQnMcghD81kbZnFV",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-book-a-demo-button-was-killing-my-pipeline-here-s-what-i-replaced-it-with-0ffb8ca6e4",
+        "title": "The \"Book a Demo\" Button Was Killing My Pipeline. Here's What I Replaced It With.",
+        "url": "https://www.indiehackers.com/post/the-book-a-demo-button-was-killing-my-pipeline-here-s-what-i-replaced-it-with-0ffb8ca6e4",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
