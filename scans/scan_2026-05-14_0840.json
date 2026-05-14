@@ -1,0 +1,201 @@
+{
+  "scan_time": "2026-05-14T08:40:44.969647+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "memoket-gem",
+        "name": "Memoket Gem",
+        "tagline": "An AI wearable that remembers your conversations all day",
+        "description": "We’re opening 50 free spots for our Founding Member Program for founders, SMB owners who want to try Memoket Gem early. Memoket Gem is an all-day AI wearable that captures meetings, calls, coffee chats, and decisions on the go. It summarizes key moments, connects context across conversations, and turns them into tasks, notes, and follow-ups in the tools you already use. Join us and help shape the future of real-world AI memory.",
+        "votes": 414,
+        "ph_url": "https://www.producthunt.com/posts/memoket-gem",
+        "website": "https://www.producthunt.com/r/UIMN4URVUICVGJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Wearables",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48130186",
+        "name": "Show HN: Nibble",
+        "url": "https://github.com/glouw/nibble",
+        "points": 51,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48130186"
+      },
+      {
+        "id": "48120912",
+        "name": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
+        "url": "https://github.com/torrix-ai/install",
+        "points": 31,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48120912"
+      },
+      {
+        "id": "48121824",
+        "name": "Show HN: Rotunda - A browser built for agents with simulated typing",
+        "url": "https://github.com/monkeysee-ai/rotunda",
+        "points": 13,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48121824"
+      },
+      {
+        "id": "48121671",
+        "name": "Show HN: Headless Cloud Security – Headless SaaS has come to security",
+        "url": "https://www.sysdig.com/learn-cloud-native/what-is-headless-cloud-security",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48121671"
+      },
+      {
+        "id": "48121198",
+        "name": "Show HN: FixMyNPM, CLI to fix your insecure npm config",
+        "url": "https://github.com/madhugb/FixMyNPM",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48121198"
+      },
+      {
+        "id": "48125186",
+        "name": "Show HN: Truly Typed – A writing app for the AI era",
+        "url": "https://trulytyped.com/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48125186"
+      },
+      {
+        "id": "48129813",
+        "name": "Show HN: Claude-pee: use Claude -p without the programmatic usage credit pool",
+        "url": "https://github.com/sbhattap/claude-pee/tree/main",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48129813"
+      },
+      {
+        "id": "48122579",
+        "name": "Show HN: DAGraph – local-first reactive graph from arithmetic to OLAP SQL",
+        "url": "https://dagraph.com",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48122579"
+      },
+      {
+        "id": "48122542",
+        "name": "Show HN: Mistle – Open-source infrastructure for running sandboxed coding agents",
+        "url": "https://github.com/mistlehq/mistle",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48122542"
+      },
+      {
+        "id": "48121953",
+        "name": "Show HN: Promptcellar – capture every Claude Code prompt as JSONL in your repo",
+        "url": "https://github.com/dominiek/promptcellar-for-claude-code",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48121953"
+      },
+      {
+        "id": "48120104",
+        "name": "Show HN: Monghoul – Desktop MongoDB GUI with schema-aware autocomplete and MCP",
+        "url": "https://monghoul.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48120104"
+      },
+      {
+        "id": "48121066",
+        "name": "Show HN: Kunobi 1.0 – A local-first Kubernetes workspace for GitOps teams",
+        "url": "https://kunobi.ninja/blog/kunobi-v1",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48121066"
+      },
+      {
+        "id": "48122323",
+        "name": "Show HN: \"This post is authorial.fyi\" – not vibed",
+        "url": "https://authorial.fyi/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48122323"
+      },
+      {
+        "id": "48120522",
+        "name": "Show HN: Pqurp – Quarantine Window for Packages to Prevent Supply Chain Attacks",
+        "url": "https://github.com/melbahja/draft-pqurp",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48120522"
+      },
+      {
+        "id": "48120081",
+        "name": "Show HN: I asked AI to write Sci-Fi for eternity",
+        "url": "https://f055.net/thattimei/that-time-i-asked-ai-to-write-sci-fi-for-eternity/",
+        "points": 4,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48120081"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/flowly?post=HZMgyAVyVJ4GONyqTMUQ",
+        "title": "Flowly: Rented distribution kept expiring. So I built 10 channels I own instead. Here's every loop.",
+        "url": "https://www.indiehackers.com/product/flowly?post=HZMgyAVyVJ4GONyqTMUQ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/filleo?post=yZfsWSkdzwd4bbl6dmjV",
+        "title": "Filleo: I'm 17 & I built a Shopify App - It Launched Just Today!",
+        "url": "https://www.indiehackers.com/product/filleo?post=yZfsWSkdzwd4bbl6dmjV",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/zol-ai-studio?post=8BICnRWea7lwHl5AdMJD",
+        "title": "ZOL AI Studio: Building ZOL AI taught me something unexpected about AI products",
+        "url": "https://www.indiehackers.com/product/zol-ai-studio?post=8BICnRWea7lwHl5AdMJD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=UBewPcf5kIvxz3tVBoEo",
+        "title": "Im looking for feedback About Pterocos HTML CSS JS Online Editor -",
+        "url": "https://www.indiehackers.com/product/pterocos?post=UBewPcf5kIvxz3tVBoEo",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-shipped-biznipe-tried-distribution-got-humbled-now-i-want-real-feedback-6d1cf41f68",
+        "title": "I shipped Biznipe, tried distribution, got humbled, now I want real feedback",
+        "url": "https://www.indiehackers.com/post/i-shipped-biznipe-tried-distribution-got-humbled-now-i-want-real-feedback-6d1cf41f68",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-built-recurflux-for-revenuecat-users-because-the-gap-was-just-too-obvious-to-ignore-59eb72eb2f",
+        "title": "We built Recurflux for RevenueCat users because the gap was just too obvious to ignore.",
+        "url": "https://www.indiehackers.com/post/we-built-recurflux-for-revenuecat-users-because-the-gap-was-just-too-obvious-to-ignore-59eb72eb2f",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
