@@ -1,0 +1,254 @@
+{
+  "scan_time": "2026-05-15T08:49:18.772364+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "spellar-3-0-5",
+        "name": "Spellar 3.0",
+        "tagline": "AI Meeting companion with cross-meeting memory",
+        "description": "Most meeting tools give you notes. Spellar AI gives you memory. It joins your calls, captures every word, and builds context across all your meetings. Ask what a client said three calls ago. Find decisions from last week. See what’s still open. Organize by client, use templates, and choose the AI you trust — OpenAI, Anthropic, Perplexity, Gemini and more!",
+        "votes": 501,
+        "ph_url": "https://www.producthunt.com/posts/spellar-3-0-5",
+        "website": "https://www.producthunt.com/r/FVMNYOIYMA7YBP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Meetings",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "naptick-ai",
+        "name": "Naptick AI",
+        "tagline": "Al sleep companion that helps fall asleep without struggle",
+        "description": "Naptick is a smart bedside AI sleep companion designed for founders, professionals, light sleepers, and anyone struggling with nighttime stress or doomscrolling. It combines circadian light therapy, 1000+ adaptive soundscapes, room condition intelligence, app-locking, and an on-device AI sleep coach to help users fall asleep faster and wake up refreshed. Unlike passive sleep trackers, Naptick is built phone-free by design and actively helps improve sleep before the night begins.",
+        "votes": 442,
+        "ph_url": "https://www.producthunt.com/posts/naptick-ai",
+        "website": "https://www.producthunt.com/r/OT2VX5IW7L4F7E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Health & Fitness",
+          "Hardware",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "latitude-for-claude-code",
+        "name": "Latitude for Claude Code",
+        "tagline": "See where Claude Code burns tokens. Hit your limits less.",
+        "description": "Trace every Claude Code session. See the full system prompt, every tool call, every subagent, and token cost per turn. One command to install, free, your traces stay in your account. Receive a weekly report with your stats.",
+        "votes": 350,
+        "ph_url": "https://www.producthunt.com/posts/latitude-for-claude-code",
+        "website": "https://www.producthunt.com/r/SQUMMFO54D7IZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48133561",
+        "name": "Show HN: Running the second public ODoH relay",
+        "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+        "points": 117,
+        "comments": 41,
+        "hn_url": "https://news.ycombinator.com/item?id=48133561"
+      },
+      {
+        "id": "48135764",
+        "name": "Show HN: Race to the Bottom",
+        "url": "https://race-to-the-bottom.onrender.com",
+        "points": 54,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=48135764"
+      },
+      {
+        "id": "48141902",
+        "name": "Show HN: GridTravel – A community based travel app for users to share routes",
+        "url": "https://www.gridtravel.app",
+        "points": 48,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=48141902"
+      },
+      {
+        "id": "48139017",
+        "name": "Show HN: Browse 61 3D Printable Robots",
+        "url": "https://orobot.io/",
+        "points": 13,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48139017"
+      },
+      {
+        "id": "48141270",
+        "name": "Show HN: Design.md Generator",
+        "url": "https://chromewebstore.google.com/detail/ai-design-taste-designmd/peclkdlolmcclhhgpoehpikgknbmkknc",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48141270"
+      },
+      {
+        "id": "48135828",
+        "name": "Show HN: A simple Claude skin for ChatGPT",
+        "url": "https://github.com/dmd/aimpostor",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48135828"
+      },
+      {
+        "id": "48134716",
+        "name": "Show HN: AIMX – Self-hosted, open-source email server designed for AI agents",
+        "url": "https://aimx.email/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48134716"
+      },
+      {
+        "id": "48141114",
+        "name": "Show HN: Full Stack HQ – Claude.md and Agent Stack for Claude Code",
+        "url": "https://github.com/sabahattink/antigravity-fullstack-hq",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48141114"
+      },
+      {
+        "id": "48140677",
+        "name": "Show HN: JDS – a Copilot skill suite for structuring AI coding behavior",
+        "url": "https://github.com/josipmusa/jds",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48140677"
+      },
+      {
+        "id": "48135450",
+        "name": "Show HN: Aion a Rust Database",
+        "url": "https://github.com/ayoubnabil/aiondb",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48135450"
+      },
+      {
+        "id": "48145095",
+        "name": "Show HN: I solved my study problems by talking to a goose",
+        "url": "https://professorgoose.com/",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48145095"
+      },
+      {
+        "id": "48145142",
+        "name": "Show HN: We sent a humanoid robot to clean a stranger's apartment in SF",
+        "url": "https://gatsby.bot/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48145142"
+      },
+      {
+        "id": "48137019",
+        "name": "Show HN: Halgorithem – Catching AI Hallucinations Using Trees, No AI in Pipeline",
+        "url": "https://github.com/TangibleResearch/Halgorithem",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48137019"
+      },
+      {
+        "id": "48136833",
+        "name": "Show HN: A multi-model interface where LLMs discuss & argue with each other",
+        "url": "https://rauno.ai",
+        "points": 4,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48136833"
+      },
+      {
+        "id": "48135411",
+        "name": "Show HN: Get dopamine from real action instead of doomscrolling",
+        "url": "https://quest.visionary-path.com/",
+        "points": 4,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48135411"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/promizi",
+        "name": "Promizi",
+        "description": "Find verified coupon codes that work in real time",
+        "url": "https://betalist.com/startups/promizi"
+      },
+      {
+        "id": "/startups/pixel-perfect",
+        "name": "Pixel Perfect",
+        "description": "AI photo editor for headshots, avatars, and profile pictures",
+        "url": "https://betalist.com/startups/pixel-perfect"
+      },
+      {
+        "id": "/startups/collectivetap",
+        "name": "CollectiveTap",
+        "description": "Free group tools that live inside a link, no account or app needed",
+        "url": "https://betalist.com/startups/collectivetap"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/achiv?post=mdXH37bpvKplRtXZHTuu",
+        "title": "Achiv: Reddit isn't ignoring you. You're ignoring Reddit.",
+        "url": "https://www.indiehackers.com/product/achiv?post=mdXH37bpvKplRtXZHTuu",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/most-startup-advice-sounds-good-until-you-actually-start-building-3a9489ff56",
+        "title": "Most startup advice sounds good until you actually start building",
+        "url": "https://www.indiehackers.com/post/most-startup-advice-sounds-good-until-you-actually-start-building-3a9489ff56",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-i-built-an-ai-workflow-with-preview-approval-and-monitoring-c24f8e4bdb",
+        "title": "How I built an AI workflow with preview, approval, and monitoring",
+        "url": "https://www.indiehackers.com/post/how-i-built-an-ai-workflow-with-preview-approval-and-monitoring-c24f8e4bdb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/kashifdata?post=3NvGv0L8nXtVF2ASdD8d",
+        "title": "Most tools stop at charts .. KashifData finishes the job",
+        "url": "https://www.indiehackers.com/product/kashifdata?post=3NvGv0L8nXtVF2ASdD8d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-realized-document-opened-tells-you-almost-nothing-about-deal-momentum-3229813882",
+        "title": "I realized “document opened” tells you almost nothing about deal momentum",
+        "url": "https://www.indiehackers.com/post/i-realized-document-opened-tells-you-almost-nothing-about-deal-momentum-3229813882",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=wPPBpRutbYwkquvTlu0p",
+        "title": "LiFast: How I went from missing 60% of my B2B leads to closing 4 clients this month",
+        "url": "https://www.indiehackers.com/product/lifast?post=wPPBpRutbYwkquvTlu0p",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-makes-you-trust-a-product-website-with-no-reviews-yet-2c96b9c1c5",
+        "title": "What makes you trust a product website with no reviews yet?",
+        "url": "https://www.indiehackers.com/post/what-makes-you-trust-a-product-website-with-no-reviews-yet-2c96b9c1c5",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
