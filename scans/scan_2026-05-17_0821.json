@@ -1,0 +1,179 @@
+{
+  "scan_time": "2026-05-17T08:21:32.678644+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "48161881",
+        "name": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+        "url": "https://tangled.org/rocksky.app/rocksky",
+        "points": 73,
+        "comments": 33,
+        "hn_url": "https://news.ycombinator.com/item?id=48161881"
+      },
+      {
+        "id": "48166275",
+        "name": "Show HN: Codiff, a local diff review tool",
+        "url": "https://github.com/nkzw-tech/codiff/releases",
+        "points": 19,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=48166275"
+      },
+      {
+        "id": "48158305",
+        "name": "Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop",
+        "url": "https://a-dark-cave.com/",
+        "points": 12,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48158305"
+      },
+      {
+        "id": "48162431",
+        "name": "Show HN: Daily vibe-coding video games, day 33: Tower Defense (single prompt)",
+        "url": "https://gamevibe.us/33-tower-defense",
+        "points": 8,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48162431"
+      },
+      {
+        "id": "48161004",
+        "name": "Show HN: Strava for AI coding – analytics on your Copilot/Claude/Codex usage",
+        "url": "https://github.com/microsoft/AI-Engineering-Coach",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48161004"
+      },
+      {
+        "id": "48160967",
+        "name": "Show HN: Infinite Swap – Trade a bottle cap up to a house",
+        "url": "https://infiniteswap.app/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48160967"
+      },
+      {
+        "id": "48163604",
+        "name": "Show HN: Got ghosted by tech companies so I built a tool to track ghost jobs",
+        "url": "https://csvfirst.pythonanywhere.com/insights/hiring-data/job-listings-that-stay-open-for-years/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48163604"
+      },
+      {
+        "id": "48162360",
+        "name": "Show HN: Hermes-agentmemory, pull-model episodic memory with real deletes",
+        "url": "https://github.com/MukundaKatta/hermes-agentmemory",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48162360"
+      },
+      {
+        "id": "48158156",
+        "name": "Show HN: How-to-train-your-GPT. Every line commented",
+        "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48158156"
+      },
+      {
+        "id": "48164898",
+        "name": "Show HN: I built a free PDF editor to fix Claude's horribly-generated PDFs",
+        "url": "https://composer-sepia.vercel.app",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48164898"
+      },
+      {
+        "id": "48163877",
+        "name": "Show HN: Artist Kit – One-Page Website Builder for DJs and Music Artists",
+        "url": "https://www.artistkit.co/",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48163877"
+      },
+      {
+        "id": "48160257",
+        "name": "Show HN: A Claude Skill to render resume templates. CV/Resumes are HTML and JSON",
+        "url": "https://github.com/farhan0167/cv-claw",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48160257"
+      },
+      {
+        "id": "48159268",
+        "name": "Show HN: Let's build Claude Code from scratch (tutorial)",
+        "url": "https://www.youtube.com/watch?v=8pDfgBEy8bg",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48159268"
+      },
+      {
+        "id": "48158632",
+        "name": "Show HN: Offline voice to text and AI keyboard",
+        "url": "https://apps.apple.com/us/app/dictawiz-voice-notes-recorder/id6759256382",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48158632"
+      },
+      {
+        "id": "48158234",
+        "name": "Show HN: Swpui, a TUI for case-aware search and replace",
+        "url": "https://github.com/beeb/swpui",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48158234"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/im-a-cs-student-from-shantou-i-m-building-a-low-cost-llm-api-for-sea-devs-70-cheaper-than-openai-a3c8e3e928",
+        "title": "I'm a CS student from Shantou. I'm building a low-cost LLM API for SEA devs (70% cheaper than OpenAI)",
+        "url": "https://www.indiehackers.com/post/im-a-cs-student-from-shantou-i-m-building-a-low-cost-llm-api-for-sea-devs-70-cheaper-than-openai-a3c8e3e928",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/inktag?post=08M4oA3f74XmoH1f4fGR",
+        "title": "I got tired of stock photos that look like stock photos. So I built <Inktag/>",
+        "url": "https://www.indiehackers.com/product/inktag?post=08M4oA3f74XmoH1f4fGR",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/why-ai-support-bots-fail-even-when-the-model-is-safe-0e84a07c4a",
+        "title": "Why AI support bots fail even when the model is safe",
+        "url": "https://www.indiehackers.com/post/why-ai-support-bots-fail-even-when-the-model-is-safe-0e84a07c4a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-customers-who-disappeared-without-cancelling-ca6b30c302",
+        "title": "The customers who disappeared without cancelling",
+        "url": "https://www.indiehackers.com/post/the-customers-who-disappeared-without-cancelling-ca6b30c302",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-tool-that-filters-ai-slop-out-of-english-social-posts-the-hardest-part-was-teaching-ai-to-stop-sounding-like-ai-8f8d423f19",
+        "title": "I built a tool that filters AI slop out of English social posts. The hardest part was teaching AI to stop sounding like AI.",
+        "url": "https://www.indiehackers.com/post/i-built-a-tool-that-filters-ai-slop-out-of-english-social-posts-the-hardest-part-was-teaching-ai-to-stop-sounding-like-ai-8f8d423f19",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
