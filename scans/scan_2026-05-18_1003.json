@@ -1,0 +1,267 @@
+{
+  "scan_time": "2026-05-18T10:02:59.710805+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "vivago-video-agent",
+        "name": "Vivago Video Agent",
+        "tagline": "Skip the prompting. Produce consistently compelling videos. ",
+        "description": "Vivago Video Agent lets you generate consistently compelling narrative videos with natural language. No more annoying prompting! Our video agent ensures every scene stays on-brand and internally coherent by guiding you through a structured creative process. Just share your assets and describe your story — a swarm of AI directors will invent characters and write a compelling story for you. See the keyframes before rendering. Your 1-min 1080P story video will be ready in 40 mins.",
+        "votes": 468,
+        "ph_url": "https://www.producthunt.com/posts/vivago-video-agent",
+        "website": "https://www.producthunt.com/r/4UYKCH63ZLBZY7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "fere-ai",
+        "name": "Fere AI",
+        "tagline": "AI agents that turn signals into crypto + Polymarket trades",
+        "description": "Unlike generic crypto research assistants, Fere turns market signals into autonomous trading workflows. Agents research opportunities, build trade setups, optimize routes and fees, execute with a wallet, and monitor strategies 24/7 across crypto and Polymarket. Standout features include autonomous Polymarket trading, entry/exit rules, stop-loss controls, execution routing, and lower-cost agent runs.",
+        "votes": 461,
+        "ph_url": "https://www.producthunt.com/posts/fere-ai",
+        "website": "https://www.producthunt.com/r/5IJWOH2H3DJIER?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Fintech",
+          "Artificial Intelligence",
+          "Web3"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "phbench-2",
+        "name": "PHBench",
+        "tagline": "Predict the next Series A from a ProductHunt launch",
+        "description": "PHBench: the first public benchmark predicting Series A funding from Product Hunt launch signals. We analyzed 67,292 featured launches over 7 years, linked to 528 verified Series A rounds via Crunchbase. Champion model: 4.7x lift over random. Team size × community engagement is the strongest signal; B2B (API, Payments, Fintech) converts at 3x baseline; Rank #1 raises at 2.2x unranked. Dataset, code, and baselines open. Submit at phbench.com and subscribe for weekly high-probability launches.",
+        "votes": 381,
+        "ph_url": "https://www.producthunt.com/posts/phbench-2",
+        "website": "https://www.producthunt.com/r/PGPP6AKDU7CMY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Venture Capital",
+          "Artificial Intelligence",
+          "GitHub",
+          "Data",
+          "Vercel Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "loova-agents-3",
+        "name": "Loova Agents",
+        "tagline": "Your AI director for creating cinematic videos with ease",
+        "description": "Tell Loova your idea in everyday words, and Loova agents act as your personal director to plan, direct, and generate your film. Make scroll-stopping ads, short films, and product videos fast. With an infinite canvas for boundless imagination, Loova Agents make professional video storytelling simple.",
+        "votes": 377,
+        "ph_url": "https://www.producthunt.com/posts/loova-agents-3",
+        "website": "https://www.producthunt.com/r/4GHN2XBZOGAXZS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48169874",
+        "name": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+        "url": "https://github.com/MinishLab/semble",
+        "points": 329,
+        "comments": 112,
+        "hn_url": "https://news.ycombinator.com/item?id=48169874"
+      },
+      {
+        "id": "48169491",
+        "name": "Show HN: I made a printable graph papaer templates website",
+        "url": "https://printablegraphpaper.org/",
+        "points": 7,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48169491"
+      },
+      {
+        "id": "48175466",
+        "name": "Show HN: Pdf2md – 10MB Rust PDF-to-Markdown Tool with a Free API",
+        "url": "https://pdf2md.deepdiy.net/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48175466"
+      },
+      {
+        "id": "48174775",
+        "name": "Show HN: How to Kill the Dead Internet",
+        "url": "https://chromewebstore.google.com/detail/d-slop/cnjeckkgbjgfledbphbobjabnfjnheef",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48174775"
+      },
+      {
+        "id": "48169602",
+        "name": "Show HN: Forecasting my backyard weather with a 22M time-series model",
+        "url": "https://huggingface.co/spaces/bitsofchris/time-series-ai-weather-forecast",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48169602"
+      },
+      {
+        "id": "48169791",
+        "name": "Show HN: A choose-your-own-adventure through 28 possible AI futures",
+        "url": "https://es92.github.io/Singularity-Map/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48169791"
+      },
+      {
+        "id": "48174057",
+        "name": "Show HN: Agetor - An open-source Harness Orchestrator",
+        "url": "https://github.com/alamops/agetor",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48174057"
+      },
+      {
+        "id": "48174187",
+        "name": "Show HN: Cheap-IM: Thinking Machines' demo on a CPU laptop",
+        "url": "https://github.com/kouhxp/cheap-im",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48174187"
+      },
+      {
+        "id": "48172252",
+        "name": "Show HN: Cooklang Rich Preview",
+        "url": "https://cook.sjer.red",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48172252"
+      },
+      {
+        "id": "48168108",
+        "name": "Show HN: Peeklens – Palantir for Marketing",
+        "url": "https://peeklens.ai/",
+        "points": 2,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48168108"
+      },
+      {
+        "id": "48176493",
+        "name": "Show HN: Agent-QA: Open-source AI end-to-end testing for web and mobile apps",
+        "url": "https://vostride.com",
+        "points": 2,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48176493"
+      },
+      {
+        "id": "48170348",
+        "name": "Show HN: Kami Subs – Live AI subtitles overlay for any browser video",
+        "url": "https://github.com/MohammdKopa/kami-subs",
+        "points": 2,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48170348"
+      },
+      {
+        "id": "48169516",
+        "name": "Show HN: Proper, a Rails-shaped Python web framework",
+        "url": "https://properproject.org/",
+        "points": 2,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48169516"
+      },
+      {
+        "id": "48176596",
+        "name": "Show HN: Decentralized compute API on DePIN – scraping, OCR, JavaScript sandbox",
+        "url": "https://revolution-network.fr/",
+        "points": 2,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48176596"
+      },
+      {
+        "id": "48175262",
+        "name": "Show HN: AnyFrame – Sandboxes for AI Agents",
+        "url": "https://anyfrm.com",
+        "points": 2,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48175262"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/corpus",
+        "name": "Corpus",
+        "description": "runs your work while you're offline",
+        "url": "https://betalist.com/startups/corpus"
+      },
+      {
+        "id": "/startups/fina-ai",
+        "name": "Fina AI",
+        "description": "Eliminate manual accounting with AI agents for finance teams",
+        "url": "https://betalist.com/startups/fina-ai"
+      },
+      {
+        "id": "/startups/not-pink",
+        "name": "Not Pink",
+        "description": "Turn your shared bucket-list dreams into plans and memories",
+        "url": "https://betalist.com/startups/not-pink"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/most-startups-don-t-fail-because-the-founders-are-lazy-6acad6348c",
+        "title": "Most startups don’t fail because the founders are lazy",
+        "url": "https://www.indiehackers.com/post/most-startups-don-t-fail-because-the-founders-are-lazy-6acad6348c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/show-ih-im-building-a-lead-gen-crm-tool-for-web-designers-targeting-local-businesses-without-websites-starting-with-spain-5cc8a2d16c",
+        "title": "Show IH: I'm building a lead gen + CRM tool for web designers targeting local businesses without websites — starting with Spain",
+        "url": "https://www.indiehackers.com/post/show-ih-im-building-a-lead-gen-crm-tool-for-web-designers-targeting-local-businesses-without-websites-starting-with-spain-5cc8a2d16c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-form-tool-that-writes-directly-to-notion-looking-for-feedback-cbe6e3666b",
+        "title": "Built a form tool that writes directly to Notion. Looking for feedback.",
+        "url": "https://www.indiehackers.com/post/built-a-form-tool-that-writes-directly-to-notion-looking-for-feedback-cbe6e3666b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/achiv?post=bHRSDXyFgFL5WC5nMXoj",
+        "title": "Reddit Self-Promo case study: Achiv beat my intuition on the same post: 4x views - copy strategy in 10 minutes.",
+        "url": "https://www.indiehackers.com/product/achiv?post=bHRSDXyFgFL5WC5nMXoj",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-used-to-think-onboarding-was-unnecessary-i-was-wrong-7dd68f841e",
+        "title": "I used to think onboarding was unnecessary. I was wrong.",
+        "url": "https://www.indiehackers.com/post/i-used-to-think-onboarding-was-unnecessary-i-was-wrong-7dd68f841e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-a-cs-student-from-shantou-building-low-latency-compliant-llm-infrastructure-for-sea-developers-70-cheaper-than-openai-a3c8e3e928",
+        "title": "I'm a CS student from Shantou. Building low-latency, compliant LLM infrastructure for SEA developers (70% cheaper than OpenAI)",
+        "url": "https://www.indiehackers.com/post/im-a-cs-student-from-shantou-building-low-latency-compliant-llm-infrastructure-for-sea-developers-70-cheaper-than-openai-a3c8e3e928",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
