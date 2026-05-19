@@ -1,0 +1,246 @@
+{
+  "scan_time": "2026-05-19T09:41:45.023944+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "lobehub-2",
+        "name": "LobeHub",
+        "tagline": "Your Chief Agent Operator for multi-agent work",
+        "description": "LobeHub is a Chief Agent Operator (CAO) that builds, runs, and coordinates your AI agent team. Describe a goal, and it assembles the right agents/skills, runs tasks in parallel in the cloud, routes work across models, and reports back only when decisions are needed—via your existing channels (Slack/Discord/Telegram/iMessage). Less tab-switching, more outcomes.",
+        "votes": 459,
+        "ph_url": "https://www.producthunt.com/posts/lobehub-2",
+        "website": "https://www.producthunt.com/r/GDRCLPANDCILEI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "socleads-3-0",
+        "name": "SocLeads 3.0",
+        "tagline": "Scrape emails from socials and maps by location",
+        "description": "SocLeads now scrapes emails from Instagram, Facebook, LinkedIn, YouTube, and Google Maps across entire countries 🌍📧 Geo-filters. More results. No code needed. 🚀",
+        "votes": 436,
+        "ph_url": "https://www.producthunt.com/posts/socleads-3-0",
+        "website": "https://www.producthunt.com/r/ALZHOD7ZH2TWYV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Email",
+          "Social Media",
+          "Marketing"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48179677",
+        "name": "Show HN: Files.md – Open-source alternative to Obsidian",
+        "url": "https://github.com/zakirullin/files.md",
+        "points": 632,
+        "comments": 309,
+        "hn_url": "https://news.ycombinator.com/item?id=48179677"
+      },
+      {
+        "id": "48178184",
+        "name": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
+        "url": "https://github.com/stephenlthorn/auto-identity-remove",
+        "points": 321,
+        "comments": 132,
+        "hn_url": "https://news.ycombinator.com/item?id=48178184"
+      },
+      {
+        "id": "48184214",
+        "name": "Show HN: We missed Winamp, so we built an audio player for macOS",
+        "url": "https://www.advanced-research.net/180db",
+        "points": 61,
+        "comments": 67,
+        "hn_url": "https://news.ycombinator.com/item?id=48184214"
+      },
+      {
+        "id": "48181342",
+        "name": "Show HN: InsForge – Open-source Heroku for coding agents",
+        "url": "https://github.com/InsForge/InsForge",
+        "points": 45,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48181342"
+      },
+      {
+        "id": "48189044",
+        "name": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+        "url": "https://github.com/harmont-dev/hsrs",
+        "points": 29,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48189044"
+      },
+      {
+        "id": "48183793",
+        "name": "Show HN: Beacon - The open-source layer for local AI agent visibility",
+        "url": "https://github.com/Asymptote-Labs/agent-beacon",
+        "points": 19,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48183793"
+      },
+      {
+        "id": "48188741",
+        "name": "Show HN: Clark-Browser – Stealth Chromium",
+        "url": "https://github.com/clark-labs-inc/clark-browser",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48188741"
+      },
+      {
+        "id": "48184645",
+        "name": "Show HN: drea – podcast ad blocker",
+        "url": "https://drea.fm/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48184645"
+      },
+      {
+        "id": "48185873",
+        "name": "Show HN: Onionfutures.com: transferable contracts for future delivery of onions",
+        "url": "https://onionfutures.com/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48185873"
+      },
+      {
+        "id": "48183210",
+        "name": "Show HN: Marlin-2B: a tiny VLM to extract structured information from videos",
+        "url": "https://huggingface.co/NemoStation/Marlin-2B",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48183210"
+      },
+      {
+        "id": "48184763",
+        "name": "Show HN: Claude Soul – cross-session learning engine for Claude Code",
+        "url": "",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48184763"
+      },
+      {
+        "id": "48182518",
+        "name": "Show HN: Cubic Doggo, a Open-Source 12-DOF 4-Legged Robot Based on ROS2",
+        "url": "https://github.com/SphericalCowww/CubicDoggo",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48182518"
+      },
+      {
+        "id": "48187382",
+        "name": "Show HN: Spud – cross-platform remote control, optimised for gaming",
+        "url": "https://github.com/xfoa/spud",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48187382"
+      },
+      {
+        "id": "48189379",
+        "name": "Show HN: It is hard to show genuine work on HN",
+        "url": "",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48189379"
+      },
+      {
+        "id": "48180335",
+        "name": "Show HN: HoneyLabs – Public honeypot threat Intel feed and MCP server",
+        "url": "https://honeylabs.net",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48180335"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/vocably",
+        "name": "Vocably",
+        "description": "A language-learning tool for real-life foreign language use",
+        "url": "https://betalist.com/startups/vocably"
+      },
+      {
+        "id": "/startups/launchdocs",
+        "name": "LaunchDocs",
+        "description": "Turn specs and tickets into polished docs and publish anywhere",
+        "url": "https://betalist.com/startups/launchdocs"
+      },
+      {
+        "id": "/startups/verto-gmbh",
+        "name": "Verto GmbH",
+        "description": "Get digital, transparent property management in the Rhein-Main region",
+        "url": "https://betalist.com/startups/verto-gmbh"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c",
+        "title": "The most embarrassing realization I had this week: Our startup was completely invisible to Google.",
+        "url": "https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/leadsynthai?post=BoJ8sNghEvXHpTsIBgrd",
+        "title": "LeadSynth will show you why working harder is making things worse",
+        "url": "https://www.indiehackers.com/product/leadsynthai?post=BoJ8sNghEvXHpTsIBgrd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/why-i-stopped-separating-product-and-distribution-0a78822813",
+        "title": "Why I stopped separating product and distribution",
+        "url": "https://www.indiehackers.com/post/why-i-stopped-separating-product-and-distribution-0a78822813",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8",
+        "title": "Still no paying users. So I'm doing something different.",
+        "url": "https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=x2xqBNdN75u7sgoD3Fc4",
+        "title": "LiFast: I went from 0 LinkedIn leads to $15k in new clients by doing LESS work",
+        "url": "https://www.indiehackers.com/product/lifast?post=x2xqBNdN75u7sgoD3Fc4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/recurflux?post=Aest8w3XrGVw78hSsYYx",
+        "title": "Recurflux: Razorpay merchants can now recover failed subscription payments automatically. we just shipped it.",
+        "url": "https://www.indiehackers.com/product/recurflux?post=Aest8w3XrGVw78hSsYYx",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-url-indexing-saas-in-40-days-heres-the-honest-story-892c488919",
+        "title": "I built a URL indexing SaaS in 40 days — here's the honest story",
+        "url": "https://www.indiehackers.com/post/i-built-a-url-indexing-saas-in-40-days-heres-the-honest-story-892c488919",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/from-simple-theme-to-65k-mo-ecosystem-m7ZVYqgXKuppQhGlhWhb",
+        "title": "From simple theme to $65k/mo ecosystem",
+        "url": "https://www.indiehackers.com/post/tech/from-simple-theme-to-65k-mo-ecosystem-m7ZVYqgXKuppQhGlhWhb",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
