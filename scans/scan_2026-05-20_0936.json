@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-05-20T09:35:50.704773+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "pollyreach",
+        "name": "PollyReach",
+        "tagline": "Give your agent a real number and voice to make calls.",
+        "description": "Most AI phone tools are built for enterprises — APIs, workflows, sales automation. PollyReach is built for you. Give your AI a real phone number. Say \"book me a table for 7pm\" — it finds the number, makes the call, handles the conversation, and reports back with a summary, recording & transcript. It also answers your phone 24/7 and screens spam. Works in 50+ languages.",
+        "votes": 507,
+        "ph_url": "https://www.producthunt.com/posts/pollyreach",
+        "website": "https://www.producthunt.com/r/YNJ3R3XJ5FEEBJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Virtual Assistants"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "drizz-2",
+        "name": "Drizz",
+        "tagline": "Mobile tests that write, run, and fix themselves",
+        "description": "Drizz is an AI-powered mobile test automation platform built around intent-based testing. Simply describe what you want to test in plain English, Drizz executes it on a real device using Vision AI and automatically authors a reusable test case. No scripting, no flaky selectors, no manual maintenance. It adapts to dynamic UIs, integrates with your CI/CD pipeline, and gives your team reliable end-to-end coverage without the overhead.",
+        "votes": 394,
+        "ph_url": "https://www.producthunt.com/posts/drizz-2",
+        "website": "https://www.producthunt.com/r/7JHDW73XTTPZ3A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48191602",
+        "name": "Show HN: Gaussian Splat of a Strawberry",
+        "url": "https://superspl.at/scene/84df8849",
+        "points": 498,
+        "comments": 190,
+        "hn_url": "https://news.ycombinator.com/item?id=48191602"
+      },
+      {
+        "id": "48192383",
+        "name": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+        "url": "https://github.com/antoinezambelli/forge",
+        "points": 474,
+        "comments": 170,
+        "hn_url": "https://news.ycombinator.com/item?id=48192383"
+      },
+      {
+        "id": "48193474",
+        "name": "Show HN: I made a 3D pose maker for artists",
+        "url": "https://setpose.com/",
+        "points": 79,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=48193474"
+      },
+      {
+        "id": "48195021",
+        "name": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+        "url": "https://superlog.sh/",
+        "points": 65,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=48195021"
+      },
+      {
+        "id": "48191852",
+        "name": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+        "url": "https://github.com/vostride/id-agent",
+        "points": 37,
+        "comments": 52,
+        "hn_url": "https://news.ycombinator.com/item?id=48191852"
+      },
+      {
+        "id": "48197390",
+        "name": "Show HN: Pg_deltax, Apache-licensed alternative to TimescaleDB",
+        "url": "https://github.com/xataio/deltax",
+        "points": 31,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48197390"
+      },
+      {
+        "id": "48198425",
+        "name": "Show HN: Yt-x v0.8.0 – Browse, play, and download YouTube from the terminal",
+        "url": "https://github.com/Benexl/yt-x",
+        "points": 21,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48198425"
+      },
+      {
+        "id": "48203985",
+        "name": "Show HN: Chrome ext to let zot, your terminal coding agent, operate the browser",
+        "url": "https://github.com/patriceckhart/zot-chrome-operator",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48203985"
+      },
+      {
+        "id": "48192607",
+        "name": "Show HN: How to analyze your LLM output – A behavioural health monitor for LLMs",
+        "url": "https://splabs.io",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48192607"
+      },
+      {
+        "id": "48196023",
+        "name": "Show HN: LibreOffice-rs – I built a pure-Rust LibreOffice using autoresearch",
+        "url": "https://github.com/clark-labs-inc/libreoffice-rs",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48196023"
+      },
+      {
+        "id": "48195075",
+        "name": "Show HN: A small code review extension for zot",
+        "url": "https://github.com/patriceckhart/zot-review",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48195075"
+      },
+      {
+        "id": "48194739",
+        "name": "Show HN: Autodidact – Self-evolving local-first AI agent",
+        "url": "https://github.com/BuffaloTechRider/Autodidact",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48194739"
+      },
+      {
+        "id": "48194368",
+        "name": "Show HN: Gpubook – An order book for GPU compute",
+        "url": "https://gpubook.io",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48194368"
+      },
+      {
+        "id": "48200226",
+        "name": "Show HN: I built a native macOS Markdown viewer 100% with AI coding agents",
+        "url": "https://github.com/rajatarya/mdviewer",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48200226"
+      },
+      {
+        "id": "48198790",
+        "name": "Show HN: YouTube MCP, give any AI agent access to YouTube",
+        "url": "https://github.com/umbertotancorre/youtube-mcp",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48198790"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/ceo",
+        "name": "CEO?",
+        "description": "Turn messy founder materials into plans, decks, forecasts, and more",
+        "url": "https://betalist.com/startups/ceo"
+      },
+      {
+        "id": "/startups/toxic-ideas",
+        "name": "Toxic Ideas",
+        "description": "Turn your startup idea into paying customers",
+        "url": "https://betalist.com/startups/toxic-ideas"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/ai-runs-70-of-my-distribution-the-exact-stack-fda9c0d2c9",
+        "title": "AI runs 70% of my distribution. The exact stack.",
+        "url": "https://www.indiehackers.com/post/ai-runs-70-of-my-distribution-the-exact-stack-fda9c0d2c9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-if-your-linkedin-outreach-only-went-to-people-who-were-already-paying-attention-aa3b7c179f",
+        "title": "What if your Linkedin outreach only went to people who were already paying attention?",
+        "url": "https://www.indiehackers.com/post/what-if-your-linkedin-outreach-only-went-to-people-who-were-already-paying-attention-aa3b7c179f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-a-solo-founder-it-took-me-9-months-and-at-least-3-stack-rewrites-to-ship-my-saas-a66b5fbe33",
+        "title": "I'm a solo founder. It took me 9 months and at least 3 stack rewrites to ship my SaaS.",
+        "url": "https://www.indiehackers.com/post/im-a-solo-founder-it-took-me-9-months-and-at-least-3-stack-rewrites-to-ship-my-saas-a66b5fbe33",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/would-you-buy-a-broad-ai-agent-or-a-narrow-ai-employee-that-does-one-job-well-3388053fac",
+        "title": "Would you buy a broad AI agent, or a narrow AI employee that does one job well?",
+        "url": "https://www.indiehackers.com/post/would-you-buy-a-broad-ai-agent-or-a-narrow-ai-employee-that-does-one-job-well-3388053fac",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=aqXs7UARY3BBZE3GZjWq",
+        "title": "Im looking for feedback and improves About Pterocos HTML CSS JS Online Editor - (No signup required)",
+        "url": "https://www.indiehackers.com/product/pterocos?post=aqXs7UARY3BBZE3GZjWq",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launched-clearsign-today-ai-contract-review-for-freelancers-691a635e95",
+        "title": "Launched ClearSign today - AI contract review for freelancers",
+        "url": "https://www.indiehackers.com/post/launched-clearsign-today-ai-contract-review-for-freelancers-691a635e95",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
