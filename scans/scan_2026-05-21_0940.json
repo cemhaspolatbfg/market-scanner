@@ -1,0 +1,230 @@
+{
+  "scan_time": "2026-05-21T09:40:21.149216+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "storeclaw",
+        "name": "StoreClaw",
+        "tagline": "Grow your store profits with agents that know how to sell",
+        "description": "StoreClaw is the first AI commerce platform with agents that know how to sell, so you can make more money with less effort and less stress. Connect StoreClaw to your existing store and it will study your numbers, current sales figures, and growth trajectory, and then offer proactive suggestions that it can execute on your behalf — once you give it your approval. Ask StoreClaw how your business is doing any time, anywhere. Sell more with less stress: StoreClaw.",
+        "votes": 601,
+        "ph_url": "https://www.producthunt.com/posts/storeclaw",
+        "website": "https://www.producthunt.com/r/PVXOOJINEBKKUA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "E-Commerce",
+          "Marketing automation"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "mailx-by-mailwarm",
+        "name": "mailX by mailwarm",
+        "tagline": "Email deliverability toolkit for humans and AI agents",
+        "description": "Your emails go to spam. mailX shows you why, and how to fix it in seconds with clear answers and exact steps. Built for humans and AI agents. API and MCP ready.",
+        "votes": 483,
+        "ph_url": "https://www.producthunt.com/posts/mailx-by-mailwarm",
+        "website": "https://www.producthunt.com/r/H2XLXASAORMP7Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Email",
+          "Email Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "composer-2-5-6",
+        "name": "Composer 2.5",
+        "tagline": "Cursor’s most powerful model yet",
+        "description": "A substantial improvement in intelligence and behavior over Composer 2, particularly on long-horizon agentic tasks.",
+        "votes": 402,
+        "ph_url": "https://www.producthunt.com/posts/composer-2-5-6",
+        "website": "https://www.producthunt.com/r/ZEXWSSPQZYCABO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48215979",
+        "name": "Show HN: I reverse engineered Apple's video wallpapers",
+        "url": "https://github.com/kageroumado/phosphene",
+        "points": 276,
+        "comments": 59,
+        "hn_url": "https://news.ycombinator.com/item?id=48215979"
+      },
+      {
+        "id": "48214399",
+        "name": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+        "url": "https://github.com/kouhxp/yapsnap",
+        "points": 71,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=48214399"
+      },
+      {
+        "id": "48209668",
+        "name": "Show HN: Lance – image/video generation and understanding in one model",
+        "url": "https://github.com/bytedance/Lance",
+        "points": 61,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48209668"
+      },
+      {
+        "id": "48208834",
+        "name": "Show HN: Hocuspocus 4 – self-hosted Yjs collaboration backend",
+        "url": "https://github.com/ueberdosis/hocuspocus",
+        "points": 37,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48208834"
+      },
+      {
+        "id": "48211334",
+        "name": "Show HN: I made a tool for learning scales, chords, and how to combine them",
+        "url": "https://projects.alesh.com/intervalkit/",
+        "points": 27,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48211334"
+      },
+      {
+        "id": "48210615",
+        "name": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+        "url": "https://github.com/mupt-ai/dari-docs",
+        "points": 20,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48210615"
+      },
+      {
+        "id": "48205901",
+        "name": "Show HN: Open-Source Agentic QA Harness with Memory",
+        "url": "https://vostride.com/agent-qa",
+        "points": 17,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48205901"
+      },
+      {
+        "id": "48205526",
+        "name": "Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark",
+        "url": "https://github.com/serenedb/serenedb/tree/main/libs/iresearch",
+        "points": 14,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48205526"
+      },
+      {
+        "id": "48216786",
+        "name": "Show HN: CipherStash Stack – Data Level Access Control in TS/JS",
+        "url": "https://cipherstash.com/blog/introducing-cipherstash-stack",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48216786"
+      },
+      {
+        "id": "48206973",
+        "name": "Show HN: Agyn, an open-source Kubernetes runtime for AI agents",
+        "url": "https://github.com/agynio/platform",
+        "points": 9,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48206973"
+      },
+      {
+        "id": "48219870",
+        "name": "Show HN: Real-time virtual try-on using hand gestures and live video diffusion",
+        "url": "https://github.com/manas15/try-on",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48219870"
+      },
+      {
+        "id": "48212956",
+        "name": "Show HN: I built Istanbul live transit map",
+        "url": "https://tarif.ist/",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48212956"
+      },
+      {
+        "id": "48206073",
+        "name": "Show HN: Rust Database from Scratch",
+        "url": "https://github.com/ayoubnabil/aiondb",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48206073"
+      },
+      {
+        "id": "48210240",
+        "name": "Show HN: Formae now supports Kubernetes, Helm, .tfvars and a public plugin hub",
+        "url": "https://github.com/platform-engineering-labs/formae",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48210240"
+      },
+      {
+        "id": "48215972",
+        "name": "Show HN: Remote Job Board",
+        "url": "https://www.remotejobs.place",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48215972"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=E8OBDbPFVUvo83r6yWXF",
+        "title": "IbexAI: How to make cold outreach work for you",
+        "url": "https://www.indiehackers.com/product/ibexai?post=E8OBDbPFVUvo83r6yWXF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=Meg65Oqx2RY5xhrCiF78",
+        "title": "LiFast: Went from burning 10 hours a month on LinkedIn to 10 minutes weekly and 3x’d my inbound leads",
+        "url": "https://www.indiehackers.com/product/lifast?post=Meg65Oqx2RY5xhrCiF78",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-something-for-months-without-talking-about-it-publicly-is-weird-e999080bb4",
+        "title": "Building something for months without talking about it publicly is… weird",
+        "url": "https://www.indiehackers.com/post/building-something-for-months-without-talking-about-it-publicly-is-weird-e999080bb4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-could-see-our-ai-bill-but-not-explain-it-so-i-built-aikey-2255805e2b",
+        "title": "We could see our AI bill, but not explain it — so I built AiKey",
+        "url": "https://www.indiehackers.com/post/we-could-see-our-ai-bill-but-not-explain-it-so-i-built-aikey-2255805e2b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/bootstrapping-a-popular-git-client-to-a-7-figure-arr-and-getting-acquired-UULRo7cgvUFDtMhf9XXw",
+        "title": "Bootstrapping a popular Git client to a 7-figure ARR and getting acquired",
+        "url": "https://www.indiehackers.com/post/tech/bootstrapping-a-popular-git-client-to-a-7-figure-arr-and-getting-acquired-UULRo7cgvUFDtMhf9XXw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/products",
+        "title": "The Build Board 🪧",
+        "url": "https://www.indiehackers.com/products",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
