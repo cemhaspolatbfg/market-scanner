@@ -1,0 +1,202 @@
+{
+  "scan_time": "2026-05-22T09:22:29.493859+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "tycoon-ai",
+        "name": "Tycoon AI ",
+        "tagline": "Run one-person companies entirely with AI agents",
+        "description": "Tycoon.us enables you to run an entire company with AI agents, powered by Astra, an AI CEO, and 10+ ready-to-use AI agents you can choose from, from CMO who manages X to CTO who codes. Astra also manages Claude Code/Hermes. Give Astra a KPI or project, like “10x traffic this month,” or “launch onboarding flows.” She creates a plan, assigns agents, tracks progress, and asks for approval when needed. Every agent is out of box, so no setup, coding, or API keys required.",
+        "votes": 444,
+        "ph_url": "https://www.producthunt.com/posts/tycoon-ai",
+        "website": "https://www.producthunt.com/r/RL4GWQKCKC4Y5K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Artificial Intelligence",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48223362",
+        "name": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+        "url": "https://freenet.org/",
+        "points": 282,
+        "comments": 172,
+        "hn_url": "https://news.ycombinator.com/item?id=48223362"
+      },
+      {
+        "id": "48221896",
+        "name": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
+        "url": "",
+        "points": 230,
+        "comments": 46,
+        "hn_url": "https://news.ycombinator.com/item?id=48221896"
+      },
+      {
+        "id": "48225596",
+        "name": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+        "url": "",
+        "points": 74,
+        "comments": 89,
+        "hn_url": "https://news.ycombinator.com/item?id=48225596"
+      },
+      {
+        "id": "48228411",
+        "name": "Show HN: Open-source .docx editor library for building document apps",
+        "url": "https://github.com/eigenpal/docx-editor",
+        "points": 72,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48228411"
+      },
+      {
+        "id": "48221805",
+        "name": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
+        "url": "https://github.com/FredAntB/Spec-Driven-Development",
+        "points": 26,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48221805"
+      },
+      {
+        "id": "48224184",
+        "name": "Show HN: Let agents run any analysis with Mixpanel data, no UI required",
+        "url": "https://docs.mixpanel.com/docs/mixpanel-headless",
+        "points": 21,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48224184"
+      },
+      {
+        "id": "48232060",
+        "name": "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
+        "url": "https://pythongiant.github.io/KVBoost/",
+        "points": 18,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48232060"
+      },
+      {
+        "id": "48231575",
+        "name": "Show HN: Spec-Driven Development Workflow for Claude Code",
+        "url": "",
+        "points": 18,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48231575"
+      },
+      {
+        "id": "48221214",
+        "name": "Show HN: LoongForge-A high-performance training framework for LLM, VLM, VLA, Wan",
+        "url": "https://github.com/baidu-baige/LoongForge",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48221214"
+      },
+      {
+        "id": "48221855",
+        "name": "Show HN: AI that interviews participants instead of holding another meeting",
+        "url": "https://www.noada.app/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48221855"
+      },
+      {
+        "id": "48228400",
+        "name": "Show HN: ANML – A machine-first markup language for the agentic web (IETF Draft)",
+        "url": "https://anmlfoundation.org",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48228400"
+      },
+      {
+        "id": "48221356",
+        "name": "Show HN: Daily word puzzle game based on polysemy",
+        "url": "https://omitten.com",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48221356"
+      },
+      {
+        "id": "48232533",
+        "name": "Show HN: Sylph – the open-source company brain behind my YC startup",
+        "url": "https://github.com/getnao/sylph",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48232533"
+      },
+      {
+        "id": "48229518",
+        "name": "Show HN: Smithereen – an early-Facebook-style Fediverse server",
+        "url": "https://smithereen.software",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48229518"
+      },
+      {
+        "id": "48227651",
+        "name": "Show HN: Headroom – Loudness normalizer and Key+BPM playlist sorter for DJs",
+        "url": "https://headroom.ravers.workers.dev/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48227651"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/file72",
+        "name": "File72",
+        "description": "Upload and share files instantly with no signup",
+        "url": "https://betalist.com/startups/file72"
+      },
+      {
+        "id": "/startups/prizmad",
+        "name": "Prizmad",
+        "description": "Generate AI UGC video ads from any product URL in 5 minutes",
+        "url": "https://betalist.com/startups/prizmad"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/who-owes-what?post=hV6SCRVvQ3ZgpHMp4NVu",
+        "title": "Introducing Who Owes What",
+        "url": "https://www.indiehackers.com/product/who-owes-what?post=hV6SCRVvQ3ZgpHMp4NVu",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/product-hunt-is-done-i-have-1-sign-up-and-0-mrr-heres-how-i-m-thinking-about-finding-my-first-paying-customer-a057ad34dc",
+        "title": "Product Hunt is done. I have 1 sign-up and $0 MRR. Here's how I'm thinking about finding my first paying customer.",
+        "url": "https://www.indiehackers.com/post/product-hunt-is-done-i-have-1-sign-up-and-0-mrr-heres-how-i-m-thinking-about-finding-my-first-paying-customer-a057ad34dc",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=WrKXtCwhsGQ5vORZvQao",
+        "title": "IbexAI: How to do LinkedIn outreach without getting banned",
+        "url": "https://www.indiehackers.com/product/ibexai?post=WrKXtCwhsGQ5vORZvQao",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=nBIY7bAJrGjVnL663DAc",
+        "title": "Pterocos - a HTML Online Editor with AI chat and ability to share codes",
+        "url": "https://www.indiehackers.com/product/pterocos?post=nBIY7bAJrGjVnL663DAc",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
