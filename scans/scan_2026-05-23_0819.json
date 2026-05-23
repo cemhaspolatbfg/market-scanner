@@ -1,0 +1,219 @@
+{
+  "scan_time": "2026-05-23T08:19:30.836853+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "testsprite-3-0",
+        "name": "TestSprite 3.0",
+        "tagline": "Let a fleet of parallel agents test your app in minutes",
+        "description": "TestSprite generates and runs end-to-end tests for your app, autonomously. For backend, we can now generate complex integration tests with dynamic variables, auto-cleanup, and Data Flow debugging. For frontend, we now send a fleet of parallel AI agents to explore your app first — clicking through every feature like real users, then feeding results into testing. We're the first to do this. 3.0 also adds auto-heal for UI drift, auto-auth for regression, and a CLI for Claude Code, Codex users.",
+        "votes": 413,
+        "ph_url": "https://www.producthunt.com/posts/testsprite-3-0",
+        "website": "https://www.producthunt.com/r/DP36SVO3Y3LMV7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48234287",
+        "name": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+        "url": "https://github.com/unprovable/ShadowCat",
+        "points": 143,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=48234287"
+      },
+      {
+        "id": "48237415",
+        "name": "Show HN: Pablo – a Chrome extension that copies UI from any website",
+        "url": "https://www.usepablo.dev/",
+        "points": 22,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48237415"
+      },
+      {
+        "id": "48236762",
+        "name": "Show HN: Prisma Next – data contracts, migration graphs, agent DX",
+        "url": "https://github.com/prisma/prisma-next",
+        "points": 13,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48236762"
+      },
+      {
+        "id": "48238256",
+        "name": "Show HN: Darnix – Darwin Built with Nix",
+        "url": "https://github.com/jonhermansen/darnix",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48238256"
+      },
+      {
+        "id": "48244649",
+        "name": "Show HN: Waiting for AI Grand Prix racing SIM? Me too So I made one",
+        "url": "https://github.com/elodin-sys/ai-grand-prix",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48244649"
+      },
+      {
+        "id": "48234050",
+        "name": "Show HN: I made an open-source memory layer for agents",
+        "url": "https://agentrecall.cloud",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48234050"
+      },
+      {
+        "id": "48233886",
+        "name": "Show HN: We're building an open-source battery [video]",
+        "url": "https://www.youtube.com/watch?v=xhWBX1eLDr8",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48233886"
+      },
+      {
+        "id": "48241066",
+        "name": "Show HN: OpenRig – a control plane for multi-agent coding topologies",
+        "url": "https://www.openrig.dev/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48241066"
+      },
+      {
+        "id": "48236505",
+        "name": "Show HN: A botless meeting recorder and summarizer that runs in the browser",
+        "url": "https://wocal.app",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48236505"
+      },
+      {
+        "id": "48238555",
+        "name": "Show HN: Mechs.lol – a free, web-based autoshooter game",
+        "url": "https://mechs.lol",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48238555"
+      },
+      {
+        "id": "48241139",
+        "name": "Show HN: Datapoint AI – Make Something People Want, but Ask Them First",
+        "url": "https://trydatapoint.com",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48241139"
+      },
+      {
+        "id": "48239954",
+        "name": "Show HN: Compose-to-Cloud Pulumi Providers for AWS, GCP, and Azure",
+        "url": "https://github.com/DefangLabs/pulumi-defang",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48239954"
+      },
+      {
+        "id": "48241225",
+        "name": "Show HN: Coder Words – An offline-first PWA word puzzle for programmers",
+        "url": "https://7coderwords.kenamick.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48241225"
+      },
+      {
+        "id": "48242554",
+        "name": "Show HN: Logatory – local-first log analysis and threat detection, no SIEM",
+        "url": "https://github.com/T0nd3/logatory",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48242554"
+      },
+      {
+        "id": "48242151",
+        "name": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+        "url": "https://github.com/secluso/core",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48242151"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/pixo",
+        "name": "Pixo",
+        "description": "Your personal AI agent for long-form video creation",
+        "url": "https://betalist.com/startups/pixo"
+      },
+      {
+        "id": "/startups/tateru-pro",
+        "name": "Tateru Pro",
+        "description": "Real native apps, docs, and sites from a paragraph on your machine",
+        "url": "https://betalist.com/startups/tateru-pro"
+      },
+      {
+        "id": "/startups/filmora",
+        "name": "Filmora",
+        "description": "Create pro videos with AI editing, effects, and 2.9M+ assets",
+        "url": "https://betalist.com/startups/filmora"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-used-30-983-of-ai-tokens-last-month-in-claude-code-on-200-mo-plan-3337a369a6",
+        "title": "I used $30,983 of AI tokens last month in Claude code on $200/mo plan",
+        "url": "https://www.indiehackers.com/post/i-used-30-983-of-ai-tokens-last-month-in-claude-code-on-200-mo-plan-3337a369a6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=8K2QQc6v1fZqqonyMvwz",
+        "title": "LiFast: How I went from 10% to 70% reply rate on LinkedIn in 90 days",
+        "url": "https://www.indiehackers.com/product/lifast?post=8K2QQc6v1fZqqonyMvwz",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/achiv?post=olWT6fetCU2pU0GBMqdJ",
+        "title": "Achiv: I used Claude Code to analyze 100k top-performing Reddit posts",
+        "url": "https://www.indiehackers.com/product/achiv?post=olWT6fetCU2pU0GBMqdJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/after-200-investor-conversations-one-thing-surprised-me-d826ad231d",
+        "title": "After 200+ investor conversations, one thing surprised me",
+        "url": "https://www.indiehackers.com/post/after-200-investor-conversations-one-thing-surprised-me-d826ad231d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/recurflux?post=niFdKBFWDdhWsA04BaXa",
+        "title": "Recurflux: the product that pays for itself.",
+        "url": "https://www.indiehackers.com/product/recurflux?post=niFdKBFWDdhWsA04BaXa",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/dropping-everything-to-seize-a-7-figure-arr-opportunity-g0tOSDReKQ8UqHnVt86T",
+        "title": "Dropping everything to seize a 7-figure-ARR opportunity",
+        "url": "https://www.indiehackers.com/post/tech/dropping-everything-to-seize-a-7-figure-arr-opportunity-g0tOSDReKQ8UqHnVt86T",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
