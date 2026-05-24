@@ -1,0 +1,215 @@
+{
+  "scan_time": "2026-05-24T08:29:10.633567+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "emdash",
+        "name": "Emdash",
+        "tagline": "One app. Every coding agent. Open-source.",
+        "description": "Emdash is an open-source desktop app for running multiple coding agents in parallel; one place to monitor sessions, review diffs, and turn issues into PRs.",
+        "votes": 400,
+        "ph_url": "https://www.producthunt.com/posts/emdash",
+        "website": "https://www.producthunt.com/r/U7NUCTTEX6BM3I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Open Source",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48251511",
+        "name": "Show HN: I turned my dev stack into an alien planet ruled by my dog",
+        "url": "https://bkawa-bot.github.io/planet-maiko/",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48251511"
+      },
+      {
+        "id": "48250237",
+        "name": "Show HN: A satirical idle game about running an AI startup",
+        "url": "https://game.trae.academy/",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48250237"
+      },
+      {
+        "id": "48253048",
+        "name": "Show HN: A platform to find people to jam on side projects with",
+        "url": "https://www.letsjam.live/",
+        "points": 8,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48253048"
+      },
+      {
+        "id": "48250843",
+        "name": "Show HN: Vibe-coded Steam, but in the browser",
+        "url": "https://gameghost.manus.space/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48250843"
+      },
+      {
+        "id": "48248801",
+        "name": "Show HN: I built a RAG and knowledge graph agent that runs locally",
+        "url": "",
+        "points": 7,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48248801"
+      },
+      {
+        "id": "48250231",
+        "name": "Show HN: Running BitNet b1.58 inside DRAM by breaking DDR4 timing rules",
+        "url": "",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48250231"
+      },
+      {
+        "id": "48253318",
+        "name": "Show HN: Play nbsdgames to increase your brain (exclamation mark)",
+        "url": "https://github.com/abakh/nbsdgames",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48253318"
+      },
+      {
+        "id": "48252403",
+        "name": "Show HN: Fruitsy, a slot machine game",
+        "url": "https://fruitsy.surge.sh",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48252403"
+      },
+      {
+        "id": "48247541",
+        "name": "Show HN: Calculator Music – play songs with number keys in the browser",
+        "url": "",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48247541"
+      },
+      {
+        "id": "48246659",
+        "name": "Show HN: I built a powerful RAG and knowledge graph agent that runs locally",
+        "url": "",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48246659"
+      },
+      {
+        "id": "48253740",
+        "name": "Show HN: Slow Code, a monthly meetup to practice coding by hand",
+        "url": "",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48253740"
+      },
+      {
+        "id": "48247718",
+        "name": "Show HN: I build a tool to encourage before reviewing code, review intents",
+        "url": "https://github.com/mainline-org/mainline",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48247718"
+      },
+      {
+        "id": "48254430",
+        "name": "Show HN: Qavvali Wiki",
+        "url": "https://www.qavvali.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48254430"
+      },
+      {
+        "id": "48251238",
+        "name": "Show HN: Mac app that unlocks superpowers for GhostCMS sites",
+        "url": "https://spectersync.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48251238"
+      },
+      {
+        "id": "48250864",
+        "name": "Show HN: nsS3ui – A non sucking GUI for S3",
+        "url": "",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48250864"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/aifreeforever-gpt-5-chatbot",
+        "name": "AIFreeForever GPT 5 chatbot",
+        "description": "Free ChatGPT alternative with no login or signup required",
+        "url": "https://betalist.com/startups/aifreeforever-gpt-5-chatbot"
+      },
+      {
+        "id": "/startups/neurospice",
+        "name": "Neurospice",
+        "description": "Organize your thoughts, simplify writing, and translate instantly",
+        "url": "https://betalist.com/startups/neurospice"
+      },
+      {
+        "id": "/startups/ordo",
+        "name": "Ordo",
+        "description": "Smart earbuds with camera and AI embedded",
+        "url": "https://betalist.com/startups/ordo"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/recurflux?post=0yKelVgZNsi3SlsnbrF8",
+        "title": "Recurflux: your revenue is leaking. this catches it.",
+        "url": "https://www.indiehackers.com/product/recurflux?post=0yKelVgZNsi3SlsnbrF8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8",
+        "title": "30 days ago I posted here with $0 revenue. Here's what actually happened next.",
+        "url": "https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-turned-someone-s-tweet-into-an-app-idea-and-it-has-made-3000-so-far-in-4-months-7d2d0d9a3d",
+        "title": "I turned someone’s tweet into an app idea and it has made ~$3000 so far in 4 months.",
+        "url": "https://www.indiehackers.com/post/i-turned-someone-s-tweet-into-an-app-idea-and-it-has-made-3000-so-far-in-4-months-7d2d0d9a3d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-reddit-post-got-600k-views-heres-exactly-what-i-did-ac4eeb402c",
+        "title": "my reddit post got 600K+ views. here's exactly what i did",
+        "url": "https://www.indiehackers.com/post/my-reddit-post-got-600k-views-heres-exactly-what-i-did-ac4eeb402c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-510-vet-vertical-m-a-data-tool-that-replaces-50k-150k-yr-databases-30-days-14k-targets-full-methodology-0f97bb6f85",
+        "title": "I built a $510 vet-vertical M&A data tool that replaces $50K-150K/yr databases — 30 days, 14K targets, full methodology",
+        "url": "https://www.indiehackers.com/post/i-built-a-510-vet-vertical-m-a-data-tool-that-replaces-50k-150k-yr-databases-30-days-14k-targets-full-methodology-0f97bb6f85",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
