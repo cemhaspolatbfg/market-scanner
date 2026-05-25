@@ -1,0 +1,234 @@
+{
+  "scan_time": "2026-05-25T10:05:20.283481+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "stitch-3-0-by-google",
+        "name": "Stitch 3.0 by Google",
+        "tagline": "Generate and iterate UI screens with AI on a live canvas",
+        "description": "Stitch generates UI screens for mobile and web from text prompts, with streaming edits, in-place AI changes, and one-click export to Figma, Netlify, Lovable, and Bolt. For product designers and developers prototyping fast.",
+        "votes": 450,
+        "ph_url": "https://www.producthunt.com/posts/stitch-3-0-by-google",
+        "website": "https://www.producthunt.com/r/2WIQLRJ4DNSJF5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "User Experience",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "gemini-omni-4",
+        "name": "Gemini Omni",
+        "tagline": "Create anything from any input – starting with video",
+        "description": "Create anything from anything, starting with video. Gemini Omni is where Gemini’s ability to reason meets the ability to create. It delivers a leap in world understanding, multimodality, and editing.",
+        "votes": 374,
+        "ph_url": "https://www.producthunt.com/posts/gemini-omni-4",
+        "website": "https://www.producthunt.com/r/ENOAWGG27PYBQE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48258015",
+        "name": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+        "url": "https://audiomass.co/?multitrack=1",
+        "points": 367,
+        "comments": 81,
+        "hn_url": "https://news.ycombinator.com/item?id=48258015"
+      },
+      {
+        "id": "48256520",
+        "name": "Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)",
+        "url": "https://codeberg.org/hydrafog/kanban",
+        "points": 12,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48256520"
+      },
+      {
+        "id": "48257715",
+        "name": "Show HN: The Front Page – Newspaper-style front page for Hacker News",
+        "url": "https://thefrontpage.dev/",
+        "points": 12,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48257715"
+      },
+      {
+        "id": "48264635",
+        "name": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+        "url": "https://www.tinyvolt.com/geomatic",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48264635"
+      },
+      {
+        "id": "48260645",
+        "name": "Show HN: Voxxy – a minimal, fast voice-to-text app for macOS",
+        "url": "https://www.voxxy.io",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48260645"
+      },
+      {
+        "id": "48264162",
+        "name": "Show HN: A deep dive into Kubernetes internals",
+        "url": "https://semicolony.dev/codex/kubernetes/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48264162"
+      },
+      {
+        "id": "48261533",
+        "name": "Show HN: Local note engine uses LLM to organize notes into a knowledge graph",
+        "url": "https://github.com/AlexWasHeree/NoteCast",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48261533"
+      },
+      {
+        "id": "48257337",
+        "name": "Show HN: CPU-only fast OCR for screenshots, images, PDFs, webpages",
+        "url": "https://github.com/kouhxp/textsnap",
+        "points": 4,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48257337"
+      },
+      {
+        "id": "48258183",
+        "name": "Show HN: Strudel – Generate commit messages via Apple's on-device LLM",
+        "url": "https://github.com/Mechse/strudel",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48258183"
+      },
+      {
+        "id": "48265035",
+        "name": "Show HN: I Built a Debugging Challenge for the AI Coding Age",
+        "url": "https://theincidentchallenge.com/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48265035"
+      },
+      {
+        "id": "48262142",
+        "name": "Show HN: JavaScript Crossword – a crossword where the clue = eval(answer)",
+        "url": "https://lyra.horse/fun/jscrossword/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48262142"
+      },
+      {
+        "id": "48261390",
+        "name": "Show HN: My homelab is outperforming the stock market",
+        "url": "https://stocks.sjer.red",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48261390"
+      },
+      {
+        "id": "48260942",
+        "name": "Show HN: Replacing a 3.4MB video with 40kb of GSAP",
+        "url": "https://spanthi.com/blog/gsap-choreography/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48260942"
+      },
+      {
+        "id": "48256017",
+        "name": "Show HN: My first app, artisanally vibe-coded in 4 months",
+        "url": "https://mijn-travelly.nl/en/",
+        "points": 3,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48256017"
+      },
+      {
+        "id": "48260789",
+        "name": "Show HN: Treasury – Ask your money anything",
+        "url": "https://treasury.sh/",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48260789"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/nullstep",
+        "name": "Nullstep",
+        "description": "Type a goal and get an AI execution plan in seconds",
+        "url": "https://betalist.com/startups/nullstep"
+      },
+      {
+        "id": "/startups/orcflo",
+        "name": "ORCFLO",
+        "description": "Drag, drop, and run agentic AI workflows without code",
+        "url": "https://betalist.com/startups/orcflo"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/after-200-investor-conversations-i-started-noticing-3-very-different-types-of-investors-b1531b3a19",
+        "title": "After 200+ investor conversations, I started noticing 3 very different types of investors",
+        "url": "https://www.indiehackers.com/post/after-200-investor-conversations-i-started-noticing-3-very-different-types-of-investors-b1531b3a19",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=HlgLhuBXeccz31OlNbNs",
+        "title": "LiFast: How I went from 0 to 11 inbound leads per month without posting daily",
+        "url": "https://www.indiehackers.com/product/lifast?post=HlgLhuBXeccz31OlNbNs",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=CenMU83ZMfXKQNZmFyPD",
+        "title": "Pterocos - HTML Online Editor with AI chat Im looking for feedbacks! and people interested to work with me note it's non-profit",
+        "url": "https://www.indiehackers.com/product/pterocos?post=CenMU83ZMfXKQNZmFyPD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-3-months-posting-links-on-reddit-before-i-learned-the-platform-doesnt-work-that-way-f86690b224",
+        "title": "I spent 3 months posting links on Reddit before I learned the platform doesn't work that way",
+        "url": "https://www.indiehackers.com/post/i-spent-3-months-posting-links-on-reddit-before-i-learned-the-platform-doesnt-work-that-way-f86690b224",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aeo-audit-pro?post=xv40nBFSrxSpaFJVK1lS",
+        "title": "AEO Audit Pro: SEO is dead for my tech stack. So I built an AEO (Answer Engine Optimization) audit tool.",
+        "url": "https://www.indiehackers.com/product/aeo-audit-pro?post=xv40nBFSrxSpaFJVK1lS",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/does-anyone-else-waste-hours-every-monday-checking-competitor-websites-842cacf3b5",
+        "title": "Does anyone else waste hours every Monday checking competitor websites?",
+        "url": "https://www.indiehackers.com/post/does-anyone-else-waste-hours-every-monday-checking-competitor-websites-842cacf3b5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-to-spot-high-intent-customers-in-5-minutes-for-free-bb3153caa6",
+        "title": "How to spot high-intent customers in 5 minutes, for free.",
+        "url": "https://www.indiehackers.com/post/how-to-spot-high-intent-customers-in-5-minutes-for-free-bb3153caa6",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
