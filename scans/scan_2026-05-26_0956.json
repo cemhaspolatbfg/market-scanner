@@ -1,0 +1,243 @@
+{
+  "scan_time": "2026-05-26T09:55:56.171691+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "unabyss",
+        "name": "Unabyss",
+        "tagline": "MCP-native self-updating context layer for your AI",
+        "description": "Set it up once and never re-explain yourself to AI again. Connect the apps you use daily - Unabyss will extract, structure, and update your context automatically. Share it with any AI tool via MCP, with granular control over what each tool can see.",
+        "votes": 612,
+        "ph_url": "https://www.producthunt.com/posts/unabyss",
+        "website": "https://www.producthunt.com/r/3EY2VAEXSWTXAR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "own-page",
+        "name": "own.page",
+        "tagline": "Make your own personal website with bento tiles",
+        "description": "own.page helps creators and founders build a beautiful link-in-bio that feels alive - more like a personal website than just a list of links. Build a page in under a minute, customize it your way, add powerful widgets and integrations, understand your visitors, and grow your audience from one place.",
+        "votes": 528,
+        "ph_url": "https://www.producthunt.com/posts/own-page",
+        "website": "https://www.producthunt.com/r/MG5MNTMYZSEPJI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Network",
+          "Social Media",
+          "Website Builder"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "cleo-4",
+        "name": "Cleo",
+        "tagline": "The AI PM that runs your team",
+        "description": "Cleo is the AI product manager for founders and lean teams. It lives in Telegram and Slack - learns your tone, knows your team, and runs the PM work (standups, follow-ups, decisions) while you ship the product. What's different: every fact Cleo learns is transparent - you see the source, the confidence, and can confirm or correct it. No black-box memory. Five trust levels, from observer to operator. Free in Telegram. 1 min setup",
+        "votes": 376,
+        "ph_url": "https://www.producthunt.com/posts/cleo-4",
+        "website": "https://www.producthunt.com/r/UEIFHO7XED74LR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Alpha"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48272393",
+        "name": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+        "url": "https://github.com/tantara/openbrief",
+        "points": 62,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48272393"
+      },
+      {
+        "id": "48266698",
+        "name": "Show HN: Volt – front end tooling for Phoenix that runs inside the BEAM",
+        "url": "https://github.com/elixir-volt/volt",
+        "points": 19,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48266698"
+      },
+      {
+        "id": "48271942",
+        "name": "Show HN: Fungible – A local personal finance app in the terminal",
+        "url": "https://github.com/tomfunk/fungible",
+        "points": 13,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48271942"
+      },
+      {
+        "id": "48267938",
+        "name": "Show HN: PhoneDiffusion – Local AI image generation for iOS",
+        "url": "https://apps.apple.com/us/app/phonediffusion/id6762061991",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48267938"
+      },
+      {
+        "id": "48270325",
+        "name": "Show HN: YourMemory, persistent memory layer with temporal reasoning for agents",
+        "url": "",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48270325"
+      },
+      {
+        "id": "48271937",
+        "name": "Show HN: Unsiloed AI – #1 on olmOCR-Bench",
+        "url": "",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48271937"
+      },
+      {
+        "id": "48271283",
+        "name": "Show HN: TryPost – open-source Social Media Scheduler",
+        "url": "https://trypost.it/en",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48271283"
+      },
+      {
+        "id": "48275571",
+        "name": "Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code",
+        "url": "https://github.com/human-avatar/skills-for-humanity",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48275571"
+      },
+      {
+        "id": "48269679",
+        "name": "Show HN: Cursed Browser – a VLM reads the HTML and hallucinates the page",
+        "url": "https://github.com/scosman/cursed_browser",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48269679"
+      },
+      {
+        "id": "48274336",
+        "name": "Show HN: Pgcraft – a lazygit-style TUI for Postgres",
+        "url": "https://github.com/lucasfrederico/pgcraft",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48274336"
+      },
+      {
+        "id": "48268406",
+        "name": "Show HN: Hackobar – One feed for AI news",
+        "url": "https://hackobar.com/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48268406"
+      },
+      {
+        "id": "48266404",
+        "name": "Show HN: docs-cli - coding-agent project state in Markdown",
+        "url": "https://artrichards.github.io/agent-playbook-suite/blog/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48266404"
+      },
+      {
+        "id": "48266239",
+        "name": "Show HN: My biggest solo-project: Game engine with its own programming language",
+        "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48266239"
+      },
+      {
+        "id": "48272788",
+        "name": "Show HN: Nerve – self hosted runtime for AI agents",
+        "url": "https://github.com/ClickHouse/nerve",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48272788"
+      },
+      {
+        "id": "48271566",
+        "name": "Show HN: Built a tool to create brand-consistent images using AI",
+        "url": "https://inktag.io",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48271566"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/polymemo",
+        "name": "Polymemo",
+        "description": "Publish once and reach global readers with community-funded translations",
+        "url": "https://betalist.com/startups/polymemo"
+      },
+      {
+        "id": "/startups/agentswarms",
+        "name": "AgentSwarms",
+        "description": "Learn to build AI agents in your browser with guided live lessons",
+        "url": "https://betalist.com/startups/agentswarms"
+      },
+      {
+        "id": "/startups/rewire-abroad",
+        "name": "Rewire Abroad",
+        "description": "Rank cities by budget and lifestyle to live, work, and retire abroad",
+        "url": "https://betalist.com/startups/rewire-abroad"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/fixing-broken-scrapers-instead-of-working-on-my-actual-product-so-i-made-it-my-problem-64494863c2",
+        "title": "Fixing broken scrapers instead of working on my actual product. So I made it my problem.",
+        "url": "https://www.indiehackers.com/post/fixing-broken-scrapers-instead-of-working-on-my-actual-product-so-i-made-it-my-problem-64494863c2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aethr?post=wpaMObHavsDtAeK330fl",
+        "title": "I got tired of Productivity Apps, so I started building AETHR",
+        "url": "https://www.indiehackers.com/product/aethr?post=wpaMObHavsDtAeK330fl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/achiv?post=biiy07VjoX0qaiClGeAY",
+        "title": "Achiv: +90 users in 7 days - Just Craft Your Posts like LEGO",
+        "url": "https://www.indiehackers.com/product/achiv?post=biiy07VjoX0qaiClGeAY",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/everyone-said-don-t-build-in-payment-recovery-ae9a323375",
+        "title": "Everyone said \"don't build in payment recovery.\"",
+        "url": "https://www.indiehackers.com/post/everyone-said-don-t-build-in-payment-recovery-ae9a323375",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=kBAEqbh8cDRRWSYLcIkk",
+        "title": "Pterocos: HTML CSS JS Online Editor with AI builder for free!",
+        "url": "https://www.indiehackers.com/product/pterocos?post=kBAEqbh8cDRRWSYLcIkk",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
