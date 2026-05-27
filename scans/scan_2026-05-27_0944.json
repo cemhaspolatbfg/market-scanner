@@ -1,0 +1,247 @@
+{
+  "scan_time": "2026-05-27T09:44:43.505529+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "brew-4",
+        "name": "Brew ",
+        "tagline": "Like Claude design for email marketing",
+        "description": "Brew is the fastest way to design and send beautiful, on-brand emails and automations that render perfectly in every inbox. Describe a campaign or a multi-step automation in plain English, and Brew builds the whole thing in seconds: copy, design, audience, and logic. Works with any AI agent: paste our docs into OpenClaw, Viktor, Claude, or Lovable. No lock-in: send from Brew or export to your ESP. Free to get started.",
+        "votes": 661,
+        "ph_url": "https://www.producthunt.com/posts/brew-4",
+        "website": "https://www.producthunt.com/r/3Q7DPTEXUJAFUG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Email Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "bond-716",
+        "name": "Bond",
+        "tagline": "Outbound campaigns powered by real buying signals",
+        "description": "Bond is your AI GTM Engineer. Tell it who you want to reach. It builds the audience, plans the campaign, writes the messaging, and executes it end to end. Every data provider and outreach tool you need, in one workflow. Build your first campaign in 15 minutes.",
+        "votes": 383,
+        "ph_url": "https://www.producthunt.com/posts/bond-716",
+        "website": "https://www.producthunt.com/r/H7KRMGFGCJKRRE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Sales",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "yansu",
+        "name": "Yansu",
+        "tagline": "AI that learns how you work and turns it into software",
+        "description": "Yanshu learns from the work you already do. It spots repeated tasks across files, messages, and workflows, then turns the best patterns into apps and automations. No process mapping or blank canvas—just the routines worth systemizing. Use it to automate recurring work, build lightweight internal tools, and speed up daily ops without writing code.",
+        "votes": 348,
+        "ph_url": "https://www.producthunt.com/posts/yansu",
+        "website": "https://www.producthunt.com/r/YAPEOVBKBZUMNZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Maker Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "mintlify-workflows-2",
+        "name": "Mintlify Workflows",
+        "tagline": "Self-updating knowledge bases",
+        "description": "Keep your docs moving as fast as your product. Mintlify Workflows lets teams turn on pre-built automations that update knowledge bases, generate changelogs, maintain translations, and handle repetitive documentation tasks whenever triggered. Instead of chasing every product change manually, teams can set up Workflows once and let Mintlify keep docs accurate, current, and ready for users.",
+        "votes": 335,
+        "ph_url": "https://www.producthunt.com/posts/mintlify-workflows-2",
+        "website": "https://www.producthunt.com/r/3CNKWNRFX4MONH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Notes",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48281983",
+        "name": "Show HN: A website that tracks every stock trade Congress makes",
+        "url": "https://congress.kadoa.com/",
+        "points": 33,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48281983"
+      },
+      {
+        "id": "48289624",
+        "name": "Show HN: Posthorn, self-hosted mail without the mail server",
+        "url": "https://github.com/craigmccaskill/posthorn",
+        "points": 26,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=48289624"
+      },
+      {
+        "id": "48290462",
+        "name": "Show HN: GoPeek – open links in live mini browser windows without new tabs",
+        "url": "https://guptalog.substack.com/p/gopeek-open-links-in-live-mini-browser",
+        "points": 20,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48290462"
+      },
+      {
+        "id": "48281066",
+        "name": "Show HN: MCPs aren't enough, give Codex/Claude accurate memory of everything",
+        "url": "https://timeglass.ai",
+        "points": 16,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48281066"
+      },
+      {
+        "id": "48285727",
+        "name": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
+        "url": "https://github.com/Alcray/SlopeAutoAcceptor",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48285727"
+      },
+      {
+        "id": "48283108",
+        "name": "Show HN: Cross-agent messaging and shared memory over the local filesystem",
+        "url": "https://oacp.dev",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48283108"
+      },
+      {
+        "id": "48281606",
+        "name": "Show HN: NeuroFlow 55.8x video inference speedup for Vision Transformers PyTorch",
+        "url": "https://github.com/ynnk-research/-NeuroFlow",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48281606"
+      },
+      {
+        "id": "48285654",
+        "name": "Show HN: DDoS detection in 500 lines of Python (MIT, no cloud, no account)",
+        "url": "https://github.com/Flowtriq/ftagent-lite",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48285654"
+      },
+      {
+        "id": "48281180",
+        "name": "Show HN: We made a cinematic heist trailer with 4 AI models for $60",
+        "url": "https://medium.com/@jpelton722/we-made-a-cinematic-heist-trailer-with-ai-for-60-heres-exactly-how-4d4266c59a59",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48281180"
+      },
+      {
+        "id": "48289698",
+        "name": "Show HN: Tasmap – Canva for Maps",
+        "url": "https://tasmap.app/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48289698"
+      },
+      {
+        "id": "48279725",
+        "name": "Show HN: Sifter – Does your CV *actually* stand out to LLMs?",
+        "url": "https://www.sifter.sh/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48279725"
+      },
+      {
+        "id": "48283695",
+        "name": "Show HN: An LLM translator whose source is a single prompt",
+        "url": "https://github.com/hamsterbase/llm-translator",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48283695"
+      },
+      {
+        "id": "48283004",
+        "name": "Show HN: I used AI to built static recompilers for 5 retro game systems",
+        "url": "https://1379.tech/nes-snes-genesis-virtualboy-and-psx-a-journey-with-ai-and-recompilation/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48283004"
+      },
+      {
+        "id": "48280546",
+        "name": "Show HN: I open-sourced two AI agents with real memory (chat and voice, MIT)",
+        "url": "https://github.com/SynapCores/synapcores-agent",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48280546"
+      },
+      {
+        "id": "48277539",
+        "name": "Show HN: Judicex – Open-source legal AI that abstains instead of hallucinating",
+        "url": "https://github.com/JustVugg/judicex",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48277539"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/adapt",
+        "name": "Adapt",
+        "description": "The universal AI agent for work",
+        "url": "https://betalist.com/startups/adapt"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/solo-dev-here-nobody-using-my-app-how-do-you-actually-do-marketing-4e4bfad079",
+        "title": "Solo dev here. nobody using my app. how do you actually do marketing?",
+        "url": "https://www.indiehackers.com/post/solo-dev-here-nobody-using-my-app-how-do-you-actually-do-marketing-4e4bfad079",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=6QH3hh1iwRhG6uDA62Nw",
+        "title": "Pterocos: HTML CSS JS Online Editor with AI builder for free!",
+        "url": "https://www.indiehackers.com/product/pterocos?post=6QH3hh1iwRhG6uDA62Nw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/from-0-to-23-global-regions-in-60-days-heres-how-i-built-pingsla-ai-generated-saas-for-uptime-monitoring-b16bbde219",
+        "title": "From 0 to 23 Global Regions in 60 Days — Here's How I Built Pingsla (AI-Generated SaaS for Uptime Monitoring)",
+        "url": "https://www.indiehackers.com/post/from-0-to-23-global-regions-in-60-days-heres-how-i-built-pingsla-ai-generated-saas-for-uptime-monitoring-b16bbde219",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-open-source-pii-masking-layer-for-llm-apis-early-traction-looking-for-design-partners-456fd4ac38",
+        "title": "I built an open-source PII masking layer for LLM APIs — early traction, looking for design partners",
+        "url": "https://www.indiehackers.com/post/i-built-an-open-source-pii-masking-layer-for-llm-apis-early-traction-looking-for-design-partners-456fd4ac38",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/from-zero-to-10k-mo-app-portfolio-in-a-year-71h2PPGYn1VnPOkj9qi6",
+        "title": "From zero to $10k/mo app portfolio in a year",
+        "url": "https://www.indiehackers.com/post/tech/from-zero-to-10k-mo-app-portfolio-in-a-year-71h2PPGYn1VnPOkj9qi6",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 1
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
