@@ -1,0 +1,223 @@
+{
+  "scan_time": "2026-05-28T10:01:08.985425+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "powabase",
+        "name": "Powabase",
+        "tagline": "Build AI apps with Postgres, RAG, and agents",
+        "description": "Powabase is a backend-as-a-service for AI-native applications, combining Postgres, RAG, agents, memory, workflows, and automation primitives in one platform. It helps agencies and in-house IT teams build new AI apps or add AI automation to existing products without stitching together fragmented infrastructure. Designed to work seamlessly with modern coding agents, Powabase helps teams ship faster while building more robust, token-efficient systems.",
+        "votes": 418,
+        "ph_url": "https://www.producthunt.com/posts/powabase",
+        "website": "https://www.producthunt.com/r/6BBPF3XTDL5C2Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Database"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "bluedot-2-1",
+        "name": "Bluedot 2.1",
+        "tagline": "Record on Apple Watch. Sync with Claude",
+        "description": "Bluedot 2.1 brings your real-world conversations into Claude. Record conversations directly from your Apple Watch, then sync them with Claude through MCP. Capture customer calls, hallway chats, interviews, coffee meetings, and in-person conversations, without a laptop or meeting bot. Bluedot turns every conversation into searchable, AI-ready context that Claude can summarize, search, and act on.",
+        "votes": 407,
+        "ph_url": "https://www.producthunt.com/posts/bluedot-2-1",
+        "website": "https://www.producthunt.com/r/FBQTRS2UMIX3RW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Android",
+          "Apple Watch",
+          "Productivity"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48295071",
+        "name": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+        "url": "https://tinycld.org/",
+        "points": 98,
+        "comments": 33,
+        "hn_url": "https://news.ycombinator.com/item?id=48295071"
+      },
+      {
+        "id": "48294791",
+        "name": "Show HN: I made an emergency page for my family",
+        "url": "https://help.delduca.org",
+        "points": 70,
+        "comments": 94,
+        "hn_url": "https://news.ycombinator.com/item?id=48294791"
+      },
+      {
+        "id": "48300280",
+        "name": "Show HN: Open-Source AI Racing Harness",
+        "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+        "points": 36,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48300280"
+      },
+      {
+        "id": "48295068",
+        "name": "Show HN: Filemat – an open-source web-based file manager",
+        "url": "https://github.com/bingud/filemat",
+        "points": 17,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=48295068"
+      },
+      {
+        "id": "48296503",
+        "name": "Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU",
+        "url": "https://daydreamlive.github.io/DEMON/",
+        "points": 17,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48296503"
+      },
+      {
+        "id": "48293253",
+        "name": "Show HN: CoreTex – An Open-Source, Unix-like, biomimetic, flat-file AI Harness",
+        "url": "https://github.com/mrdanielcasper/CoreTex",
+        "points": 15,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48293253"
+      },
+      {
+        "id": "48293674",
+        "name": "Show HN: Game Boy pixel pipeline explorer",
+        "url": "https://pixelpipeline.xyz",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48293674"
+      },
+      {
+        "id": "48296828",
+        "name": "Show HN: Hm – a task runner with a Python DSL, growing into a CI/CD system",
+        "url": "https://github.com/harmont-dev/harmont-cli",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48296828"
+      },
+      {
+        "id": "48297491",
+        "name": "Show HN: Claude Code's $200 plan is a 17× subsidy on the raw API",
+        "url": "https://github.com/Coral-Bricks-AI/coral-ai/tree/main/claude-code-token-xray",
+        "points": 9,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48297491"
+      },
+      {
+        "id": "48300485",
+        "name": "Show HN: VAEN – Package and import portable AI coding-agent Harnesses",
+        "url": "https://github.com/sjhalani7/vaen",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48300485"
+      },
+      {
+        "id": "48293538",
+        "name": "Show HN: Map drawing tool where the map lives in the URL",
+        "url": "https://drawonamap.com/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48293538"
+      },
+      {
+        "id": "48292937",
+        "name": "Show HN: Gave Claude Code ADHD.. Now it thinks 3x better",
+        "url": "https://adhdstack.github.io/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48292937"
+      },
+      {
+        "id": "48300285",
+        "name": "Show HN: Open-source alternative to Duolingo for learning anything",
+        "url": "https://www.zoonk.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48300285"
+      },
+      {
+        "id": "48305934",
+        "name": "Show HN: LaunchPact – get upvotes for your ProductHunt launch",
+        "url": "https://www.launchpact.io",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48305934"
+      },
+      {
+        "id": "48296569",
+        "name": "Show HN: Workplane – collaborative filesystem for humans and AI",
+        "url": "https://workplane.co",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48296569"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/floorplanai",
+        "name": "FloorPlan AI",
+        "description": "Turn text into 2D and 3D floor plans in seconds for home and real estate",
+        "url": "https://betalist.com/startups/floorplanai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-to-see-revenue-problems-before-they-get-worse-69047ad0ad",
+        "title": "How to see revenue problems before they get worse",
+        "url": "https://www.indiehackers.com/post/how-to-see-revenue-problems-before-they-get-worse-69047ad0ad",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=9RJ7xcVVdbyXxP8dJt6N",
+        "title": "IbexAI: How I get 39.6% reply rate on my LinkedIn outreach",
+        "url": "https://www.indiehackers.com/product/ibexai?post=9RJ7xcVVdbyXxP8dJt6N",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/24-hours-from-launch-heres-the-one-thing-i-m-nervous-about-3e626473a8",
+        "title": "24 hours from launch — here's the one thing I'm nervous about",
+        "url": "https://www.indiehackers.com/post/24-hours-from-launch-heres-the-one-thing-i-m-nervous-about-3e626473a8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/backchannels?post=3fV3frSSgnfivyMhlTHV",
+        "title": "Backchannels: Launched today: built an alternative to spray-and-pray outbound. Here's the stack, the burn, and the day-1 numbers.",
+        "url": "https://www.indiehackers.com/product/backchannels?post=3fV3frSSgnfivyMhlTHV",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/prboard-2?post=wvN9rOSXYZuFO5u4Ci8x",
+        "title": "PRBoard: I built a leaderboard for code reviews. My team hated it. Then they got addicted.",
+        "url": "https://www.indiehackers.com/product/prboard-2?post=wvN9rOSXYZuFO5u4Ci8x",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-posted-on-r-sideproject-asking-if-indie-sites-are-invisible-on-ai-search-the-comments-were-more-useful-than-i-expected-259b70f4ee",
+        "title": "I posted on r/SideProject asking if indie sites are invisible on AI search. The comments were more useful than I expected.",
+        "url": "https://www.indiehackers.com/post/i-posted-on-r-sideproject-asking-if-indie-sites-are-invisible-on-ai-search-the-comments-were-more-useful-than-i-expected-259b70f4ee",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 1
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
