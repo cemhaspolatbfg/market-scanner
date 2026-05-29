@@ -1,0 +1,235 @@
+{
+  "scan_time": "2026-05-29T09:54:04.280117+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "pancake-6",
+        "name": "Pancake",
+        "tagline": "OpenClaw in Slack that makes your company autonomous",
+        "description": "Every other AI product is a tool that makes you more productive. A copilot. An assistant. A coworker. Something you use. Pancake makes your company autonomous. Agents with roles, goals, and a heartbeat working while you sleep. You set direction, approve the irreversible, the rest runs. Prepare yourself to be prompted by Pancake.",
+        "votes": 518,
+        "ph_url": "https://www.producthunt.com/posts/pancake-6",
+        "website": "https://www.producthunt.com/r/AYXK7CGT2LEPGB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Slack",
+          "Artificial Intelligence",
+          "Maker Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "spotsnow",
+        "name": "SpotsNow",
+        "tagline": "Track who's advertising across podcasts w/ campaign insights",
+        "description": "Track who's advertising on every podcast, what they're spending, and where their campaigns are running — then buy open inventory directly from publishers, all in one place. The competitive intelligence layer for podcast ads.",
+        "votes": 483,
+        "ph_url": "https://www.producthunt.com/posts/spotsnow",
+        "website": "https://www.producthunt.com/r/IXZOC4RHEEXJVY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Analytics",
+          "Advertising",
+          "Radio"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48308376",
+        "name": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "url": "https://llmgame.scalex.dev",
+        "points": 322,
+        "comments": 133,
+        "hn_url": "https://news.ycombinator.com/item?id=48308376"
+      },
+      {
+        "id": "48309986",
+        "name": "Show HN: Ktx – Open-source executable context layer for data agents",
+        "url": "https://github.com/Kaelio/ktx",
+        "points": 75,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48309986"
+      },
+      {
+        "id": "48307849",
+        "name": "Show HN: LiteParse v2, now in Rust 100x faster",
+        "url": "https://github.com/run-llama/liteparse/",
+        "points": 13,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48307849"
+      },
+      {
+        "id": "48307438",
+        "name": "Show HN: Local Coding Agent with LLMs to Delegate Tool Calls to Small AI Models",
+        "url": "https://github.com/district-solutions/open-agent-tools-coder",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48307438"
+      },
+      {
+        "id": "48313364",
+        "name": "Show HN: LINQ CLI – an iMessage API you can use from the command line",
+        "url": "https://linqapp.com/cli",
+        "points": 8,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48313364"
+      },
+      {
+        "id": "48309273",
+        "name": "Show HN: Multiplayer, a debugging agent to run locally next to your coding agent",
+        "url": "https://www.multiplayer.app/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48309273"
+      },
+      {
+        "id": "48309229",
+        "name": "Show HN: Beacon CLI for self-hosted monitoring, remote access and deployments",
+        "url": "https://github.com/Bajusz15/beacon",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48309229"
+      },
+      {
+        "id": "48317997",
+        "name": "Show HN: htop for the airwaves — a live 802.11 RF dashboard in your terminal",
+        "url": "https://github.com/yeet-src/airtop",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48317997"
+      },
+      {
+        "id": "48309288",
+        "name": "Show HN: Tunnel.to – dead simple localhost reverse tunnels",
+        "url": "https://tunnel.to",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48309288"
+      },
+      {
+        "id": "48312436",
+        "name": "Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
+        "url": "https://github.com/enumura1/py-sql-cleaner",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48312436"
+      },
+      {
+        "id": "48315903",
+        "name": "Show HN: Imagine Kickstarter, but doubters get paid if the project flops",
+        "url": "https://trypieces.com/p/as9wuvhp1qwb4NvpMGG2FU",
+        "points": 4,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48315903"
+      },
+      {
+        "id": "48306851",
+        "name": "Show HN: The Anatomy of an LLM (interactive explainer)",
+        "url": "https://www.royvanrijn.com/anatomy-of-an-llm/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48306851"
+      },
+      {
+        "id": "48314608",
+        "name": "Show HN: Scrolodex – A super simple window switcher for macOS",
+        "url": "https://scrolodex.app/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48314608"
+      },
+      {
+        "id": "48314162",
+        "name": "Show HN: Tokenscope – see what your Claude Code session cost",
+        "url": "https://github.com/wartzar-bee/tokenscope",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48314162"
+      },
+      {
+        "id": "48311305",
+        "name": "Show HN: AgentSite – Same bytes to every visitor; Markdown twin at <body> top",
+        "url": "https://agentsite.app/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48311305"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/timequorum",
+        "name": "TimeQuorum",
+        "description": "Track time across clients and projects, then invoice with one click",
+        "url": "https://betalist.com/startups/timequorum"
+      },
+      {
+        "id": "/startups/pactbet",
+        "name": "PactBet",
+        "description": "Stake real money on goals with friends and get paid when you show up",
+        "url": "https://betalist.com/startups/pactbet"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/validating-a-startup-idea-ai-helps-us-ship-code-faster-but-who-makes-sure-the-business-data-is-still-correct-fab4105c9e",
+        "title": "Validating an idea: AI helps us ship code, but who verifies the business data?",
+        "url": "https://www.indiehackers.com/post/validating-a-startup-idea-ai-helps-us-ship-code-faster-but-who-makes-sure-the-business-data-is-still-correct-fab4105c9e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/feedovate?post=1V4nDqMQtFpV9Q3BLGvt",
+        "title": "Feedovate: We built a place for small teams to listen to users and share progress, would love your thoughts",
+        "url": "https://www.indiehackers.com/product/feedovate?post=1V4nDqMQtFpV9Q3BLGvt",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-recurflux-made-me-realize-how-many-saas-founders-cannot-explain-their-own-churn-74706f5537",
+        "title": "Building recurflux made me realize how many SaaS founders cannot explain their own churn",
+        "url": "https://www.indiehackers.com/post/building-recurflux-made-me-realize-how-many-saas-founders-cannot-explain-their-own-churn-74706f5537",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-4-months-building-a-real-estate-marketplace-buyers-came-agents-didnt-here-s-what-i-figured-out-too-late-baac09ef1b",
+        "title": "I spent 4 months building a real estate marketplace. Buyers came. Agents didn't. Here's what I figured out too late.",
+        "url": "https://www.indiehackers.com/post/i-spent-4-months-building-a-real-estate-marketplace-buyers-came-agents-didnt-here-s-what-i-figured-out-too-late-baac09ef1b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-free-api-that-measures-the-cost-of-software-complexity-bb2db6c919",
+        "title": "I built a free API that measures the cost of software complexity",
+        "url": "https://www.indiehackers.com/post/i-built-a-free-api-that-measures-the-cost-of-software-complexity-bb2db6c919",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/3-weeks-validating-a-client-vetting-tool-for-freelancers-heres-what-i-ve-learned-858c3a060b",
+        "title": "3 weeks validating a client vetting tool for freelancers. Here's what I've learned.",
+        "url": "https://www.indiehackers.com/post/3-weeks-validating-a-client-vetting-tool-for-freelancers-heres-what-i-ve-learned-858c3a060b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-4k-mo-portfolio-after-an-undiversified-marketing-strategy-tanked-his-800k-business-n3ROXFtp7nWcTWO1XayK",
+        "title": "Building a $4k/mo portfolio after an undiversified marketing strategy tanked his $800k business",
+        "url": "https://www.indiehackers.com/post/tech/building-a-4k-mo-portfolio-after-an-undiversified-marketing-strategy-tanked-his-800k-business-n3ROXFtp7nWcTWO1XayK",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
