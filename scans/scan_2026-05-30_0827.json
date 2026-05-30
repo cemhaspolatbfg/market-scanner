@@ -1,0 +1,216 @@
+{
+  "scan_time": "2026-05-30T08:27:38.808296+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "48325624",
+        "name": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+        "url": "https://tvexplorer.live",
+        "points": 147,
+        "comments": 42,
+        "hn_url": "https://news.ycombinator.com/item?id=48325624"
+      },
+      {
+        "id": "48328184",
+        "name": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+        "url": "https://github.com/jmaczan/tiny-vllm",
+        "points": 138,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=48328184"
+      },
+      {
+        "id": "48322956",
+        "name": "Show HN: AISlop, a CLI for catching AI generated code smells",
+        "url": "https://github.com/scanaislop/aislop",
+        "points": 72,
+        "comments": 60,
+        "hn_url": "https://news.ycombinator.com/item?id=48322956"
+      },
+      {
+        "id": "48330192",
+        "name": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+        "url": "https://github.com/secluso/core",
+        "points": 56,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48330192"
+      },
+      {
+        "id": "48322203",
+        "name": "Show HN: Context-aware Japanese furigana using Sudachi and ModernBERT",
+        "url": "https://www.ezfurigana.com/",
+        "points": 34,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48322203"
+      },
+      {
+        "id": "48325073",
+        "name": "Show HN: Promptloop – create, run, and improve prompt evals from the terminal",
+        "url": "https://github.com/Bella3202019/promptloop",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48325073"
+      },
+      {
+        "id": "48332098",
+        "name": "Show HN: VT Code – open-source terminal coding agent in Rust",
+        "url": "https://github.com/vinhnx/VTCode",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48332098"
+      },
+      {
+        "id": "48322637",
+        "name": "Show HN: Concord – Discord, but Like Vim",
+        "url": "https://github.com/chojs23/concord",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48322637"
+      },
+      {
+        "id": "48330109",
+        "name": "Show HN: Self Publish Studio",
+        "url": "https://selfpublishstudio.com/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48330109"
+      },
+      {
+        "id": "48323417",
+        "name": "Show HN: Integuru – Integrate with platforms via the source code",
+        "url": "https://www.integuru.com",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48323417"
+      },
+      {
+        "id": "48330306",
+        "name": "Show HN: Free activity calendar for schools, sports clubs, and organizations",
+        "url": "https://freecal.eu/?lang=en",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48330306"
+      },
+      {
+        "id": "48326145",
+        "name": "Show HN: Gaia Atlas – Local Stellar Map",
+        "url": "https://valhovey.github.io/gaia-atlas/",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48326145"
+      },
+      {
+        "id": "48324378",
+        "name": "Show HN: Elemental – simple front ends in plain JavaScript",
+        "url": "https://github.com/fynyky/elemental",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48324378"
+      },
+      {
+        "id": "48327938",
+        "name": "Show HN: I built a better GitHub search that rank repos by what matters",
+        "url": "https://reposeek.ai",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48327938"
+      },
+      {
+        "id": "48326600",
+        "name": "Show HN: AionOS – self-healing microkernel in Zig (boots on real hardware)",
+        "url": "https://github.com/rodancz/aion",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48326600"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/mcp-bridge",
+        "name": "MCP Bridge",
+        "description": "Connect any API to any AI agent",
+        "url": "https://betalist.com/startups/mcp-bridge"
+      },
+      {
+        "id": "/startups/agilis",
+        "name": "Agilis",
+        "description": "100% Free Dating App for Meaningful Relationships",
+        "url": "https://betalist.com/startups/agilis"
+      },
+      {
+        "id": "/startups/expired-auctions",
+        "name": "Expired Auctions",
+        "description": "We rate the top 100 expired domain auctions every day",
+        "url": "https://betalist.com/startups/expired-auctions"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/the-dangerous-part-about-early-traction-nobody-talks-about-0bd964d5c2",
+        "title": "The dangerous part about early traction nobody talks about",
+        "url": "https://www.indiehackers.com/post/the-dangerous-part-about-early-traction-nobody-talks-about-0bd964d5c2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-whatsapp-ai-bot-for-doctors-in-peru-launched-3-weeks-ago-0-paying-customers-and-stuck-waiting-for-meta-to-approve-my-app-ffc73befd1",
+        "title": "I built a WhatsApp AI bot for doctors in Peru. Launched 3 weeks ago, 0 paying customers.",
+        "url": "https://www.indiehackers.com/post/i-built-a-whatsapp-ai-bot-for-doctors-in-peru-launched-3-weeks-ago-0-paying-customers-and-stuck-waiting-for-meta-to-approve-my-app-ffc73befd1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-kept-starting-projects-and-dropping-them-so-i-built-a-system-that-wouldn-t-let-me-b7f09aaa63",
+        "title": "I kept starting projects and dropping them. So I built a system that wouldn’t let me",
+        "url": "https://www.indiehackers.com/post/i-kept-starting-projects-and-dropping-them-so-i-built-a-system-that-wouldn-t-let-me-b7f09aaa63",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=w1c3fv1y1kWZmcwJSITz",
+        "title": "LiFast: Lost $47K in potential revenue because I ignored 3 warm B2B leads",
+        "url": "https://www.indiehackers.com/product/lifast?post=w1c3fv1y1kWZmcwJSITz",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/recurflux?post=zAZ7mrvlsQhx4IG9npeO",
+        "title": "Recurflux: While you were focused on acquisition, $240/month in failed payments quietly walked out.",
+        "url": "https://www.indiehackers.com/product/recurflux?post=zAZ7mrvlsQhx4IG9npeO",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-built-shopify-themes-to-20k-month-now-we-have-to-pivot-af4b47b772",
+        "title": "We built Shopify themes to $20k/month. Now we have to pivot.",
+        "url": "https://www.indiehackers.com/post/we-built-shopify-themes-to-20k-month-now-we-have-to-pivot-af4b47b772",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/from-broke-and-burned-out-as-a-pm-to-launching-my-saas-and-optimizing-my-health-626c158d18",
+        "title": "From broke and burned out as a PM, to launching my SaaS and optimizing my health",
+        "url": "https://www.indiehackers.com/post/from-broke-and-burned-out-as-a-pm-to-launching-my-saas-and-optimizing-my-health-626c158d18",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/creators/finding-business-founder-fit-and-bringing-in-mid-six-figures-per-year-Vv1o5UsM9vT6YkuI5mPE",
+        "title": "Finding business-founder fit and bringing in mid-six figures per year",
+        "url": "https://www.indiehackers.com/post/creators/finding-business-founder-fit-and-bringing-in-mid-six-figures-per-year-Vv1o5UsM9vT6YkuI5mPE",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
