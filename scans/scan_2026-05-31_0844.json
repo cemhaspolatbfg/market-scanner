@@ -1,0 +1,214 @@
+{
+  "scan_time": "2026-05-31T08:44:26.832364+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "wandesk",
+        "name": "Wandesk",
+        "tagline": "Build Your Own AI Desktop ",
+        "description": "Wandesk is an AI desktop. Build the apps you need just by describing them. Plug in Claude Code, Codex, DeepSeek, OpenAI, Kimi, Qwen — anything OpenAI-compatible. Apps share context. AI remembers you. All local. No signup.",
+        "votes": 398,
+        "ph_url": "https://www.producthunt.com/posts/wandesk",
+        "website": "https://www.producthunt.com/r/5A3ODZHHI5HVA6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Open Source",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48334949",
+        "name": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+        "url": "https://helios.southlondonscientific.com/",
+        "points": 118,
+        "comments": 40,
+        "hn_url": "https://news.ycombinator.com/item?id=48334949"
+      },
+      {
+        "id": "48339753",
+        "name": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+        "url": "https://ajin.im/is/building/omen.ops/",
+        "points": 117,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=48339753"
+      },
+      {
+        "id": "48340315",
+        "name": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+        "url": "https://github.com/marekkowalczyk/breathe-cli",
+        "points": 13,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48340315"
+      },
+      {
+        "id": "48337671",
+        "name": "Show HN: Ego lite – why our browser agent writes JavaScript not CLI commands",
+        "url": "https://github.com/CitroLabs/ego-lite",
+        "points": 12,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48337671"
+      },
+      {
+        "id": "48343216",
+        "name": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+        "url": "https://github.com/kurikomi-labs/komi-learn",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48343216"
+      },
+      {
+        "id": "48342306",
+        "name": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI",
+        "url": "https://snapname.app",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48342306"
+      },
+      {
+        "id": "48341726",
+        "name": "Show HN: Lite-Harness – Self-Hosted Cursor Agents (Use Claude Code/OpenCode)",
+        "url": "https://github.com/LiteLLM-Labs/lite-harness",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48341726"
+      },
+      {
+        "id": "48341048",
+        "name": "Show HN: Babo – A scripting natural language that works as intended",
+        "url": "https://github.com/armbox/babo",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48341048"
+      },
+      {
+        "id": "48338355",
+        "name": "Show HN: Community Ninja – Find customers searching for your product",
+        "url": "https://communityninja.ai/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48338355"
+      },
+      {
+        "id": "48341394",
+        "name": "Show HN: Kanji Pairs Explorer",
+        "url": "https://trost.co/kanji-pairs/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48341394"
+      },
+      {
+        "id": "48338107",
+        "name": "Show HN: Ping Pals – Simple social tracker iOS app without coding",
+        "url": "https://apps.apple.com/tr/app/ping-pals/id6770330997",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48338107"
+      },
+      {
+        "id": "48336119",
+        "name": "Show HN: Jynx, a matchmaking app to find gaming teammates",
+        "url": "https://jynx.app/",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48336119"
+      },
+      {
+        "id": "48334570",
+        "name": "Show HN: I wrote a program that hashes files into poems",
+        "url": "https://github.com/alebeck/rhymesum",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48334570"
+      },
+      {
+        "id": "48343310",
+        "name": "Show HN: News about positive advances in medicine, climate tech, research",
+        "url": "https://thegoodreport.co/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48343310"
+      },
+      {
+        "id": "48342821",
+        "name": "Show HN: Live, system-wide USB transfer sniffer in eBPF",
+        "url": "https://github.com/yeet-src/usbsnoop",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48342821"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/fliptip-ai",
+        "name": "FlipTip AI",
+        "description": "Scan items to see real resale prices, sell speed, and authenticity",
+        "url": "https://betalist.com/startups/fliptip-ai"
+      },
+      {
+        "id": "/startups/ugc-maker",
+        "name": "UGC Maker",
+        "description": "Generate UGC-style ad videos from your product link with AI avatars",
+        "url": "https://betalist.com/startups/ugc-maker"
+      },
+      {
+        "id": "/startups/travel-capsule",
+        "name": "Travel Capsule",
+        "description": "All-in-one app for planning, budgeting, and managing active travels",
+        "url": "https://betalist.com/startups/travel-capsule"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/leadsynthai?post=mUZ0TvSR5B6LW8zyHLkM",
+        "title": "LeadSynth: I killed two startups because I couldn't find customers. So I built the thing I wish I'd had.",
+        "url": "https://www.indiehackers.com/product/leadsynthai?post=mUZ0TvSR5B6LW8zyHLkM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/week-10-11-pdf-cluster-blog-launch-143-indexed-and-a-new-compression-feature-5cba21c4fc",
+        "title": "Week 10+11: PDF cluster, blog launch, 143 indexed, and a new compression feature",
+        "url": "https://www.indiehackers.com/post/week-10-11-pdf-cluster-blog-launch-143-indexed-and-a-new-compression-feature-5cba21c4fc",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/revai?post=wsQRPbd34bDpPWlViQyP",
+        "title": "RevAI: I built a churn prediction API because my friend couldn't afford the $40K alternative",
+        "url": "https://www.indiehackers.com/product/revai?post=wsQRPbd34bDpPWlViQyP",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/cerulea?post=eZdNIqFDLBIVBFIu2s6R",
+        "title": "About Cerulea",
+        "url": "https://www.indiehackers.com/product/cerulea?post=eZdNIqFDLBIVBFIu2s6R",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/your-ai-chats-shouldn-t-start-from-zero-every-time-8d45fc68eb",
+        "title": "Your AI chats shouldn’t start from zero every time",
+        "url": "https://www.indiehackers.com/post/your-ai-chats-shouldn-t-start-from-zero-every-time-8d45fc68eb",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
