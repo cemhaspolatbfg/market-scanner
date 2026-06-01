@@ -1,0 +1,249 @@
+{
+  "scan_time": "2026-06-01T11:33:06.563023+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "clipto",
+        "name": "Clipto",
+        "tagline": "Fully local, natural language search over terabytes of media",
+        "description": "Like Google Photos, but fully local. Turn the terabytes of video, audio, meetings, and files you work with into searchable memories, without uploading anything to the cloud. Clipto automatically tags people, dialogue, and scenes, so you can instantly find any moment buried in your media just by describing what you're looking for. It's fast too: on a MacBook Pro M5, Clipto indexed 2TB of videos in just 24 hours.",
+        "votes": 431,
+        "ph_url": "https://www.producthunt.com/posts/clipto",
+        "website": "https://www.producthunt.com/r/Y5E7U6HB2KB5NG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "ava-2-0",
+        "name": "Ava 2.0",
+        "tagline": "Your AI BDR that runs outbound sales autonomously",
+        "description": "Ava is an AI BDR that runs your entire outbound on autopilot. She sources leads from 250M+ professionals, runs multi-channel outreach, and books qualified meetings. Fully autonomously.",
+        "votes": 373,
+        "ph_url": "https://www.producthunt.com/posts/ava-2-0",
+        "website": "https://www.producthunt.com/r/HMYIC7WZZM3MNU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Sales",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "monitor-by-firecrawl",
+        "name": "/monitor by Firecrawl",
+        "tagline": "Notify your AI agent when the web changes",
+        "description": "/monitor notifies your agent via webhook the moment pages or sites change. Use up to 90% fewer LLM tokens by only ingesting what changes on a page.",
+        "votes": 352,
+        "ph_url": "https://www.producthunt.com/posts/monitor-by-firecrawl",
+        "website": "https://www.producthunt.com/r/RYV3RTT7QJJVGO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48348429",
+        "name": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+        "url": "https://github.com/viggy28/streambed",
+        "points": 104,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=48348429"
+      },
+      {
+        "id": "48345201",
+        "name": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
+        "url": "https://kenforthewin.github.io/atomic-editor/",
+        "points": 63,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48345201"
+      },
+      {
+        "id": "48346829",
+        "name": "Show HN: xxUTF – SIMD Unicode Normalization",
+        "url": "https://github.com/dzfrias/xxUTF",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48346829"
+      },
+      {
+        "id": "48347043",
+        "name": "Show HN: Ouijit, an open-source task and terminal manager for coding agents",
+        "url": "https://ouijit.com/",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48347043"
+      },
+      {
+        "id": "48345377",
+        "name": "Show HN: Stable Audio 3 – one-shot sample generator (110gb download)",
+        "url": "https://github.com/shiehn/sas-sample-generator",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48345377"
+      },
+      {
+        "id": "48354865",
+        "name": "Show HN: Postbase – 100% open source Alternative to Firebase and Supabase [video]",
+        "url": "https://www.youtube.com/watch?v=St_kJZXZ_nE",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48354865"
+      },
+      {
+        "id": "48346958",
+        "name": "Show HN: Agents, run any coding agent on your subscription not API costs",
+        "url": "https://agents-cli.sh",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48346958"
+      },
+      {
+        "id": "48352797",
+        "name": "Show HN: Having fun making mini static site apps",
+        "url": "https://joeheyming.github.io/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48352797"
+      },
+      {
+        "id": "48346443",
+        "name": "Show HN: Strudai, browser based agentic wrapper around Strudel",
+        "url": "https://strudai.com",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48346443"
+      },
+      {
+        "id": "48346037",
+        "name": "Show HN: FuguUX – science-backed, AI user testing to identify key web UX issues",
+        "url": "https://www.fuguux.com",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48346037"
+      },
+      {
+        "id": "48351973",
+        "name": "Show HN: webrtcforthestreamer.com – How WHIP makes streaming more connected",
+        "url": "https://webrtcforthestreamer.com",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48351973"
+      },
+      {
+        "id": "48349924",
+        "name": "Show HN: Orchid Mantis – A PoC in Rust for Zero Knowledge Proofs of Exploit",
+        "url": "https://github.com/unprovable/OrchidMantis",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48349924"
+      },
+      {
+        "id": "48349572",
+        "name": "Show HN: AionDbB",
+        "url": "https://github.com/ayoubnabil/aiondb",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48349572"
+      },
+      {
+        "id": "48347255",
+        "name": "Show HN: Deliberate – log what your agent rejected, not just what it ran",
+        "url": "https://www.deliberate.dev/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48347255"
+      },
+      {
+        "id": "48346255",
+        "name": "Show HN: Entropic — information-driven variable-rate media playback",
+        "url": "https://github.com/patrickxia/entropic",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48346255"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/snapvee-studio",
+        "name": "SnapVee Studio",
+        "description": "Process public videos, transcribe, summarize, and generate AI media",
+        "url": "https://betalist.com/startups/snapvee-studio"
+      },
+      {
+        "id": "/startups/markty",
+        "name": "Markty",
+        "description": "Hire an AI team that runs content, social, SEO, and emails",
+        "url": "https://betalist.com/startups/markty"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/your-build-in-public-audience-is-not-your-market-i-learned-the-difference-the-slow-way-2cbea1089d",
+        "title": "Your build-in-public audience is not your market. I learned the difference the slow way.",
+        "url": "https://www.indiehackers.com/post/your-build-in-public-audience-is-not-your-market-i-learned-the-difference-the-slow-way-2cbea1089d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/anti-noise-feynman?post=9HTCdGuTQl5XjmzZWcSm",
+        "title": "Anti Noise Feynman: \"Build an app in 3 hours\" is a lie. It took me 11 days with Claude.",
+        "url": "https://www.indiehackers.com/product/anti-noise-feynman?post=9HTCdGuTQl5XjmzZWcSm",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-trying-to-get-50-users-in-25-days-with-zero-audience-here-s-my-exact-plan-3659cb558f",
+        "title": "I'm trying to get 50 users in 25 days with zero audience. Here's my exact plan",
+        "url": "https://www.indiehackers.com/post/im-trying-to-get-50-users-in-25-days-with-zero-audience-here-s-my-exact-plan-3659cb558f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-dead-simple-crm-for-solo-salespeople-just-launched-3bd919d2cf",
+        "title": "I built a dead-simple CRM for solo salespeople — just launched",
+        "url": "https://www.indiehackers.com/post/i-built-a-dead-simple-crm-for-solo-salespeople-just-launched-3bd919d2cf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/achiv?post=Eu0BU51auitqXsCkZwKy",
+        "title": "Achiv: I stole my competitor's entire audience in one click",
+        "url": "https://www.indiehackers.com/product/achiv?post=Eu0BU51auitqXsCkZwKy",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/you-might-be-celebrating-revenue-that-never-reached-your-bank-account-13dbfeeff9",
+        "title": "You might be celebrating revenue that never reached your bank account.",
+        "url": "https://www.indiehackers.com/post/you-might-be-celebrating-revenue-that-never-reached-your-bank-account-13dbfeeff9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=wOb7Go7RUQjG7od1VckS",
+        "title": "LiFast: How I went from 0 to 12 inbound clients in 6 months without cold calling",
+        "url": "https://www.indiehackers.com/product/lifast?post=wOb7Go7RUQjG7od1VckS",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
