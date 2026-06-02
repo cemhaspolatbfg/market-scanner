@@ -1,0 +1,210 @@
+{
+  "scan_time": "2026-06-02T10:22:53.169752+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "mina-meeting-assistant",
+        "name": "Mina Meeting Assistant",
+        "tagline": "Your AI Teammate now responds and executes during your calls",
+        "description": "Mina is an AI meeting assistant that actively participates in meetings, responds in real time, pulls context from your tools, and helps move work forward while the conversation is still happening. Unlike traditional meeting tools, Mina can speak during calls, use skills, generate outputs, and support sales calls, interviews, standups, customer conversations, and team workflows before, during, and after meetings.",
+        "votes": 464,
+        "ph_url": "https://www.producthunt.com/posts/mina-meeting-assistant",
+        "website": "https://www.producthunt.com/r/BPRGIOPD7QOOVH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "socialecho-2-0-2",
+        "name": "SocialEcho 2.0",
+        "tagline": "AI social media copilot for teams and agents",
+        "description": "SocialEcho is an AI social media copilot for teams managing social campaigns across multiple brands, accounts, and channels. See what’s trending, create content that resonates, optimize posts for every platform, publish from one workspace, manage every conversation, and track what drives engagement. Built on official social APIs, SocialEcho gives AI agents like OpenClaw, Hermes, and custom automations a secure way to manage connected social accounts without brittle scraping or risky workarounds.",
+        "votes": 372,
+        "ph_url": "https://www.producthunt.com/posts/socialecho-2-0-2",
+        "website": "https://www.producthunt.com/r/CRXS4B2XRMZLD2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Marketing",
+          "SaaS"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48356946",
+        "name": "Show HN: A CSS 3D Engine (no WebGL)",
+        "url": "https://github.com/LayoutitStudio/polycss",
+        "points": 71,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=48356946"
+      },
+      {
+        "id": "48361054",
+        "name": "Show HN: Textile – A desktop app for weaving together bits of text",
+        "url": "https://www.gettextile.app",
+        "points": 32,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48361054"
+      },
+      {
+        "id": "48359478",
+        "name": "Show HN: DepsGuard – One command to harden NPM/pnpm/yarn/bun/uv configs",
+        "url": "https://github.com/arnica/depsguard",
+        "points": 32,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48359478"
+      },
+      {
+        "id": "48358251",
+        "name": "Show HN: Data Leak Prevention inside the n8n execution graph.",
+        "url": "https://npmjs.com/package/n8n-nodes-privent",
+        "points": 18,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48358251"
+      },
+      {
+        "id": "48362378",
+        "name": "Show HN: Mqtt Broker for 10 Years",
+        "url": "https://github.com/skittleson/mqtt_broker_esp",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48362378"
+      },
+      {
+        "id": "48363454",
+        "name": "Show HN: Going from 1+1=2 to Quantum Mechanics",
+        "url": "https://quantum.schols.io/intro",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48363454"
+      },
+      {
+        "id": "48359971",
+        "name": "Show HN: Trumpstonks – every company Trump's named, backtested vs. the S&P",
+        "url": "https://www.trumpstonks.com/",
+        "points": 8,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48359971"
+      },
+      {
+        "id": "48364701",
+        "name": "Show HN: NUA an agent that tests for product correctness",
+        "url": "https://trynua.dev/",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48364701"
+      },
+      {
+        "id": "48359305",
+        "name": "Show HN: A desktop app for manual QA testing and evidence gathering",
+        "url": "https://github.com/adriandomc/qastor",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48359305"
+      },
+      {
+        "id": "48358697",
+        "name": "Show HN: Canvascript – Canvas prints of source code",
+        "url": "https://canvascript.com/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48358697"
+      },
+      {
+        "id": "48356768",
+        "name": "Show HN: Voice control coding agents on your machine via smartwatch / CarPlay",
+        "url": "https://dashvox.ai",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48356768"
+      },
+      {
+        "id": "48358983",
+        "name": "Show HN: Valdr - Valkey/Redis in safe Rust, passes >99% of Valkey test suite",
+        "url": "https://github.com/ianm199/valdr",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48358983"
+      },
+      {
+        "id": "48357986",
+        "name": "Show HN: Funnel – Find a convesion leak on any landing page in 30 seconds",
+        "url": "https://www.funnel.fyi",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48357986"
+      },
+      {
+        "id": "48363891",
+        "name": "Show HN: NoSleepAgent – keep your MacBook awake until your agents finish",
+        "url": "https://github.com/gergomiklos/nosleepagent",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48363891"
+      },
+      {
+        "id": "48362986",
+        "name": "Show HN: Dataroom – a Pi and self-hosted research harness on low-budget GPU",
+        "url": "https://github.com/hanxiao/dataroom",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48362986"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/we-were-using-ai-from-4-different-providers-and-could-not-reconcile-the-bill-so-we-built-evolink-3970022ecb",
+        "title": "We were using AI from 4 different providers and could not reconcile the bill, so we built EvoLink",
+        "url": "https://www.indiehackers.com/post/we-were-using-ai-from-4-different-providers-and-could-not-reconcile-the-bill-so-we-built-evolink-3970022ecb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-first-version-of-vidi-wasnt-a-product-04bf96ca14",
+        "title": "The first version of VIDI wasn't a product.",
+        "url": "https://www.indiehackers.com/post/the-first-version-of-vidi-wasnt-a-product-04bf96ca14",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-stocks-as-football-cards-thing-5-days-in-my-launch-tweet-got-7-views-what-am-i-missing-8e7640e096",
+        "title": "Built a \"stocks as football cards\" thing. 5 days in, my launch tweet got 7 views. What am I missing?",
+        "url": "https://www.indiehackers.com/post/built-a-stocks-as-football-cards-thing-5-days-in-my-launch-tweet-got-7-views-what-am-i-missing-8e7640e096",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-do-you-prevent-ai-coding-assistants-from-forgetting-your-architecture-3bf7dadc5a",
+        "title": "How do you prevent AI coding assistants from forgetting your architecture?",
+        "url": "https://www.indiehackers.com/post/how-do-you-prevent-ai-coding-assistants-from-forgetting-your-architecture-3bf7dadc5a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/gaining-an-11m-arr-foothold-by-taking-on-an-outdated-incumbent-61O715V0AXD6kZ1j8hsc",
+        "title": "Gaining an $11M ARR foothold by taking on an outdated incumbent",
+        "url": "https://www.indiehackers.com/post/tech/gaining-an-11m-arr-foothold-by-taking-on-an-outdated-incumbent-61O715V0AXD6kZ1j8hsc",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
