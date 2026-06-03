@@ -1,0 +1,217 @@
+{
+  "scan_time": "2026-06-03T10:58:30.860684+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "fundraisly-4",
+        "name": "Fundraisly",
+        "tagline": "AI fundraising agent that finds investors and books meetings",
+        "description": "Fundraisly: ultimate AI agent for fundraising. It analyzes 300K+ investors and millions of deals, identifies the relevant ones actively investing in your space, maps warm paths to them from your own network, then covers the rest with targeted cold outreach. The result: 20-40 qualified investor meetings. Built by founders who raised over $1B.",
+        "votes": 969,
+        "ph_url": "https://www.producthunt.com/posts/fundraisly-4",
+        "website": "https://www.producthunt.com/r/SH5BHT7UOKB2F5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Venture Capital",
+          "Artificial Intelligence",
+          "Fundraising"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "vokal-4",
+        "name": "Vokal",
+        "tagline": "A collaboration space for 10x teammates with their Al agents",
+        "description": "Your Codex and my Codex can’t talk, so we play human telephone in Slack: copy prompts, paste summaries, ask for reviews, and lose the run. Vokal brings 10x teammates and their agents into one live workspace in minutes, whether they run local Codex, Claude Code, or Hermes — or in the cloud. Name your agents, give them roles, access, and memory, and work will happen in a shared collaboration space instead of through copy-paste handoffs.",
+        "votes": 451,
+        "ph_url": "https://www.producthunt.com/posts/vokal-4",
+        "website": "https://www.producthunt.com/r/M46FM3WQQTJPUQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Messaging",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48377250",
+        "name": "Show HN: Paseo – Beautiful open-source coding agent interface",
+        "url": "https://github.com/getpaseo/paseo",
+        "points": 70,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=48377250"
+      },
+      {
+        "id": "48374552",
+        "name": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+        "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+        "points": 62,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48374552"
+      },
+      {
+        "id": "48371292",
+        "name": "Show HN: Opstan, a decentralized social network on a PoW blockchain",
+        "url": "https://github.com/OpstanGit/opstan",
+        "points": 61,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48371292"
+      },
+      {
+        "id": "48372036",
+        "name": "Show HN: Live breath detection and biofeedback from a phone microphone",
+        "url": "https://github.com/shiihaa-app/shiihaa-breath-detection",
+        "points": 52,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=48372036"
+      },
+      {
+        "id": "48373482",
+        "name": "Show HN: RePlaya – self-hosted browser session replay with live tailing",
+        "url": "https://github.com/s2-streamstore/replaya",
+        "points": 43,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48373482"
+      },
+      {
+        "id": "48370368",
+        "name": "Show HN: Build Your Own AI Agent CLI in 150 Lines",
+        "url": "https://go-micro.dev/blog/11",
+        "points": 26,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48370368"
+      },
+      {
+        "id": "48371360",
+        "name": "Show HN: DropLock – E2EE secret sharing web app with no backend",
+        "url": "https://droplock.apitman.com/",
+        "points": 21,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48371360"
+      },
+      {
+        "id": "48370535",
+        "name": "Show HN: A searchable archive of declassified UAP/UFO files, news, and analysis",
+        "url": "https://didyousee.xyz",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48370535"
+      },
+      {
+        "id": "48370512",
+        "name": "Show HN: Wikigraph – an interactive visualization of all of English Wikipedia",
+        "url": "https://tobypenner.com/wikigraph/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48370512"
+      },
+      {
+        "id": "48375347",
+        "name": "Show HN: Clor – give your agent claws",
+        "url": "https://clor.com/",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48375347"
+      },
+      {
+        "id": "48374308",
+        "name": "Show HN: 100cc - Roll your own Claude in 100 lines",
+        "url": "https://github.com/yujqiao/100cc",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48374308"
+      },
+      {
+        "id": "48369985",
+        "name": "Show HN: I built an on-chain economy where AI agents transact autonomously",
+        "url": "https://agtchain.io/",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48369985"
+      },
+      {
+        "id": "48373042",
+        "name": "Show HN: Hop – JSX for Rust",
+        "url": "https://hoplang.com",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48373042"
+      },
+      {
+        "id": "48372950",
+        "name": "Show HN: Form an LLC or C-Corp from Claude/Cursor via MCP",
+        "url": "https://www.lovie.co/formation/ai-operator",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48372950"
+      },
+      {
+        "id": "48372976",
+        "name": "Show HN: MetaBrain – A local document memory for AI agents",
+        "url": "https://metabrain.eu",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48372976"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/nano-banana-2",
+        "name": "Nano Banana 2",
+        "description": "AI-powered image editing with natural language",
+        "url": "https://betalist.com/startups/nano-banana-2"
+      },
+      {
+        "id": "/startups/trimestral-app",
+        "name": "Trimestral App",
+        "description": "Calculates quarterly VAT and IRPF for Spanish freelancers",
+        "url": "https://betalist.com/startups/trimestral-app"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/recurflux?post=rWm9uh8YhhSWoLCG9E1Y",
+        "title": "Recurflux: Most founders can’t answer “where did that lost MRR actually go?” — they just see a red % on the churn chart and move on.",
+        "url": "https://www.indiehackers.com/product/recurflux?post=rWm9uh8YhhSWoLCG9E1Y",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-kept-losing-deals-not-because-of-bad-sales-but-because-i-forgot-to-follow-up-8c8cb32360",
+        "title": "I kept losing deals not because of bad sales — but because I forgot to follow up",
+        "url": "https://www.indiehackers.com/post/i-kept-losing-deals-not-because-of-bad-sales-but-because-i-forgot-to-follow-up-8c8cb32360",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/which-ai-agents-do-you-still-use-every-week-and-which-ones-faded-out-69e6bccd5b",
+        "title": "Which AI agents do you still use every week, and which ones faded out?",
+        "url": "https://www.indiehackers.com/post/which-ai-agents-do-you-still-use-every-week-and-which-ones-faded-out-69e6bccd5b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/why-claude-skills-are-becoming-important-for-tech-careers-9c531f1f66",
+        "title": "Why Claude Skills Are Becoming Important for Tech Careers",
+        "url": "https://www.indiehackers.com/post/why-claude-skills-are-becoming-important-for-tech-careers-9c531f1f66",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
