@@ -1,0 +1,244 @@
+{
+  "scan_time": "2026-06-04T09:55:30.173240+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "elentaria",
+        "name": "Elentaria",
+        "tagline": "Your GTM: from diagnosis to execution",
+        "description": "Elentaria is the AI operator for B2B: it analyzes your business, scores 22 channels, ships the plan that fits, and learns what moved revenue so it can make the next week sharper. Every week, on your stack, in your voice.",
+        "votes": 556,
+        "ph_url": "https://www.producthunt.com/posts/elentaria",
+        "website": "https://www.producthunt.com/r/UJ3FSZT2ZNWJMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "insforge-backend-branching",
+        "name": "InsForge Backend Branching",
+        "tagline": "Git style branching for your backend",
+        "description": "Git-style branching for your entire backend. Spin off a branch to get a full, isolated copy of everything: your database, storage, auth, edge functions, and more, ready for your agents to experiment on without touching production.",
+        "votes": 516,
+        "ph_url": "https://www.producthunt.com/posts/insforge-backend-branching",
+        "website": "https://www.producthunt.com/r/QFEQQG4XV2YKOJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "superlog",
+        "name": "superlog",
+        "tagline": "Make your product bug-free",
+        "description": "Superlog is an open-source autonomous observability tool. It installs itself and fixes the bugs it finds. With a single prompt, it instruments your repository with OpenTelemetry and keeps it up-to-date. When something breaks, it groups noisy issues into a single incident and posts one mergeable PR in Slack. Unlike Datadog or Sentry, there's no setup, no alert fatigue, and no manual fixing. Your telemetry stays vendor-neutral, so you keep full control of your data.",
+        "votes": 409,
+        "ph_url": "https://www.producthunt.com/posts/superlog",
+        "website": "https://www.producthunt.com/r/KQWSEFIXSXKGGW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Software Engineering",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48386129",
+        "name": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+        "url": "https://nutrepedia.com/en-us/",
+        "points": 122,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=48386129"
+      },
+      {
+        "id": "48389586",
+        "name": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+        "url": "https://github.com/zaydmulani09/mnemo",
+        "points": 43,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48389586"
+      },
+      {
+        "id": "48385829",
+        "name": "Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model",
+        "url": "https://github.com/ideogram-oss/ideogram4",
+        "points": 42,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48385829"
+      },
+      {
+        "id": "48386343",
+        "name": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
+        "url": "https://github.com/loadingalias/rscrypto",
+        "points": 30,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=48386343"
+      },
+      {
+        "id": "48383471",
+        "name": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
+        "url": "https://github.com/yaodub/cast",
+        "points": 19,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48383471"
+      },
+      {
+        "id": "48392012",
+        "name": "Show HN: Bio Glyph – Turn Your Face into a One-Line Drawing",
+        "url": "https://bio.bairui.dev/",
+        "points": 13,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48392012"
+      },
+      {
+        "id": "48385275",
+        "name": "Show HN: Solving complex optimization problems with Google OR-Tools in browser",
+        "url": "https://github.com/Axelwickm/or-tools-wasm",
+        "points": 12,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48385275"
+      },
+      {
+        "id": "48396004",
+        "name": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+        "url": "https://uruky.com/?il=en",
+        "points": 12,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48396004"
+      },
+      {
+        "id": "48384046",
+        "name": "Show HN: Lint Your Markdown with ESLint",
+        "url": "https://github.com/lumirlumir/npm-eslint-markdown",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48384046"
+      },
+      {
+        "id": "48384796",
+        "name": "Show HN: Constellation is an open-source Hasura-compatible GraphQL engine in Go",
+        "url": "https://nhost.io/blog/introducing-constellation",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48384796"
+      },
+      {
+        "id": "48383508",
+        "name": "Show HN: Keen Code – a context aware CLI coding agent built by coding agents",
+        "url": "https://github.com/mochow13/keen-code",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48383508"
+      },
+      {
+        "id": "48386116",
+        "name": "Show HN: Agent-browser-shield – free extension to protect AI agents on the web",
+        "url": "https://github.com/pixiebrix/agent-browser-shield",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48386116"
+      },
+      {
+        "id": "48386833",
+        "name": "Show HN: Mashines.dev – Live-migrate microVMs between hosts without restarting",
+        "url": "https://mashines.dev/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48386833"
+      },
+      {
+        "id": "48384393",
+        "name": "Show HN: Ano – no-noise team chat with your code agent as your assistant",
+        "url": "https://ano.chat",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48384393"
+      },
+      {
+        "id": "48384106",
+        "name": "Show HN: Instant DBML Schema to Database Diagram PNG Tool",
+        "url": "https://vibe-schema.com/dbml-to-png",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48384106"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/restaurant-velocity",
+        "name": "Restaurant Velocity",
+        "description": "The autopilot for your Google Business Profile",
+        "url": "https://betalist.com/startups/restaurant-velocity"
+      },
+      {
+        "id": "/startups/builderstudio",
+        "name": "BuilderStudio",
+        "description": "Build AI apps locally on Mac with an agentic IDE and safe deploys",
+        "url": "https://betalist.com/startups/builderstudio"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/bazzly?post=AwMFRZ9xB1XNfUT4X8Pz",
+        "title": "Bazzly: I didn't build an audience. I built a system.",
+        "url": "https://www.indiehackers.com/product/bazzly?post=AwMFRZ9xB1XNfUT4X8Pz",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/40-days-after-launch-200-daily-active-users-but-0-revenue-2346836236",
+        "title": "40 Days After Launch: 200+ Daily Active Users, But $0 Revenue",
+        "url": "https://www.indiehackers.com/post/40-days-after-launch-200-daily-active-users-but-0-revenue-2346836236",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-to-automatically-turn-customer-feedback-into-high-converting-testimonials-cb5952e8b4",
+        "title": "How to automatically turn customer feedback into high-converting testimonials",
+        "url": "https://www.indiehackers.com/post/how-to-automatically-turn-customer-feedback-into-high-converting-testimonials-cb5952e8b4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=NoqSnTkcdQoM8E2DxlfY",
+        "title": "IbexAI: Skip the unicorn dream. $10K MRR solo beats $2M seed plus the stress",
+        "url": "https://www.indiehackers.com/product/ibexai?post=NoqSnTkcdQoM8E2DxlfY",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/bitespend-2?post=CpRJ6jvKB6sSbAF5IF2K",
+        "title": "12 weeks, $0 marketing, both app stores: BiteSpend launch recap. Inflation Antidote",
+        "url": "https://www.indiehackers.com/product/bitespend-2?post=CpRJ6jvKB6sSbAF5IF2K",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-product-in-48-hours-and-hitting-30k-mrr-as-a-non-technical-founder-wWtWIH5tmwASUbxKaLT9",
+        "title": "Building a product in 48 hours and hitting $30k MRR as a non-technical founder",
+        "url": "https://www.indiehackers.com/post/tech/building-a-product-in-48-hours-and-hitting-30k-mrr-as-a-non-technical-founder-wWtWIH5tmwASUbxKaLT9",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
