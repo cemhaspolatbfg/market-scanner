@@ -1,0 +1,222 @@
+{
+  "scan_time": "2026-06-05T09:49:29.466166+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "mailwarm-2-0",
+        "name": "Mailwarm 2.0",
+        "tagline": "The email warmup tool, upgraded for deliverability.",
+        "description": "Most founders rely on email to grow, but emails don’t land in the inbox by magic. Mailwarm 2.0 is the premium email warmup and deliverability system built to give your emails the best chance of reaching the inbox. It combines automated warmup, real engagement, monitoring, infrastructure checks, and experts call available for every subscriber.",
+        "votes": 544,
+        "ph_url": "https://www.producthunt.com/posts/mailwarm-2-0",
+        "website": "https://www.producthunt.com/r/SO3HRZHWMYKPDS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Email",
+          "Email Marketing"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "astra-autonomous-pentest",
+        "name": "Astra Autonomous Pentest",
+        "tagline": "AI agents that find, validate, and fix every vulnerability",
+        "description": "Astra Autonomous Pentesting makes self-healing software the new standard, a category we’re defining after 8 years and 5,000+ real-world pentests. An army of offensive pentesters and bounty hunter agents that discovers complex chained vulnerabilities, an independent validator layer drives false positives to near-zero, and AI-fix agents deliver remediation as native Cursor, Copilot, and Claude Code prompts. The reactive pentest era is over.",
+        "votes": 390,
+        "ph_url": "https://www.producthunt.com/posts/astra-autonomous-pentest",
+        "website": "https://www.producthunt.com/r/O3VSUJJCCKGPCG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Developer Tools",
+          "Security"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48399358",
+        "name": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+        "url": "https://boxes.dev",
+        "points": 90,
+        "comments": 65,
+        "hn_url": "https://news.ycombinator.com/item?id=48399358"
+      },
+      {
+        "id": "48404224",
+        "name": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+        "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+        "points": 77,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=48404224"
+      },
+      {
+        "id": "48404732",
+        "name": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+        "url": "https://www.mercek.dev/",
+        "points": 56,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=48404732"
+      },
+      {
+        "id": "48405264",
+        "name": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+        "url": "https://github.com/schildep/verified-polygon-intersection",
+        "points": 45,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48405264"
+      },
+      {
+        "id": "48397148",
+        "name": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+        "url": "https://cost.dev/",
+        "points": 31,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48397148"
+      },
+      {
+        "id": "48402082",
+        "name": "Show HN: Hitoku Draft – Context aware local assistant",
+        "url": "https://hitoku.me/draft/",
+        "points": 16,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48402082"
+      },
+      {
+        "id": "48396398",
+        "name": "Show HN: ssh late.sh - a cozy command-line Clubhouse for computer people",
+        "url": "https://late.sh",
+        "points": 16,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48396398"
+      },
+      {
+        "id": "48404357",
+        "name": "Show HN: OpenHack – OSS security scanner, 40x cheaper, on par with Opus 4.6",
+        "url": "https://github.com/openhackai/openhack",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48404357"
+      },
+      {
+        "id": "48399429",
+        "name": "Show HN: Black-box API bug detection across 7 AI systems",
+        "url": "https://resources.kusho.ai/ai-agent-benchmark-api-bug-detection",
+        "points": 11,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48399429"
+      },
+      {
+        "id": "48400544",
+        "name": "Show HN: Open Terminal – A Bloomberg Style App for Research",
+        "url": "https://tesseractanalytics.ai/",
+        "points": 10,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48400544"
+      },
+      {
+        "id": "48399345",
+        "name": "Show HN: AgentKitten: Swift package for provider-agnostic AI agents",
+        "url": "https://github.com/fbeeper/agentkitten",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48399345"
+      },
+      {
+        "id": "48396686",
+        "name": "Show HN: Chatcode – Remote Control for Claude Code and Codex",
+        "url": "https://chatcode.dev/",
+        "points": 9,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48396686"
+      },
+      {
+        "id": "48398109",
+        "name": "Show HN: Hydron – Hardware-aware coding agent",
+        "url": "https://www.hydron.sh/",
+        "points": 9,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48398109"
+      },
+      {
+        "id": "48403937",
+        "name": "Show HN: Using Haskell to play music on 3D printer motors (2020)",
+        "url": "https://lucasoshiro.github.io/software-en/2020-07-31-music_gcode/",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48403937"
+      },
+      {
+        "id": "48399263",
+        "name": "Show HN: Depot CI API – Programmable CI",
+        "url": "https://depot.dev/blog/now-available-depot-ci-api",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48399263"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/nanou-studio",
+        "name": "Nanou Studio",
+        "description": "Create personalized stories with your child as the hero",
+        "url": "https://betalist.com/startups/nanou-studio"
+      },
+      {
+        "id": "/startups/human-browser",
+        "name": "Human Browser",
+        "description": "AI agent browser with residential IP, auto-CAPTCHA, A2A, and MCP",
+        "url": "https://betalist.com/startups/human-browser"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/bazzly?post=hrdeQgdRIdjTODpY73iF",
+        "title": "Bazzly: How I decide which marketing channel to add next",
+        "url": "https://www.indiehackers.com/product/bazzly?post=hrdeQgdRIdjTODpY73iF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/affirmation-cards?post=Fre0jzPoAAmyWnv3nzLm",
+        "title": "Affirmation Cards: hurray! I Made My First Internet Money($10)",
+        "url": "https://www.indiehackers.com/product/affirmation-cards?post=Fre0jzPoAAmyWnv3nzLm",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-saas-for-personal-trainers-in-under-a-week-turns-out-that-was-the-easy-part-29c9e88209",
+        "title": "I built a SaaS for personal trainers in under a week. Turns out that was the easy part.",
+        "url": "https://www.indiehackers.com/post/i-built-a-saas-for-personal-trainers-in-under-a-week-turns-out-that-was-the-easy-part-29c9e88209",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=WvawvKuaKp27RiJ6C6X4",
+        "title": "LiFast: Went from $0 to $2k MRR just by fixing my LinkedIn strategy",
+        "url": "https://www.indiehackers.com/product/lifast?post=WvawvKuaKp27RiJ6C6X4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/day-4-why-i-built-a-199-workspace-nobody-asked-for-d0b90e532b",
+        "title": "Day 4: Why I Built a $199 Workspace Nobody Asked For",
+        "url": "https://www.indiehackers.com/post/day-4-why-i-built-a-199-workspace-nobody-asked-for-d0b90e532b",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
