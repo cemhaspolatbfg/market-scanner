@@ -1,0 +1,221 @@
+{
+  "scan_time": "2026-06-06T08:33:03.298300+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "sellerclaw",
+        "name": "SellerClaw",
+        "tagline": "A team of AI agents that runs your stores across channels",
+        "description": "Running even one online store is a full-time job. SellerClaw is a team of AI agents that runs it for you: specialized agents for product sourcing, store management, and advertising, coordinated by a supervisor you direct. Tell it what to sell — the agents build listings, manage ads and pricing, and handle fulfillment and support across Shopify, eBay, and more. You stay in control: every action is visible and approvable, and you set how much runs on its own. Free to start.",
+        "votes": 483,
+        "ph_url": "https://www.producthunt.com/posts/sellerclaw",
+        "website": "https://www.producthunt.com/r/7EVPIJ3T3Q6YW2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "E-Commerce"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "minimi-2",
+        "name": "Minimi",
+        "tagline": "Your ambient memory for Claude",
+        "description": "Every great Claude response starts with context. Minimi listens across your Mac - docs, calls, messages, tabs - and gives Claude the full picture. No prompting. All on-device and private.",
+        "votes": 459,
+        "ph_url": "https://www.producthunt.com/posts/minimi-2",
+        "website": "https://www.producthunt.com/r/SIMPLUAHCBBLII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48409955",
+        "name": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+        "url": "https://github.com/zdk/lowfat",
+        "points": 127,
+        "comments": 65,
+        "hn_url": "https://news.ycombinator.com/item?id=48409955"
+      },
+      {
+        "id": "48420494",
+        "name": "Show HN: ABC Classic 100 Rankings visualised",
+        "url": "https://classic100.gotski.workers.dev/",
+        "points": 28,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48420494"
+      },
+      {
+        "id": "48419614",
+        "name": "Show HN: I nerfed our coding agents on purpose",
+        "url": "",
+        "points": 25,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48419614"
+      },
+      {
+        "id": "48415709",
+        "name": "Show HN: On-device transcriber that's 97% accurate at identifying speakers",
+        "url": "https://mimicscribe.app/",
+        "points": 18,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48415709"
+      },
+      {
+        "id": "48410841",
+        "name": "Show HN: Local-first fast CPU image to text for screenshots, PDFs, webpages",
+        "url": "https://github.com/kouhxp/textsnap",
+        "points": 14,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48410841"
+      },
+      {
+        "id": "48412229",
+        "name": "Show HN: Jo – AI-native language to catch prompt injection at compile-time",
+        "url": "https://github.com/typescope/jo",
+        "points": 10,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48412229"
+      },
+      {
+        "id": "48422333",
+        "name": "Show HN: Sidekick – The zot coding agent, one click away on macOS",
+        "url": "https://github.com/patriceckhart/zot-sidekick",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48422333"
+      },
+      {
+        "id": "48414226",
+        "name": "Show HN: Group of Death – WorldCup bracket predictor with shareable URLs",
+        "url": "https://groupofdeath.gg/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48414226"
+      },
+      {
+        "id": "48413888",
+        "name": "Show HN: Lich, start a dev stack per coding agent in parallel",
+        "url": "https://github.com/RPate97/lich",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48413888"
+      },
+      {
+        "id": "48409853",
+        "name": "Show HN: Concord – Discord in Terminal",
+        "url": "https://github.com/chojs23/concord",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48409853"
+      },
+      {
+        "id": "48419076",
+        "name": "Show HN: Honest Privacy Policies – We Read the Fine Print So You Don't Have To",
+        "url": "https://honestprivacypolicies.org/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48419076"
+      },
+      {
+        "id": "48415481",
+        "name": "Show HN: Micron: a high performance C++23 (re)implementation of Libc and the STL",
+        "url": "https://github.com/rfgplk/micron.cpp",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48415481"
+      },
+      {
+        "id": "48419626",
+        "name": "Show HN: Omni – Local-first multimodal file search on macOS",
+        "url": "https://hanxiao.io/omni/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48419626"
+      },
+      {
+        "id": "48419065",
+        "name": "Show HN: I created a RAW to HDRI stacker in (mostly) Common Lisp",
+        "url": "https://github.com/IBL-tools/rawtohdri",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48419065"
+      },
+      {
+        "id": "48409747",
+        "name": "Show HN: Run Llama.cpp In-Process from Java with Project Panama FFM",
+        "url": "https://deemwar-products.github.io/mochallama/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48409747"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=D7B4F8ifW6TXUAbjXBjX",
+        "title": "IbexAI: How we get customers",
+        "url": "https://www.indiehackers.com/product/ibexai?post=D7B4F8ifW6TXUAbjXBjX",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/bazzly?post=naAFYwc6d1NUvoqg9S4R",
+        "title": "Bazzly: The 30-minute daily system that grew my SaaS to $1K MRR",
+        "url": "https://www.indiehackers.com/product/bazzly?post=naAFYwc6d1NUvoqg9S4R",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-thought-journaling-app-users-wanted-more-features-turns-out-they-wanted-trust-c21af782c1",
+        "title": "I thought journaling app users wanted more features. Turns out they wanted trust.",
+        "url": "https://www.indiehackers.com/post/i-thought-journaling-app-users-wanted-more-features-turns-out-they-wanted-trust-c21af782c1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/memori?post=Vu45lspZWgT8IdY3eJws",
+        "title": "Memori: Building an AI assistant to end \"last-minute\" relationship stress—feedback wanted.",
+        "url": "https://www.indiehackers.com/product/memori?post=Vu45lspZWgT8IdY3eJws",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/hi-indie-hackers-i-m-building-small-ecommerce-copy-tools-while-learning-seo-distribution-fbd7bbbe05",
+        "title": "Hi Indie Hackers — I’m building small ecommerce copy tools while learning SEO distribution",
+        "url": "https://www.indiehackers.com/post/hi-indie-hackers-i-m-building-small-ecommerce-copy-tools-while-learning-seo-distribution-fbd7bbbe05",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/most-founders-dont-have-a-product-problem-they-have-a-visibility-problem-9ca446f554",
+        "title": "Most founders don't have a product problem. They have a visibility problem",
+        "url": "https://www.indiehackers.com/post/most-founders-dont-have-a-product-problem-they-have-a-visibility-problem-9ca446f554",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/theo-browne-on-how-hes-bringing-in-over-1m-yr-as-a-creator-and-founder-tJPQiOnONnf7pJ9m1PTP",
+        "title": "Theo Browne on how he's bringing in over $1M/yr as a creator and founder",
+        "url": "https://www.indiehackers.com/post/tech/theo-browne-on-how-hes-bringing-in-over-1m-yr-as-a-creator-and-founder-tJPQiOnONnf7pJ9m1PTP",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
