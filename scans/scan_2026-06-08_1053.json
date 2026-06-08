@@ -1,0 +1,214 @@
+{
+  "scan_time": "2026-06-08T10:53:43.161033+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "leni-2",
+        "name": "Leni",
+        "tagline": "The world’s most accurate AI for investors",
+        "description": "Leni is the most accurate and verifiable AI for serious investment work. Built on 21,000+ decision traces and processing 100M+ rows daily, it delivers finance-grade outputs with full auditability through source links, timestamps, and grounded comps. Leni outperforms GPT, Claude, and Manus on independent benchmarks for accuracy, modeling, and valuation while giving teams the trust they need when millions are on the line. Leni is part of Google Startups and a serious machine for investors.",
+        "votes": 388,
+        "ph_url": "https://www.producthunt.com/posts/leni-2",
+        "website": "https://www.producthunt.com/r/FFWCFWSDY3ELXY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Investing",
+          "Artificial Intelligence",
+          "Data & Analytics"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48433756",
+        "name": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+        "url": "https://github.com/devenjarvis/lathe",
+        "points": 324,
+        "comments": 57,
+        "hn_url": "https://news.ycombinator.com/item?id=48433756"
+      },
+      {
+        "id": "48438180",
+        "name": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+        "url": "https://github.com/ninoxAI/nightwatch",
+        "points": 18,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48438180"
+      },
+      {
+        "id": "48436434",
+        "name": "Show HN: OpenPayphone – open-source guts for a 1996 coin payphone (Pi and SIP)",
+        "url": "https://github.com/eric-cgn/openpayphone",
+        "points": 17,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48436434"
+      },
+      {
+        "id": "48434430",
+        "name": "Show HN: I made a better zsh autosuggestion tool that predicts your next command",
+        "url": "https://github.com/Giammarco-Ferranti/deja",
+        "points": 12,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48434430"
+      },
+      {
+        "id": "48434198",
+        "name": "Show HN: Inbox-beam – notifications in your inbox without sending email",
+        "url": "https://github.com/toyoshi/inbox-beam",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48434198"
+      },
+      {
+        "id": "48435943",
+        "name": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+        "url": "https://github.com/luke8086/gentleos32",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48435943"
+      },
+      {
+        "id": "48433986",
+        "name": "Show HN: Every Claw Deserves a Face",
+        "url": "https://nyxclaw.ai/",
+        "points": 8,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48433986"
+      },
+      {
+        "id": "48433947",
+        "name": "Show HN: We built a tool to dub any video in the original voice in 40 languages",
+        "url": "https://vaani.media",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48433947"
+      },
+      {
+        "id": "48436024",
+        "name": "Show HN: Help SourceLibrary.org Translate the Renaissance",
+        "url": "https://sourcelibrary.org",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48436024"
+      },
+      {
+        "id": "48441132",
+        "name": "Show HN: I put my Claude Code rate-limit burndown in the status line",
+        "url": "https://www.aimhuge.com/blog/claude-code-status-line",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48441132"
+      },
+      {
+        "id": "48434010",
+        "name": "Show HN: pypoLCA – Latent Class Analysis and Regression in Python",
+        "url": "https://github.com/marcandre259/pypolca",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48434010"
+      },
+      {
+        "id": "48435677",
+        "name": "Show HN: A parser for the ISO 10303 EXPRESS language for its 40th anniversary",
+        "url": "https://github.com/rochus-keller/EXPRESS",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48435677"
+      },
+      {
+        "id": "48440749",
+        "name": "Show HN: TeardownHQ, teardowns/playbooks of how indie startups grew",
+        "url": "https://teardownhq.io",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48440749"
+      },
+      {
+        "id": "48441267",
+        "name": "Show HN: Web Speed – A shared web-map registry for AI agents (MCP, open source)",
+        "url": "https://www.getwebspeed.io/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48441267"
+      },
+      {
+        "id": "48433846",
+        "name": "Show HN: PWNC – A dependency-free web platform I've been building for 25 years",
+        "url": "https://github.com/heydev-de/pwnc",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48433846"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/frameboard",
+        "name": "Frameboard",
+        "description": "Turn briefs into live proposals clients can chat in, sign, and pay",
+        "url": "https://betalist.com/startups/frameboard"
+      },
+      {
+        "id": "/startups/assembly-studio",
+        "name": "Assembly Studio",
+        "description": "Generate client-facing apps that live inside a secure experience",
+        "url": "https://betalist.com/startups/assembly-studio"
+      },
+      {
+        "id": "/startups/globedirect",
+        "name": "GlobeDirect",
+        "description": "Compare international flight options before you book",
+        "url": "https://betalist.com/startups/globedirect"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/bazzly?post=QNyVJkq3lSJU044bHoFo",
+        "title": "Bazzly: You don't need more traffic. You need better activation.",
+        "url": "https://www.indiehackers.com/product/bazzly?post=QNyVJkq3lSJU044bHoFo",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-that-roasts-landing-pages-for-cro-before-i-build-more-tear-the-feature-set-apart-7eee0c5223",
+        "title": "I built an AI that roasts landing pages for CRO — before I build more, tear the feature set apart",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-that-roasts-landing-pages-for-cro-before-i-build-more-tear-the-feature-set-apart-7eee0c5223",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/follow-up-i-posted-here-at-customer-zero-you-gave-me-a-lot-of-advice-here-s-what-i-did-with-it-340001dca3",
+        "title": "Follow-up: I posted here at \"customer zero.\" You gave me a lot of advice. Here's what I did with it.",
+        "url": "https://www.indiehackers.com/post/follow-up-i-posted-here-at-customer-zero-you-gave-me-a-lot-of-advice-here-s-what-i-did-with-it-340001dca3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-18-with-3-businesses-at-0-revenue-yesterday-i-built-an-ai-boss-that-runs-my-day-eae651f594",
+        "title": "I'm 18 with 3 businesses at $0 revenue. Yesterday I built an AI \"boss\" that runs my day.",
+        "url": "https://www.indiehackers.com/post/im-18-with-3-businesses-at-0-revenue-yesterday-i-built-an-ai-boss-that-runs-my-day-eae651f594",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/hi-ih-quick-update-the-mvp-is-live-7696452237",
+        "title": "Hi IH — quick update. The MVP is live.",
+        "url": "https://www.indiehackers.com/post/hi-ih-quick-update-the-mvp-is-live-7696452237",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
