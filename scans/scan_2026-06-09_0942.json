@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-06-09T09:42:23.865803+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "honen",
+        "name": "Honen",
+        "tagline": "Automated teaching + learning infrastructure for any company",
+        "description": "Create employee training that keeps up with your company. Honen turns team knowledge into interactive AI-led courses in seconds, complete with adaptive lessons, simulations, and learner insights. When your docs, tools, or processes change, courses update automatically.",
+        "votes": 462,
+        "ph_url": "https://www.producthunt.com/posts/honen",
+        "website": "https://www.producthunt.com/r/KGWER5KAKVLXHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Education",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "browse-sh",
+        "name": "Browse.sh",
+        "tagline": "Give your agents muscle memory for automating the web",
+        "description": "browse.sh — an open catalog of browser automation skills for any website. Find reusable SKILL.md recipes that teach AI agents to complete tasks online, and install them with the browse CLI.",
+        "votes": 424,
+        "ph_url": "https://www.producthunt.com/posts/browse-sh",
+        "website": "https://www.producthunt.com/r/INE5ILTLAZIF32?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48445554",
+        "name": "Show HN: Performative-UI – A react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "points": 977,
+        "comments": 180,
+        "hn_url": "https://news.ycombinator.com/item?id=48445554"
+      },
+      {
+        "id": "48447806",
+        "name": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
+        "url": "https://gitdot.io/",
+        "points": 257,
+        "comments": 225,
+        "hn_url": "https://news.ycombinator.com/item?id=48447806"
+      },
+      {
+        "id": "48453002",
+        "name": "Show HN: Command Center, the AI coding env for people who care about quality",
+        "url": "https://www.cc.dev/",
+        "points": 49,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=48453002"
+      },
+      {
+        "id": "48449430",
+        "name": "Show HN: AI Pair Programmer for Emacs",
+        "url": "https://github.com/jaketothepast/codetutor",
+        "points": 32,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48449430"
+      },
+      {
+        "id": "48453666",
+        "name": "Show HN: Mach – A compiled systems language looking for contributions",
+        "url": "https://github.com/octalide/mach",
+        "points": 26,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48453666"
+      },
+      {
+        "id": "48447484",
+        "name": "Show HN: Startup sci-fi novel that took me 5 years to write",
+        "url": "https://www.blockchainednovel.com/",
+        "points": 18,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48447484"
+      },
+      {
+        "id": "48449498",
+        "name": "Show HN: HTTP/3 and raw QUIC client/server APIs for Node.js",
+        "url": "https://github.com/currentspace/http3",
+        "points": 13,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48449498"
+      },
+      {
+        "id": "48447238",
+        "name": "Show HN: Quick games disguised as boring spreadsheets",
+        "url": "https://boredspreadsheet.com/workbook",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48447238"
+      },
+      {
+        "id": "48448372",
+        "name": "Show HN: Rayline routes Claude Code subagents to on-device and cheaper models",
+        "url": "https://rayline.ai/",
+        "points": 11,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48448372"
+      },
+      {
+        "id": "48446710",
+        "name": "Show HN: A Highly Available Distributed Router for Global Realtime AI",
+        "url": "https://cerebrium.ai/blog/thalamus-our-highly-available-distributed-router-for-global-realtime-ai-workloads",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48446710"
+      },
+      {
+        "id": "48445386",
+        "name": "Show HN: Kronotop – A distributed multi-model database built on FoundationDB",
+        "url": "https://github.com/kronotop/kronotop",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48445386"
+      },
+      {
+        "id": "48448390",
+        "name": "Show HN: A minimal, ad-free World Cup web-app for fixtures and live scores",
+        "url": "https://wc2026.bisheshtiwaree.com/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48448390"
+      },
+      {
+        "id": "48447487",
+        "name": "Show HN: I ported Xonotic to WASM",
+        "url": "https://dpgame.xonotic.workers.dev/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48447487"
+      },
+      {
+        "id": "48444323",
+        "name": "Show HN: Proxee – Your localhost on your iPhone, synced",
+        "url": "https://proxee.dev",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48444323"
+      },
+      {
+        "id": "48451638",
+        "name": "Show HN: macOS Apps on Linux: SwiftUI for Linux (and AppKit, NSFoundation, etc.)",
+        "url": "https://github.com/Lore-Hex/QuillUI",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48451638"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/toollisted",
+        "name": "ToolListed",
+        "description": "List your tool, gain SEO backlinks, and reach high-intent users",
+        "url": "https://betalist.com/startups/toollisted"
+      },
+      {
+        "id": "/startups/beautybound",
+        "name": "BeautyBound",
+        "description": "Track and optimize skincare, hair, makeup, and wellness in one app",
+        "url": "https://betalist.com/startups/beautybound"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=Lsok8lj9uXmRAjFfo88b",
+        "title": "LiFast: I posted on LinkedIn for 6 months with 0 results until I changed one thing",
+        "url": "https://www.indiehackers.com/product/lifast?post=Lsok8lj9uXmRAjFfo88b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/psilynx?post=AzsHZ4mk25UeBLGMbJcB",
+        "title": "Launching PSI Lynx on Product Hunt today",
+        "url": "https://www.indiehackers.com/product/psilynx?post=AzsHZ4mk25UeBLGMbJcB",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/linkeme-2?post=RgIkYH5vr7vjzHAjPpWz",
+        "title": "Linkeme: My LinkedIn roast tool was a marketing hack. It became the company.",
+        "url": "https://www.indiehackers.com/product/linkeme-2?post=RgIkYH5vr7vjzHAjPpWz",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-a-complex-saas-was-the-easy-part-now-i-need-proof-c1fcfc93ca",
+        "title": "Building a complex SaaS was the easy part. Now I need proof.",
+        "url": "https://www.indiehackers.com/post/building-a-complex-saas-was-the-easy-part-now-i-need-proof-c1fcfc93ca",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-a-payments-platform-after-my-own-paypal-wise-nightmares-would-love-brutal-feedback-607c93ebaa",
+        "title": "Building a payments platform after my own Paypal/Wise nightmares. Would love brutal feedback",
+        "url": "https://www.indiehackers.com/post/building-a-payments-platform-after-my-own-paypal-wise-nightmares-would-love-brutal-feedback-607c93ebaa",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/growing-an-open-source-product-to-1-3m-arr-in-two-years-hbMiXIoZsueV9D3L58DP",
+        "title": "Growing an open-source product to $1.3M ARR in two years",
+        "url": "https://www.indiehackers.com/post/tech/growing-an-open-source-product-to-1-3m-arr-in-two-years-hbMiXIoZsueV9D3L58DP",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
