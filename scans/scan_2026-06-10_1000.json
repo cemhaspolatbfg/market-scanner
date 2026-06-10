@@ -1,0 +1,213 @@
+{
+  "scan_time": "2026-06-10T09:59:12.165959+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "vc-boom",
+        "name": "VC Boom",
+        "tagline": "Score your deck, meet investors who fit, and raise more",
+        "description": "VC Boom scores your pitch deck in under 90 seconds and tells you the single fastest fix, matches you with the right investors from 47,000+ (each with a one-line reason they fit), then drafts personalized cold emails you send from your own inbox. Prep for each investor, then book the calls. Founders using VC Boom have already raised $95M. Built by an 8-year VC who raised hundreds of millions and deployed across 47 startups. Free to start, no subscription.",
+        "votes": 456,
+        "ph_url": "https://www.producthunt.com/posts/vc-boom",
+        "website": "https://www.producthunt.com/r/NEBXF32UWM4O4P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Venture Capital",
+          "Artificial Intelligence",
+          "Fundraising"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "google-search-profiles",
+        "name": "Google Search Profiles",
+        "tagline": "Profile for publishers/creators to highlight work on Search",
+        "description": "Google Search Profiles let publishers and creators claim a dedicated page on Search, link their social and video platforms, and get followed directly into Discover. Currently US-only, eligibility requires an existing following.",
+        "votes": 388,
+        "ph_url": "https://www.producthunt.com/posts/google-search-profiles",
+        "website": "https://www.producthunt.com/r/NRRQD6MLVCJ2A7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "News",
+          "SEO",
+          "Search"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "dreambeans-by-google-labs",
+        "name": "Dreambeans by Google Labs",
+        "tagline": "Daily AI stories personalised from your Google apps",
+        "description": "Dreambeans synthesises your Gmail, Calendar, Photos, YouTube, and Search overnight to deliver daily AI-generated story collections. For Google AI Ultra subscribers who want personal context surfaced proactively.",
+        "votes": 372,
+        "ph_url": "https://www.producthunt.com/posts/dreambeans-by-google-labs",
+        "website": "https://www.producthunt.com/r/JQLUSYPX7QVIND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Android",
+          "iOS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48459837",
+        "name": "Show HN: Gravity – Interactive solar-system simulator, from Newton to Einstein",
+        "url": "https://qunabu.github.io/Gravity/",
+        "points": 182,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=48459837"
+      },
+      {
+        "id": "48459913",
+        "name": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+        "url": "https://github.com/chipmates/agoracosmica",
+        "points": 41,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=48459913"
+      },
+      {
+        "id": "48469039",
+        "name": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
+        "url": "https://github.com/sig-id/nucleus",
+        "points": 28,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48469039"
+      },
+      {
+        "id": "48462928",
+        "name": "Show HN: Claw Patrol, a security firewall for agents",
+        "url": "https://github.com/denoland/clawpatrol",
+        "points": 22,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48462928"
+      },
+      {
+        "id": "48463102",
+        "name": "Show HN: Open-source version of Anthropic's internal analytics engine",
+        "url": "https://github.com/Kaelio/ktx",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48463102"
+      },
+      {
+        "id": "48469352",
+        "name": "Show HN: The agent that builds and operates its own SaaS tools",
+        "url": "https://craftbot.live",
+        "points": 10,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48469352"
+      },
+      {
+        "id": "48460210",
+        "name": "Show HN: We post-trained a model that pen tests instead of refusing your code",
+        "url": "https://www.argusred.com/cli",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48460210"
+      },
+      {
+        "id": "48466939",
+        "name": "Show HN: OpenYabby, voice-controlled multi-agent orchestrator for Claude Code",
+        "url": "https://github.com/OpenYabby/OpenYabby",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48466939"
+      },
+      {
+        "id": "48462366",
+        "name": "Show HN: ChromiumFish – Open-source fingerprint-hardened Browser for Scraping",
+        "url": "https://github.com/arman-bd/chromiumfish",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48462366"
+      },
+      {
+        "id": "48466954",
+        "name": "Show HN: Agent-pd – A zero-token audit log to catch rogue Claude Code subagents",
+        "url": "https://github.com/varmabudharaju/agent-pd/blob/master/README.md",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48466954"
+      },
+      {
+        "id": "48461287",
+        "name": "Show HN: Sandbox AI-app lifecycle, from build to run",
+        "url": "https://capakit.com/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48461287"
+      },
+      {
+        "id": "48460640",
+        "name": "Show HN: UK sold house prices, uncapped, by postcode/county (Land Registry)",
+        "url": "https://github.com/vladignatyev/uk-land-registry-price-paid",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48460640"
+      },
+      {
+        "id": "48467068",
+        "name": "Show HN: LANCommander v2.1.0 – New Avalonia-based launcher",
+        "url": "https://lancommander.app/Releases/2.1.0/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48467068"
+      },
+      {
+        "id": "48464573",
+        "name": "Show HN: Lore – LLM proxy for coding agent context and memory management",
+        "url": "https://withlore.ai/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48464573"
+      },
+      {
+        "id": "48464437",
+        "name": "Show HN: I built a social-first search(X, Reddit, TikTok) cause Google is boring",
+        "url": "https://www.bluhe.ai/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48464437"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/achiv?post=jfi5NUo23sJPtPDY6kwE",
+        "title": "Achiv: 7 months building, 2 paying customers, $128 MRR — launching on Product Hunt today, terrified.",
+        "url": "https://www.indiehackers.com/product/achiv?post=jfi5NUo23sJPtPDY6kwE",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-audited-an-app-built-100-with-ai-heres-what-i-found-8f43280e54",
+        "title": "I audited an app built 100% with AI. Here's what I found.",
+        "url": "https://www.indiehackers.com/post/i-audited-an-app-built-100-with-ai-heres-what-i-found-8f43280e54",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-expensespy-solo-no-funding-launching-june-17-on-ios-android-4768d8a1e4",
+        "title": "Building ExpenseSpy solo, no funding — launching June 17 on iOS & Android",
+        "url": "https://www.indiehackers.com/post/building-expensespy-solo-no-funding-launching-june-17-on-ios-android-4768d8a1e4",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 3
+    }
+  }
+}
