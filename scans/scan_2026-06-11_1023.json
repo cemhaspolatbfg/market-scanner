@@ -1,0 +1,231 @@
+{
+  "scan_time": "2026-06-11T10:23:20.977292+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "publora-2",
+        "name": "Publora",
+        "tagline": "A publishing API for agents to post on 10 social platforms",
+        "description": "Publora is a publishing API for 10 social platforms. One REST API call handles multi-network distribution — no SDKs, no OAuth wiring. The native MCP server with 18 tools gives AI agents like Claude and Cursor a full engagement loop: post, comment, react, pull analytics — across LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon, and Telegram",
+        "votes": 545,
+        "ph_url": "https://www.producthunt.com/posts/publora-2",
+        "website": "https://www.producthunt.com/r/FFFDHH6IKSRQWU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Social Media",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "typingmind",
+        "name": "TypingMind",
+        "tagline": "Pay per use, no subscription, 18 model providers supported",
+        "description": "TypingMind is the most popular app to use LLM AI models with API keys. It brings you all the best models across 18 providers in one powerful AI workspace without having to pay for subscriptions to each one. TypingMind also provides the best AI experience ever with features focused on pro users like Projects, Fork/Parallel chat, Plugins/MCP/Skills, and a wide range of customizable options that you literally cannot find anywhere else! Go give it a try at www.typingmind.com :)",
+        "votes": 426,
+        "ph_url": "https://www.producthunt.com/posts/typingmind",
+        "website": "https://www.producthunt.com/r/AET65KN4Y36CK3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "spotlight-by-backplanes",
+        "name": "Spotlight by Backplanes",
+        "tagline": "Session reports for Claude Code & Codex to improve your code",
+        "description": "Keep up with your agents. Spotlight reads your Claude Code and Codex sessions and shows you what your agents actually did, and how to get recursively better every session: what to fix now, what to ship better next time, what's worth sharing. One harness or seven, solo or across your team. Free.",
+        "votes": 383,
+        "ph_url": "https://www.producthunt.com/posts/spotlight-by-backplanes",
+        "website": "https://www.producthunt.com/r/YZAQ4A3CS6KC4V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Security"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48478469",
+        "name": "Show HN: Extend UI – open-source UI kit for modern document apps",
+        "url": "https://www.extend.ai/ui",
+        "points": 212,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=48478469"
+      },
+      {
+        "id": "48478148",
+        "name": "Show HN: HelixDB – A graph database built on object storage",
+        "url": "https://github.com/HelixDB/helix-db/tree/main",
+        "points": 128,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=48478148"
+      },
+      {
+        "id": "48477708",
+        "name": "Show HN: Papermill Press – An AI-friendly markup language for PDF generation",
+        "url": "",
+        "points": 15,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=48477708"
+      },
+      {
+        "id": "48477514",
+        "name": "Show HN: NBSDgames – 21 new, improved, original text games for Unix, DOS, Plan9",
+        "url": "https://github.com/abakh/nbsdgames",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48477514"
+      },
+      {
+        "id": "48477523",
+        "name": "Show HN: Social network where inviting someone makes you accountable for them",
+        "url": "https://chirpper.com",
+        "points": 10,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=48477523"
+      },
+      {
+        "id": "48483562",
+        "name": "Show HN: Magenta Real-Time Music Generation Locally on iPhone, Without the GPU",
+        "url": "https://github.com/mattmireles/magenta-realtime-2-iphone",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48483562"
+      },
+      {
+        "id": "48476456",
+        "name": "Show HN: Camel Mono – a monospace font that makes camelCase easier to read",
+        "url": "https://github.com/TJHdev/camel-mono",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48476456"
+      },
+      {
+        "id": "48485816",
+        "name": "Show HN: I built a Red Flag Warning zone-check tool for the East Bay in 48h",
+        "url": "https://redflag-check.info",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48485816"
+      },
+      {
+        "id": "48475082",
+        "name": "Show HN: Drift – an embedding-model upgrade should be a rotation, not a reindex",
+        "url": "https://github.com/aayush4vedi/drift-spark",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48475082"
+      },
+      {
+        "id": "48479165",
+        "name": "Show HN: Learn while you wait for your agents to code",
+        "url": "https://github.com/get-foyer/foyer",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48479165"
+      },
+      {
+        "id": "48478775",
+        "name": "Show HN: A 150M model that extracts verbatim evidence spans for RAG, no LLM call",
+        "url": "https://huggingface.co/KRLabsOrg/verbatim-rag-modern-bert-v2",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48478775"
+      },
+      {
+        "id": "48475381",
+        "name": "Show HN: RiskKernel, kill -9 an AI agent and resume it without paying twice",
+        "url": "https://riskkernel.com/",
+        "points": 5,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48475381"
+      },
+      {
+        "id": "48479973",
+        "name": "Show HN: I built a microlearning app to learn personal finance",
+        "url": "https://finance.usescroll.app",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48479973"
+      },
+      {
+        "id": "48484994",
+        "name": "Show HN: Built a public demo to explore SpaceX's IPO filing using multimodal RAG",
+        "url": "https://www.calypso.so/demos/spacex-ipo-filing",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48484994"
+      },
+      {
+        "id": "48483607",
+        "name": "Show HN: Llmbuffer – Python library for cache-optimized LLM conversation history",
+        "url": "https://github.com/scottpurdy/llmbuffer",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48483607"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/launching-mdtidys-chrome-extension-0d891e9987",
+        "title": "Launching mdtidy's chrome extension!",
+        "url": "https://www.indiehackers.com/post/launching-mdtidys-chrome-extension-0d891e9987",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=7eL1oOh2EKuac8BAiENF",
+        "title": "Pterocos: I built a browser-based editor for Python, HTML, Javascript, CSS, SQL & Lua (and it actually works)",
+        "url": "https://www.indiehackers.com/product/pterocos?post=7eL1oOh2EKuac8BAiENF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=cp0Q4raGOs2IYyXqia3U",
+        "title": "LiFast: How I went from 600 LinkedIn profile views to 12 actual clients in 90 days",
+        "url": "https://www.indiehackers.com/product/lifast?post=cp0Q4raGOs2IYyXqia3U",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-think-most-e-commerce-brands-are-optimizing-the-wrong-layer-f0cab5d5bd",
+        "title": "I Think Most E-commerce Brands Are Optimizing The Wrong Layer",
+        "url": "https://www.indiehackers.com/post/i-think-most-e-commerce-brands-are-optimizing-the-wrong-layer-f0cab5d5bd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-agent-that-opens-github-prs-on-your-saas-heres-how-it-went-df4c35e77e",
+        "title": "I built an AI agent that opens GitHub PRs on your SaaS. Here's how it went.",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-agent-that-opens-github-prs-on-your-saas-heres-how-it-went-df4c35e77e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/monoshoot?post=Qg43cjOFQkuxSx8wwDAS",
+        "title": "Monoshoot: I got frustrated trying to do AI product photography for a client. So I built the tool I wished existed.",
+        "url": "https://www.indiehackers.com/product/monoshoot?post=Qg43cjOFQkuxSx8wwDAS",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 0,
+      "new": 0,
+      "error": "HTTPSConnectionPool(host='betalist.com', port=443): Read timed out. (read timeout=15)"
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
