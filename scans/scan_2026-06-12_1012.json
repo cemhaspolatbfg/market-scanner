@@ -1,0 +1,256 @@
+{
+  "scan_time": "2026-06-12T10:12:39.098056+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "bond-717",
+        "name": "Bond",
+        "tagline": "The AI to-do list that does itself",
+        "description": "Bond is an AI Chief of Staff for executives. It connects to your tools, learns how your company works, and turns scattered tasks into a self-managing to-do list that always knows what you need to do next. You can ask Bond to prepare you for your next meeting, draft a follow-up, send an email, create action items, identify blockers, surface risks, or delegate tasks to team members.",
+        "votes": 630,
+        "ph_url": "https://www.producthunt.com/posts/bond-717",
+        "website": "https://www.producthunt.com/r/7SFOLQBBWUEQXW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Virtual Assistants"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "asmi-ai-3",
+        "name": "Asmi AI",
+        "tagline": "AI that handles your personal chores in the real world",
+        "description": "Asmi calls you every morning. You talk - it handles the day. It calls services (dentist, salon, plumber, bank, insurance) or people (friends, colleagues) to coordinate, book or resolve things. Updates you on iMessage or WhatsApp when done. It can navigate IVRS, wait on hold and handle complex conversations well.",
+        "votes": 434,
+        "ph_url": "https://www.producthunt.com/posts/asmi-ai-3",
+        "website": "https://www.producthunt.com/r/Y5YVSLCZJ7BZ6I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "respan-gateway",
+        "name": "Respan Gateway",
+        "tagline": "One AI gateway with built-in observability and evals",
+        "description": "Respan AI Gateway connects your app to 1,000+ AI models through one endpoint. But routing is the easy part. Respan keeps production AI reliable and under control with fallbacks, retries, caching, spend limits, alerts, and full traces for every call. Gateway, observability, evals, prompt management, monitors, and cost controls all run on one platform, so you do not need to stitch together five tools to debug production.",
+        "votes": 426,
+        "ph_url": "https://www.producthunt.com/posts/respan-gateway",
+        "website": "https://www.producthunt.com/r/PZT5PPTBVKBPVT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48490024",
+        "name": "Show HN: Homebrew 6.0.0",
+        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+        "points": 1234,
+        "comments": 287,
+        "hn_url": "https://news.ycombinator.com/item?id=48490024"
+      },
+      {
+        "id": "48496539",
+        "name": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+        "url": "https://fablepool.com",
+        "points": 401,
+        "comments": 217,
+        "hn_url": "https://news.ycombinator.com/item?id=48496539"
+      },
+      {
+        "id": "48496250",
+        "name": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+        "url": "https://github.com/coder/boo",
+        "points": 77,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=48496250"
+      },
+      {
+        "id": "48491426",
+        "name": "Show HN: Open-source API Key server written in Go by Ory",
+        "url": "https://github.com/ory/talos/tree/master",
+        "points": 31,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48491426"
+      },
+      {
+        "id": "48493786",
+        "name": "Show HN: A police department for your Claude Code agents",
+        "url": "https://github.com/varmabudharaju/agent-pd/blob/master/README.md",
+        "points": 10,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48493786"
+      },
+      {
+        "id": "48495969",
+        "name": "Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
+        "url": "https://tunnelmind.ai/",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48495969"
+      },
+      {
+        "id": "48489925",
+        "name": "Show HN: Workplane – collaborative files for agents (and humans)",
+        "url": "https://workplane.co",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48489925"
+      },
+      {
+        "id": "48495737",
+        "name": "Show HN: Heard – offline LoRa mesh that keeps hiking groups together",
+        "url": "https://github.com/luciobaiocchi/heard",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48495737"
+      },
+      {
+        "id": "48488870",
+        "name": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
+        "url": "https://github.com/vishal-dehurdle/state-harness",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48488870"
+      },
+      {
+        "id": "48496242",
+        "name": "Show HN: ZeroFS – Make S3 your primary storage",
+        "url": "https://www.zerofs.net/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48496242"
+      },
+      {
+        "id": "48494234",
+        "name": "Show HN: Stillwind – High Resolution Electronic Component Search",
+        "url": "https://stillwind.ai",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48494234"
+      },
+      {
+        "id": "48491529",
+        "name": "Show HN: CambiOS – a new Rust-based, sovereign identity, zero-trust OS",
+        "url": "https://github.com/coherentforge/CambiOS",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48491529"
+      },
+      {
+        "id": "48490591",
+        "name": "Show HN: Brooks-Lint – AI code reviews grounded in 12 classic engineering books",
+        "url": "https://github.com/hyhmrright/brooks-lint",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48490591"
+      },
+      {
+        "id": "48488753",
+        "name": "Show HN: Claumon – forecasting Claude Code usage limits with a Gamma process",
+        "url": "https://github.com/fabioconcina/claumon",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48488753"
+      },
+      {
+        "id": "48490047",
+        "name": "Show HN: Editxr – open-source WYSIWYG Markdown editor for the terminal",
+        "url": "https://github.com/pixdeo/editxr",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48490047"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/alterwork",
+        "name": "Alterwork",
+        "description": "Find remote AI training and data labeling jobs in one feed",
+        "url": "https://betalist.com/startups/alterwork"
+      },
+      {
+        "id": "/startups/telyn",
+        "name": "Telyn",
+        "description": "Answer calls, book appointments, capture leads 24/7",
+        "url": "https://betalist.com/startups/telyn"
+      },
+      {
+        "id": "/startups/skiddee",
+        "name": "Skiddee",
+        "description": "Paste a script and get a unique illustrated narrated video in minutes",
+        "url": "https://betalist.com/startups/skiddee"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/deepcleancsv?post=fue3wU6IHmkk0JCTFHEZ",
+        "title": "DeepCleanCSV: I built a CSV cleaning tool after wasting too much time on dirty data.",
+        "url": "https://www.indiehackers.com/product/deepcleancsv?post=fue3wU6IHmkk0JCTFHEZ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/6-weeks-solo-2-rejections-finally-live-but-nobody-told-me-marketing-would-be-this-hard-914c457f0f",
+        "title": "6 weeks solo, 2 rejections, finally live but nobody told me marketing would be this hard",
+        "url": "https://www.indiehackers.com/post/6-weeks-solo-2-rejections-finally-live-but-nobody-told-me-marketing-would-be-this-hard-914c457f0f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-decision-layer-for-etsy-sellers-feedback-wanted-before-i-build-the-rest-1e39ba5e4b",
+        "title": "Built a 'Decision Layer' for Etsy sellers — feedback wanted before I build the rest",
+        "url": "https://www.indiehackers.com/post/built-a-decision-layer-for-etsy-sellers-feedback-wanted-before-i-build-the-rest-1e39ba5e4b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/small-businesses-arent-asking-for-more-features-they-re-asking-for-fewer-problems-6a404937d1",
+        "title": "Small businesses aren't asking for more features. They're asking for fewer problems",
+        "url": "https://www.indiehackers.com/post/small-businesses-arent-asking-for-more-features-they-re-asking-for-fewer-problems-6a404937d1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/driftless?post=IZU2UFStMvk9KuMhkgmW",
+        "title": "Driftless: Your README is probably lying to your users",
+        "url": "https://www.indiehackers.com/product/driftless?post=IZU2UFStMvk9KuMhkgmW",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/comparica?post=ZBQyFexVeNRDWPb8F0wn",
+        "title": "Comparica: How do you know if people will actually like your idea?",
+        "url": "https://www.indiehackers.com/product/comparica?post=ZBQyFexVeNRDWPb8F0wn",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/diversifying-to-break-a-1-6m-yr-plateau-D8QDyPuDzSuOQS7ux9nR",
+        "title": "Diversifying to break a $1.6M/yr plateau",
+        "url": "https://www.indiehackers.com/post/tech/diversifying-to-break-a-1-6m-yr-plateau-D8QDyPuDzSuOQS7ux9nR",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
