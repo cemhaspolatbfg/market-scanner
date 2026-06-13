@@ -1,0 +1,196 @@
+{
+  "scan_time": "2026-06-13T08:57:46.635223+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "terminal-mode-by-even-realities-3",
+        "name": "Terminal Mode by Even Realities",
+        "tagline": "Keep coding agents always in sight",
+        "description": "Terminal Mode by Even Realities unlocks an ambient terminal on Even G2 smart glasses. When a coding agent stalls, you catch it: see which agent needs you now, give direction, and approve key steps while your laptop runs long tasks, so token-maxers get more from every run and vibe coders stay in flow.",
+        "votes": 410,
+        "ph_url": "https://www.producthunt.com/posts/terminal-mode-by-even-realities-3",
+        "website": "https://www.producthunt.com/r/JP725UN73VRUJN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Vibe coding"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48510341",
+        "name": "Show HN: Putt.day a daily mini golf game",
+        "url": "https://putt.day/",
+        "points": 158,
+        "comments": 71,
+        "hn_url": "https://news.ycombinator.com/item?id=48510341"
+      },
+      {
+        "id": "48505364",
+        "name": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
+        "url": "https://stackscope.dev/",
+        "points": 55,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48505364"
+      },
+      {
+        "id": "48505161",
+        "name": "Show HN: Script to bulk delete Claude chats from the web UI",
+        "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+        "points": 54,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=48505161"
+      },
+      {
+        "id": "48502574",
+        "name": "Show HN: Ttar 2.4 KB freestanding TAR archiver written in C, no Libc",
+        "url": "https://github.com/Ferki-git-creator/ttar-tiny-tar-archivist",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48502574"
+      },
+      {
+        "id": "48502070",
+        "name": "Show HN: LiveHere – AI Videos, Self-Hosted Nvidia Cosmos on H200 GPUs",
+        "url": "https://twitter.com/manassharmahere/status/2065370878519468221",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48502070"
+      },
+      {
+        "id": "48504995",
+        "name": "Show HN: I had Fable clone a game, it turned it into an arena combat AI trainer",
+        "url": "https://soldat.bobbby.online/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48504995"
+      },
+      {
+        "id": "48503425",
+        "name": "Show HN: We're inviting Anthropic to put the real Mythos 5 on our open benchmark",
+        "url": "https://realvuln.com",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48503425"
+      },
+      {
+        "id": "48506364",
+        "name": "Show HN: Squishy & Friends – Claude Fabel 5 coded a game and it is good",
+        "url": "https://squishy.franzai.com/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48506364"
+      },
+      {
+        "id": "48512776",
+        "name": "Show HN: The A-C Coupling Theorem – Solving Diophantine Systems in O(1)",
+        "url": "https://zenodo.org/records/20648657",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48512776"
+      },
+      {
+        "id": "48509968",
+        "name": "Show HN: ASCII Royale",
+        "url": "https://github.com/chad/ascii-royale",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48509968"
+      },
+      {
+        "id": "48505245",
+        "name": "Show HN: A Terrible Way to Consume Hacker News – AI Slop",
+        "url": "https://deadinternet.tech/feed",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48505245"
+      },
+      {
+        "id": "48503390",
+        "name": "Show HN: Live 3D map of London with planes, trains, buses and boats",
+        "url": "https://london.jamespotter.dev/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48503390"
+      },
+      {
+        "id": "48514124",
+        "name": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
+        "url": "https://github.com/vladignatyev/brain-map-skill",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48514124"
+      },
+      {
+        "id": "48512136",
+        "name": "Show HN: Lead Qualifier – Get leads qualified in minutes",
+        "url": "https://lead.robowrite.ai",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48512136"
+      },
+      {
+        "id": "48503461",
+        "name": "Show HN: 800x faster Linter and TypeScript-Go toolchain for plugins like typia",
+        "url": "https://github.com/samchon/ttsc",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48503461"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/seeker-3",
+        "name": "Seeker",
+        "description": "See your market rank, best-fit roles, and skill gaps",
+        "url": "https://betalist.com/startups/seeker-3"
+      },
+      {
+        "id": "/startups/page-pulse",
+        "name": "Page Pulse",
+        "description": "Site analytics that feel simple and provide clear insights",
+        "url": "https://betalist.com/startups/page-pulse"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/pterocos?post=EU1PLHJ948GRgjV5D9gE",
+        "title": "Pterocos - Free online editor now supports Rust! (plus Python, Ruby, SQL, Lua)",
+        "url": "https://www.indiehackers.com/product/pterocos?post=EU1PLHJ948GRgjV5D9gE",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-that-doesnt-give-advice-here-s-what-i-learned-00890e77a8",
+        "title": "I Built an AI That Doesn't Give Advice. Here's What I Learned",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-that-doesnt-give-advice-here-s-what-i-learned-00890e77a8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-16k-mrr-after-years-of-failed-products-h5lM0xJmVrRZM0B23MT6",
+        "title": "Hitting $16k MRR after years of failed products",
+        "url": "https://www.indiehackers.com/post/tech/hitting-16k-mrr-after-years-of-failed-products-h5lM0xJmVrRZM0B23MT6",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 3
+    }
+  }
+}
