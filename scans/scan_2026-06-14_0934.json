@@ -1,0 +1,192 @@
+{
+  "scan_time": "2026-06-14T09:33:54.786173+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "48515385",
+        "name": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+        "url": "https://github.com/Paca-AI/paca",
+        "points": 150,
+        "comments": 55,
+        "hn_url": "https://news.ycombinator.com/item?id=48515385"
+      },
+      {
+        "id": "48516510",
+        "name": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+        "url": "https://hallucinate.site/gallery",
+        "points": 69,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=48516510"
+      },
+      {
+        "id": "48522555",
+        "name": "Show HN: I built 80 mini-games using Fable before it was shut down",
+        "url": "https://minigames.world/en",
+        "points": 50,
+        "comments": 64,
+        "hn_url": "https://news.ycombinator.com/item?id=48522555"
+      },
+      {
+        "id": "48519567",
+        "name": "Show HN: Verso – A $14.99 Mac word processor with no subscription",
+        "url": "https://www.versowriter.app",
+        "points": 35,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=48519567"
+      },
+      {
+        "id": "48522417",
+        "name": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU",
+        "url": "https://github.com/ayushh0110/ScreenMind",
+        "points": 20,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48522417"
+      },
+      {
+        "id": "48516202",
+        "name": "Show HN: Quant Picker – which GGUF file fits your model and machine",
+        "url": "https://vettedconsumer.com/quant-picker/",
+        "points": 16,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48516202"
+      },
+      {
+        "id": "48523664",
+        "name": "Show HN: Bastion – isolated Linux VMs for background coding agents",
+        "url": "https://bastion.computer/",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48523664"
+      },
+      {
+        "id": "48518648",
+        "name": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker",
+        "url": "https://brightdeck.ai/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48518648"
+      },
+      {
+        "id": "48521848",
+        "name": "Show HN: Bye-wk – Hide World Cup news from your feed",
+        "url": "https://github.com/Braitenberg/bye-wk",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48521848"
+      },
+      {
+        "id": "48520360",
+        "name": "Show HN: Galdor – a Go LLM agent framework with built-in tracing and replay",
+        "url": "https://github.com/YasserCR/galdor",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48520360"
+      },
+      {
+        "id": "48516614",
+        "name": "Show HN: AgentNexus – coordinate LLM agents by service boundary, not role",
+        "url": "https://github.com/dugubuyan/agent-nexus",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48516614"
+      },
+      {
+        "id": "48518923",
+        "name": "Show HN: Lightweight C++23 S3 client with no extra deps (just curl and OpenSSL)",
+        "url": "https://github.com/ggcr/s3cpp",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48518923"
+      },
+      {
+        "id": "48522082",
+        "name": "Show HN: Pebble, an open-source alternative to Minecraft: Java Edition",
+        "url": "https://github.com/thebriangao/pebble",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48522082"
+      },
+      {
+        "id": "48518238",
+        "name": "Show HN: OmnySSH – TUI SSH manager with dashboard, SFTP and snippets (Rust)",
+        "url": "https://github.com/timhartmann7/omnyssh",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48518238"
+      },
+      {
+        "id": "48520757",
+        "name": "Show HN: I am running 3 coding agents non-stop over the last 3 days. Here is how",
+        "url": "",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48520757"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/letmepost",
+        "name": "Letmepost",
+        "description": "Publish and schedule posts to 8 platforms with one API",
+        "url": "https://betalist.com/startups/letmepost"
+      },
+      {
+        "id": "/startups/sidehunt",
+        "name": "Sidehunt",
+        "description": "Launch your side project and get real votes from early adopters",
+        "url": "https://betalist.com/startups/sidehunt"
+      },
+      {
+        "id": "/startups/foray-ai",
+        "name": "Foray AI",
+        "description": "Generate a complete, stress-tested business strategy for your idea",
+        "url": "https://betalist.com/startups/foray-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/myeasterntype?post=GM0ec1trZ7DUHAOL4Ep0",
+        "title": "myeasterntype: My website is live",
+        "url": "https://www.indiehackers.com/product/myeasterntype?post=GM0ec1trZ7DUHAOL4Ep0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/from-chasing-mrr-to-mastering-nrr-how-i-built-recurflux-to-stop-the-silent-saas-revenue-bleed-b6bdd611fd",
+        "title": "From Chasing MRR to Mastering NRR: How I Built Recurflux to Stop the Silent SaaS Revenue Bleed",
+        "url": "https://www.indiehackers.com/post/from-chasing-mrr-to-mastering-nrr-how-i-built-recurflux-to-stop-the-silent-saas-revenue-bleed-b6bdd611fd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/monoshoot?post=lgUqT2rWXNYJu6UfG9Ea",
+        "title": "Monoshoot: Most AI image tools have a product accuracy problem",
+        "url": "https://www.indiehackers.com/product/monoshoot?post=lgUqT2rWXNYJu6UfG9Ea",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-kept-re-importing-my-playlists-on-every-device-so-i-built-a-media-player-that-syncs-112ca4c0b7",
+        "title": "I kept re-importing my playlists on every device, so I built a media player that syncs",
+        "url": "https://www.indiehackers.com/post/i-kept-re-importing-my-playlists-on-every-device-so-i-built-a-media-player-that-syncs-112ca4c0b7",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
