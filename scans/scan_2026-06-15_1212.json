@@ -1,0 +1,228 @@
+{
+  "scan_time": "2026-06-15T12:12:25.466059+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "vercel-drop",
+        "name": "Vercel Drop",
+        "tagline": "Drop it. It's live.",
+        "description": "Vercel Drop lets you deploy a file or folder by dragging it into your browser. You don't need Git, the Vercel CLI, or any local setup. Drop a project onto vercel.com/drop, pick a team and project name, and select Deploy. Vercel will create a new project, upload your files, and publish them straight to production with a live URL you can share. All in a matter of seconds.",
+        "votes": 440,
+        "ph_url": "https://www.producthunt.com/posts/vercel-drop",
+        "website": "https://www.producthunt.com/r/RY26DNHYWZFE45?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "slashy-3",
+        "name": "Slashy",
+        "tagline": "The AI assistant that does email for you",
+        "description": "Slashy is an AI-native email client and assistant that drafts replies in your voice, triages what matters, and makes sure no follow-up slips, so you spend less time in your inbox and more time on what matters. It connects to your email, calendar, CRM, and meeting notes and learns how you work, so you can ask Slashy to prep you for your next meeting, draft a follow-up, clear your inbox to zero, track who still owes you a reply, or fire off an email from iMessage or Slack while you're on the go.",
+        "votes": 423,
+        "ph_url": "https://www.producthunt.com/posts/slashy-3",
+        "website": "https://www.producthunt.com/r/723Q6GNIWDBMQM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Email",
+          "Artificial Intelligence",
+          "Virtual Assistants"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48529990",
+        "name": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+        "url": "https://github.com/tamnd/kage",
+        "points": 589,
+        "comments": 117,
+        "hn_url": "https://news.ycombinator.com/item?id=48529990"
+      },
+      {
+        "id": "48530382",
+        "name": "Show HN: Discover Wikipedia articles popular on Hacker News",
+        "url": "https://www.orangecrumbs.com/",
+        "points": 124,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=48530382"
+      },
+      {
+        "id": "48527623",
+        "name": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+        "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+        "points": 69,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48527623"
+      },
+      {
+        "id": "48532845",
+        "name": "Show HN: Replicant Detector with Datastar, Common Lisp, BKNR Datastore",
+        "url": "https://rep-detect.lambda-combine.net/",
+        "points": 34,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48532845"
+      },
+      {
+        "id": "48538833",
+        "name": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+        "url": "https://github.com/themartiano/luz",
+        "points": 21,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48538833"
+      },
+      {
+        "id": "48530657",
+        "name": "Show HN: Philosophy for Kids",
+        "url": "https://philosophy.ocaho.com/",
+        "points": 12,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48530657"
+      },
+      {
+        "id": "48532838",
+        "name": "Show HN: Solaris the Thinking Ocean Simulator",
+        "url": "https://solaris.franzai.com/",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48532838"
+      },
+      {
+        "id": "48530127",
+        "name": "Show HN: The Engineer – Drive Claude Code from a GitHub Issue to a Merged PR",
+        "url": "https://github.com/FarzamMohammadi/the-engineer",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48530127"
+      },
+      {
+        "id": "48526827",
+        "name": "Show HN: Afterburner – Capability-Sandboxed JavaScript/TS Runtime in Rust",
+        "url": "https://github.com/afterburner-sh/afterburner",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48526827"
+      },
+      {
+        "id": "48529257",
+        "name": "Show HN: Peek – A Figma like DB GUI",
+        "url": "https://getpeek.dev",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48529257"
+      },
+      {
+        "id": "48536188",
+        "name": "Show HN: Dream Server – Turn your PC, Mac, or Linux box into a private AI server",
+        "url": "https://github.com/Light-Heart-Labs/DreamServer",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48536188"
+      },
+      {
+        "id": "48528345",
+        "name": "Show HN: A zero-telemetry clipboard, color picker, and capture suite",
+        "url": "",
+        "points": 5,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48528345"
+      },
+      {
+        "id": "48531504",
+        "name": "Show HN: I hate typing continue once my CC quota resets",
+        "url": "https://github.com/softcane/cc-session-recover",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48531504"
+      },
+      {
+        "id": "48534908",
+        "name": "Show HN: Isitslop.xyz, a free AI-writing detector built on latest research",
+        "url": "https://isitslop.xyz",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48534908"
+      },
+      {
+        "id": "48534293",
+        "name": "Show HN: Wtdb – give every Git worktree its own database",
+        "url": "https://github.com/willhackett/wtdb",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48534293"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/familystories",
+        "name": "FamilyStories",
+        "description": "Capture and preserve family memories, voices, and life stories",
+        "url": "https://betalist.com/startups/familystories"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/valta?post=eWCM5GON7ti7pja6LGLu",
+        "title": "Valta: I'm 17, building from Lagos — just shipped hard spending limits for AI agents",
+        "url": "https://www.indiehackers.com/product/valta?post=eWCM5GON7ti7pja6LGLu",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/258-users-in-2-daysnow-285-with-zero-ads-here-s-exactly-how-we-did-it-and-the-real-problem-we-re-solving-f02173ae1e",
+        "title": "258 users in 2 days(Now 285) with zero ads — here's exactly how we did it (and the real problem we're solving)",
+        "url": "https://www.indiehackers.com/post/258-users-in-2-daysnow-285-with-zero-ads-here-s-exactly-how-we-did-it-and-the-real-problem-we-re-solving-f02173ae1e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/calcrux?post=G7uGUrPXBmRnBExpXokj",
+        "title": "I got tired of paywalls on basic business math. So I built Calcrux.",
+        "url": "https://www.indiehackers.com/product/calcrux?post=G7uGUrPXBmRnBExpXokj",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-posted-daily-on-reddit-for-3-months-zero-customers-heres-what-i-missed-9b3aece6c0",
+        "title": "I posted daily on Reddit for 3 months. Zero customers. Here's what I missed.",
+        "url": "https://www.indiehackers.com/post/i-posted-daily-on-reddit-for-3-months-zero-customers-heres-what-i-missed-9b3aece6c0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-got-tired-of-pasting-client-documents-into-chatgpt-and-hoping-for-the-best-106ce746e4",
+        "title": "I got tired of pasting client documents into ChatGPT and hoping for the best",
+        "url": "https://www.indiehackers.com/post/i-got-tired-of-pasting-client-documents-into-chatgpt-and-hoping-for-the-best-106ce746e4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-more-time-setting-up-cold-email-than-actually-selling-here-is-what-fixed-it-4f56cf9583",
+        "title": "I spent more time setting up cold email than actually selling. Here is what fixed it.",
+        "url": "https://www.indiehackers.com/post/i-spent-more-time-setting-up-cold-email-than-actually-selling-here-is-what-fixed-it-4f56cf9583",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-last-product-failed-and-the-code-was-the-best-part-02dff8c9fb",
+        "title": "My last product failed and the code was the best part",
+        "url": "https://www.indiehackers.com/post/my-last-product-failed-and-the-code-was-the-best-part-02dff8c9fb",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 1
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
