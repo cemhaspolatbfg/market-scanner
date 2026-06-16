@@ -1,0 +1,202 @@
+{
+  "scan_time": "2026-06-16T11:09:49.621352+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "journey-now",
+        "name": "Journey Now",
+        "tagline": "Learning copilot for human ambition",
+        "description": "Journey Now turns anything you want to learn or master into a personalized, step-by-step plan — with daily guidance, reflection, and a view of how friends are progressing too. As your pace or goals change, the plan adjusts itself, so progress never stalls on a missed deadline.",
+        "votes": 416,
+        "ph_url": "https://www.producthunt.com/posts/journey-now",
+        "website": "https://www.producthunt.com/r/TM6F4IDMAQBU2P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "iOS",
+          "Education",
+          "Lifestyle"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48543245",
+        "name": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+        "url": "https://machine0.io",
+        "points": 88,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=48543245"
+      },
+      {
+        "id": "48550569",
+        "name": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+        "url": "https://garden-of-flowers.heikkilotvonen.com/",
+        "points": 83,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48550569"
+      },
+      {
+        "id": "48544823",
+        "name": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+        "url": "https://grassdx.com/",
+        "points": 65,
+        "comments": 55,
+        "hn_url": "https://news.ycombinator.com/item?id=48544823"
+      },
+      {
+        "id": "48542970",
+        "name": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
+        "url": "https://v1c.rocks/log/exploiting-slack-video/",
+        "points": 31,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48542970"
+      },
+      {
+        "id": "48543105",
+        "name": "Show HN: We put voice agent on our website, learned retrieval isn't bottleneck",
+        "url": "https://www.moss.dev/blog/founding-agent",
+        "points": 21,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48543105"
+      },
+      {
+        "id": "48548381",
+        "name": "Show HN: Claude Code for Visual Studio (native diff with accept/reject)",
+        "url": "https://github.com/firish/claude_code_vs",
+        "points": 19,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48548381"
+      },
+      {
+        "id": "48540936",
+        "name": "Show HN: Nxui – Copy-paste animated UI components for Vue",
+        "url": "https://nxui.geoql.in/docs/",
+        "points": 13,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48540936"
+      },
+      {
+        "id": "48547666",
+        "name": "Show HN: AltiVerse: What If SIM, see different decisions affect an environment",
+        "url": "https://github.com/LeoTheAIDev/Altiverse",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48547666"
+      },
+      {
+        "id": "48548406",
+        "name": "Show HN: Zero Browser",
+        "url": "https://github.com/nz366/zero_browser",
+        "points": 10,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48548406"
+      },
+      {
+        "id": "48545068",
+        "name": "Show HN: A pure-Ruby X11 terminal",
+        "url": "https://github.com/vidarh/rubyterm",
+        "points": 8,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48545068"
+      },
+      {
+        "id": "48546561",
+        "name": "Show HN: Macro – unified system for email, chat, tasks, docs, agents (AGPL/Rust)",
+        "url": "https://github.com/macro-inc/macro",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48546561"
+      },
+      {
+        "id": "48545168",
+        "name": "Show HN: Spotlight shows what your Claude Code/Codex are doing",
+        "url": "https://www.backplanes.com:443/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48545168"
+      },
+      {
+        "id": "48547932",
+        "name": "Show HN: Fish anything – a chill game using small models",
+        "url": "https://build-small-hackathon-llm-fishing.hf.space",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48547932"
+      },
+      {
+        "id": "48547539",
+        "name": "Show HN: When Will AI? – A timeline of top AI predictions",
+        "url": "https://whenwill.ai",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48547539"
+      },
+      {
+        "id": "48546549",
+        "name": "Show HN: We built an 8-bit CPU as 2nd year EE students",
+        "url": "https://github.com/c0rRupT9/STEPLA-1",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48546549"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/paperbanana",
+        "name": "Paper Banana",
+        "description": "Generate publication-ready scientific figures from plain text",
+        "url": "https://betalist.com/startups/paperbanana"
+      },
+      {
+        "id": "/startups/paardplaats",
+        "name": "PaardPlaats",
+        "description": "Buy and sell horses worldwide with powerful search and free ads",
+        "url": "https://betalist.com/startups/paardplaats"
+      },
+      {
+        "id": "/startups/multidrive",
+        "name": "MultiDrive",
+        "description": "Back up, clone, erase drives for free in Windows",
+        "url": "https://betalist.com/startups/multidrive"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/agent37?post=ZCSJIiSWajxmdn0iqzKr",
+        "title": "Agent37: Making Agents Usable Through a Basic API Instead of a UI",
+        "url": "https://www.indiehackers.com/product/agent37?post=ZCSJIiSWajxmdn0iqzKr",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/were-growing-a-mobile-app-with-free-web-tools-instead-of-ads-here-s-the-playbook-so-far-f4253a6776",
+        "title": "We're growing a mobile app with free web tools instead of ads. Here's the playbook so far.",
+        "url": "https://www.indiehackers.com/post/were-growing-a-mobile-app-with-free-web-tools-instead-of-ads-here-s-the-playbook-so-far-f4253a6776",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/services/from-freelancer-to-7-figure-arr-productized-service-pbv4dmRLohpf5ih2QDza",
+        "title": "From freelancer to 7-figure-ARR productized service",
+        "url": "https://www.indiehackers.com/post/services/from-freelancer-to-7-figure-arr-productized-service-pbv4dmRLohpf5ih2QDza",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 3
+    }
+  }
+}
