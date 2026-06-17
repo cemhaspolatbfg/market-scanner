@@ -1,0 +1,239 @@
+{
+  "scan_time": "2026-06-17T10:55:19.370719+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "goldfish",
+        "name": "Goldfish",
+        "tagline": "Press Option. It knows your work and replies like you",
+        "description": "Most AI tools make you explain the context before they can help. Goldfish already has it. It privately remembers what you’ve been working on across your Mac, then helps you write better from any app. Press Option in a text field to draft replies, summarize threads, rewrite sentences, or recall important details from your recent work without copying, pasting, or re-explaining the whole backstory.",
+        "votes": 573,
+        "ph_url": "https://www.producthunt.com/posts/goldfish",
+        "website": "https://www.producthunt.com/r/P4WFRWL26YL6CK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Productivity",
+          "Artificial Intelligence",
+          "Vercel Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "invoko",
+        "name": "Invoko",
+        "tagline": "A little hand on your Mac",
+        "description": "Invoko is an AI desktop helper you can talk to while you work. Bring it beside anything on your screen, ask it questions, or let it handle tasks across your apps.",
+        "votes": 409,
+        "ph_url": "https://www.producthunt.com/posts/invoko",
+        "website": "https://www.producthunt.com/r/CKKHYA5Y262PSX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Productivity",
+          "Artificial Intelligence",
+          "Vercel Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "novu-connect",
+        "name": "Novu Connect",
+        "tagline": "Ship agents where your users already work",
+        "description": "Novu Connect lets any AI agent have two-way conversations across Slack, Teams, WhatsApp, Telegram, and email without building each channel integration yourself. Bring your own agent logic, model, or code. Novu handles the communication layer: delivery, identity resolution, threading, routing, and channel-specific formatting, so your agent can reach users where they already work.",
+        "votes": 405,
+        "ph_url": "https://www.producthunt.com/posts/novu-connect",
+        "website": "https://www.producthunt.com/r/YKCLFF3LPLDFWW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48561410",
+        "name": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+        "url": "https://github.com/nvlabs/cutile-rs",
+        "points": 84,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48561410"
+      },
+      {
+        "id": "48560454",
+        "name": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+        "url": "https://voicedraw.com/",
+        "points": 43,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=48560454"
+      },
+      {
+        "id": "48567877",
+        "name": "Show HN: High-Res Neural Cellular Automata",
+        "url": "https://cells2pixels.github.io/",
+        "points": 38,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48567877"
+      },
+      {
+        "id": "48559108",
+        "name": "Show HN: Pen and paper resource development game with an emergent world",
+        "url": "https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html",
+        "points": 26,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48559108"
+      },
+      {
+        "id": "48567668",
+        "name": "Show HN: Tocka – A million-pixel canvas like R/place, but with real economics",
+        "url": "https://tocka.rocks",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48567668"
+      },
+      {
+        "id": "48558949",
+        "name": "Show HN: Ito – Code reviews that run code",
+        "url": "https://www.ito.ai",
+        "points": 10,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48558949"
+      },
+      {
+        "id": "48565045",
+        "name": "Show HN: Otty – a native and beautiful terminal emulator",
+        "url": "https://otty.sh/",
+        "points": 9,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48565045"
+      },
+      {
+        "id": "48560026",
+        "name": "Show HN: Azure DevOps TUI Management Style",
+        "url": "https://github.com/elpulgo/azdo",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48560026"
+      },
+      {
+        "id": "48557270",
+        "name": "Show HN: Claireon – MCP Server for Unreal Editor",
+        "url": "https://github.com/believer-oss/claireon",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48557270"
+      },
+      {
+        "id": "48558186",
+        "name": "Show HN: Building Your Own Coding Agent on Top of Zot – Meet Coil",
+        "url": "https://www.patriceckhart.com/blog/posts/2026-06-16/building-your-own-coding-agent-on-top-of-zot",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48558186"
+      },
+      {
+        "id": "48554677",
+        "name": "Show HN: Voice Age Verification",
+        "url": "https://agewarden.ai/",
+        "points": 8,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=48554677"
+      },
+      {
+        "id": "48557937",
+        "name": "Show HN: Memento – Self-hosted agentic search and LLM wiki over your email",
+        "url": "",
+        "points": 8,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48557937"
+      },
+      {
+        "id": "48555511",
+        "name": "Show HN: git-lrc – Free, Micro AI Code Reviews That Run on Git Commit",
+        "url": "https://github.com/HexmosTech/git-lrc",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48555511"
+      },
+      {
+        "id": "48560741",
+        "name": "Show HN: Write Your GitHub Actions in TypeScript",
+        "url": "https://github.com/dedalus-labs/hollywood",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48560741"
+      },
+      {
+        "id": "48563070",
+        "name": "Show HN: Numax - a portable runtime for distributed apps",
+        "url": "https://github.com/GianIac/numax",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48563070"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/adsiftly?post=5r38Qny1CfziRWPVeUYb",
+        "title": "AdSiftly: I built and launched a Google Ads audit tool in 48 hours and here's exactly what I did!",
+        "url": "https://www.indiehackers.com/product/adsiftly?post=5r38Qny1CfziRWPVeUYb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/3-weeks-after-i-posted-capybro-here-what-product-hunt-the-microsoft-store-and-a-stack-of-blog-posts-actually-did-cee1a98b55",
+        "title": "3 weeks after I posted CapyBro here: what Product Hunt, the Microsoft Store, and a stack of blog posts actually did",
+        "url": "https://www.indiehackers.com/post/3-weeks-after-i-posted-capybro-here-what-product-hunt-the-microsoft-store-and-a-stack-of-blog-posts-actually-did-cee1a98b55",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-happens-when-a-photo-can-carry-multiple-voices-i-built-voxpho-to-find-out-1eea7c7e91",
+        "title": "What Happens When a Photo Can Carry Multiple Voices? I Built VoxPho to Find Out",
+        "url": "https://www.indiehackers.com/post/what-happens-when-a-photo-can-carry-multiple-voices-i-built-voxpho-to-find-out-1eea7c7e91",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-got-my-first-159-in-sales-after-realizing-i-was-building-in-silence-2387f69447",
+        "title": "I got my first $159 in sales after realizing I was building in silence",
+        "url": "https://www.indiehackers.com/post/i-got-my-first-159-in-sales-after-realizing-i-was-building-in-silence-2387f69447",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/4-months-in-3-chrome-extensions-live-first-mobile-app-done-still-0-heres-my-honest-june-update-872f953372",
+        "title": "4 months in. 3 Chrome extensions live. First mobile app done. Still £0. Here's my honest June update.",
+        "url": "https://www.indiehackers.com/post/4-months-in-3-chrome-extensions-live-first-mobile-app-done-still-0-heres-my-honest-june-update-872f953372",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/dotdotduck?post=VmNTY7yDLRTHwHDUNpSu",
+        "title": "dotdotduck: What if AI became part of the interface itself?",
+        "url": "https://www.indiehackers.com/product/dotdotduck?post=VmNTY7yDLRTHwHDUNpSu",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-got-tired-of-rewriting-the-same-content-for-9-different-platforms-so-i-built-repostify-bb7325b164",
+        "title": "I got tired of rewriting the same content for 9 different platforms. So I built Repostify.",
+        "url": "https://www.indiehackers.com/post/i-got-tired-of-rewriting-the-same-content-for-9-different-platforms-so-i-built-repostify-bb7325b164",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
