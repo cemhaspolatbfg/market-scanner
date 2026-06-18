@@ -1,0 +1,274 @@
+{
+  "scan_time": "2026-06-18T10:20:19.897370+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "framer-3-0-2",
+        "name": "Framer 3.0",
+        "tagline": "With Agents, Branching, Community, and an all-new design",
+        "description": "Agents bring AI to the canvas to help you design, write, analyze, and organize your sites. We’re also launching Branching, a new way for teams to explore ideas before they go live, and unveiling the new Framer Community, where creators can share and earn. Together, these launches change how teams create, maintain, and scale websites. We think you’ll love it.",
+        "votes": 480,
+        "ph_url": "https://www.producthunt.com/posts/framer-3-0-2",
+        "website": "https://www.producthunt.com/r/64HL7FCICRJ4CQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Website Builder",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "makersclaw",
+        "name": "MakersClaw",
+        "tagline": "Hire AI employees that live in your Slack, Teams, Telegram",
+        "description": "Hire AI employees that run 24/7 in their own container with their own memory. One-click into your Slack, Telegram, or Teams. Pre-built for support, sales, research, SEO, or anything you write yourself. Pay per call for the tools they use.",
+        "votes": 406,
+        "ph_url": "https://www.producthunt.com/posts/makersclaw",
+        "website": "https://www.producthunt.com/r/7T4D2IUJO2CB3U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Artificial Intelligence",
+          "Bots",
+          "Vercel Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "swytchcode-cli",
+        "name": "Swytchcode CLI",
+        "tagline": "Give agents reliable access to 2,000+ APIs w/ durable state",
+        "description": "Write agent logic, and skip the plumbing. Give AI agents reliable access to 2,000+ APIs with retries, idempotency, policy enforcement, and durable state.",
+        "votes": 390,
+        "ph_url": "https://www.producthunt.com/posts/swytchcode-cli",
+        "website": "https://www.producthunt.com/r/XGLQDUQRILY2VD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "taste-lab",
+        "name": "Taste Lab",
+        "tagline": "Extract any website's design DNA",
+        "description": "Point your AI agent at any website. Get back a complete design breakdown — colors, type, spacing, and the reasoning behind every decision — ready to use in your next build.",
+        "votes": 389,
+        "ph_url": "https://www.producthunt.com/posts/taste-lab",
+        "website": "https://www.producthunt.com/r/KOJGXLNJOQGWQI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Artificial Intelligence",
+          "Vibe coding"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "firma-dev-2",
+        "name": "Firma.dev",
+        "tagline": "E-signatures API for your app averaging ~3¢ per envelope",
+        "description": "At €0.029 per envelope (about 3¢), Firma.dev runs about 99% cheaper than DocuSign, where one envelope can cost $4-5. Pay-as-you-go, no minimums, no contracts. Built developer-first for startups and SaaS teams who'd rather integrate signing in an afternoon than sit through a sales cycle: clean REST API, embeddable template and signing editors, integration in hours. Test everything free with a sandbox key, real docs and unlimited usage, before you pay a cent. Get an API key and start building.",
+        "votes": 367,
+        "ph_url": "https://www.producthunt.com/posts/firma-dev-2",
+        "website": "https://www.producthunt.com/r/MJGLBAKR5ANIUY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48573012",
+        "name": "Show HN: An 8-bit live gamecast for baseball",
+        "url": "https://ribbie.tv/watch",
+        "points": 232,
+        "comments": 121,
+        "hn_url": "https://news.ycombinator.com/item?id=48573012"
+      },
+      {
+        "id": "48571457",
+        "name": "Show HN: Tyto – find where audio breaks your voice-agent calls",
+        "url": "https://call-analysis.ai-coustics.com/",
+        "points": 15,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48571457"
+      },
+      {
+        "id": "48570197",
+        "name": "Show HN: Mira – Open-source and self-hosted AI code reviewer",
+        "url": "https://github.com/miracodeai/mira",
+        "points": 13,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48570197"
+      },
+      {
+        "id": "48578324",
+        "name": "Show HN: ML condenses billions of logs into a tiny snapshot your LLM can debug",
+        "url": "https://github.com/Rocketgraph/rocketgraph",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48578324"
+      },
+      {
+        "id": "48568987",
+        "name": "Show HN: Paper UX for task management, that organizes your personal DB itself",
+        "url": "https://notaru.ai",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48568987"
+      },
+      {
+        "id": "48572970",
+        "name": "Show HN: Vpod – Tiny Linux sandbox running in WASM",
+        "url": "https://github.com/capsulerun/vpod",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48572970"
+      },
+      {
+        "id": "48579589",
+        "name": "Show HN: Local personal data redaction for any AI tools",
+        "url": "https://github.com/sophia486/pii-gui",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48579589"
+      },
+      {
+        "id": "48568923",
+        "name": "Show HN: RewardHackBench: Using sandboxes to stop agents from cheating",
+        "url": "https://github.com/islo-labs/reward-hack-bench",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48568923"
+      },
+      {
+        "id": "48574623",
+        "name": "Show HN: Visual Agents with Code Mode",
+        "url": "https://www.vlm.run/blog/orion-2",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48574623"
+      },
+      {
+        "id": "48582272",
+        "name": "Show HN: Bonscape – Whiteboard for AI Chats",
+        "url": "https://bonscape.com/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48582272"
+      },
+      {
+        "id": "48570054",
+        "name": "Show HN: Agenthatch – Compile any skill into a standalone Python agent",
+        "url": "https://github.com/agenthatch/agenthatch",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48570054"
+      },
+      {
+        "id": "48578201",
+        "name": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+        "url": "https://the-criterion-closet.vercel.app/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48578201"
+      },
+      {
+        "id": "48573655",
+        "name": "Show HN: Relaymux, a tmux-based meta-harness for local coding agents",
+        "url": "https://github.com/mupt-ai/relaymux",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48573655"
+      },
+      {
+        "id": "48578487",
+        "name": "Show HN: A free CLI coding agent, powered by ads",
+        "url": "https://freebuff.com",
+        "points": 6,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48578487"
+      },
+      {
+        "id": "48576208",
+        "name": "Show HN: Selora – local model for Home Assistant",
+        "url": "https://github.com/SeloraHomes/ha-selora-ai",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48576208"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/free-receipt-maker",
+        "name": "Free Receipt Maker",
+        "description": "Generate professional receipts online and download instantly",
+        "url": "https://betalist.com/startups/free-receipt-maker"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/painbase?post=AqcUZsMq7pOzbeAKdrMb",
+        "title": "PainBase: Stop Looking for Startup Ideas. Start Looking for Pain",
+        "url": "https://www.indiehackers.com/product/painbase?post=AqcUZsMq7pOzbeAKdrMb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/hireedge-ai?post=OX41ofa5swxttMtKZT6Z",
+        "title": "HireEdge-AI: Your next interview shouldn't be your first practice.",
+        "url": "https://www.indiehackers.com/product/hireedge-ai?post=OX41ofa5swxttMtKZT6Z",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/storrx?post=ZzPkUkFqTzdli0SEuNQI",
+        "title": "Storrx — your family's health memory.",
+        "url": "https://www.indiehackers.com/product/storrx?post=ZzPkUkFqTzdli0SEuNQI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-dead-simple-pipeline-tracker-after-losing-a-deal-because-i-forgot-to-follow-up-7dd824ba48",
+        "title": "Built a dead-simple pipeline tracker after losing a deal because I forgot to follow up",
+        "url": "https://www.indiehackers.com/post/built-a-dead-simple-pipeline-tracker-after-losing-a-deal-because-i-forgot-to-follow-up-7dd824ba48",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/three-days-before-launch-i-let-my-own-tool-tear-me-apart-25424bb292",
+        "title": "Three Days Before Launch, I Let My Own Tool Tear Me Apart",
+        "url": "https://www.indiehackers.com/post/three-days-before-launch-i-let-my-own-tool-tear-me-apart-25424bb292",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-free-multilingual-ai-nutrition-tracker-solo-launching-on-product-hunt-today-f5e21f379a",
+        "title": "I built a free multilingual AI nutrition tracker solo — launching on Product Hunt today!",
+        "url": "https://www.indiehackers.com/post/i-built-a-free-multilingual-ai-nutrition-tracker-solo-launching-on-product-hunt-today-f5e21f379a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/from-physical-product-to-10k-mo-app-JLVZDxJ9RfjdYdvINqgp",
+        "title": "From physical product to $10k/mo app",
+        "url": "https://www.indiehackers.com/post/tech/from-physical-product-to-10k-mo-app-JLVZDxJ9RfjdYdvINqgp",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 5
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 1
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
