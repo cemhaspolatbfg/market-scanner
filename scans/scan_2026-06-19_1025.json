@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-06-19T10:25:33.378959+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "upstream-5",
+        "name": "Upstream",
+        "tagline": "The inbox designed for humans and agents",
+        "description": "Finally, an inbox you'll look forward to. Agents sort your messages, draft your replies, and clear the grunt work behind the scenes, all in a client so well-crafted that email feels light, fast, fun.",
+        "votes": 610,
+        "ph_url": "https://www.producthunt.com/posts/upstream-5",
+        "website": "https://www.producthunt.com/r/RWE7MKUX4XZRYA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Email",
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "honestly-2",
+        "name": "Honestly",
+        "tagline": "See what Reddit and TikTok honestly think about your product",
+        "description": "As bots and AI agents overrun the internet, finding real customer opinions is only getting harder. Honestly cuts through the chaos by discovering verified conversations about your product across Reddit, TikTok, X, YouTube, Instagram, & Facebook then turning them into insights your team can act on.",
+        "votes": 490,
+        "ph_url": "https://www.producthunt.com/posts/honestly-2",
+        "website": "https://www.producthunt.com/r/K3BBXOWI6EMJ53?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Marketing",
+          "Data & Analytics"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48591348",
+        "name": "Show HN: Are You in the Weights?",
+        "url": "https://www.intheweights.com/",
+        "points": 349,
+        "comments": 199,
+        "hn_url": "https://news.ycombinator.com/item?id=48591348"
+      },
+      {
+        "id": "48585739",
+        "name": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+        "url": "https://gerrymandle.cc/",
+        "points": 174,
+        "comments": 70,
+        "hn_url": "https://news.ycombinator.com/item?id=48585739"
+      },
+      {
+        "id": "48584761",
+        "name": "Show HN: Talos – Open-source WASM interpreter for Lean",
+        "url": "https://github.com/cajal-technologies/talos",
+        "points": 53,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48584761"
+      },
+      {
+        "id": "48587489",
+        "name": "Show HN: Emacs log-mode (cheap copy of Logseq)",
+        "url": "https://github.com/luqtas/log-mode",
+        "points": 30,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48587489"
+      },
+      {
+        "id": "48586811",
+        "name": "Show HN: 10x better performance from the Coding Harnesses with LLM-wiki",
+        "url": "https://llm-wiki.net/",
+        "points": 16,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48586811"
+      },
+      {
+        "id": "48584961",
+        "name": "Show HN: Display.dev – the agent-agnostic workspace for HTML and .md artifacts",
+        "url": "https://display.dev/",
+        "points": 12,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48584961"
+      },
+      {
+        "id": "48592731",
+        "name": "Show HN: Crawlie – Free open-source SEO audit tool for humans and agents",
+        "url": "https://github.com/spronta/crawlie",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48592731"
+      },
+      {
+        "id": "48593225",
+        "name": "Show HN: AA-Briefcase: a frontier knowledge work evaluation",
+        "url": "https://artificialanalysis.ai/articles/aa-briefcase",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48593225"
+      },
+      {
+        "id": "48594797",
+        "name": "Show HN: A/B testing LLM silence with one system-prompt toggle",
+        "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48594797"
+      },
+      {
+        "id": "48584450",
+        "name": "Show HN: Nod – Mac meeting notes that don't join the call or store audio",
+        "url": "https://hellonod.app/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48584450"
+      },
+      {
+        "id": "48584111",
+        "name": "Show HN: Glassboard – Draw over everything on your Mac, Khan-academy style",
+        "url": "https://stem.ps/glassboard/",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48584111"
+      },
+      {
+        "id": "48596095",
+        "name": "Show HN: I was drowning in browser tabs, so I built this",
+        "url": "https://microsoftedge.microsoft.com/addons/detail/gopeek/ffaeanmhghmohbponokefmbhfkkomnmk",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48596095"
+      },
+      {
+        "id": "48590971",
+        "name": "SHOW HN: I built a \"living proof-of-work\" profile for builders",
+        "url": "https://kritive.com",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48590971"
+      },
+      {
+        "id": "48591141",
+        "name": "Show HN: bote - A fast, modern and low-memory approach to processing a big JSON",
+        "url": "https://github.com/jankdc/bote",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48591141"
+      },
+      {
+        "id": "48583421",
+        "name": "Show HN: Cluely is easily detectable / detector source code",
+        "url": "https://github.com/niravrohra/Honrly-app",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48583421"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/vtubeme",
+        "name": "VTubeMe",
+        "description": "Turn a selfie into a photorealistic VRM avatar for streaming",
+        "url": "https://betalist.com/startups/vtubeme"
+      },
+      {
+        "id": "/startups/hostdroplet-tools",
+        "name": "HostDroplet Tools",
+        "description": "Run free checks for DNS, SSL, SEO, redirects, headers, and speed",
+        "url": "https://betalist.com/startups/hostdroplet-tools"
+      },
+      {
+        "id": "/startups/spritefy",
+        "name": "Spritefy",
+        "description": "Generate game-ready characters, tiles, and sound effects from a prompt",
+        "url": "https://betalist.com/startups/spritefy"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-thought-building-ai-agents-would-be-the-hardest-part-i-was-wrong-1531de465d",
+        "title": "I thought building AI agents would be the hardest part. I was wrong",
+        "url": "https://www.indiehackers.com/post/i-thought-building-ai-agents-would-be-the-hardest-part-i-was-wrong-1531de465d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-rejected-a-15k-acquisition-offer-for-my-multi-agent-ide-heres-the-full-breakdown-c5a7c48c98",
+        "title": "I Rejected a $15K Acquisition Offer for My Multi-Agent IDE — Here's the Full Breakdown",
+        "url": "https://www.indiehackers.com/post/i-rejected-a-15k-acquisition-offer-for-my-multi-agent-ide-heres-the-full-breakdown-c5a7c48c98",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ios-snoring-app-solo-just-hit-public-beta-with-0-marketing-heres-where-i-actually-am-89f5e8954d",
+        "title": "I built an iOS snoring app solo. Just hit public beta with $0 marketing. Here's where I actually am.",
+        "url": "https://www.indiehackers.com/post/i-built-an-ios-snoring-app-solo-just-hit-public-beta-with-0-marketing-heres-where-i-actually-am-89f5e8954d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/5-books-make-smarter-5133c35774",
+        "title": "5 Books, Make Smarter",
+        "url": "https://www.indiehackers.com/post/5-books-make-smarter-5133c35774",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-thought-i-was-building-a-news-visualization-tool-users-thought-it-was-a-catch-up-tool-ff48d8d0f5",
+        "title": "I thought I was building a news visualization tool. Users thought it was a catch-up tool.",
+        "url": "https://www.indiehackers.com/post/i-thought-i-was-building-a-news-visualization-tool-users-thought-it-was-a-catch-up-tool-ff48d8d0f5",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
