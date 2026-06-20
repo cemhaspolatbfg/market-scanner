@@ -1,0 +1,226 @@
+{
+  "scan_time": "2026-06-20T08:55:17.106290+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "claude-code-artifacts",
+        "name": "Claude Code Artifacts",
+        "tagline": "Preview and share your coding work live as it happens",
+        "description": "Preview your in-progress work in Claude Code as a live, interactive artifact—built from your full session context and shareable with your team.",
+        "votes": 433,
+        "ph_url": "https://www.producthunt.com/posts/claude-code-artifacts",
+        "website": "https://www.producthunt.com/r/ZKUSXUIDPQQBDF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48598264",
+        "name": "Show HN: Music from every single country on Earth, generated in Esperanto",
+        "url": "https://elevenexperiments.com/around-the-world?lang=eo&genre=de",
+        "points": 12,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48598264"
+      },
+      {
+        "id": "48606396",
+        "name": "Show HN: Stocks Porfolio in a URL and Favicon",
+        "url": "https://stocksreader.com/",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48606396"
+      },
+      {
+        "id": "48598279",
+        "name": "Show HN: HackerFlow – Hacker News Client for Android Which Looks Like Reddit",
+        "url": "https://hackerflow.app/",
+        "points": 8,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48598279"
+      },
+      {
+        "id": "48598051",
+        "name": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+        "url": "https://brainfrog.lol",
+        "points": 6,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48598051"
+      },
+      {
+        "id": "48596771",
+        "name": "Show HN: I built an 11-LLM consensus engine to detect AI hallucination",
+        "url": "https://github.com/jaquelinejaque/quorum-saas-starter",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48596771"
+      },
+      {
+        "id": "48607073",
+        "name": "Show HN: Make every bug perfectly reproducible",
+        "url": "https://workers.io/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48607073"
+      },
+      {
+        "id": "48601472",
+        "name": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+        "url": "https://github.com/JustVugg/nanoeuler",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48601472"
+      },
+      {
+        "id": "48600012",
+        "name": "Show HN: Open source navigation project for GPS and Internet denied regions",
+        "url": "https://github.com/deepanwadhwa/anumaan",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48600012"
+      },
+      {
+        "id": "48602758",
+        "name": "Show HN: Control a 3D avatar with English instead of buttons",
+        "url": "https://programasweights.com/avatar",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48602758"
+      },
+      {
+        "id": "48602101",
+        "name": "Show HN: PostgreSQL MCP Server with 135 tools for various purpose",
+        "url": "https://github.com/corporatepiyush/mcp-pg-rust",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48602101"
+      },
+      {
+        "id": "48597205",
+        "name": "Show HN: Speechmark – On-device meeting notes for Mac (no bot, no cloud)",
+        "url": "https://www.speechmark.co/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48597205"
+      },
+      {
+        "id": "48604349",
+        "name": "Show HN: Evaluating Local LLMs as language translators for my app",
+        "url": "https://lector.dev/eval/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48604349"
+      },
+      {
+        "id": "48599035",
+        "name": "Show HN: A readiness scorer for MCP servers, checked against emerging standards",
+        "url": "https://isyourmcpready.com",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48599035"
+      },
+      {
+        "id": "48606908",
+        "name": "Show HN: Passport Stamp Archive, browse real border stamps from around the world",
+        "url": "https://ajin.im/is/building/stamps/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48606908"
+      },
+      {
+        "id": "48604040",
+        "name": "Show HN: Timestamp and provenance records for AI-assisted creative work",
+        "url": "https://colossee.com",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48604040"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/dados",
+        "name": "DadOS",
+        "description": "A pause button for overwhelmed dads",
+        "url": "https://betalist.com/startups/dados"
+      },
+      {
+        "id": "/startups/nailit",
+        "name": "NailIT",
+        "description": "Real-time AI help for important meetings",
+        "url": "https://betalist.com/startups/nailit"
+      },
+      {
+        "id": "/startups/branda-co",
+        "name": "Branda.co",
+        "description": "A fun new way to create & manage brands.",
+        "url": "https://betalist.com/startups/branda-co"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/the-startup-index?post=Rs70tyROGFjLw9GzToOP",
+        "title": "The Startup Index: Stop researching tools. Start building.",
+        "url": "https://www.indiehackers.com/product/the-startup-index?post=Rs70tyROGFjLw9GzToOP",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-can-build-a-product-in-a-week-then-i-freeze-for-a-month-ae089efce1",
+        "title": "I can build a product in a week. Then i freeze for a month.",
+        "url": "https://www.indiehackers.com/post/i-can-build-a-product-in-a-week-then-i-freeze-for-a-month-ae089efce1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-built-a-job-board-covering-startups-and-smbs-has-500-jobs-across-3-cities-honest-feedback-welcome-a888aedfc3",
+        "title": "We built a job board covering startups and SMBs, has 500+ jobs across 3 cities — honest feedback welcome",
+        "url": "https://www.indiehackers.com/post/we-built-a-job-board-covering-startups-and-smbs-has-500-jobs-across-3-cities-honest-feedback-welcome-a888aedfc3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-stranger-used-my-product-today-and-didnt-sign-up-i-m-counting-it-as-progress-5250aac9fa",
+        "title": "A stranger used my product today and didn't sign up. I'm counting it as progress.",
+        "url": "https://www.indiehackers.com/post/a-stranger-used-my-product-today-and-didnt-sign-up-i-m-counting-it-as-progress-5250aac9fa",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-renamed-our-saas-from-linkedcraft-to-postessia-heres-what-forced-the-decision-48e286c1fd",
+        "title": "We renamed our SaaS from LinkedCraft to Postessia — here's what forced the decision",
+        "url": "https://www.indiehackers.com/post/we-renamed-our-saas-from-linkedcraft-to-postessia-heres-what-forced-the-decision-48e286c1fd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-betting-cite-your-sources-is-how-an-ai-tool-beats-the-chatgpt-wrapper-problem-here-s-the-playbook-and-my-doubt-fc1f4039b2",
+        "title": "I'm betting \"cite your sources\" is how an AI tool beats the ChatGPT-wrapper problem. Here's the playbook (and my doubt).",
+        "url": "https://www.indiehackers.com/post/im-betting-cite-your-sources-is-how-an-ai-tool-beats-the-chatgpt-wrapper-problem-here-s-the-playbook-and-my-doubt-fc1f4039b2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-35k-mrr-after-struggling-to-make-money-online-for-four-years-CNVpxrwIVqxcsfZ4fERw",
+        "title": "Hitting $35k MRR after struggling to make money online for four years",
+        "url": "https://www.indiehackers.com/post/tech/hitting-35k-mrr-after-struggling-to-make-money-online-for-four-years-CNVpxrwIVqxcsfZ4fERw",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
