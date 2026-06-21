@@ -1,0 +1,213 @@
+{
+  "scan_time": "2026-06-21T09:49:40.062766+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "jesse-2",
+        "name": "Jesse",
+        "tagline": "Stop building Apollo/Clay lists. Search the live internet.",
+        "description": "Sales teams have been stuck with stale databases for 15 years. Jesse changes everything.. the first internet-wide search engine built for sales & marketing. Ask in plain English: \"Find newly opened soccer facilities in the Midwest needing turf solutions.\" Jesse scans the live web and finds the right buyers in the market today. We are an anti database company, we don’t scrape and store stale databases and sell them at premium. Every lead is found fresh from the live internet and delivered.",
+        "votes": 410,
+        "ph_url": "https://www.producthunt.com/posts/jesse-2",
+        "website": "https://www.producthunt.com/r/5ZOJC6SLGDVPKM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48610224",
+        "name": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+        "url": "https://startupwiki.tech/",
+        "points": 196,
+        "comments": 62,
+        "hn_url": "https://news.ycombinator.com/item?id=48610224"
+      },
+      {
+        "id": "48608570",
+        "name": "Show HN: TownSquare, a tiny presence layer for websites",
+        "url": "https://townsquare.cauenapier.com/",
+        "points": 177,
+        "comments": 88,
+        "hn_url": "https://news.ycombinator.com/item?id=48608570"
+      },
+      {
+        "id": "48611513",
+        "name": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+        "url": "https://github.com/overflowy/make-look-scanned",
+        "points": 119,
+        "comments": 54,
+        "hn_url": "https://news.ycombinator.com/item?id=48611513"
+      },
+      {
+        "id": "48610816",
+        "name": "Show HN: Ember, a native iOS Hacker News reader I built around accessibility",
+        "url": "https://github.com/DatanoiseTV/ember-hackernews",
+        "points": 94,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=48610816"
+      },
+      {
+        "id": "48609231",
+        "name": "Show HN: We post-trained a model that pen tests instead of refusing",
+        "url": "https://www.argusred.com/cli",
+        "points": 80,
+        "comments": 37,
+        "hn_url": "https://news.ycombinator.com/item?id=48609231"
+      },
+      {
+        "id": "48612095",
+        "name": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
+        "url": "https://mitchivin.com/",
+        "points": 62,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=48612095"
+      },
+      {
+        "id": "48611857",
+        "name": "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
+        "url": "https://github.com/confh/Tiny",
+        "points": 38,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48611857"
+      },
+      {
+        "id": "48614890",
+        "name": "Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories",
+        "url": "https://macrocodex.app/",
+        "points": 26,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48614890"
+      },
+      {
+        "id": "48609054",
+        "name": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+        "url": "https://the-criterion-closet.vercel.app",
+        "points": 26,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48609054"
+      },
+      {
+        "id": "48612025",
+        "name": "Show HN: An ASCII 3D Rendering Engine",
+        "url": "https://glyphcss.com",
+        "points": 11,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48612025"
+      },
+      {
+        "id": "48612231",
+        "name": "Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)",
+        "url": "https://www.persona-chat.dev/",
+        "points": 10,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48612231"
+      },
+      {
+        "id": "48614062",
+        "name": "Show HN: Submarius – Global water clarity for divers",
+        "url": "https://submarius.com",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48614062"
+      },
+      {
+        "id": "48614286",
+        "name": "Show HN: Agentic coding workflows built on Git worktrees and task evidence",
+        "url": "https://github.com/alex-reysa/glueRun-go",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48614286"
+      },
+      {
+        "id": "48613645",
+        "name": "Show HN: TLA+ Process Studio",
+        "url": "https://tlaplus-process-studio.com/?example=meeting-lifecycle",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48613645"
+      },
+      {
+        "id": "48613602",
+        "name": "Show HN: Onsight: pay a local to photograph any spot in San Francisco, on demand",
+        "url": "https://onsight.photo/san-francisco",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48613602"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/agentica",
+        "name": "Agentica",
+        "description": "Your company run by AI",
+        "url": "https://betalist.com/startups/agentica"
+      },
+      {
+        "id": "/startups/blogseo-2",
+        "name": "BlogSEO",
+        "description": "Get backlinks and SEO content published to your site automatically",
+        "url": "https://betalist.com/startups/blogseo-2"
+      },
+      {
+        "id": "/startups/heydreaming",
+        "name": "HeyDreaming",
+        "description": "Generate four scored ad videos from a product URL in 90 seconds",
+        "url": "https://betalist.com/startups/heydreaming"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-tool-for-agencies-spent-40-days-on-seo-and-community-and-still-have-zero-paying-strangers-heres-what-i-m-seeing-c9d36140dd",
+        "title": "I built an AI tool for agencies, spent 40 days on SEO and community, and still have zero paying strangers. Here's what I'm seeing.",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-tool-for-agencies-spent-40-days-on-seo-and-community-and-still-have-zero-paying-strangers-heres-what-i-m-seeing-c9d36140dd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/dev-us-kg?post=247xPjLZDJ0j3HAMYBN1",
+        "title": "Dev.us.kg: DevKG - New Developer And Story Telling Forum",
+        "url": "https://www.indiehackers.com/product/dev-us-kg?post=247xPjLZDJ0j3HAMYBN1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-an-ai-agent-leak-actually-looks-like-and-what-my-scanner-can-and-can-t-catchbuilding-in-public-solo-local-zero-validate-before-f6321a4db9",
+        "title": "What an AI agent leak actually looks like — and what my scanner can (and can't) catchBuilding in public. Solo, local-zero, validate before",
+        "url": "https://www.indiehackers.com/post/what-an-ai-agent-leak-actually-looks-like-and-what-my-scanner-can-and-can-t-catchbuilding-in-public-solo-local-zero-validate-before-f6321a4db9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/onenest?post=clVYV3YTY1Z8CyAmSqXA",
+        "title": "OneNest: Built a baby registry app as a solo mom with zero coding background — here's the 4-month journey",
+        "url": "https://www.indiehackers.com/product/onenest?post=clVYV3YTY1Z8CyAmSqXA",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/after-2-years-of-frustration-i-realized-i-was-building-startups-backwards-2e2d2c2e10",
+        "title": "After 2 Years of Frustration, I Realized I Was Building Startups Backwards",
+        "url": "https://www.indiehackers.com/post/after-2-years-of-frustration-i-realized-i-was-building-startups-backwards-2e2d2c2e10",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
