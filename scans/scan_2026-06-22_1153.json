@@ -1,0 +1,220 @@
+{
+  "scan_time": "2026-06-22T11:53:27.020090+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "agent-37-cloud",
+        "name": "Agent 37 Cloud",
+        "tagline": "Give every customer their own Hermes or OpenClaw agent",
+        "description": "Agent 37 is managed hosting for persistent agents like Hermes, OpenClaw and ClaudeCode. So you don't need to run them on Mac minis or VPS yourself. One API call gives each of your customers their own always-on agent, from $3.44/mo. Founders use it to ship vertical agents to their own clients without babysitting servers.",
+        "votes": 395,
+        "ph_url": "https://www.producthunt.com/posts/agent-37-cloud",
+        "website": "https://www.producthunt.com/r/G7ASKEML5CLFTD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "SDK"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48618488",
+        "name": "Show HN: Teach your kids perfect pitch",
+        "url": "https://github.com/paytonjjones/bsharp",
+        "points": 154,
+        "comments": 95,
+        "hn_url": "https://news.ycombinator.com/item?id=48618488"
+      },
+      {
+        "id": "48622590",
+        "name": "Show HN: Recall – Local project memory for Claude Code",
+        "url": "https://github.com/raiyanyahya/recall",
+        "points": 117,
+        "comments": 73,
+        "hn_url": "https://news.ycombinator.com/item?id=48622590"
+      },
+      {
+        "id": "48621645",
+        "name": "Show HN: CleverCrow: give tokens to your favorite projects",
+        "url": "https://clevercrow.io",
+        "points": 36,
+        "comments": 54,
+        "hn_url": "https://news.ycombinator.com/item?id=48621645"
+      },
+      {
+        "id": "48620188",
+        "name": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis",
+        "url": "https://jacobee.netlify.app/",
+        "points": 18,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48620188"
+      },
+      {
+        "id": "48618172",
+        "name": "Show HN: Chainstack Self-Hosted, hosting your own blockchain nodes made simple",
+        "url": "https://docs.chainstack.com/docs/self-hosted/introduction",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48618172"
+      },
+      {
+        "id": "48618445",
+        "name": "Show HN: A GitHub app that suggests code fixes for conversion failures",
+        "url": "https://rejourney.co/demo/leaks",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48618445"
+      },
+      {
+        "id": "48625319",
+        "name": "Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs",
+        "url": "https://github.com/hrudulmmn/crespo",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48625319"
+      },
+      {
+        "id": "48622061",
+        "name": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
+        "url": "https://github.com/harihkk/Debug-Brief",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48622061"
+      },
+      {
+        "id": "48619139",
+        "name": "Show HN: lpviz – Interactive linear programming visualization in the browser",
+        "url": "https://lpviz.net/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48619139"
+      },
+      {
+        "id": "48628577",
+        "name": "Show HN: A site where people pay me money for no reason",
+        "url": "https://payfornoreason.com",
+        "points": 7,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48628577"
+      },
+      {
+        "id": "48618695",
+        "name": "Show HN: Souso – plan your week, fill your AH/Jumbo basket (MEGATHON Amsterdam)",
+        "url": "https://souso.app",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48618695"
+      },
+      {
+        "id": "48618983",
+        "name": "Show HN: Stock analysis tool with quality scores and fundamental charting",
+        "url": "https://intrinsiqq.com",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48618983"
+      },
+      {
+        "id": "48619820",
+        "name": "Show HN: CommitGate – Automatically scan your commit for vulnerabilities",
+        "url": "https://github.com/ductrl/CommitGate",
+        "points": 5,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48619820"
+      },
+      {
+        "id": "48619372",
+        "name": "Show HN: I \"built\" Sana, a vector DB on object storage",
+        "url": "https://github.com/djakish/sana",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48619372"
+      },
+      {
+        "id": "48618477",
+        "name": "Show HN: TermType – a terminal typing game where words fall like Space Invaders",
+        "url": "https://github.com/GiovanniCst/termtype",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48618477"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/spotties",
+        "name": "Spotties",
+        "description": "Connect with locals and riders at kitesurfing, climbing, paragliding spots",
+        "url": "https://betalist.com/startups/spotties"
+      },
+      {
+        "id": "/startups/harboros",
+        "name": "HarborOS",
+        "description": "Run ARR, renewals, and forecasts from a single contract record",
+        "url": "https://betalist.com/startups/harboros"
+      },
+      {
+        "id": "/startups/glamguide",
+        "name": "GlamGuide",
+        "description": "The beauty app that knows your skin, hair, and style",
+        "url": "https://betalist.com/startups/glamguide"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/priorities-for-launching-a-saas-solo-with-no-budget-a5d708e4e2",
+        "title": "Priorities for launching a SaaS solo, with no budget",
+        "url": "https://www.indiehackers.com/post/priorities-for-launching-a-saas-solo-with-no-budget-a5d708e4e2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/one-week-into-my-launch-zero-sales-but-a-couple-of-interesting-numbers-0916dc425d",
+        "title": "One week into my launch. Zero sales, but a couple of interesting numbers.",
+        "url": "https://www.indiehackers.com/post/one-week-into-my-launch-zero-sales-but-a-couple-of-interesting-numbers-0916dc425d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/premium-sender?post=9nZPigTAmf5iUlJxPrpm",
+        "title": "Build a WhatsApp Web bulk sender for personalized outreach — meet Premium Sender",
+        "url": "https://www.indiehackers.com/product/premium-sender?post=9nZPigTAmf5iUlJxPrpm",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/struggling-to-track-my-own-outreach-while-trying-to-find-my-first-users-how-do-you-do-it-bc2e0639b1",
+        "title": "Struggling to track my own outreach while trying to find my first users. How do you do it?",
+        "url": "https://www.indiehackers.com/post/struggling-to-track-my-own-outreach-while-trying-to-find-my-first-users-how-do-you-do-it-bc2e0639b1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/97-upvotes-45-downloads-1-paid-user-3-weeks-after-launching-a-native-mac-app-bd6c10208a",
+        "title": "97 Upvotes, 45 Downloads, 1 Paid User: 3 weeks after launching a native Mac app",
+        "url": "https://www.indiehackers.com/post/97-upvotes-45-downloads-1-paid-user-3-weeks-after-launching-a-native-mac-app-bd6c10208a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-the-10-automations-that-fix-what-actually-eats-a-real-estate-agents-day-77e755a4c4",
+        "title": "I built the 10 automations that fix what actually eats a real estate agent's day",
+        "url": "https://www.indiehackers.com/post/i-built-the-10-automations-that-fix-what-actually-eats-a-real-estate-agents-day-77e755a4c4",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
