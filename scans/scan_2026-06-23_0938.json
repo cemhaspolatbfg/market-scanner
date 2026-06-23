@@ -1,0 +1,242 @@
+{
+  "scan_time": "2026-06-23T09:38:04.172226+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "agentx-4",
+        "name": "AgentX",
+        "tagline": "Evaluate AI agent, pinpoint issues, and fix with one click.",
+        "description": "Evaluate AI agents before they fail. Create test suites, run evaluations, and pinpoint issues before they reach production. AgentX provides full observability and traceability for your AI agents. AI analysis not only identifies problems but also suggests fixes-like an AI doctor for your agents. Simulate run your agents across multiple LLM providers to compare performance, cost, and latency, helping you make better decisions about which LLM to go. Run eval before deploy. Like CI/CD for AI agents.",
+        "votes": 524,
+        "ph_url": "https://www.producthunt.com/posts/agentx-4",
+        "website": "https://www.producthunt.com/r/MAKIXB6C4DMJG6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Analytics",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "skybridge",
+        "name": "Skybridge",
+        "tagline": "The full-stack open source React framework for MCP Apps",
+        "description": "MCP apps are the new website: they're real, interactive apps that run right inside AI assistants like ChatGPT and Claude. The tooling to build them didn't exist, so we built it. Meet Skybridge, the React framework that handles the infrastructure and the dev loop so you can focus on your features: MCP server, view rendering, client compatibility, testing tunnel, and more. Code once, ship everywhere. Already +500K downloads and dozens of apps in the stores!",
+        "votes": 513,
+        "ph_url": "https://www.producthunt.com/posts/skybridge",
+        "website": "https://www.producthunt.com/r/WYDUMMA2RJODS7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "workclaw",
+        "name": "WorkClaw",
+        "tagline": "Collaborative, proactive AI coworkers who work in Slack",
+        "description": "Meet the AI team for your team. WorkClaws are collaborative, proactive AI coworkers who work in Slack and Microsoft Teams just like every other colleague. They're fully customizable to get work done your way by learning skills and routines. Unlike most AI products that pair one person with one assistant, WorkClaws can collaborate 24/7 with your whole team. Each Claw has a job title, a manager in your org chart, and a cloud-hosted ClawOS computer with the ability to access more than 3,000 apps.",
+        "votes": 370,
+        "ph_url": "https://www.producthunt.com/posts/workclaw",
+        "website": "https://www.producthunt.com/r/ZQTLJJWTPLMI3Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Business"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48629213",
+        "name": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+        "url": "https://puzzlelair.com/",
+        "points": 197,
+        "comments": 116,
+        "hn_url": "https://news.ycombinator.com/item?id=48629213"
+      },
+      {
+        "id": "48631726",
+        "name": "Show HN: Oak – Git alternative designed for agents",
+        "url": "https://oak.space/oak/oak",
+        "points": 185,
+        "comments": 162,
+        "hn_url": "https://news.ycombinator.com/item?id=48631726"
+      },
+      {
+        "id": "48629416",
+        "name": "Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend",
+        "url": "https://github.com/kyle-ssg/kyde",
+        "points": 49,
+        "comments": 76,
+        "hn_url": "https://news.ycombinator.com/item?id=48629416"
+      },
+      {
+        "id": "48630515",
+        "name": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+        "url": "https://github.com/Intuned/selector-forge",
+        "points": 34,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48630515"
+      },
+      {
+        "id": "48630318",
+        "name": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+        "url": "https://www.monolisa.dev/",
+        "points": 33,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48630318"
+      },
+      {
+        "id": "48632977",
+        "name": "Show HN: Block/buzz: a workspace built for teams of humans and agents",
+        "url": "https://github.com/block/buzz",
+        "points": 19,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48632977"
+      },
+      {
+        "id": "48640278",
+        "name": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+        "url": "https://github.com/imtomt/ymawky/tree/linux",
+        "points": 18,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48640278"
+      },
+      {
+        "id": "48629461",
+        "name": "Show HN: Next Move Theory gives you an algorithm for every product decision",
+        "url": "https://nextmovetheory.com",
+        "points": 18,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48629461"
+      },
+      {
+        "id": "48629217",
+        "name": "Show HN: I rebuilt Jobs To Be Done on scientific foundations and open-sourced it",
+        "url": "https://github.com/zamesin/Next-Move-Theory-Canon-and-Skills",
+        "points": 17,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48629217"
+      },
+      {
+        "id": "48629220",
+        "name": "Show HN: Socket to Me, a static file server that runs in the browser",
+        "url": "https://socket2.me/",
+        "points": 14,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48629220"
+      },
+      {
+        "id": "48631744",
+        "name": "Show HN: The Room – a novel about life inside the C++ standards committee",
+        "url": "https://wg21.org/books/",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48631744"
+      },
+      {
+        "id": "48642030",
+        "name": "Show HN: Neural Particle Automata",
+        "url": "https://selforg-npa.github.io/",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48642030"
+      },
+      {
+        "id": "48641763",
+        "name": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
+        "url": "https://sean-but-ai.vercel.app/",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48641763"
+      },
+      {
+        "id": "48632098",
+        "name": "Show HN: Frontier AI for Motion Design",
+        "url": "https://motion.so",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48632098"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/aristotle",
+        "name": "Aristotle",
+        "description": "AI tutor that learns how your child thinks",
+        "url": "https://betalist.com/startups/aristotle"
+      },
+      {
+        "id": "/startups/ai-expense-budget",
+        "name": "AI Expense & Budget",
+        "description": "Budget smarter with AI-powered expense tracking and insights",
+        "url": "https://betalist.com/startups/ai-expense-budget"
+      },
+      {
+        "id": "/startups/host4-ai",
+        "name": "Host4.ai",
+        "description": "Run Claude Code and Codex 24/7 with SSH and a browser terminal on mobile",
+        "url": "https://betalist.com/startups/host4-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-tool-directory-that-doesnt-pretend-every-founder-has-the-same-needs-d84ca49780",
+        "title": "I built a tool directory that doesn't pretend every founder has the same needs",
+        "url": "https://www.indiehackers.com/post/i-built-a-tool-directory-that-doesnt-pretend-every-founder-has-the-same-needs-d84ca49780",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/agent37?post=HOwOs9mDsibzad5wOJAy",
+        "title": "Agent37: Built a way to give every customer their own AI agent with one API call",
+        "url": "https://www.indiehackers.com/product/agent37?post=HOwOs9mDsibzad5wOJAy",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=CNH0Tnqfkl8df9MpImpk",
+        "title": "IbexAI: AI is not good enough for content",
+        "url": "https://www.indiehackers.com/product/ibexai?post=CNH0Tnqfkl8df9MpImpk",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-desktop-client-for-cloudflare-r2-s3-just-got-10k-in-cloudflare-credits-0-marketing-so-far-heres-where-i-actually-am-475f4d730b",
+        "title": "I built a desktop client for Cloudflare R2 / S3. Just got $10k in Cloudflare credits. $0 marketing so far — here's where I actually am.",
+        "url": "https://www.indiehackers.com/post/i-built-a-desktop-client-for-cloudflare-r2-s3-just-got-10k-in-cloudflare-credits-0-marketing-so-far-heres-where-i-actually-am-475f4d730b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-tested-a-voice-journaling-app-idea-on-our-own-tool-the-result-was-uncomfortable-4f58c4d8fb",
+        "title": "I tested a voice journaling app idea on our own tool. The result was uncomfortable.",
+        "url": "https://www.indiehackers.com/post/i-tested-a-voice-journaling-app-idea-on-our-own-tool-the-result-was-uncomfortable-4f58c4d8fb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/creators/building-a-5-figure-mrr-software-review-site-akoLUha2xmqFMEzSXd7z",
+        "title": "Building a 5-figure-MRR software review site",
+        "url": "https://www.indiehackers.com/post/creators/building-a-5-figure-mrr-software-review-site-akoLUha2xmqFMEzSXd7z",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 14
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
