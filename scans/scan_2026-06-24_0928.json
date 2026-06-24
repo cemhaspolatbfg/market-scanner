@@ -1,0 +1,244 @@
+{
+  "scan_time": "2026-06-24T09:28:38.738202+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "bluerails-discovery-3",
+        "name": "Bluerails Discovery ",
+        "tagline": "The rails AI agents use to find and pay you",
+        "description": "Most \"AI visibility\" tools stop at telling you if AI mentions your brand. Bluerails goes further. We make you discoverable to AI agents and ready to get paid by them, on the rails we already run for marketplaces. What stands out: • Discovery: a peer-reviewed AI-visibility score from 400 samples, not a one-off guess. Free, no signup. • Agent-ready checkout + global settlement • Compliance built in Try your free Discovery report today; agent payments roll out next.",
+        "votes": 583,
+        "ph_url": "https://www.producthunt.com/posts/bluerails-discovery-3",
+        "website": "https://www.producthunt.com/r/SES4UURPNBOQ2O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Fintech",
+          "SEO",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "openart-director",
+        "name": "OpenArt Director",
+        "tagline": "Direct cinematic videos through chat",
+        "description": "OpenArt Director lets you create cinematic AI videos simply by chatting. Generate videos up to 5 minutes long with consistent characters, scenes, voice, music, and visual style throughout. Director develops story arcs, plans scenes, maintains continuity, and helps refine videos through natural conversation - acting more like a creative director than a traditional video generator. You're not generating clips anymore - you're directing stories.",
+        "votes": 405,
+        "ph_url": "https://www.producthunt.com/posts/openart-director",
+        "website": "https://www.producthunt.com/r/VR33AZJYNUFI26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "cotypist-2",
+        "name": "Cotypist",
+        "tagline": "Local AI Autocomplete in your voice, anywhere on your Mac",
+        "description": "Cotypist is smart autocomplete for the Mac apps you already write in: Mail, Slack, Notes, docs, even AI prompts. Press Tab when a suggestion fits, or keep typing and watch it update in real time. Runs locally on your Mac. No cloud, no API calls.",
+        "votes": 374,
+        "ph_url": "https://www.producthunt.com/posts/cotypist-2",
+        "website": "https://www.producthunt.com/r/DAOKZ2ZPDUPEKT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Writing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48645437",
+        "name": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+        "url": "https://tikz.dev/editor/",
+        "points": 389,
+        "comments": 71,
+        "hn_url": "https://news.ycombinator.com/item?id=48645437"
+      },
+      {
+        "id": "48642686",
+        "name": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+        "url": "https://github.com/shumaiOne/shumai",
+        "points": 57,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48642686"
+      },
+      {
+        "id": "48645390",
+        "name": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+        "url": "https://github.com/ilbertt/bun-sqlgen",
+        "points": 54,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=48645390"
+      },
+      {
+        "id": "48646209",
+        "name": "Show HN: Treedocs: Documentation that automatically checks for staleness",
+        "url": "https://dandylyons.github.io/treedocs/",
+        "points": 49,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=48646209"
+      },
+      {
+        "id": "48653476",
+        "name": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+        "url": "https://github.com/y-times-y/y",
+        "points": 30,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=48653476"
+      },
+      {
+        "id": "48646511",
+        "name": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+        "url": "https://atomprophet.io/tools/cascade/",
+        "points": 22,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48646511"
+      },
+      {
+        "id": "48649137",
+        "name": "Show HN: RLM-based local debugger for AI agent traces",
+        "url": "https://github.com/context-labs/halo",
+        "points": 19,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48649137"
+      },
+      {
+        "id": "48651236",
+        "name": "Show HN: AI Torah Chervuta",
+        "url": "https://www.yochai.wiki/chat",
+        "points": 15,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48651236"
+      },
+      {
+        "id": "48656929",
+        "name": "Show HN: A minimal and beautiful card component built with pure CSS",
+        "url": "https://ufoym.com/slicard/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48656929"
+      },
+      {
+        "id": "48647404",
+        "name": "Show HN: CUDA Profiler for Production Inference",
+        "url": "https://github.com/graphsignal/graphsignal-profiler",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48647404"
+      },
+      {
+        "id": "48645095",
+        "name": "Show HN: Transformer Primitives – A visual explainer you can send to anyone",
+        "url": "https://understandgpt.xyz/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48645095"
+      },
+      {
+        "id": "48646901",
+        "name": "Show HN: Snowscroll – I removed addictive feeds from social media",
+        "url": "https://snowscroll.com/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48646901"
+      },
+      {
+        "id": "48647498",
+        "name": "Show HN: Caplets - Give your agent capabilities, not giant tool walls",
+        "url": "https://caplets.dev",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48647498"
+      },
+      {
+        "id": "48642564",
+        "name": "Show HN: SaaS Pegasus – the original Django boilerplate, now MIT-licensed",
+        "url": "https://github.com/saaspegasus/django-boilerplate",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48642564"
+      },
+      {
+        "id": "48649105",
+        "name": "Show HN: We Help Voice AI Handle Group Conversations",
+        "url": "https://github.com/attenlabs/saa-sdk",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48649105"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/mydesignmd",
+        "name": "MyDesignMD",
+        "description": "Generate a grounded design system package from any public URL",
+        "url": "https://betalist.com/startups/mydesignmd"
+      },
+      {
+        "id": "/startups/denker",
+        "name": "Denker",
+        "description": "Direct an AI agent team from one canvas to move work forward",
+        "url": "https://betalist.com/startups/denker"
+      },
+      {
+        "id": "/startups/viewsnapstories",
+        "name": "ViewSnapStories",
+        "description": "View and download Snapchat stories, spotlight, videos, without logging in.",
+        "url": "https://betalist.com/startups/viewsnapstories"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ai-news-agent?post=WSkwooS77CJ80jzIB2rx",
+        "title": "AI News Agent: I built an AI news aggregator for Telegram in 2 weeks — here's how it works",
+        "url": "https://www.indiehackers.com/product/ai-news-agent?post=WSkwooS77CJ80jzIB2rx",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/palabot-v2-premium?post=eVTNzkVTNwoZFJfcSktg",
+        "title": "PalaBot V2 Premium: I’m building a Windows desktop workspace for Telegram automation",
+        "url": "https://www.indiehackers.com/product/palabot-v2-premium?post=eVTNzkVTNwoZFJfcSktg",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/one-of-my-first-10-users-became-a-daily-user-the-other-9-didnt-fe5752e9f7",
+        "title": "One of my first 10 users became a daily user. The other 9 didn't.",
+        "url": "https://www.indiehackers.com/post/one-of-my-first-10-users-became-a-daily-user-the-other-9-didnt-fe5752e9f7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=2WWN3ONS186ONugHQE5J",
+        "title": "IbexAI: The future is on microSaaS",
+        "url": "https://www.indiehackers.com/product/ibexai?post=2WWN3ONS186ONugHQE5J",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/our-appsumo-deal-fell-through-so-i-built-v1-instead-of-waiting-0ef15ebb9b",
+        "title": "Our AppSumo deal fell through, so I built v1 instead of waiting",
+        "url": "https://www.indiehackers.com/post/our-appsumo-deal-fell-through-so-i-built-v1-instead-of-waiting-0ef15ebb9b",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
