@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-06-25T09:20:38.705462+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "tencent-edgeone-makers",
+        "name": "Tencent EdgeOne Makers",
+        "tagline": "Ship AI agents like web apps, in minutes.",
+        "description": "Tencent EdgeOne Makers is an edge platform for modern web apps and AI agents. Build with your preferred frameworks and deploy through familiar CLI, Git, and CI/CD workflows. Get built-in agent runtime, sandboxed tools, memory, observability, model gateway support, serverless functions, and storage—without stitching together complex infrastructure. Add AI agents to existing products or launch new AI applications in minutes. Deploy AI agents like web apps.",
+        "votes": 545,
+        "ph_url": "https://www.producthunt.com/posts/tencent-edgeone-makers",
+        "website": "https://www.producthunt.com/r/F44CDFG34U37A3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Website Builder",
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "propane",
+        "name": "Propane ",
+        "tagline": "Automatic customer context for product teams and agents",
+        "description": "Propane gives your product team and agents one connected, always-current view of your customers. Automatically collected from all your tools. Collaborate on a shared canvas. Commit straight to any coding or design agent. Secure, maintained, always on. You just build products people love.",
+        "votes": 506,
+        "ph_url": "https://www.producthunt.com/posts/propane",
+        "website": "https://www.producthunt.com/r/3IPLBPLEC7J35W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48660267",
+        "name": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+        "url": "https://github.com/nubjs/nub",
+        "points": 239,
+        "comments": 66,
+        "hn_url": "https://news.ycombinator.com/item?id=48660267"
+      },
+      {
+        "id": "48659483",
+        "name": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+        "url": "https://lookaway.com",
+        "points": 64,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=48659483"
+      },
+      {
+        "id": "48660975",
+        "name": "Show HN: Wealtii – A multi-sig digital asset index fund built by a solo founder",
+        "url": "https://wealtii.com",
+        "points": 47,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48660975"
+      },
+      {
+        "id": "48658544",
+        "name": "Show HN: Make your game multiplayer in one prompt",
+        "url": "https://antics.gg/",
+        "points": 10,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48658544"
+      },
+      {
+        "id": "48657403",
+        "name": "Show HN: Agnes AI – Free multimodal API (text, image, video), OpenAI-compatible",
+        "url": "",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48657403"
+      },
+      {
+        "id": "48661083",
+        "name": "Show HN: eBook to audiobook narration with realistic AI voices",
+        "url": "https://ebookaloud.com",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48661083"
+      },
+      {
+        "id": "48658550",
+        "name": "Show HN: Built a Git ext. in Rust that tracks which AI wrote each line of code",
+        "url": "https://autter.dev/autter-cli",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48658550"
+      },
+      {
+        "id": "48661968",
+        "name": "Show HN: Forte – Cloud infra to get startups to production faster",
+        "url": "https://forteplatforms.com",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48661968"
+      },
+      {
+        "id": "48663022",
+        "name": "Show HN: ccMarvin – Just Email with AI",
+        "url": "https://ccmarvin.com",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48663022"
+      },
+      {
+        "id": "48664303",
+        "name": "Show HN: Lumli – Privacy-first image tools that run entirely in your browser",
+        "url": "https://www.lumli.de",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48664303"
+      },
+      {
+        "id": "48660416",
+        "name": "Show HN: L0/L1/L2 agents, leases, gates, audits, Git-worktree isolation",
+        "url": "https://github.com/alex-reysa/glueRun-go",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48660416"
+      },
+      {
+        "id": "48660315",
+        "name": "Show HN: Iantha – build your own Jarvis on Claude Code",
+        "url": "https://kiloloop.com/iantha/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48660315"
+      },
+      {
+        "id": "48661445",
+        "name": "Show HN: The most Y Combinator YC application: it applied itself",
+        "url": "",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48661445"
+      },
+      {
+        "id": "48657762",
+        "name": "Show HN: How Loud Is My Hotel?",
+        "url": "https://noise.vantezzen.io/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48657762"
+      },
+      {
+        "id": "48661039",
+        "name": "Show HN: Michii – AI agents that build and run your business",
+        "url": "https://michii.dev",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48661039"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/feno",
+        "name": "Feno",
+        "description": "Clean your whole mouth in 20 seconds with an AI-powered smartbrush",
+        "url": "https://betalist.com/startups/feno"
+      },
+      {
+        "id": "/startups/teno",
+        "name": "Teno",
+        "description": "Generate campaign-ready video and image ads from one chat",
+        "url": "https://betalist.com/startups/teno"
+      },
+      {
+        "id": "/startups/businessstart",
+        "name": "BusinessStart",
+        "description": "Create bank-ready financial and business plans in minutes",
+        "url": "https://betalist.com/startups/businessstart"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-recently-launched-on-product-hunt-and-here-is-how-i-went-from-94-to-20-908cdbfc8b",
+        "title": "I recently launched on Product Hunt and here is how I went from #94 to #20",
+        "url": "https://www.indiehackers.com/post/i-recently-launched-on-product-hunt-and-here-is-how-i-went-from-94-to-20-908cdbfc8b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-expected-traffic-to-hit-zero-it-didn-t-711aeaedb3",
+        "title": "I Expected Traffic to Hit Zero. It Didn’t.",
+        "url": "https://www.indiehackers.com/post/i-expected-traffic-to-hit-zero-it-didn-t-711aeaedb3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-one-week-feature-took-two-months-mostly-spent-keeping-three-systems-in-sync-a0629cac5d",
+        "title": "A one-week feature took two months, mostly spent keeping three systems in sync",
+        "url": "https://www.indiehackers.com/post/a-one-week-feature-took-two-months-mostly-spent-keeping-three-systems-in-sync-a0629cac5d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/reworked-my-app-after-your-liability-feedback-now-deciding-keep-going-or-move-on-what-would-you-do-bcdd09262d",
+        "title": "Reworked my app after your liability feedback. Now deciding: keep going or move on — what would you do?",
+        "url": "https://www.indiehackers.com/post/reworked-my-app-after-your-liability-feedback-now-deciding-keep-going-or-move-on-what-would-you-do-bcdd09262d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/cepho?post=lixOkH3BGSO096ChshPM",
+        "title": "Cepho is syncing",
+        "url": "https://www.indiehackers.com/product/cepho?post=lixOkH3BGSO096ChshPM",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
