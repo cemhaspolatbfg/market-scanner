@@ -1,0 +1,262 @@
+{
+  "scan_time": "2026-06-26T09:25:23.458141+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "browseract",
+        "name": "BrowserAct",
+        "tagline": "Web browser automation for AI agents",
+        "description": "BrowserAct is built for agents using the web. It gives agents a browser layer for real websites, so they can pass blocked pages, adapt to real scenarios, run multiple tasks safely, and return clean web data for reasoning. Use BrowserAct when an agent needs to browse, click, extract, fill forms, upload files, work inside logged-in sites, handle verification, or run repeatable browser workflows.",
+        "votes": 514,
+        "ph_url": "https://www.producthunt.com/posts/browseract",
+        "website": "https://www.producthunt.com/r/37BT52WEVJQBND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "oxlo-ai",
+        "name": "Oxlo.ai",
+        "tagline": "Scale across AI models without scaling your bill",
+        "description": "Most AI teams pick a model first and discover the bill later. We built Oxlo.ai to change that. Access 35+ frontier AI models including DeepSeek V4 Pro, Kimi K2.6, GLM 5, Qwen, Llama, and Mistral through a single API. Compare models, calibrate responses, and choose the right model for each use case. Scale across AI models with predictable monthly subscriptions, benchmark-grade performance, generous usage limits, and we never train on your data.",
+        "votes": 486,
+        "ph_url": "https://www.producthunt.com/posts/oxlo-ai",
+        "website": "https://www.producthunt.com/r/DUYNVE7KZKA72Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "zaro",
+        "name": "Zaro",
+        "tagline": "Build agents & apps on top of your context with one prompt.",
+        "description": "Zaro is where you can build working software from your scattered work. Everything you know is spread across Gmail, Slack, notes, and tabs that don't talk - Zaro pulls it into one place and lets you build apps from it in minutes: your research, your side projects, your plans, your decisions. Then they keep themselves updated, checking your connections every day so you don't have to. No code. No maintenance. No graveyard of prototypes you started and never finished.",
+        "votes": 439,
+        "ph_url": "https://www.producthunt.com/posts/zaro",
+        "website": "https://www.producthunt.com/r/KBOJHU4IKBULO7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48673671",
+        "name": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+        "url": "https://hackernewstrends.com",
+        "points": 714,
+        "comments": 147,
+        "hn_url": "https://news.ycombinator.com/item?id=48673671"
+      },
+      {
+        "id": "48675435",
+        "name": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+        "url": "https://github.com/inkeep/open-knowledge",
+        "points": 271,
+        "comments": 134,
+        "hn_url": "https://news.ycombinator.com/item?id=48675435"
+      },
+      {
+        "id": "48671886",
+        "name": "Show HN: Turn native language audio into flashcards and shadowing practice",
+        "url": "https://lingochunk.com/try",
+        "points": 82,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=48671886"
+      },
+      {
+        "id": "48672389",
+        "name": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+        "url": "https://github.com/Fran314/secrets-manager-rs",
+        "points": 30,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=48672389"
+      },
+      {
+        "id": "48671826",
+        "name": "Show HN: Visual Workspace for Agents Based on Unix",
+        "url": "https://www.prototyper.co",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48671826"
+      },
+      {
+        "id": "48680260",
+        "name": "Show HN: DeepSeek Flash inverted the economics of agent products",
+        "url": "https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48680260"
+      },
+      {
+        "id": "48671822",
+        "name": "Show HN: Vibesolve.ai – Turn plain English into Timefold code",
+        "url": "https://www.vibesolve.ai/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48671822"
+      },
+      {
+        "id": "48674352",
+        "name": "Show HN: Give your pet its own corner of the internet",
+        "url": "https://www.hii.pet",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48674352"
+      },
+      {
+        "id": "48678471",
+        "name": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
+        "url": "https://trypolygraph.com/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48678471"
+      },
+      {
+        "id": "48671226",
+        "name": "Show HN: How to Use Unlimited Token Plan with OpenCode",
+        "url": "https://twitter.com/CanopyWave_AI/status/2069957571184832525",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48671226"
+      },
+      {
+        "id": "48671675",
+        "name": "Show HN: ParseHawk – 100% Local Document AI with API, CLI, and Web UI",
+        "url": "https://github.com/parsehawk/parsehawk",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48671675"
+      },
+      {
+        "id": "48682722",
+        "name": "Show HN: Turn any X account into an RSS feed",
+        "url": "https://rss.gurify.com/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48682722"
+      },
+      {
+        "id": "48674444",
+        "name": "Show HN: Navatala GPU – multi-back end GPU kernels and Python bindings",
+        "url": "https://github.com/navatala-systems/navatala_gpu",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48674444"
+      },
+      {
+        "id": "48682739",
+        "name": "Show HN: I replaced my X analytics dashboard for a daily \"what to do next\" brief",
+        "url": "https://trumpet.house",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48682739"
+      },
+      {
+        "id": "48681421",
+        "name": "Show HN: Bikepacking Planner",
+        "url": "https://www.theinstant.cc/pack",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48681421"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/glitter-ai",
+        "name": "Glitter AI",
+        "description": "Turn any video into an SOP in seconds",
+        "url": "https://betalist.com/startups/glitter-ai"
+      },
+      {
+        "id": "/startups/revenueloop",
+        "name": "RevenueLoop",
+        "description": "Find missed billing and unpaid invoices before they become lost revenue",
+        "url": "https://betalist.com/startups/revenueloop"
+      },
+      {
+        "id": "/startups/vexlio",
+        "name": "Vexlio",
+        "description": "Explain complex things with diagrams people can click into",
+        "url": "https://betalist.com/startups/vexlio"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-was-picking-the-wrong-saas-tools-for-two-years-heres-the-mistake-i-finally-figured-out-31dce369e0",
+        "title": "I Was Picking the Wrong SaaS Tools for Two Years. Here's the Mistake I Finally Figured Out.",
+        "url": "https://www.indiehackers.com/post/i-was-picking-the-wrong-saas-tools-for-two-years-heres-the-mistake-i-finally-figured-out-31dce369e0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=UHkYn0SrxIdaY9iPE5rP",
+        "title": "Clone The App: How a walking app makes $615K/month and what you can learn from it",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=UHkYn0SrxIdaY9iPE5rP",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/drop-your-landing-page-url-ill-use-ferguson-to-tell-you-why-visitors-might-be-leaving-bb883f75c5",
+        "title": "Drop your landing page URL. I'll use Ferguson to tell you why visitors might be leaving",
+        "url": "https://www.indiehackers.com/post/drop-your-landing-page-url-ill-use-ferguson-to-tell-you-why-visitors-might-be-leaving-bb883f75c5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-changed-after-giving-every-customer-their-own-ai-agent-f45f986520",
+        "title": "What changed after giving every customer their own AI agent",
+        "url": "https://www.indiehackers.com/post/what-changed-after-giving-every-customer-their-own-ai-agent-f45f986520",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/most-early-stage-saas-companies-miss-churn-signals-here-s-how-to-catch-them-early-1538dfae6d",
+        "title": "Most early-stage SaaS companies miss churn signals. Here’s how to catch them early.",
+        "url": "https://www.indiehackers.com/post/most-early-stage-saas-companies-miss-churn-signals-here-s-how-to-catch-them-early-1538dfae6d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-free-open-source-alternative-to-claude-cowork-and-manus-desktop-aa8817be98",
+        "title": "I built a free, open-source alternative to Claude Cowork and Manus Desktop",
+        "url": "https://www.indiehackers.com/post/i-built-a-free-open-source-alternative-to-claude-cowork-and-manus-desktop-aa8817be98",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ai-agent-tools-charging-200-month-are-a-scam-heres-proof-7cd003636f",
+        "title": "AI agent tools charging $200/month are a scam. Here's proof.",
+        "url": "https://www.indiehackers.com/post/ai-agent-tools-charging-200-month-are-a-scam-heres-proof-7cd003636f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/services/from-20-ghostwriting-gigs-to-a-6-figure-mrr-personal-branding-agency-2uOYZhXJmo2duGIkx3zc",
+        "title": "From $20 ghostwriting gigs to a 6-figure-MRR personal branding agency",
+        "url": "https://www.indiehackers.com/post/services/from-20-ghostwriting-gigs-to-a-6-figure-mrr-personal-branding-agency-2uOYZhXJmo2duGIkx3zc",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
