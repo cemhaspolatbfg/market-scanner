@@ -1,0 +1,186 @@
+{
+  "scan_time": "2026-06-27T08:35:12.909407+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "48688700",
+        "name": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+        "url": "https://github.com/workweave/router",
+        "points": 167,
+        "comments": 97,
+        "hn_url": "https://news.ycombinator.com/item?id=48688700"
+      },
+      {
+        "id": "48693912",
+        "name": "Show HN: Hacker News on a train station-style flip board",
+        "url": "https://popflame.quickish.space/hn-flipboard/",
+        "points": 66,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48693912"
+      },
+      {
+        "id": "48689891",
+        "name": "Show HN: I built a hardware quantum RNG and wired it into a Magic 8-Ball",
+        "url": "https://dnhkng.github.io/posts/building-the-beam-universe-splitter/",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48689891"
+      },
+      {
+        "id": "48685386",
+        "name": "Show HN: Git-lazy-mount mount a repo without cloning it. Works with ordinary Git",
+        "url": "https://github.com/mohsen1/git-lazy-mount",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48685386"
+      },
+      {
+        "id": "48694051",
+        "name": "Show HN: GetBlocked – a local-only Chrome extension for blocking web trackers",
+        "url": "https://github.com/alex-w-developer/GetBlocked/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48694051"
+      },
+      {
+        "id": "48691840",
+        "name": "Show HN: I Derived a Steak",
+        "url": "https://www.absurdlyoptimized.com/recipes/grilled-meats/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48691840"
+      },
+      {
+        "id": "48687495",
+        "name": "Show HN: Apply for jobs by directly emailing relevant people at a company",
+        "url": "https://dmtheboss.com/",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48687495"
+      },
+      {
+        "id": "48687650",
+        "name": "Show HN: BetterDB, MIT Valkey-native context layer for AI agents",
+        "url": "https://github.com/BetterDB-inc/monitor/tree/master/packages",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48687650"
+      },
+      {
+        "id": "48690749",
+        "name": "Show HN: Mantis, A self-hosted LLM gateway",
+        "url": "https://github.com/mantis-llm-gateway",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48690749"
+      },
+      {
+        "id": "48686980",
+        "name": "Show HN: ZeroGate – API gateway to scale cloud GPUs to zero when idle",
+        "url": "https://github.com/noah-garner/zerogate",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48686980"
+      },
+      {
+        "id": "48686042",
+        "name": "Show HN: Jargo – a Golang port of Pipecat for conversational-AI apps",
+        "url": "https://github.com/gojargo/jargo",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48686042"
+      },
+      {
+        "id": "48688797",
+        "name": "Show HN: Puzzle with Strangers. A free multiplayer jigsaw",
+        "url": "https://endtime-instruments.org/puzzle/",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48688797"
+      },
+      {
+        "id": "48689550",
+        "name": "Show HN: Vantage – Enrich your calendar invites with LinkedIn profile data",
+        "url": "https://vantage.neuron.com",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48689550"
+      },
+      {
+        "id": "48689984",
+        "name": "Show HN: AgentBrush – Your coding agent's missing tool: image generation",
+        "url": "https://agentbrush.dev/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48689984"
+      },
+      {
+        "id": "48688943",
+        "name": "Show HN: TBD, a Mac-native CLI-forward coding agent multiplexer",
+        "url": "https://github.com/cheapsteak/tbd",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48688943"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/vaultleap",
+        "name": "VaultLeap",
+        "description": "A clock that shows your money growing in real time",
+        "url": "https://betalist.com/startups/vaultleap"
+      },
+      {
+        "id": "/startups/actium",
+        "name": "Actium",
+        "description": "Build the app,  finds the audience",
+        "url": "https://betalist.com/startups/actium"
+      },
+      {
+        "id": "/startups/ecomdir",
+        "name": "ecomdir",
+        "description": "Automate order processing for your online stores from one dashboard",
+        "url": "https://betalist.com/startups/ecomdir"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=BUAliDorJg6tgy6D1SiC",
+        "title": "IbexAI: What we learned from our first free pilot",
+        "url": "https://www.indiehackers.com/product/ibexai?post=BUAliDorJg6tgy6D1SiC",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-tool-that-audits-landing-pages-and-ran-it-on-ihs-own-homepage-here-s-what-it-found-be4780fbb7",
+        "title": "I built a tool that audits landing pages and ran it on IH's own homepage, here's what it found...",
+        "url": "https://www.indiehackers.com/post/i-built-a-tool-that-audits-landing-pages-and-ran-it-on-ihs-own-homepage-here-s-what-it-found-be4780fbb7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/nobody-wants-to-hear-no-i-built-a-business-on-saying-it-anyway-15dff81045",
+        "title": "Nobody wants to hear \"no.\" I built a business on saying it anyway.",
+        "url": "https://www.indiehackers.com/post/nobody-wants-to-hear-no-i-built-a-business-on-saying-it-anyway-15dff81045",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 3
+    }
+  }
+}
