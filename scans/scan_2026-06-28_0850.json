@@ -1,0 +1,198 @@
+{
+  "scan_time": "2026-06-28T08:50:35.167165+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "48703412",
+        "name": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "url": "https://decomp-academy.dev",
+        "points": 116,
+        "comments": 38,
+        "hn_url": "https://news.ycombinator.com/item?id=48703412"
+      },
+      {
+        "id": "48701512",
+        "name": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+        "url": "https://github.com/kageroumado/adrafinil",
+        "points": 108,
+        "comments": 71,
+        "hn_url": "https://news.ycombinator.com/item?id=48701512"
+      },
+      {
+        "id": "48702104",
+        "name": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
+        "url": "https://starglyphs.com",
+        "points": 20,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48702104"
+      },
+      {
+        "id": "48701771",
+        "name": "Show HN: Kiso, an open-source publishing engine for Open Knowledge Format",
+        "url": "https://oak-invest.github.io/kiso/",
+        "points": 15,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48701771"
+      },
+      {
+        "id": "48703559",
+        "name": "Show HN: FSM – an advanced system monitor for Linux",
+        "url": "https://github.com/mskrasnov/FSM",
+        "points": 12,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48703559"
+      },
+      {
+        "id": "48703194",
+        "name": "Show HN: Engye – transfer files between any two devices by scanning a QR code",
+        "url": "https://engye.fuzzyworld.net/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48703194"
+      },
+      {
+        "id": "48699646",
+        "name": "Show HN: A Living Neural Web in HTML5 Canvas",
+        "url": "https://techoreon.github.io/verpad/canvas-playground.html",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48699646"
+      },
+      {
+        "id": "48696675",
+        "name": "Show HN: The TypeScript Semantic Layer for ClickHouse",
+        "url": "https://github.com/hypequery/hypequery",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48696675"
+      },
+      {
+        "id": "48696749",
+        "name": "Show HN: Play puzzle games in a feed like TikTok",
+        "url": "https://puzzle.express",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48696749"
+      },
+      {
+        "id": "48705038",
+        "name": "Show HN: Better Graphs – Teach agents to stop making plain Matplotlib slop",
+        "url": "https://temataro.github.io/better-graphs/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48705038"
+      },
+      {
+        "id": "48702538",
+        "name": "Show HN: KV-psi, using Linux PSI to to trim an LLM KV cache",
+        "url": "https://github.com/infiniteregrets/kv-psi",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48702538"
+      },
+      {
+        "id": "48702927",
+        "name": "Show HN: Pressn't, a site where you can have a single post",
+        "url": "https://app.pressnt.net/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48702927"
+      },
+      {
+        "id": "48699033",
+        "name": "Show HN:I got tired of spending 3hrs daily on job applications,so I automated it",
+        "url": "https://jobspire.co.in/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48699033"
+      },
+      {
+        "id": "48703200",
+        "name": "Show HN: QR code renderer in a TrueType font",
+        "url": "https://qr.jim.sh/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48703200"
+      },
+      {
+        "id": "48703875",
+        "name": "Show HN: Git-temp – scratchpad folder for AI agents; doesn't clutter Git status",
+        "url": "https://github.com/sebmellen/git-temp",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48703875"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/aida",
+        "name": "Aida",
+        "description": "Plan, create, and publish on-brand marketing content automatically",
+        "url": "https://betalist.com/startups/aida"
+      },
+      {
+        "id": "/startups/fugte",
+        "name": "Fugte",
+        "description": "Build, customize, and embed widgets for any workspace",
+        "url": "https://betalist.com/startups/fugte"
+      },
+      {
+        "id": "/startups/data-hit",
+        "name": "DATA HIT",
+        "description": "Spot hidden patterns in GA4, Search Console, SERPs, and AI mentions",
+        "url": "https://betalist.com/startups/data-hit"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/donely?post=fRA1uUS51VlNO2BUVar4",
+        "title": "Donely: Built one click Hermes agent personas",
+        "url": "https://www.indiehackers.com/product/donely?post=fRA1uUS51VlNO2BUVar4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/why-remote-teams-stop-talking-and-don-t-even-notice-it-64ea4232a9",
+        "title": "Why Remote Teams Stop Talking (And Don't Even Notice It)",
+        "url": "https://www.indiehackers.com/post/why-remote-teams-stop-talking-and-don-t-even-notice-it-64ea4232a9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/loomin?post=i9f29QyQRFHaoVOKygVi",
+        "title": "Loomin: A Non-Coder's Honest Story of Building a SaaS from Scratch",
+        "url": "https://www.indiehackers.com/product/loomin?post=i9f29QyQRFHaoVOKygVi",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/are-we-entering-the-era-of-solo-founders-e896255761",
+        "title": "Are we entering the era of solo founders?",
+        "url": "https://www.indiehackers.com/post/are-we-entering-the-era-of-solo-founders-e896255761",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-passion-project-to-1k-users-after-a-120k-exit-Oyrodd8Oz1Dh4tatRo2U",
+        "title": "Building a passion project to 1k users after a $120k exit",
+        "url": "https://www.indiehackers.com/post/tech/building-a-passion-project-to-1k-users-after-a-120k-exit-Oyrodd8Oz1Dh4tatRo2U",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
