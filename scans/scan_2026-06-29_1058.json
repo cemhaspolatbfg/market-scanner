@@ -1,0 +1,230 @@
+{
+  "scan_time": "2026-06-29T10:58:14.525641+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "latitude-425a8dbc-1d38-4730-9cda-e6d8a60fb73b",
+        "name": "Latitude",
+        "tagline": "Fix what's breaking in your AI agent",
+        "description": "Open-source AI agent monitoring platform. Latitude automatically detects all the ways your agents fail at scale, and gives your coding agent the tools to fix it.",
+        "votes": 387,
+        "ph_url": "https://www.producthunt.com/posts/latitude-425a8dbc-1d38-4730-9cda-e6d8a60fb73b",
+        "website": "https://www.producthunt.com/r/HIY25VKCAQE45I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub",
+          "Data & Analytics"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "agent-arena",
+        "name": "Agent Arena",
+        "tagline": "The first public arena for AI agents",
+        "description": "Agent Arena is an open competition network where autonomous agents compete in real-world challenges, earn rewards, build reputation, and evolve over time. Create or join any competition, unlock what your agent can truly become inside a living ecosystem. Welcome to the first arena built for AI agents.",
+        "votes": 368,
+        "ph_url": "https://www.producthunt.com/posts/agent-arena",
+        "website": "https://www.producthunt.com/r/PQURIKQJDPEHES?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Artificial Intelligence",
+          "Community"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48708182",
+        "name": "Show HN: Zanagrams",
+        "url": "https://zanagrams.com/",
+        "points": 296,
+        "comments": 73,
+        "hn_url": "https://news.ycombinator.com/item?id=48708182"
+      },
+      {
+        "id": "48709186",
+        "name": "Show HN: DRM-Free Books",
+        "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+        "points": 102,
+        "comments": 39,
+        "hn_url": "https://news.ycombinator.com/item?id=48709186"
+      },
+      {
+        "id": "48710827",
+        "name": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+        "url": "https://github.com/kamaludu/bash4llm/",
+        "points": 53,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=48710827"
+      },
+      {
+        "id": "48710778",
+        "name": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+        "url": "https://github.com/JustVugg/nanoeuler",
+        "points": 49,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48710778"
+      },
+      {
+        "id": "48716939",
+        "name": "Show HN: Marmot, context layer for agents and humans",
+        "url": "https://marmotdata.io/",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48716939"
+      },
+      {
+        "id": "48706317",
+        "name": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement",
+        "url": "https://agent-watch.dev/",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48706317"
+      },
+      {
+        "id": "48713642",
+        "name": "Show HN: XSDR – Real-time event monitoring infrastructure for agents",
+        "url": "https://xsdr.app",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48713642"
+      },
+      {
+        "id": "48706884",
+        "name": "Show HN: Nomina – Single Binary DNS and Nameserver with WebUI for Homelabs",
+        "url": "",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48706884"
+      },
+      {
+        "id": "48710584",
+        "name": "Show HN: I built an opinionated minimalist ePub/pdf online reader",
+        "url": "https://epub.mirror.forum",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48710584"
+      },
+      {
+        "id": "48714397",
+        "name": "Show HN: Self hosting a modern LLM stack",
+        "url": "https://github.com/raiyanyahya/llmaker",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48714397"
+      },
+      {
+        "id": "48708234",
+        "name": "Show HN: A Self-Hosted LinkedIn Profile",
+        "url": "https://www.kcoleman.me/linkedin.com/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48708234"
+      },
+      {
+        "id": "48708035",
+        "name": "Show HN: Import the HN Home to a reading queue with clean reader view and TL;DR",
+        "url": "https://readplace.com/import?mode=from-url",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48708035"
+      },
+      {
+        "id": "48707623",
+        "name": "Show HN: Clanker TV",
+        "url": "https://botflix.tv/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48707623"
+      },
+      {
+        "id": "48713108",
+        "name": "Show HN: wavecat – a fully local personal agent that watches your screen",
+        "url": "https://wavecat.ai/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48713108"
+      },
+      {
+        "id": "48712583",
+        "name": "Show HN: best.free",
+        "url": "https://best.free/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48712583"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/pagesifter",
+        "name": "PageSifter",
+        "description": "A free, human-curated tech news app",
+        "url": "https://betalist.com/startups/pagesifter"
+      },
+      {
+        "id": "/startups/bloom-sms",
+        "name": "Bloom SMS",
+        "description": "Instant non-VoIP numbers to receive OTPs on 3,000+ services",
+        "url": "https://betalist.com/startups/bloom-sms"
+      },
+      {
+        "id": "/startups/axisone",
+        "name": "AxisOne",
+        "description": "AI books 24/7 and runs your site, CRM, staff, payroll, and inventory",
+        "url": "https://betalist.com/startups/axisone"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/donely?post=eJEoZVroQhRIzDqRBBPB",
+        "title": "Donely: Hermes powered Security agent is absolute bonkers.",
+        "url": "https://www.indiehackers.com/product/donely?post=eJEoZVroQhRIzDqRBBPB",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=TymIgWrptSDlrpKdU0Ou",
+        "title": "LiFast: I went from 10 hours a week on LinkedIn to 10 minutes and 3x my client inquiries",
+        "url": "https://www.indiehackers.com/product/lifast?post=TymIgWrptSDlrpKdU0Ou",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/markhub-2?post=YDxtVxXY0pMr10rgNkru",
+        "title": "Markhub: Most teams don't have a communication problem. They have an awareness problem.",
+        "url": "https://www.indiehackers.com/product/markhub-2?post=YDxtVxXY0pMr10rgNkru",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-6-months-making-videos-for-my-saas-most-flopped-heres-the-honest-breakdown-824a56c69c",
+        "title": "I spent 6 months making videos for my SaaS. Most flopped. Here's the honest breakdown.",
+        "url": "https://www.indiehackers.com/post/i-spent-6-months-making-videos-for-my-saas-most-flopped-heres-the-honest-breakdown-824a56c69c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/mood-garden?post=XvUnXw7OMUb6j1tevtFY",
+        "title": "Mood Garden: What if your emotions could grow?",
+        "url": "https://www.indiehackers.com/product/mood-garden?post=XvUnXw7OMUb6j1tevtFY",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
