@@ -1,0 +1,258 @@
+{
+  "scan_time": "2026-06-30T09:34:17.644727+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "agent-mode-by-receiptor-ai",
+        "name": "Agent Mode by Receiptor AI",
+        "tagline": "Bookkeeping assistant that runs receipt workflows end-to-end",
+        "description": "Receiptor AI is an agentic bookkeeping assistant that runs your receipt workflow end-to-end: it collects receipts from your inbox and your mobile, organizes them in your cloud or accounting software, and matches them to your bank transactions. It works quietly in the background with 99% accuracy, and only asks questions when it needs more context. The result: clean books and organized receipt data you can query from anywhere: the app, WhatsApp, or right inside Claude and ChatGPT.",
+        "votes": 457,
+        "ph_url": "https://www.producthunt.com/posts/agent-mode-by-receiptor-ai",
+        "website": "https://www.producthunt.com/r/DVSAWE2SN72E2P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Fintech",
+          "Artificial Intelligence",
+          "Accounting"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "spira-for-product-hunt-makers",
+        "name": "Spira for Product Hunt Makers",
+        "tagline": "Social media growth agents that build your momentum ",
+        "description": "Drop your Product Hunt link and unlock your brand agent, persona clones of your founding team and AI Influencers that autonomously plan, create, and publish across TikTok, IG, X and Linkedin. It's your biggest launch day, don't let it slide away!",
+        "votes": 447,
+        "ph_url": "https://www.producthunt.com/posts/spira-for-product-hunt-makers",
+        "website": "https://www.producthunt.com/r/T7AK4DSW7OYURG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "discode-ai",
+        "name": "discode.ai",
+        "tagline": "100+ AI models, one interface. ECO friendly.",
+        "description": "discode is your EU-friendly AI router: one interface for 100+ models, with every prompt auto-routed to the best one for the job. Or fine-tune it yourself along Smarter, Speed and Eco. It shows you which model answered and why, redacts your personal data on-device before anything leaves, checks the hard answers across multiple models, and estimates the CO₂, water and energy footprint of every request. Built in Vienna 🇦🇹. Your AI, your rhythm.",
+        "votes": 386,
+        "ph_url": "https://www.producthunt.com/posts/discode-ai",
+        "website": "https://www.producthunt.com/r/FBBEAOCYJDEVTT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "gemini-spark-2",
+        "name": "Gemini Spark",
+        "tagline": "Your 24/7 personal AI agent",
+        "description": "Gemini Spark helps you navigate your digital life. Give it a task and it works in the background 24/7, even if your phone and laptop are turned off. It operates autonomously, but always under your direction. You choose to turn it on and it's designed to check with you before taking major actions.",
+        "votes": 350,
+        "ph_url": "https://www.producthunt.com/posts/gemini-spark-2",
+        "website": "https://www.producthunt.com/r/ECJULI3OMLYN7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Task Management",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48718498",
+        "name": "Show HN: Running a vision model on every screenshot on-device",
+        "url": "https://github.com/ayushh0110/ScreenMind/blob/main/README.md",
+        "points": 18,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48718498"
+      },
+      {
+        "id": "48720845",
+        "name": "Show HN: Run AI chat, image gen, vision, and voice offline on your Mac",
+        "url": "https://github.com/off-grid-ai",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48720845"
+      },
+      {
+        "id": "48719687",
+        "name": "Show HN: Uselink – publish and collaborate on AI-generated HTML",
+        "url": "https://uselink.app:443/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48719687"
+      },
+      {
+        "id": "48727448",
+        "name": "Show HN: Agentic Orchestrator, a TUI for long-running coding agents",
+        "url": "https://github.com/doordash-oss/agentic-orchestrator",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48727448"
+      },
+      {
+        "id": "48719797",
+        "name": "Show HN: An MMORPG where you control your characters with an API",
+        "url": "https://www.artifactsmmo.com/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48719797"
+      },
+      {
+        "id": "48719300",
+        "name": "Show HN: Wealtii – Digital Asset index funds with on-chain 1:1 backed vaults",
+        "url": "https://wealtii.com/funds",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48719300"
+      },
+      {
+        "id": "48717113",
+        "name": "Show HN: VibeRaven – Production workflows for AI coding agents",
+        "url": "https://github.com/ohad6k/VibeRaven",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48717113"
+      },
+      {
+        "id": "48721632",
+        "name": "Show HN: Rust / Red Alert inspired WASM game in the browser (open source)",
+        "url": "https://punnerud.github.io/mpe-ra/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48721632"
+      },
+      {
+        "id": "48720506",
+        "name": "Show HN: macOS Native Markdown Reader with Vim Keybinding Using Swift",
+        "url": "https://code.intellios.ai/cwmarkdown/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48720506"
+      },
+      {
+        "id": "48719261",
+        "name": "Show HN: I built Exfault, agentic mobile app pentesting tool",
+        "url": "https://www.exfault.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48719261"
+      },
+      {
+        "id": "48729019",
+        "name": "Show HN: Bored People Chat – Anonymous global chat room",
+        "url": "https://boredpeoplechat.com/",
+        "points": 5,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48729019"
+      },
+      {
+        "id": "48718992",
+        "name": "Show HN: Backtest a futures strategy described in plain English",
+        "url": "https://askfutures.com",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48718992"
+      },
+      {
+        "id": "48727140",
+        "name": "Show HN: AMA2, messenger built for AI agent",
+        "url": "https://ama2.me/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48727140"
+      },
+      {
+        "id": "48725156",
+        "name": "Show HN: Xenoeye – analyze network without AI using netflow, PostgreSQL, Grafana",
+        "url": "https://github.com/vmxdev/xenoeye",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48725156"
+      },
+      {
+        "id": "48724767",
+        "name": "Show HN: Fleet – a local-first console for managing Dockerized Hermes AI Agents",
+        "url": "https://github.com/matt454/agent-fleet-console",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48724767"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/hopway",
+        "name": "Hopway",
+        "description": "Collect bookings into a single trip timeline and map you can share",
+        "url": "https://betalist.com/startups/hopway"
+      },
+      {
+        "id": "/startups/stewie-reflect",
+        "name": "Stewie Reflect",
+        "description": "The owner's manual your vibe-coded codebase never came with",
+        "url": "https://betalist.com/startups/stewie-reflect"
+      },
+      {
+        "id": "/startups/seedance-2-1",
+        "name": "Seedance 2.1",
+        "description": "Generate cinematic video clips from text or reference images",
+        "url": "https://betalist.com/startups/seedance-2-1"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/aproov?post=RPW344yQXYZdnxMdtMJL",
+        "title": "Aproov: I spent two weeks reaching out to creators. Here's what happened",
+        "url": "https://www.indiehackers.com/product/aproov?post=RPW344yQXYZdnxMdtMJL",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-launching-on-product-hunt-tomorrow-so-i-audited-their-homepage-first-600b789e2b",
+        "title": "I'm launching on Product Hunt tomorrow... so I audited their homepage first!",
+        "url": "https://www.indiehackers.com/post/im-launching-on-product-hunt-tomorrow-so-i-audited-their-homepage-first-600b789e2b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-built-an-automation-system-but-nobady-cared-dfb0d49315",
+        "title": "We built an automation system...but nobady cared",
+        "url": "https://www.indiehackers.com/post/we-built-an-automation-system-but-nobady-cared-dfb0d49315",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-tool-to-check-if-ai-agents-can-actually-use-a-website-ran-it-on-23-well-known-saas-sites-the-average-score-was-35-7-100-60e0611a59",
+        "title": "I built a tool to check if AI agents can actually use a website. Ran it on 23 well-known SaaS sites, the average score was 35.7/100",
+        "url": "https://www.indiehackers.com/post/i-built-a-tool-to-check-if-ai-agents-can-actually-use-a-website-ran-it-on-23-well-known-saas-sites-the-average-score-was-35-7-100-60e0611a59",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-3-3k-mrr-in-two-months-while-working-a-full-time-job-eb5timbPqFlDFWZjha9i",
+        "title": "Hitting $3.3k MRR in two months while working a full-time job",
+        "url": "https://www.indiehackers.com/post/tech/hitting-3-3k-mrr-in-two-months-while-working-a-full-time-job-eb5timbPqFlDFWZjha9i",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
