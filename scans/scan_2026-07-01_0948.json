@@ -1,0 +1,235 @@
+{
+  "scan_time": "2026-07-01T09:47:59.918886+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "cursor-for-ios-2",
+        "name": "Cursor for iOS",
+        "tagline": "Build with coding agents from anywhere",
+        "description": "Cursor is now available as a native iOS app in public beta, so you can build from anywhere. Until now, developers have worked around the limits of their local machines, keeping laptops half-open and caffeinated everywhere they go. With Cursor for iOS, you can launch always-on agents in the cloud, or control agents running on your computer from your phone. Kick them off when ideas strike, get notified when work is ready for review, and merge PRs on the go.",
+        "votes": 536,
+        "ph_url": "https://www.producthunt.com/posts/cursor-for-ios-2",
+        "website": "https://www.producthunt.com/r/KBJ3E75U6E6GTF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Development",
+          "Vibe coding"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "skills-marketplace-by-databox",
+        "name": "Skills Marketplace by Databox",
+        "tagline": "Ready-made AI analytics skills for your business data",
+        "description": "A library of ready-made skills for paid ads, website performance, ecommerce, revenue, and more. Each skill pulls from your live performance data and returns a finished, shareable report in under a minute. Run them in Claude when you want answers in chat, or schedule them in n8n to land in Slack or email automatically. Free to download.",
+        "votes": 393,
+        "ph_url": "https://www.producthunt.com/posts/skills-marketplace-by-databox",
+        "website": "https://www.producthunt.com/r/EH536KOIRGF4MD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Analytics",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48735446",
+        "name": "Show HN: My 13-year-old built an ant colony tracker",
+        "url": "https://formicarium.es",
+        "points": 62,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=48735446"
+      },
+      {
+        "id": "48737302",
+        "name": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
+        "url": "https://apparent.social/heat-map",
+        "points": 23,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=48737302"
+      },
+      {
+        "id": "48736251",
+        "name": "Show HN: 143.dev – we open-sourced our internal coding-agent infrastructure",
+        "url": "",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48736251"
+      },
+      {
+        "id": "48731643",
+        "name": "Show HN: Running Gemma-4 26B at 124 tokens/SEC on a CPU, no GPU",
+        "url": "https://apeg.dev/writing/running-gemma4-26b-on-a-cpu/",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48731643"
+      },
+      {
+        "id": "48741332",
+        "name": "Show HN: Coding agent that compiles intent into deterministic DAG before running",
+        "url": "https://github.com/arman-jalili/rigorix-oss",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48741332"
+      },
+      {
+        "id": "48732953",
+        "name": "Show HN: C++, Java and C# light-weight-logger",
+        "url": "https://github.com/PenguineDavid/light-weight-logger",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48732953"
+      },
+      {
+        "id": "48739887",
+        "name": "Show HN: Open-source restreaming and live studio",
+        "url": "https://github.com/muxshed/shed",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48739887"
+      },
+      {
+        "id": "48731709",
+        "name": "Show HN: Kedro as a Service",
+        "url": "https://kedro.org/blog/kedro-as-a-service",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48731709"
+      },
+      {
+        "id": "48733674",
+        "name": "Show HN: Scaffold a BigQuery and dbt and Cube project an AI agent can operate",
+        "url": "https://cli.revos.dev/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48733674"
+      },
+      {
+        "id": "48739038",
+        "name": "Show HN: Morph Reflexes – Multi-head classifiers for agent traces",
+        "url": "",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48739038"
+      },
+      {
+        "id": "48735625",
+        "name": "Show HN: Shot-scraper video tool for recording YAML-defined webapp feature demos",
+        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48735625"
+      },
+      {
+        "id": "48731946",
+        "name": "Show HN: GSV – a personal AI computer that unifies your machines",
+        "url": "https://github.com/deathbyknowledge/gsv",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48731946"
+      },
+      {
+        "id": "48733651",
+        "name": "Show HN: Rampart on CoreML",
+        "url": "https://github.com/narner/Rampart-CoreML",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48733651"
+      },
+      {
+        "id": "48730624",
+        "name": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
+        "url": "https://ai-policy-gen.pages.dev",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48730624"
+      },
+      {
+        "id": "48735795",
+        "name": "Show HN: Clusy – Cursor for data science notebooks in cloud",
+        "url": "https://www.clusy.io/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48735795"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/agentop",
+        "name": "AgentOp",
+        "description": "Run a real LLM in your browser with no install or server",
+        "url": "https://betalist.com/startups/agentop"
+      },
+      {
+        "id": "/startups/plumb-ace",
+        "name": "Plumb Ace",
+        "description": "Plumber Estimating & Invoicing Software for Solo & Small Plumbing Teams",
+        "url": "https://betalist.com/startups/plumb-ace"
+      },
+      {
+        "id": "/startups/lipsync-studio",
+        "name": "Lipsync Studio",
+        "description": "Generate lip-synced 4K talking and singing videos up to 10 minutes",
+        "url": "https://betalist.com/startups/lipsync-studio"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/donely?post=kGKHkaozRG6Gd8ppsLrR",
+        "title": "Donely: Cant believe Hermes did this! - Mythos type security harness",
+        "url": "https://www.indiehackers.com/product/donely?post=kGKHkaozRG6Gd8ppsLrR",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=1K5Wq0p5unvEon1z0xMo",
+        "title": "Clone The App: You don't need a brand new app idea to build a successful business.",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=1K5Wq0p5unvEon1z0xMo",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/everyone-agrees-the-problem-is-real-nobody-will-actually-try-the-thing-that-fixes-it-3300bcaa65",
+        "title": "Everyone agrees the problem is real. Nobody will actually try the thing that fixes it",
+        "url": "https://www.indiehackers.com/post/everyone-agrees-the-problem-is-real-nobody-will-actually-try-the-thing-that-fixes-it-3300bcaa65",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-sold-6-773-in-2-weeks-with-almost-no-existing-community-5a3f4bb229",
+        "title": "I sold $6,773 in 2 weeks, with almost no existing community.",
+        "url": "https://www.indiehackers.com/post/i-sold-6-773-in-2-weeks-with-almost-no-existing-community-5a3f4bb229",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/from-2-8k-mrr-to-340-mrr-then-we-made-some-changes-6032bcefd2",
+        "title": "From $2.8k MRR to $340 MRR — Then We Made Some Changes",
+        "url": "https://www.indiehackers.com/post/from-2-8k-mrr-to-340-mrr-then-we-made-some-changes-6032bcefd2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/zopnight?post=gOp4o41GR6gM9DaDt4XB",
+        "title": "The cloud bill question we couldn't answer, so we built ZopNight",
+        "url": "https://www.indiehackers.com/product/zopnight?post=gOp4o41GR6gM9DaDt4XB",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
