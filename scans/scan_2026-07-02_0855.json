@@ -1,0 +1,244 @@
+{
+  "scan_time": "2026-07-02T08:54:53.794136+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "acti-3",
+        "name": "Acti",
+        "tagline": "Agentic keyboard for mobile commands and search",
+        "description": "Type what you need. Hold Acti Bar. Acti understands your intent and brings back the right result, link, or action - right where you are. Use Acti for live sports schedules, nearby restaurants, Notion docs, LinkedIn profiles, Meet links, Calendar actions, and custom workflows - without leaving the conversation.",
+        "votes": 507,
+        "ph_url": "https://www.producthunt.com/posts/acti-3",
+        "website": "https://www.producthunt.com/r/JTS2SCFXSWS3V4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Custom Keyboards",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "humalike",
+        "name": "Humalike",
+        "tagline": "Give your AI agents the social intelligence they're missing",
+        "description": "Today's models are capable enough. Smart enough. Fast enough. But we still feel they don’t fit in the room. Humalike is building the behavioral infrastructure for humanlike AI agents. The social skills & proactiveness your agents have been missing. APIs, models, benchmarks.",
+        "votes": 432,
+        "ph_url": "https://www.producthunt.com/posts/humalike",
+        "website": "https://www.producthunt.com/r/TY3X5USLILWUEC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "tabstack-browser-automation",
+        "name": "Tabstack Browser Automation",
+        "tagline": "Automate the web in your app or agent, no browser to host",
+        "description": "Give /automate a task in plain English and it drives a real browser to do it: navigate a site, click through a multi-step flow, fill a form, reach a page that only renders after interaction. The result streams back in one API call. It's an API you call, not a framework you install. Browser and LLM included, nothing to host, no concurrency ceiling. Accessibility-tree automation spends 60 to 80% fewer tokens than screenshot-based agents. Built by Mozilla. Ephemeral, no training on your data.",
+        "votes": 362,
+        "ph_url": "https://www.producthunt.com/posts/tabstack-browser-automation",
+        "website": "https://www.producthunt.com/r/W6V3FEODFM73TJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48752905",
+        "name": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+        "url": "https://www.workerowned.info/",
+        "points": 342,
+        "comments": 65,
+        "hn_url": "https://news.ycombinator.com/item?id=48752905"
+      },
+      {
+        "id": "48748182",
+        "name": "Show HN: GolemUI – Declarative Form Engine",
+        "url": "https://golemui.com",
+        "points": 39,
+        "comments": 61,
+        "hn_url": "https://news.ycombinator.com/item?id=48748182"
+      },
+      {
+        "id": "48749752",
+        "name": "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
+        "url": "https://github.com/pglayers/pglayers",
+        "points": 37,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48749752"
+      },
+      {
+        "id": "48750008",
+        "name": "Show HN: Salt – a systems language with Z3 theorem proving in the compiler",
+        "url": "https://salt-lang.dev",
+        "points": 34,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48750008"
+      },
+      {
+        "id": "48744778",
+        "name": "Show HN: HackerNows – Native iOS HN Client",
+        "url": "https://hackernows.app/",
+        "points": 28,
+        "comments": 55,
+        "hn_url": "https://news.ycombinator.com/item?id=48744778"
+      },
+      {
+        "id": "48751824",
+        "name": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+        "url": "https://github.com/Division-36/Z-Jail/",
+        "points": 21,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=48751824"
+      },
+      {
+        "id": "48745434",
+        "name": "Show HN: Frond – a frontend runtime for your app's dependency graph",
+        "url": "https://frondruntime.dev",
+        "points": 19,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=48745434"
+      },
+      {
+        "id": "48750459",
+        "name": "Show HN: Open-source sandbox for your product team",
+        "url": "",
+        "points": 15,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48750459"
+      },
+      {
+        "id": "48747739",
+        "name": "Show HN: Reminal – A zero-config SSH alternative that's also mobile friendly",
+        "url": "https://github.com/harshalgajjar/reminal",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48747739"
+      },
+      {
+        "id": "48745735",
+        "name": "Show HN: Readit, a read-it-later app I built because the others keep dying",
+        "url": "https://wereadit.com",
+        "points": 8,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48745735"
+      },
+      {
+        "id": "48749868",
+        "name": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+        "url": "https://github.com/adam-s/car-diagnosis",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48749868"
+      },
+      {
+        "id": "48750336",
+        "name": "Show HN: AnalystAIPack – 118 runnable agent skills for malware analysis and RE",
+        "url": "https://meltedinhex.com/posts/analyst-ai-pack/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48750336"
+      },
+      {
+        "id": "48757074",
+        "name": "Show HN: I wrote a Rust book ending with a Redis clone",
+        "url": "https://shankhan3.gumroad.com/l/dnwmtp",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48757074"
+      },
+      {
+        "id": "48753740",
+        "name": "Show HN: Forgejo Appliance, a private Git server based on OrbStack and Tailscale",
+        "url": "https://github.com/highpost/forgejo-appliance",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48753740"
+      },
+      {
+        "id": "48750413",
+        "name": "Show HN: Open-Source Interview Platform",
+        "url": "https://github.com/CoderScreen/coderscreen",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48750413"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/floor-plan-maker",
+        "name": "Floor Plan Maker",
+        "description": "Generate clean floor plans and 3D views in seconds with AI",
+        "url": "https://betalist.com/startups/floor-plan-maker"
+      },
+      {
+        "id": "/startups/integram",
+        "name": "Integram",
+        "description": "Access grant-funded AI and skills training to grow your business",
+        "url": "https://betalist.com/startups/integram"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/before-you-build-another-feature-use-this-workflow-d97fa7b097",
+        "title": "Before you build another feature, use this workflow",
+        "url": "https://www.indiehackers.com/post/before-you-build-another-feature-use-this-workflow-d97fa7b097",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=FfvacIb1JIA8wT9PEJn1",
+        "title": "IbexAI: Things I wish I knew before launching SaaS projects",
+        "url": "https://www.indiehackers.com/product/ibexai?post=FfvacIb1JIA8wT9PEJn1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-i-got-more-customers-easily-by-changing-where-i-compete-66f065795f",
+        "title": "How I got more customers easily by changing where I compete",
+        "url": "https://www.indiehackers.com/post/how-i-got-more-customers-easily-by-changing-where-i-compete-66f065795f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/donely?post=zcpKQ3Cr8DJjpN8msoBH",
+        "title": "Donely: We’re giving away up to $6,000 in AI inference with one-click Hermes hosting",
+        "url": "https://www.indiehackers.com/product/donely?post=zcpKQ3Cr8DJjpN8msoBH",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-i-audit-one-revenue-surface-without-turning-it-into-random-busywork-8c8e903087",
+        "title": "How I audit one revenue surface without turning it into random busywork",
+        "url": "https://www.indiehackers.com/post/how-i-audit-one-revenue-surface-without-turning-it-into-random-busywork-8c8e903087",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/turning-a-developer-tool-into-a-50k-mrr-lifestyle-business-9GL6b2gcc31LXjx7g3yC",
+        "title": "Turning a developer tool into a $50k MRR lifestyle business",
+        "url": "https://www.indiehackers.com/post/tech/turning-a-developer-tool-into-a-50k-mrr-lifestyle-business-9GL6b2gcc31LXjx7g3yC",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
