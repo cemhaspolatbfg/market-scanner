@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-07-03T09:16:54.384463+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "context-dev-2",
+        "name": "Context.dev",
+        "tagline": "One API to scrape, enrich, and extract the internet",
+        "description": "Context.dev is the web context API for AI products and agents. Scrape any URL, crawl sites, turn pages into LLM-ready Markdown, extract structured data into your own schema, capture screenshots, and retrieve logos, colors, fonts, styleguides, company data, and transaction enrichment through one API. YC-backed, no card required, and built so developers or coding agents can integrate in minutes.",
+        "votes": 728,
+        "ph_url": "https://www.producthunt.com/posts/context-dev-2",
+        "website": "https://www.producthunt.com/r/XBX6EKSLADLB4V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Artificial Intelligence",
+          "Data"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "fypro",
+        "name": "Fypro",
+        "tagline": "Convert your TikTok followers into paying customers",
+        "description": "You built a TikTok following that trusts you. Fypro turns those followers into paying customers you actually own. Drop your handle and it reads your account, then builds the whole thing for you: a site from your content, a store stocked with products matched to your niche, videos in your own voice, and a customer and email list that's yours to keep. Trained on 4M+ viral TikToks. Used by 2,000+ creators.",
+        "votes": 672,
+        "ph_url": "https://www.producthunt.com/posts/fypro",
+        "website": "https://www.producthunt.com/r/IIFDLOVH6SHQ6P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "E-Commerce",
+          "Shopping"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48761493",
+        "name": "Show HN: ZeroFS – A log-structured filesystem for S3",
+        "url": "https://www.zerofs.net/",
+        "points": 124,
+        "comments": 52,
+        "hn_url": "https://news.ycombinator.com/item?id=48761493"
+      },
+      {
+        "id": "48762000",
+        "name": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+        "url": "https://mailmemories.com",
+        "points": 101,
+        "comments": 48,
+        "hn_url": "https://news.ycombinator.com/item?id=48762000"
+      },
+      {
+        "id": "48761294",
+        "name": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+        "url": "https://freegraphpaper.net/",
+        "points": 99,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=48761294"
+      },
+      {
+        "id": "48762038",
+        "name": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+        "url": "https://github.com/rafal-qa/slopo",
+        "points": 82,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=48762038"
+      },
+      {
+        "id": "48766242",
+        "name": "Show HN: Bramble – Local-first password manager",
+        "url": "https://github.com/flythenimbus/bramble",
+        "points": 59,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48766242"
+      },
+      {
+        "id": "48763246",
+        "name": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+        "url": "https://zk.golf/",
+        "points": 59,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48763246"
+      },
+      {
+        "id": "48763222",
+        "name": "Show HN: Inkwell – An RSS reader for e-ink devices",
+        "url": "https://kendal.codeberg.page/inkwell/",
+        "points": 53,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48763222"
+      },
+      {
+        "id": "48763462",
+        "name": "Show HN: ctx – Search the coding agent history already on your machine",
+        "url": "https://github.com/ctxrs/ctx",
+        "points": 33,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48763462"
+      },
+      {
+        "id": "48761096",
+        "name": "Show HN: I built an open-source alternative to Claude Cowork",
+        "url": "https://github.com/valmishq/valmis",
+        "points": 31,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48761096"
+      },
+      {
+        "id": "48763963",
+        "name": "Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
+        "url": "https://getquality.md",
+        "points": 29,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=48763963"
+      },
+      {
+        "id": "48759838",
+        "name": "Show HN: I measured the half-life of 41,301 Show HN launches. It's 7 hours",
+        "url": "https://jonno.nz/posts/your-show-hn-dies-in-7-hours/",
+        "points": 25,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48759838"
+      },
+      {
+        "id": "48769064",
+        "name": "Show HN: I made a tool that prevents websites from tracking you",
+        "url": "https://github.com/alex-w-developer/GetBlocked",
+        "points": 18,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48769064"
+      },
+      {
+        "id": "48767515",
+        "name": "Show HN: BlastRadar - paste a Git diff, get production risk score in 10sec",
+        "url": "https://blastradar.vercel.app/",
+        "points": 11,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=48767515"
+      },
+      {
+        "id": "48768421",
+        "name": "Show HN: GeoSpoof – your VPN hides your IP, but the browser leaks your location",
+        "url": "https://geospoof.com/",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48768421"
+      },
+      {
+        "id": "48762592",
+        "name": "Show HN: Enola-A deterministic architecture graph for developers and AI agents",
+        "url": "https://github.com/enola-labs/enola/tree/main",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48762592"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/noodle-tomato",
+        "name": "Noodle Tomato",
+        "description": "An AI agent runs faceless YouTube channels you own and monetize",
+        "url": "https://betalist.com/startups/noodle-tomato"
+      },
+      {
+        "id": "/startups/breezing",
+        "name": "Breezing",
+        "description": "Sync crypto transactions into Xero, QuickBooks, and Bexio automatically",
+        "url": "https://betalist.com/startups/breezing"
+      },
+      {
+        "id": "/startups/chatclick",
+        "name": "ChatClick",
+        "description": "Check and monitor how AI recommends your business to customers",
+        "url": "https://betalist.com/startups/chatclick"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/the-hardest-part-isnt-building-anymore-7b6ce3453a",
+        "title": "The hardest part isn't building anymore",
+        "url": "https://www.indiehackers.com/post/the-hardest-part-isnt-building-anymore-7b6ce3453a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launched-postessia-today-an-ai-tool-that-writes-linkedin-posts-in-your-actual-voice-not-generic-ai-speak-dbce81cead",
+        "title": "Launched Postessia today — an AI tool that writes LinkedIn posts in your actual voice (not generic AI-speak)",
+        "url": "https://www.indiehackers.com/post/launched-postessia-today-an-ai-tool-that-writes-linkedin-posts-in-your-actual-voice-not-generic-ai-speak-dbce81cead",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=BeoW7ADwal4t12CDRqVl",
+        "title": "IbexAI: 5 things to consider before starting your own SaaS",
+        "url": "https://www.indiehackers.com/product/ibexai?post=BeoW7ADwal4t12CDRqVl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-months-chasing-clients-who-already-had-a-webmaster-so-i-built-something-that-only-finds-the-ones-who-dont-a48c4e3581",
+        "title": "I spent months chasing clients who already had a webmaster. So I built something that only finds the ones who don't.",
+        "url": "https://www.indiehackers.com/post/i-spent-months-chasing-clients-who-already-had-a-webmaster-so-i-built-something-that-only-finds-the-ones-who-dont-a48c4e3581",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-a-security-audit-tool-for-indie-hackers-need-your-feedback-83810bf81f",
+        "title": "Building a security audit tool for indie hackers - need your feedback",
+        "url": "https://www.indiehackers.com/post/building-a-security-audit-tool-for-indie-hackers-need-your-feedback-83810bf81f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pangolinmatrix?post=fZEpOLWVdrrM5poE2IAO",
+        "title": "PangolinMatrix: I built a free tool to reversibly encode passwords without storing the real ones",
+        "url": "https://www.indiehackers.com/product/pangolinmatrix?post=fZEpOLWVdrrM5poE2IAO",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lifast?post=jBwSHT7orEaYG1XtcgtU",
+        "title": "LiFast: How I scaled to 5 new clients in 60 days without cold outreach",
+        "url": "https://www.indiehackers.com/product/lifast?post=jBwSHT7orEaYG1XtcgtU",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
