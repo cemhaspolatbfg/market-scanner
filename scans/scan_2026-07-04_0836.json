@@ -1,0 +1,208 @@
+{
+  "scan_time": "2026-07-04T08:35:49.301622+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "glaze-by-raycast-2",
+        "name": "Glaze by Raycast",
+        "tagline": "Create your own Mac apps by chatting with AI",
+        "description": "Glaze is the easiest way to go from an idea to a Mac app. Describe what you want, and it builds a real app that lives in your dock, launches instantly, works offline, and taps into the full power of your computer. Software that's finally personal, shaped around you. From the makers of Raycast.",
+        "votes": 540,
+        "ph_url": "https://www.producthunt.com/posts/glaze-by-raycast-2",
+        "website": "https://www.producthunt.com/r/5O23FOO5ATZ5QC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48777144",
+        "name": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+        "url": "https://github.com/kerlenton/mcpsnoop",
+        "points": 56,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=48777144"
+      },
+      {
+        "id": "48774462",
+        "name": "Show HN: I built a website showing the likelihood of the AI bubble to pop",
+        "url": "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
+        "points": 11,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48774462"
+      },
+      {
+        "id": "48779933",
+        "name": "Show HN: ContextCodeCache in Rust",
+        "url": "https://github.com/colwill/ccc",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48779933"
+      },
+      {
+        "id": "48778607",
+        "name": "Show HN: Opbox – CRDT based sync for text files on disk",
+        "url": "https://www.opbox.dev/",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48778607"
+      },
+      {
+        "id": "48779750",
+        "name": "Show HN: How clanker are you? A reverse Turing test",
+        "url": "https://howclankerareyou.com/",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48779750"
+      },
+      {
+        "id": "48779182",
+        "name": "Show HN: Topics, Not Feeds",
+        "url": "https://blogsreader.com",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48779182"
+      },
+      {
+        "id": "48782406",
+        "name": "Show HN: Local privacy-first Microsoft Recall alternative with Gemma 4",
+        "url": "https://github.com/ayushh0110/ScreenMind/blob/main/README.md",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48782406"
+      },
+      {
+        "id": "48774802",
+        "name": "Show HN: An assertion library for E2E testing and real user monitoring",
+        "url": "https://github.com/Faultsense/faultsense-agent",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48774802"
+      },
+      {
+        "id": "48778955",
+        "name": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
+        "url": "https://github.com/anuragmerndev/kontext-ai",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48778955"
+      },
+      {
+        "id": "48780222",
+        "name": "Show HN: Updated my landing page with Fable (retro pixel style)",
+        "url": "https://www.tryguildly.com/",
+        "points": 7,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48780222"
+      },
+      {
+        "id": "48775484",
+        "name": "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+        "url": "https://taskpeace.com/",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48775484"
+      },
+      {
+        "id": "48781600",
+        "name": "Show HN: Fortress – open-source Chromium that keeps browser agents unblocked",
+        "url": "https://github.com/tiliondev/fortress",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48781600"
+      },
+      {
+        "id": "48777790",
+        "name": "Show HN: Pull Claude Code transcripts into your Codex session, and vice versa",
+        "url": "https://contextify.sh/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48777790"
+      },
+      {
+        "id": "48776924",
+        "name": "Show HN: Plasma Wiki – a CLI for maintaining agent-edited Markdown wikis",
+        "url": "https://github.com/plasma-ai/wiki",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48776924"
+      },
+      {
+        "id": "48777962",
+        "name": "Show HN: Dockside – I turned unused space around the macOS Dock into a workspace",
+        "url": "https://hachipoo.com/dockside-app",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48777962"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/domain-scan-tools",
+        "name": "Domain Scan Tools",
+        "description": "Track SPF, DKIM, DMARC, SSL, uptime, and domain security in one dashboard",
+        "url": "https://betalist.com/startups/domain-scan-tools"
+      },
+      {
+        "id": "/startups/iconscove",
+        "name": "IconsCove",
+        "description": "Create on-brand icons from prompts in 50+ styles",
+        "url": "https://betalist.com/startups/iconscove"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=s6CfWWQERAzJ2EYyxWfM",
+        "title": "IbexAI: The part about bootstrapping a startup no one warns you about",
+        "url": "https://www.indiehackers.com/product/ibexai?post=s6CfWWQERAzJ2EYyxWfM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/donely?post=AFRKYwun92UxMOvos7ID",
+        "title": "WhatsApp Support Agent. Built on Donely Hermes",
+        "url": "https://www.indiehackers.com/product/donely?post=AFRKYwun92UxMOvos7ID",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/donely?post=kCqAkFiDLOI2p5k2bWCf",
+        "title": "We built Donely’s security agent and it disclosed its first critical vulnerability itself",
+        "url": "https://www.indiehackers.com/product/donely?post=kCqAkFiDLOI2p5k2bWCf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/trackly?post=4pds1ZcEb3wDPxaqAUfp",
+        "title": "Trackly: Your data is yours. The full picture is for whoever's accountable for the team.",
+        "url": "https://www.indiehackers.com/product/trackly?post=4pds1ZcEb3wDPxaqAUfp",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-29k-mrr-by-building-an-audience-first-KxUy5Zjfn1hJTTGYrl47",
+        "title": "Hitting $29k MRR by building an audience first",
+        "url": "https://www.indiehackers.com/post/tech/hitting-29k-mrr-by-building-an-audience-first-KxUy5Zjfn1hJTTGYrl47",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
