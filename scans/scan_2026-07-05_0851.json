@@ -1,0 +1,198 @@
+{
+  "scan_time": "2026-07-05T08:51:24.838940+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "48788410",
+        "name": "Show HN: Waypoint.nvim – A Neovim plugin for bookmarking lines of code",
+        "url": "https://github.com/patrick-sharp/waypoint.nvim",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48788410"
+      },
+      {
+        "id": "48785638",
+        "name": "Show HN: Hacker-News Buddies",
+        "url": "",
+        "points": 6,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48785638"
+      },
+      {
+        "id": "48789180",
+        "name": "Show HN: Mise – A keyboard-driven Python/Qt6 browser built for fanless laptops",
+        "url": "https://github.com/Rakosn1cek/Mise",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48789180"
+      },
+      {
+        "id": "48789152",
+        "name": "Show HN: I built an encrypted BLE dongle for pasting stuff to air-gapped devices",
+        "url": "https://github.com/Brisk4t/ToothPaste",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48789152"
+      },
+      {
+        "id": "48789599",
+        "name": "Show HN: Isthistechdead.com got a full UI revamp",
+        "url": "https://isthistechdead.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48789599"
+      },
+      {
+        "id": "48789344",
+        "name": "Show HN: Markdown to PDF CLI Tool",
+        "url": "https://github.com/leonardosalasd/doc-engine-cli",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48789344"
+      },
+      {
+        "id": "48786298",
+        "name": "Show HN: Gemma 3 inference in pure C++ with Metal acceleration",
+        "url": "https://github.com/ybubnov/metalchat",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48786298"
+      },
+      {
+        "id": "48783886",
+        "name": "Show HN: Forge – A JavaScript runtime built on Mozilla SpiderMonkey",
+        "url": "https://github.com/varadTheDeveloper/forge-runtime",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48783886"
+      },
+      {
+        "id": "48788180",
+        "name": "Show HN: Typocalypse – An Arcade Typing Roguelike",
+        "url": "https://typocalypse.florianrudaj.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48788180"
+      },
+      {
+        "id": "48792118",
+        "name": "Show HN: I trained a language model that thinks the capital of Japan is Paris",
+        "url": "https://hamiltonianresearch.xyz/blog/hr-diffuse-1.html",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48792118"
+      },
+      {
+        "id": "48786769",
+        "name": "Show HN: Routing24 – free route optimization agent for Claude Cowork/WebMCP",
+        "url": "https://github.com/routing24/skill",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48786769"
+      },
+      {
+        "id": "48785388",
+        "name": "Show HN: Quick and dirty inter-agent collaboration",
+        "url": "https://github.com/ovidiuiliescu/simpleagentchat",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48785388"
+      },
+      {
+        "id": "48784952",
+        "name": "Show HN: Groot – Kubernetes incident evidence in one .tar.gz",
+        "url": "https://github.com/hrodrig/groot/releases/tag/v1.0.0",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48784952"
+      },
+      {
+        "id": "48790560",
+        "name": "Show HN: Inches to MM converter for manufacturing and hardware checks",
+        "url": "https://inches-to-mm.com",
+        "points": 3,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48790560"
+      },
+      {
+        "id": "48788407",
+        "name": "Show HN: Infra Commits – Conventional Commits but for infrastructure/operations",
+        "url": "https://codeberg.org/devopsguy/infra-commits",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48788407"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/loot-2",
+        "name": "Loot",
+        "description": "Collect the world around you",
+        "url": "https://betalist.com/startups/loot-2"
+      },
+      {
+        "id": "/startups/broke-fix-flip",
+        "name": "Broke Fix Flip",
+        "description": "Find broken items worth money, see repairs, and get alerts",
+        "url": "https://betalist.com/startups/broke-fix-flip"
+      },
+      {
+        "id": "/startups/careerlift",
+        "name": "CareerLift",
+        "description": "Prepare for interviews, build ATS-ready resumes, and apply smarter",
+        "url": "https://betalist.com/startups/careerlift"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=YfJzOALxHe1bNvMma2cp",
+        "title": "Clone The App: The easiest way to find your next app idea!",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=YfJzOALxHe1bNvMma2cp",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=WBV7A1AASMMcmo4NBmh4",
+        "title": "IbexAI: Do voice messages actually work for LinkedIn outreach?",
+        "url": "https://www.indiehackers.com/product/ibexai?post=WBV7A1AASMMcmo4NBmh4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/foundigy-2?post=eOGCq45HaxyorLnl5Vez",
+        "title": "Foundigy: What If Product Discovery Didn't End After Launch Day?",
+        "url": "https://www.indiehackers.com/product/foundigy-2?post=eOGCq45HaxyorLnl5Vez",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/rovaspace?post=JUDLzTHH3vggaNNKAEce",
+        "title": "Rovaspace: Remote work didn't kill collaboration. Invisible teammates did.",
+        "url": "https://www.indiehackers.com/product/rovaspace?post=JUDLzTHH3vggaNNKAEce",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/scamlens?post=zIRb79cLDNIKChxzbZ3E",
+        "title": "Just finished building Version 1 of ScamLens 🛡️",
+        "url": "https://www.indiehackers.com/product/scamlens?post=zIRb79cLDNIKChxzbZ3E",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
