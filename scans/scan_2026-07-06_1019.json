@@ -1,0 +1,234 @@
+{
+  "scan_time": "2026-07-06T10:19:44.390405+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "vida-5",
+        "name": "Vida",
+        "tagline": "Clone yourself. Let AI do the work before you ask",
+        "description": "Vida is an AI that learns how you work, remembers what matters, and becomes more like you over time. The more you use Vida, the more it understands your habits, your projects, and your way of getting things done. Eventually, it works like a second version of you—quietly handling repetitive work in the background before you even ask. Today, we’re launching our first 5 SOTA use cases: Reply Rescue · Prompt Rescue · Resume Rescue · Workspace Cleanup · Daily Wrap 95 more to conquer in public.",
+        "votes": 419,
+        "ph_url": "https://www.producthunt.com/posts/vida-5",
+        "website": "https://www.producthunt.com/r/NK4KBFW256NNE2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "claude-sonnet-5",
+        "name": "Claude Sonnet 5",
+        "tagline": "AI that plans, acts, and gets work done",
+        "description": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.",
+        "votes": 398,
+        "ph_url": "https://www.producthunt.com/posts/claude-sonnet-5",
+        "website": "https://www.producthunt.com/r/KYMQLGSVRHYC5P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48798153",
+        "name": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+        "url": "https://homegames.io",
+        "points": 183,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=48798153"
+      },
+      {
+        "id": "48793542",
+        "name": "Show HN: KiCad in the Browser",
+        "url": "https://demo.pcbjam.com/",
+        "points": 101,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=48793542"
+      },
+      {
+        "id": "48797656",
+        "name": "Show HN: Osint tool that finds exposed files on domains",
+        "url": "https://search.cerast-intelligence.com/",
+        "points": 40,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48797656"
+      },
+      {
+        "id": "48795930",
+        "name": "Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS",
+        "url": "https://cooked.house",
+        "points": 21,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48795930"
+      },
+      {
+        "id": "48797739",
+        "name": "Show HN: Sidenote – comment on your rendered blog, an LLM writes the Git diff",
+        "url": "https://github.com/bharadwaj-pendyala/sidenote",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48797739"
+      },
+      {
+        "id": "48799078",
+        "name": "Show HN: Peek-CLI: Let Claude Code See the Browser",
+        "url": "https://github.com/puffinsoft/peek-cli",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48799078"
+      },
+      {
+        "id": "48796461",
+        "name": "Show HN: Sun light and path calculation for photography",
+        "url": "https://www.lightwindow.app",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48796461"
+      },
+      {
+        "id": "48795956",
+        "name": "Show HN: Handoff – a verified context bridge between Claude Code sessions",
+        "url": "https://github.com/ostikwhy-blip/claude-code-handoff-skill",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48795956"
+      },
+      {
+        "id": "48794731",
+        "name": "Show HN: Small World – The \"Preact\" of 3D Web Engines (TypeScript, WebGPU)",
+        "url": "https://rottensteiner-stefan.github.io/small-world/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48794731"
+      },
+      {
+        "id": "48794234",
+        "name": "Show HN: Calm Engineering Dashboard",
+        "url": "https://gitbiased.com/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48794234"
+      },
+      {
+        "id": "48800859",
+        "name": "Show HN: Open Science, open-source alternative to Claude Science",
+        "url": "https://github.com/ai4s-research/open-science",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48800859"
+      },
+      {
+        "id": "48796800",
+        "name": "Show HN: Nomlings – a virtual pet that eats your Claude Code session's tokens",
+        "url": "https://www.nomlings.cc/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48796800"
+      },
+      {
+        "id": "48796191",
+        "name": "Show HN: Meon – declarative flat-parsing engine (SoA, no AST)",
+        "url": "https://github.com/vgnapuga/meon",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48796191"
+      },
+      {
+        "id": "48797671",
+        "name": "Show HN: A bedside camera detects REM sleep and agrees with a clinical EEG",
+        "url": "https://lucidcode.com/2026/06/20/inspec-with-cgx-patch-clinical-eeg-sleep-stage-classification/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48797671"
+      },
+      {
+        "id": "48793443",
+        "name": "Show HN: Ferroterm – Rust / WebAssembly Terminal Emulator and Library",
+        "url": "",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48793443"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/narro",
+        "name": "Narro",
+        "description": "See posts from creators you follow on X, Instagram, YouTube, and more",
+        "url": "https://betalist.com/startups/narro"
+      },
+      {
+        "id": "/startups/visionboardai",
+        "name": "VisionBoardAI",
+        "description": "Turn who you want to become into today’s plan",
+        "url": "https://betalist.com/startups/visionboardai"
+      },
+      {
+        "id": "/startups/stewai",
+        "name": "StewAI",
+        "description": "Build AI workflows without code and share them on a marketplace",
+        "url": "https://betalist.com/startups/stewai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/the-feature-youre-most-sure-about-is-the-one-you-should-question-first-706afbd105",
+        "title": "The feature you're most sure about is the one you should question first",
+        "url": "https://www.indiehackers.com/post/the-feature-youre-most-sure-about-is-the-one-you-should-question-first-706afbd105",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-saas-that-got-0-paying-customers-at-launch-distribution-was-the-real-problem-all-along-4b4ff41e74",
+        "title": "I built a SaaS that got 0 paying customers at launch. Distribution was the real problem all along.",
+        "url": "https://www.indiehackers.com/post/i-built-a-saas-that-got-0-paying-customers-at-launch-distribution-was-the-real-problem-all-along-4b4ff41e74",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=4oDJvWUfMEPeRyyGmwGC",
+        "title": "I’m building DiscountHub — a free app for finding real discounts and promo codes",
+        "url": "https://www.indiehackers.com/product/discounthub?post=4oDJvWUfMEPeRyyGmwGC",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/shipfit-ai?post=jZsDAMRNP4p1CQOZJnKh",
+        "title": "Shipfit.ai: I'm 50 and I launched my first solo SaaS a few months ago. The story so far.",
+        "url": "https://www.indiehackers.com/product/shipfit-ai?post=jZsDAMRNP4p1CQOZJnKh",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-let-3-llms-argue-on-the-famous-ai-car-wash-walk-or-drive-problem-to-prove-a-point-08a96dc47c",
+        "title": "I let 3 LLMs argue on the famous AI \"Car wash: Walk or Drive\" problem to prove a point.",
+        "url": "https://www.indiehackers.com/post/i-let-3-llms-argue-on-the-famous-ai-car-wash-walk-or-drive-problem-to-prove-a-point-08a96dc47c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-just-launched-my-first-ios-app-as-a-solo-developer-heres-what-i-learned-a91dc59ce9",
+        "title": "I just launched my first iOS app as a solo developer — Here's What I Learned.",
+        "url": "https://www.indiehackers.com/post/i-just-launched-my-first-ios-app-as-a-solo-developer-heres-what-i-learned-a91dc59ce9",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
