@@ -1,0 +1,235 @@
+{
+  "scan_time": "2026-07-07T09:39:46.211070+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "anysearch-3",
+        "name": "AnySearch",
+        "tagline": "Real-time structured search trusted by agents and developers",
+        "description": "A search tool for agents, not a search box. AI agents are only as good as the information they receive. When connected to AnySearch, your agent gets filtered, de-duplicated, and structured information from trusted sources searched in parallel, helping it produce more reliable results. Free to start.",
+        "votes": 534,
+        "ph_url": "https://www.producthunt.com/posts/anysearch-3",
+        "website": "https://www.producthunt.com/r/XAHTE3V55ECFBX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Search"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "typeahead-2-0",
+        "name": "Typeahead 2.0",
+        "tagline": "Private AI autocomplete for every app on your Mac",
+        "description": "Typeahead 2.0 is private AI autocomplete for every app on your Mac, with writing styles per app, support for any language, and smarter context that adapts to how you work. It now feels more customizable and more useful every day, while staying lighter on memory and faster in the background. You also get private Insights to see your time saved. One-time $79 purchase, free updates, no subscription.",
+        "votes": 437,
+        "ph_url": "https://www.producthunt.com/posts/typeahead-2-0",
+        "website": "https://www.producthunt.com/r/Z5R26SULXDA4LD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Writing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48806575",
+        "name": "Show HN: Pulpie – Models for Cleaning the Web",
+        "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+        "points": 89,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=48806575"
+      },
+      {
+        "id": "48804182",
+        "name": "Show HN: Scan your AI agents for dangerous capabilities",
+        "url": "https://github.com/makerchecker/MakerChecker",
+        "points": 41,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=48804182"
+      },
+      {
+        "id": "48805437",
+        "name": "Show HN: I Built LangGraph for Swift",
+        "url": "https://github.com/christopherkarani/Swarm",
+        "points": 24,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48805437"
+      },
+      {
+        "id": "48812045",
+        "name": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
+        "url": "https://instantvideos.org/",
+        "points": 22,
+        "comments": 29,
+        "hn_url": "https://news.ycombinator.com/item?id=48812045"
+      },
+      {
+        "id": "48811892",
+        "name": "Show HN: LLM Thought Visualization",
+        "url": "https://github.com/ninjahawk/Subtext",
+        "points": 19,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48811892"
+      },
+      {
+        "id": "48802818",
+        "name": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
+        "url": "https://earth.tattoo",
+        "points": 18,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48802818"
+      },
+      {
+        "id": "48811382",
+        "name": "Show HN: L9gpu – GPU telemetry that ties each GPU to the K8s pod or Slurm job",
+        "url": "https://github.com/last9/gpu-telemetry",
+        "points": 18,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48811382"
+      },
+      {
+        "id": "48810528",
+        "name": "Show HN: Otari: your open-source LLM control plane",
+        "url": "https://github.com/mozilla-ai/otari",
+        "points": 16,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48810528"
+      },
+      {
+        "id": "48804000",
+        "name": "Show HN: Pet Reminder – A macOS reminder app with a desktop pet",
+        "url": "https://reminder.w3cub.com/",
+        "points": 14,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48804000"
+      },
+      {
+        "id": "48807479",
+        "name": "Show HN:I Made a Mac Native Excalidraw (Open Sourced)",
+        "url": "https://github.com/zpphxd/whitespace",
+        "points": 9,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48807479"
+      },
+      {
+        "id": "48809267",
+        "name": "Show HN: orzma – a terminal emulator that renders webviews inside the terminal",
+        "url": "https://github.com/not-elm/orzma",
+        "points": 8,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48809267"
+      },
+      {
+        "id": "48805857",
+        "name": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
+        "url": "https://buildnectar.com",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48805857"
+      },
+      {
+        "id": "48808111",
+        "name": "Show HN: Focal Harvest – CLI research pipeline to search, scrape and notify",
+        "url": "https://github.com/techno-neighbour/focal-harvest",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48808111"
+      },
+      {
+        "id": "48808811",
+        "name": "Show HN: An interactive, interlinked city exploration project (St. Louis)",
+        "url": "https://stlouing.com/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48808811"
+      },
+      {
+        "id": "48804775",
+        "name": "Show HN: Captchainbox – make senders work to get into your inbox",
+        "url": "https://www.captchainbox.com",
+        "points": 6,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48804775"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/instabooks",
+        "name": "Instabooks",
+        "description": "Work faster in QuickBooks Online with a fast batch editor",
+        "url": "https://betalist.com/startups/instabooks"
+      },
+      {
+        "id": "/startups/lotto-predictions",
+        "name": "Lotto Predictions",
+        "description": "Analyze lottery trends with data-driven predictions and simulations",
+        "url": "https://betalist.com/startups/lotto-predictions"
+      },
+      {
+        "id": "/startups/cahoot",
+        "name": "Cahoot",
+        "description": "Cut ecommerce fulfillment, shipping, and returns costs",
+        "url": "https://betalist.com/startups/cahoot"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/polo-shirts-are-tricky-too-baggy-and-you-look-like-youre-going-to-a-golf-tournament-too-tight-and-it-s-awkward-052cadea0c",
+        "title": "Polo shirts are tricky—too baggy and you look like you're going to a golf tournament, too tight and it's awkward",
+        "url": "https://www.indiehackers.com/post/polo-shirts-are-tricky-too-baggy-and-you-look-like-youre-going-to-a-golf-tournament-too-tight-and-it-s-awkward-052cadea0c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=0xHK6sH7g5bt09tt1Osz",
+        "title": "Clone The App: The 6-step pushscroll app playbook: from an idea to $1M",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=0xHK6sH7g5bt09tt1Osz",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=3Pwe5YB6TXef8zWs8oLJ",
+        "title": "IbexAI: Skip the unicorn dream. $10K MRR solo beats $2M seed plus the stress",
+        "url": "https://www.indiehackers.com/product/ibexai?post=3Pwe5YB6TXef8zWs8oLJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-a-windows-utility-for-a-problem-that-kept-stealing-10-minutes-at-a-time-69185fed08",
+        "title": "I launched a Windows utility for a problem that kept stealing 10 minutes at a time",
+        "url": "https://www.indiehackers.com/post/i-launched-a-windows-utility-for-a-problem-that-kept-stealing-10-minutes-at-a-time-69185fed08",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-partycall-after-watching-my-family-spend-3-days-calling-200-relatives-for-a-function-heres-what-i-learned-about-a-problem-hiding-c92ec39fd7",
+        "title": "I built PartyCall after watching my family spend 3 days calling 200 relatives for a function — here's what I learned about a problem hiding",
+        "url": "https://www.indiehackers.com/post/i-built-partycall-after-watching-my-family-spend-3-days-calling-200-relatives-for-a-function-heres-what-i-learned-about-a-problem-hiding-c92ec39fd7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-125k-mrr-as-a-solo-founder-by-doubling-down-on-the-right-segment-c4o2Tfs6mjdpip5yZhaO",
+        "title": "Hitting $125k MRR as a solo founder by doubling down on the right segment",
+        "url": "https://www.indiehackers.com/post/tech/hitting-125k-mrr-as-a-solo-founder-by-doubling-down-on-the-right-segment-c4o2Tfs6mjdpip5yZhaO",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
