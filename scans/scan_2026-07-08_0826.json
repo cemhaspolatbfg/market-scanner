@@ -1,0 +1,265 @@
+{
+  "scan_time": "2026-07-08T08:26:30.723243+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "badge-3",
+        "name": "Badge",
+        "tagline": "AI agents collect peer reviews to generate proof of work",
+        "description": "Badge gives an AI agent that collects peer reviews to build proof of work. For job seekers - The agent connects to your contacts, requests anonymous reviews from your past colleagues, and builds a verified, portable trust score. score. For hiring managers - Badge gives you a 30 second reference checks on candidates, collecting authentic feedback from their actual coworkers to replace unreliable, AI-generated resumes and LinkedIn Recommendations.",
+        "votes": 448,
+        "ph_url": "https://www.producthunt.com/posts/badge-3",
+        "website": "https://www.producthunt.com/r/SJNBNECUTZE3BI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Hiring",
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "workbuddy-3",
+        "name": "WorkBuddy",
+        "tagline": "Produce sharpened results faster with a team of AI experts",
+        "description": "Tencent WorkBuddy is an AI agent built for everyday office work. Make a request. Guide your AI expert team. Bring in a second opinion. Get sharpened, ready-to-use results.",
+        "votes": 411,
+        "ph_url": "https://www.producthunt.com/posts/workbuddy-3",
+        "website": "https://www.producthunt.com/r/UHHXBJG665CHTW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "octolens-4",
+        "name": "Octolens",
+        "tagline": "Social listening for the agent era",
+        "description": "Your AI agents read your code, docs, and CRM but can't see Reddit, Hacker News, podcasts, or the news. Octolens is one API for every mention across the internet. AI-filtered JSON via API, webhooks & MCP. Pipe it into Slack, your CRM, your warehouse, or your agents.",
+        "votes": 407,
+        "ph_url": "https://www.producthunt.com/posts/octolens-4",
+        "website": "https://www.producthunt.com/r/26DNQXDCV6O3BU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "katalyst",
+        "name": "Katalyst ",
+        "tagline": "The AI agent that works your Salesforce Pipeline",
+        "description": "Katalyst is the AI sales agent for teams on Salesforce. Hang up a call and it's already done: notes summarized, records created, fields updated, follow-up drafted, next step set. It runs 24/7, reading every call, email, and calendar, surfacing the right signals, prepping you for each meeting, and prompting you to act: follow up here, this one’s slipping. What's new: AI Resolution on every account, meeting recorder, hygiene scores, deal patterns. Built for enterprise sales teams.",
+        "votes": 406,
+        "ph_url": "https://www.producthunt.com/posts/katalyst",
+        "website": "https://www.producthunt.com/r/I2QDECZXLT36XU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Artificial Intelligence",
+          "CRM"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48821848",
+        "name": "Show HN: Davit, a Apple Containers UI",
+        "url": "https://davit.app",
+        "points": 297,
+        "comments": 66,
+        "hn_url": "https://news.ycombinator.com/item?id=48821848"
+      },
+      {
+        "id": "48819808",
+        "name": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "points": 155,
+        "comments": 41,
+        "hn_url": "https://news.ycombinator.com/item?id=48819808"
+      },
+      {
+        "id": "48816900",
+        "name": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+        "url": "https://postgres.saneengineer.com",
+        "points": 85,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=48816900"
+      },
+      {
+        "id": "48821500",
+        "name": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+        "url": "https://github.com/kklimuk/docx-cli",
+        "points": 62,
+        "comments": 26,
+        "hn_url": "https://news.ycombinator.com/item?id=48821500"
+      },
+      {
+        "id": "48826094",
+        "name": "Show HN: Chiptune Radio",
+        "url": "https://chiptune-radio.alephvoid.com/",
+        "points": 47,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48826094"
+      },
+      {
+        "id": "48825745",
+        "name": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+        "url": "https://github.com/tiliondev/fortress",
+        "points": 39,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=48825745"
+      },
+      {
+        "id": "48825430",
+        "name": "Show HN: Free Mermaid Diagram Editor",
+        "url": "https://moxiedocs.com/mermaid-diagram-editor",
+        "points": 33,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48825430"
+      },
+      {
+        "id": "48818098",
+        "name": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+        "url": "https://github.com/bkuan001/halo-record",
+        "points": 32,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=48818098"
+      },
+      {
+        "id": "48818124",
+        "name": "Show HN: Shellular – run Claude Code, Codex, Pi from your phone",
+        "url": "https://shellular.dev/",
+        "points": 31,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=48818124"
+      },
+      {
+        "id": "48820295",
+        "name": "Show HN: Baerly-storage, a document DB that runs per request, no DB server",
+        "url": "https://github.com/Gusto/baerly-storage",
+        "points": 15,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48820295"
+      },
+      {
+        "id": "48826330",
+        "name": "Show HN: Ghostmeet – Self-hosted meeting transcription and summaries",
+        "url": "https://ghostmeet.sshlab.dev/",
+        "points": 13,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48826330"
+      },
+      {
+        "id": "48818661",
+        "name": "Show HN: MIRA – Multiplayer World Model Trained on Rocket League",
+        "url": "https://mira-wm.com/",
+        "points": 12,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48818661"
+      },
+      {
+        "id": "48819050",
+        "name": "Show HN: Context Warp Drive – Deterministic context folding for AI agents",
+        "url": "https://github.com/dogtorjonah/context-warp-drive",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48819050"
+      },
+      {
+        "id": "48825811",
+        "name": "Show HN: your website as a TUI, over SSH right now",
+        "url": "",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48825811"
+      },
+      {
+        "id": "48816921",
+        "name": "Show HN: Turn commodity WiFi signals into real-time spatial intelligence",
+        "url": "https://github.com/ruvnet/RuView",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48816921"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/maintouch",
+        "name": "Maintouch",
+        "description": "Drive more leads with AI agents for SEO, AEO, content, and links",
+        "url": "https://betalist.com/startups/maintouch"
+      },
+      {
+        "id": "/startups/legion-ai",
+        "name": "Legion AI",
+        "description": "AI that calls, texts, and emails leads to book appointments for SMBs",
+        "url": "https://betalist.com/startups/legion-ai"
+      },
+      {
+        "id": "/startups/coveredge",
+        "name": "CoverEdge",
+        "description": "AI-powered options income portfolio management software",
+        "url": "https://betalist.com/startups/coveredge"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/saasoffers?post=tcBYcek6Jr9wnBRxynRT",
+        "title": "SaasOffers: How we partnered with Deel to help founders save upto $1,500 on global hiring",
+        "url": "https://www.indiehackers.com/product/saasoffers?post=tcBYcek6Jr9wnBRxynRT",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/5-days-post-launch-top-50-on-product-hunt-zero-signups-and-why-i-think-thats-actually-fine-77b1fc59e4",
+        "title": "5 days post-launch: Top 50 on Product Hunt, zero signups, and why I think that's actually fine",
+        "url": "https://www.indiehackers.com/post/5-days-post-launch-top-50-on-product-hunt-zero-signups-and-why-i-think-thats-actually-fine-77b1fc59e4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/backspin?post=ZBgpIpwhx1woSC6pFge7",
+        "title": "Backspin: We turned AI wait time into a tradeable market. Developers earn, advertisers reach.",
+        "url": "https://www.indiehackers.com/product/backspin?post=ZBgpIpwhx1woSC6pFge7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=BhGAF5wjkYi9jX2IacKM",
+        "title": "DiscountHub Web is now a full product, not just an app landing page",
+        "url": "https://www.indiehackers.com/product/discounthub?post=BhGAF5wjkYi9jX2IacKM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=hnSZhG2gLJD8bI5sLm6o",
+        "title": "IbexAI: Here's what I do to show up in AI searches",
+        "url": "https://www.indiehackers.com/product/ibexai?post=hnSZhG2gLJD8bI5sLm6o",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/stop-losing-hours-to-manual-processes-trackly-gives-your-operations-team-the-visibility-they-need-in-real-time-cf0c47eef4",
+        "title": "Stop losing hours to manual processes. Trackly gives your operations team the visibility they need in real time.",
+        "url": "https://www.indiehackers.com/post/stop-losing-hours-to-manual-processes-trackly-gives-your-operations-team-the-visibility-they-need-in-real-time-cf0c47eef4",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
