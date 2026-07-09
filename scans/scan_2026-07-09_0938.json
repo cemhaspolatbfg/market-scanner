@@ -1,0 +1,242 @@
+{
+  "scan_time": "2026-07-09T09:37:53.103910+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "scribble-network",
+        "name": "Scribble Network",
+        "tagline": "The product that makes AI recommend your brand",
+        "description": "Your customers ask AI before they ask Google, and most brands have no idea whether they show up or lose to a competitor. Every other tool hands you a visibility score and stops there. Scribble does the whole loop: audit where you're invisible across every AI engine, create content that closes the gap, and amplify it through 50,000 creators who only get paid when AI cites them. A gap report won't win customers. Being the cited answer will.",
+        "votes": 426,
+        "ph_url": "https://www.producthunt.com/posts/scribble-network",
+        "website": "https://www.producthunt.com/r/UC5EA4CAN72QZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Analytics",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "exploreyc-2",
+        "name": "ExploreYC",
+        "tagline": "Open-source API for Y Combinator & a16z company data",
+        "description": "One open-source API for startup data across Y Combinator AND a16z - 6,600+ companies with funding, stage, IPO/M&A exits, and founders. Filter by VC (yc/a16z/all), batch, industry, country, or search. Grab a free API key, read the docs (curl/Node/Python + Swagger), and build in 30 seconds. Plus the full web app: map, analytics, funding data, a live hiring board, and AI tools.",
+        "votes": 412,
+        "ph_url": "https://www.producthunt.com/posts/exploreyc-2",
+        "website": "https://www.producthunt.com/r/TXISOCQQFTUHJC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Open Source",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48834924",
+        "name": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+        "url": "https://microsoft.github.io/flint-chart/#/",
+        "points": 280,
+        "comments": 108,
+        "hn_url": "https://news.ycombinator.com/item?id=48834924"
+      },
+      {
+        "id": "48833991",
+        "name": "Show HN: Freeport – a P2P ride-hailing marketplace I built on Nostr",
+        "url": "https://ptrinh.github.io/freeport/",
+        "points": 34,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48833991"
+      },
+      {
+        "id": "48833183",
+        "name": "Show HN: Kastor – Terraform-style specs for AI agents",
+        "url": "https://github.com/weirdGuy/kastor",
+        "points": 32,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48833183"
+      },
+      {
+        "id": "48836813",
+        "name": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+        "url": "https://github.com/animesh-94/Onboard-CLI",
+        "points": 22,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48836813"
+      },
+      {
+        "id": "48836713",
+        "name": "Show HN: Hnwork.app – UI for Who is hiring posts",
+        "url": "https://hnwork.app/",
+        "points": 22,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48836713"
+      },
+      {
+        "id": "48835012",
+        "name": "Show HN: Requirements Engineering with Formal Verification",
+        "url": "https://fizzbee.ai/",
+        "points": 21,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48835012"
+      },
+      {
+        "id": "48835063",
+        "name": "Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",
+        "url": "https://github.com/Northwood-Systems/foreman",
+        "points": 15,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48835063"
+      },
+      {
+        "id": "48831459",
+        "name": "Show HN: Pug.sh – open-source product analytics",
+        "url": "https://pug.sh/",
+        "points": 13,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48831459"
+      },
+      {
+        "id": "48832797",
+        "name": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+        "url": "https://abralo.com/",
+        "points": 13,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48832797"
+      },
+      {
+        "id": "48839719",
+        "name": "Show HN: OpenScreenShot: open-source full-page screenshot and annotation tool",
+        "url": "https://openscreenshot.app",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48839719"
+      },
+      {
+        "id": "48835018",
+        "name": "Show HN: Monogram, AI app with on the fly generation",
+        "url": "https://www.monogram.ai/",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48835018"
+      },
+      {
+        "id": "48835456",
+        "name": "Show HN: Moo, Git versions code, moo versions machines",
+        "url": "https://github.com/heyito/moo",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48835456"
+      },
+      {
+        "id": "48837153",
+        "name": "Show HN: Handsum: An LQIP Image File Format",
+        "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48837153"
+      },
+      {
+        "id": "48832259",
+        "name": "Show HN: Vicinae – open-source, Raycast-compatible command palette, now on macOS",
+        "url": "https://github.com/vicinaehq/vicinae/releases/tag/v0.23.0",
+        "points": 6,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48832259"
+      },
+      {
+        "id": "48838368",
+        "name": "Show HN: I ran 70 MCP servers in a sandbox and logged what they do",
+        "url": "https://github.com/BhaveshThapar/mcp-audit",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48838368"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/redship",
+        "name": "RedShip",
+        "description": "Turn Reddit users into customers",
+        "url": "https://betalist.com/startups/redship"
+      },
+      {
+        "id": "/startups/mocko",
+        "name": "Mocko",
+        "description": "Realistic CELPIP, TEF, and TCF mock exams with AI feedback",
+        "url": "https://betalist.com/startups/mocko"
+      },
+      {
+        "id": "/startups/freemusiccreator-ai",
+        "name": "FreeMusicCreator.ai",
+        "description": "Create royalty-free music from text, lyrics, or ideas in seconds",
+        "url": "https://betalist.com/startups/freemusiccreator-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/livegig?post=0T2qRZWjnbbItoNR19kl",
+        "title": "LiveGig: Latest Features (and Their Rationales)",
+        "url": "https://www.indiehackers.com/product/livegig?post=0T2qRZWjnbbItoNR19kl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aproov?post=1Fa0meI4CVP2POqay6al",
+        "title": "Aproov: How Notion grew without ads and how you can copy it",
+        "url": "https://www.indiehackers.com/product/aproov?post=1Fa0meI4CVP2POqay6al",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=RYmogGgIR0fKfLDBl7a0",
+        "title": "Clone The App: How a simple alarm clock app makes $50K/month",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=RYmogGgIR0fKfLDBl7a0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/business-email-got-simpler-once-i-separated-receiving-from-sending-ea941acb69",
+        "title": "Business email got simpler once I separated receiving from sending",
+        "url": "https://www.indiehackers.com/post/business-email-got-simpler-once-i-separated-receiving-from-sending-ea941acb69",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/helmdash?post=paHHkhcJg9PkmBcBWZqv",
+        "title": "Helmdash: Hey IH!",
+        "url": "https://www.indiehackers.com/product/helmdash?post=paHHkhcJg9PkmBcBWZqv",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-deadlinesentry-in-a-weekend-for-12-a-free-tool-that-tells-you-tour-llcs-filing-deadline-and-what-missing-it-costs-9f9de38992",
+        "title": "I built DeadlineSentry in a weekend for $12 - a free tool that tells you tour LLC's filing deadline and what missing it costs",
+        "url": "https://www.indiehackers.com/post/i-built-deadlinesentry-in-a-weekend-for-12-a-free-tool-that-tells-you-tour-llcs-filing-deadline-and-what-missing-it-costs-9f9de38992",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-15k-mo-six-months-after-getting-sued-and-acquired-MMWkpCaClOB6wVgbuPI7",
+        "title": "Hitting $15k/mo six months after getting sued and acquired",
+        "url": "https://www.indiehackers.com/post/tech/hitting-15k-mo-six-months-after-getting-sued-and-acquired-MMWkpCaClOB6wVgbuPI7",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
