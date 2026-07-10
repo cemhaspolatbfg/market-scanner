@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-07-10T09:33:36.843835+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "auriko-2",
+        "name": "Auriko ",
+        "tagline": "Trading desk for LLM calls",
+        "description": "Auriko treats LLM providers as trading venues and arbitrages the spread. Built by ex-quant traders, Auriko’s cost-arbitrage engine calibrates to each user’s request patterns and selects optimized inference paths based on token price, cache behavior, latency, reliability, and request quality. Auriko benchmarks show average 30% cost reduction against industry peers and direct providers. See the source: https://www.auriko.ai/reports/llm-cost-arbitrage",
+        "votes": 549,
+        "ph_url": "https://www.producthunt.com/posts/auriko-2",
+        "website": "https://www.producthunt.com/r/SYYO32SE2PLD3X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "timbal-ai",
+        "name": "Timbal AI",
+        "tagline": "Build AI agents, workflows, and apps in one stack",
+        "description": "Timbal helps teams turn AI prototypes into production systems. Build agents and workflows, connect them to your data, design interfaces, deploy, monitor, evaluate, and govern everything from one platform. Instead of assembling separate tools for retrieval, orchestration, UI, observability, and evals, Timbal gives you one core for shipping reliable AI applications.",
+        "votes": 491,
+        "ph_url": "https://www.producthunt.com/posts/timbal-ai",
+        "website": "https://www.producthunt.com/r/7YZFBLZ46SL5CJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48845049",
+        "name": "Show HN: 18 Words",
+        "url": "https://18words.com/",
+        "points": 987,
+        "comments": 317,
+        "hn_url": "https://news.ycombinator.com/item?id=48845049"
+      },
+      {
+        "id": "48846510",
+        "name": "Show HN: Analog Watch",
+        "url": "https://analog.watch",
+        "points": 92,
+        "comments": 88,
+        "hn_url": "https://news.ycombinator.com/item?id=48846510"
+      },
+      {
+        "id": "48845422",
+        "name": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+        "url": "https://github.com/ronak-create/FableCut",
+        "points": 91,
+        "comments": 58,
+        "hn_url": "https://news.ycombinator.com/item?id=48845422"
+      },
+      {
+        "id": "48847298",
+        "name": "Show HN: LastShelf – an emergency map of your family's documents bills& contacts",
+        "url": "https://www.lastshelf.ai/",
+        "points": 46,
+        "comments": 29,
+        "hn_url": "https://news.ycombinator.com/item?id=48847298"
+      },
+      {
+        "id": "48847834",
+        "name": "Show HN: Reverse-engineering web apps into agent tools",
+        "url": "",
+        "points": 33,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=48847834"
+      },
+      {
+        "id": "48848819",
+        "name": "Show HN: Devthropology – Better Insights for GitHub Repos",
+        "url": "https://devthropology.com/demo",
+        "points": 32,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48848819"
+      },
+      {
+        "id": "48849618",
+        "name": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+        "url": "https://lucid.earthpilot.ai",
+        "points": 29,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48849618"
+      },
+      {
+        "id": "48845142",
+        "name": "Show HN: Arcaide – Explore code with multi-level call graphs",
+        "url": "https://arcaide.foo",
+        "points": 25,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=48845142"
+      },
+      {
+        "id": "48844956",
+        "name": "Show HN: 92% of US city websites fail ADA accessibility",
+        "url": "https://accesslumens.com/research/state-of-us-local-government-accessibility-2026",
+        "points": 21,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48844956"
+      },
+      {
+        "id": "48852144",
+        "name": "Show HN: RandoFont – A browser for Google Fonts",
+        "url": "https://randofont.alesh.com",
+        "points": 20,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48852144"
+      },
+      {
+        "id": "48852403",
+        "name": "Show HN: Rubiks Cube Solver",
+        "url": "https://speedcube.com.br/",
+        "points": 19,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48852403"
+      },
+      {
+        "id": "48847577",
+        "name": "Show HN: Sighthound - open-source vulnerability scanner for source code",
+        "url": "https://github.com/Corgea/Sighthound",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48847577"
+      },
+      {
+        "id": "48845367",
+        "name": "Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger",
+        "url": "https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48845367"
+      },
+      {
+        "id": "48854224",
+        "name": "Show HN: I built a free app for New Yorkers to save money on groceries",
+        "url": "https://sbnyc.app/",
+        "points": 12,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48854224"
+      },
+      {
+        "id": "48847075",
+        "name": "Show HN: FormGrid – Forms that can look like CLIs, pixel art, GeoCities and more",
+        "url": "https://www.formgrid.com/",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48847075"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/qrhubly",
+        "name": "QRhubly",
+        "description": "Create beautiful QR codes you can edit and track",
+        "url": "https://betalist.com/startups/qrhubly"
+      },
+      {
+        "id": "/startups/bytesalt",
+        "name": "Bytesalt",
+        "description": "AI QA tester that simulates real user behavior for web apps and APIs",
+        "url": "https://betalist.com/startups/bytesalt"
+      },
+      {
+        "id": "/startups/lapsewise",
+        "name": "Lapsewise",
+        "description": "Track every contract, license, and certificate before it lapses",
+        "url": "https://betalist.com/startups/lapsewise"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=nfHbEELmLeWmeKjhVoqz",
+        "title": "We just launched DiscountHub on Product Hunt — after rebuilding it into a real web product",
+        "url": "https://www.indiehackers.com/product/discounthub?post=nfHbEELmLeWmeKjhVoqz",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-macos-app-to-make-mobile-e2e-testing-less-awful-26270ac4da",
+        "title": "I built a macOS app to make mobile E2E testing less awful",
+        "url": "https://www.indiehackers.com/post/i-built-a-macos-app-to-make-mobile-e2e-testing-less-awful-26270ac4da",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-fitness-coach-then-realized-ai-was-only-solving-half-my-funnel-d04bd99abe",
+        "title": "I built an AI fitness coach, then realized AI was only solving half my funnel",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-fitness-coach-then-realized-ai-was-only-solving-half-my-funnel-d04bd99abe",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-security-checkpoint-for-ai-agents-after-one-of-my-agents-exposed-credentials-e4e0af88b2",
+        "title": "I built a security checkpoint for AI agents after one of my agents exposed credentials",
+        "url": "https://www.indiehackers.com/post/i-built-a-security-checkpoint-for-ai-agents-after-one-of-my-agents-exposed-credentials-e4e0af88b2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-a-month-building-my-first-consumer-app-now-im-realizing-i-was-solving-the-wrong-problem-bd923009d7",
+        "title": "I spent a month building my first consumer app. Now I'm realizing I was solving the wrong problem.",
+        "url": "https://www.indiehackers.com/post/i-spent-a-month-building-my-first-consumer-app-now-im-realizing-i-was-solving-the-wrong-problem-bd923009d7",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
