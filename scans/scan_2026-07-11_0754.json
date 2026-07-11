@@ -1,0 +1,250 @@
+{
+  "scan_time": "2026-07-11T07:54:27.710114+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "chatcut-2",
+        "name": "ChatCut",
+        "tagline": "Your AI video editor in ChatGPT, desktop, and web",
+        "description": "ChatCut is a lightweight, professional-grade AI video editor anyone can use, even without editing experience. It’s like having a personal video editing assistant that understands your footage, intent, and timeline. Make structural edits, fine-tune cuts, add captions, B-roll, music, voiceover, motion graphics, stock footage, and AI-generated video in one place. Every edit stays editable on a real timeline, with XML export when you want to keep working elsewhere.",
+        "votes": 661,
+        "ph_url": "https://www.producthunt.com/posts/chatcut-2",
+        "website": "https://www.producthunt.com/r/FMMICV7TH5Z6XW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Artificial Intelligence",
+          "Photo & Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "sim-3",
+        "name": "Sim",
+        "tagline": "Open-source workspace for AI agents and workflows",
+        "description": "Sim is an open-source workspace to build agentic workflows. Connect your AI agents and workflows to 1,000+ integrations and LLMs.",
+        "votes": 610,
+        "ph_url": "https://www.producthunt.com/posts/sim-3",
+        "website": "https://www.producthunt.com/r/4RBEK6IAGTJL4P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "plugthis-3",
+        "name": "PlugThis",
+        "tagline": "Create your own Chrome Extensions by chatting with AI",
+        "description": "You wanted a Chrome extension that would save you 15 minutes a day. You searched the Chrome Web Store, and it's not there. Now you can just describe it in plain English, and PlugThis builds it for you. The code is yours. Want changes? Chat. Need login or a database? Connect Supabase. Ready to publish? We generate the icons, screenshots, and listing copy the store asks for. Everyone else builds web apps. We build Chrome extensions.",
+        "votes": 520,
+        "ph_url": "https://www.producthunt.com/posts/plugthis-3",
+        "website": "https://www.producthunt.com/r/KCCS273QTMHFNM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Chrome Extensions",
+          "Artificial Intelligence",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48859387",
+        "name": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
+        "url": "https://github.com/robertsdotpm/runloom",
+        "points": 44,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=48859387"
+      },
+      {
+        "id": "48861217",
+        "name": "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
+        "url": "https://sxp.studio/apps/subz",
+        "points": 19,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48861217"
+      },
+      {
+        "id": "48867124",
+        "name": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
+        "url": "https://tilion.dev/blog/cloudflare-blocks-agents",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48867124"
+      },
+      {
+        "id": "48857637",
+        "name": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
+        "url": "https://wpconverters.com/playground/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48857637"
+      },
+      {
+        "id": "48858287",
+        "name": "Show HN: The Flint Programming Language",
+        "url": "https://github.com/flint-lang/flintc",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48858287"
+      },
+      {
+        "id": "48861554",
+        "name": "Show HN: WaitToUnlock – Set a ScreenTime passcode you cannot remember",
+        "url": "https://waittounlock.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48861554"
+      },
+      {
+        "id": "48861549",
+        "name": "Show HN: Real-time n-body tree code in CUDA",
+        "url": "https://github.com/lechebs/nbody",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48861549"
+      },
+      {
+        "id": "48861020",
+        "name": "Show HN: ChessFlex – iPhone chess with no server, no accounts (P2P via QR)",
+        "url": "https://apps.apple.com/us/app/chessflex/id6761064938",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48861020"
+      },
+      {
+        "id": "48858782",
+        "name": "Show HN: Airline pilot's interactive guide to aviation radio",
+        "url": "https://jameshard.ing/posts/aviation-radio/",
+        "points": 3,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48858782"
+      },
+      {
+        "id": "48858972",
+        "name": "Show HN: Mojave Paint for macOS, edit images like it's 1999",
+        "url": "https://mojavepaint.app/",
+        "points": 3,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48858972"
+      },
+      {
+        "id": "48859731",
+        "name": "Show HN: Hacker News book recs as study guides",
+        "url": "https://biteread.ai/collection/hacker-news-top-nonfiction",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48859731"
+      },
+      {
+        "id": "48863292",
+        "name": "Show HN: A 100% branchless, CUDA-native AI guardrail kernel written in C++20",
+        "url": "https://github.com/PJHkorea/value-system-kernel",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48863292"
+      },
+      {
+        "id": "48860904",
+        "name": "Show HN: iOS widgets that read your solar inverter over local Modbus TCP",
+        "url": "https://danielszlaski.com/glance-for-solis.html",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48860904"
+      },
+      {
+        "id": "48868354",
+        "name": "Show HN: Inferock-bench – per-call billing receipts for OpenAI and Anthropic",
+        "url": "https://github.com/inferock/inferock-bench",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48868354"
+      },
+      {
+        "id": "48867980",
+        "name": "Show HN: Velocity – a keyless 3D globe that fuses 15 live Intel feeds",
+        "url": "https://github.com/AndrewCTF/osint-geospatial-console",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48867980"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/zoe",
+        "name": "Zoe",
+        "description": "Turns market noise into one clear investment signal",
+        "url": "https://betalist.com/startups/zoe"
+      },
+      {
+        "id": "/startups/ideacrystal",
+        "name": "IdeaCrystal",
+        "description": "Validate your idea with live data from 50+ sources in under an hour",
+        "url": "https://betalist.com/startups/ideacrystal"
+      },
+      {
+        "id": "/startups/minimi",
+        "name": "minimi",
+        "description": "Your ambient memory layer for Claude on Mac",
+        "url": "https://betalist.com/startups/minimi"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/641-downloads-2-sales-and-i-still-dont-know-why-62522795b2",
+        "title": "641 downloads, 2 sales, and I still don't know why",
+        "url": "https://www.indiehackers.com/post/641-downloads-2-sales-and-i-still-dont-know-why-62522795b2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-sent-my-team-our-icp-one-reply-made-me-rewrite-half-of-it-b69de06f42",
+        "title": "I sent my team our ICP. One reply made me rewrite half of it.",
+        "url": "https://www.indiehackers.com/post/i-sent-my-team-our-icp-one-reply-made-me-rewrite-half-of-it-b69de06f42",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/techloghub?post=LZryKUFNHG5FYnjPADe8",
+        "title": "Building TechLogHub: A Better Way to Discover Developer Tools",
+        "url": "https://www.indiehackers.com/product/techloghub?post=LZryKUFNHG5FYnjPADe8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/clipgg-2?post=l02QuqBrJJyDjPXLBtpM",
+        "title": "ClipGG: Finally sharing the toolbox I originally built for myself",
+        "url": "https://www.indiehackers.com/product/clipgg-2?post=l02QuqBrJJyDjPXLBtpM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ran-the-numbers-before-deciding-how-much-to-automate-38-of-doc-work-turned-out-to-be-low-hanging-fruit-4a37903d94",
+        "title": "Ran the numbers before deciding how much to automate. 38% of doc work turned out to be low hanging fruit",
+        "url": "https://www.indiehackers.com/post/ran-the-numbers-before-deciding-how-much-to-automate-38-of-doc-work-turned-out-to-be-low-hanging-fruit-4a37903d94",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-free-chrome-extension-in-3-days-and-turning-it-into-a-5-figure-mrr-ecosystem-3rIbjigZxiFsrgqJjJYp",
+        "title": "Building a free Chrome extension in 3 days and turning it into a 5-figure-MRR ecosystem",
+        "url": "https://www.indiehackers.com/post/tech/building-a-free-chrome-extension-in-3-days-and-turning-it-into-a-5-figure-mrr-ecosystem-3rIbjigZxiFsrgqJjJYp",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
