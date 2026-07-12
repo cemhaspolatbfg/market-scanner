@@ -1,0 +1,214 @@
+{
+  "scan_time": "2026-07-12T08:15:46.276609+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "effects-sdk",
+        "name": "Effects SDK",
+        "tagline": "AI video & audio effects SDK for real-time apps",
+        "description": "Effects SDK helps developers add production-ready AI video and audio effects to web, desktop, and mobile apps. Add background blur, virtual backgrounds, smart framing, lighting correction, beautification, overlays, avatars, and real-time noise suppression — all running client-side, without sending video or audio to our servers.",
+        "votes": 456,
+        "ph_url": "https://www.producthunt.com/posts/effects-sdk",
+        "website": "https://www.producthunt.com/r/UFCXYL336A5QGC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Meetings",
+          "Artificial Intelligence",
+          "SDK"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48875377",
+        "name": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "url": "https://antjs.org",
+        "points": 252,
+        "comments": 107,
+        "hn_url": "https://news.ycombinator.com/item?id=48875377"
+      },
+      {
+        "id": "48871973",
+        "name": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+        "url": "https://shipthatcode.com",
+        "points": 163,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=48871973"
+      },
+      {
+        "id": "48873501",
+        "name": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+        "url": "https://nagylukas.github.io/orbit.html",
+        "points": 74,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=48873501"
+      },
+      {
+        "id": "48870472",
+        "name": "Show HN: Richest people in the world by wealth creation instead of ownership",
+        "url": "https://anti-forbes-list.vercel.app",
+        "points": 56,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=48870472"
+      },
+      {
+        "id": "48873417",
+        "name": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+        "url": "https://github.com/swellweb/reame",
+        "points": 50,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48873417"
+      },
+      {
+        "id": "48873486",
+        "name": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+        "url": "https://github.com/skorotkiewicz/earth-game",
+        "points": 39,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48873486"
+      },
+      {
+        "id": "48871547",
+        "name": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+        "url": "https://github.com/samyeyo/clx",
+        "points": 32,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48871547"
+      },
+      {
+        "id": "48875342",
+        "name": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+        "url": "https://github.com/sqlsure/sqlsure",
+        "points": 30,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48875342"
+      },
+      {
+        "id": "48878682",
+        "name": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+        "url": "https://github.com/cosmtrek/mindwalk",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48878682"
+      },
+      {
+        "id": "48877686",
+        "name": "Show HN: We beat Anubis with our stealth MCP",
+        "url": "https://tilion.dev/blog/anubis-proof-of-work",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48877686"
+      },
+      {
+        "id": "48875730",
+        "name": "Show HN: OpenBenchmarks – Helping agents discover and pick the right SaaS APIs",
+        "url": "https://openbenchmarks.com",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48875730"
+      },
+      {
+        "id": "48869991",
+        "name": "Show HN: Open database of 2k IP camera specs (JSON/CSV, CC0)",
+        "url": "https://github.com/ch-bas/cctv-camera-database",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48869991"
+      },
+      {
+        "id": "48875887",
+        "name": "Show HN: The Quiet Map – Earth's quietest place, measured by seismometers",
+        "url": "https://thequietmap.org/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48875887"
+      },
+      {
+        "id": "48872676",
+        "name": "Show HN: Haizu – Placement Management System",
+        "url": "https://github.com/uswebk/haizu",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48872676"
+      },
+      {
+        "id": "48871436",
+        "name": "Show HN: Hidetext.sh – encrypted pastebin where the server never sees the key",
+        "url": "https://hidetext.sh",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48871436"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/winner-ad-spy",
+        "name": "Winner Ad Spy",
+        "description": "See which competitor Meta Facebook ads are winning or losing.",
+        "url": "https://betalist.com/startups/winner-ad-spy"
+      },
+      {
+        "id": "/startups/skiml",
+        "name": "Skiml",
+        "description": "Turn saved articles, videos, and PDFs into 60‑second action briefs",
+        "url": "https://betalist.com/startups/skiml"
+      },
+      {
+        "id": "/startups/glanced",
+        "name": "Glanced",
+        "description": "Follow news, blogs, newsletters, and podcasts in one RSS reader",
+        "url": "https://betalist.com/startups/glanced"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=XpilzzNOQ4X0eSp544YT",
+        "title": "DiscountHub: I stopped trying to promote my app. Now every deal can promote it.",
+        "url": "https://www.indiehackers.com/product/discounthub?post=XpilzzNOQ4X0eSp544YT",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/132-users-3-current-customers-and-a-renewal-failure-i-should-have-prevented-bf0d34a13f",
+        "title": "132 users, 3 current customers, and a renewal failure I should have prevented",
+        "url": "https://www.indiehackers.com/post/132-users-3-current-customers-and-a-renewal-failure-i-should-have-prevented-bf0d34a13f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-ai-agent-quoted-a-client-a-price-we-killed-months-ago-so-i-built-engram-4ff75dcfa4",
+        "title": "My AI agent quoted a client a price we killed months ago. So I built Engram.",
+        "url": "https://www.indiehackers.com/post/my-ai-agent-quoted-a-client-a-price-we-killed-months-ago-so-i-built-engram-4ff75dcfa4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=L6BFq8wIqlsQahaMDQ5O",
+        "title": "We added our first verified indie partner offer to DiscountHub",
+        "url": "https://www.indiehackers.com/product/discounthub?post=L6BFq8wIqlsQahaMDQ5O",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/gtwy?post=3rSWshyOpcfa4tnERL7F",
+        "title": "Launching GTWY: Building the engineering-free AI stack 🚀",
+        "url": "https://www.indiehackers.com/product/gtwy?post=3rSWshyOpcfa4tnERL7F",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
