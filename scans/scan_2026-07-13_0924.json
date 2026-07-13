@@ -1,0 +1,223 @@
+{
+  "scan_time": "2026-07-13T09:24:47.954059+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "miora-2",
+        "name": "Miora",
+        "tagline": "Scale your creativity on editable canvas with agent memory",
+        "description": "Not another AI image tool. Miora is an Agentic Creative Studio with Memory. Bring one idea, generate multimodal assets on one editable canvas, turn auto-built memory into a reusable Skill, then create more, always true to your taste. One person, a whole creative studio.",
+        "votes": 564,
+        "ph_url": "https://www.producthunt.com/posts/miora-2",
+        "website": "https://www.producthunt.com/r/IZSZX2A4YB4GZE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "justvibe-3",
+        "name": "JustVibe",
+        "tagline": "The search engine for doing, with apps built for you",
+        "description": "JustVibe is a free search engine, built to help get things done. Search \"plan my 5 day trip to tokyo\" and instantly receive a fully functional and interactive trip planner, perfectly set up for Tokyo and running directly in your browser. If your perfect app doesn't exist yet, JustVibe builds a custom one for your exact needs in minutes. Every app is yours to keep forever, with zero code. Chat to customize every detail and share your new app with a single link.",
+        "votes": 551,
+        "ph_url": "https://www.producthunt.com/posts/justvibe-3",
+        "website": "https://www.producthunt.com/r/KZ7M6VNT4KDSHS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Web App",
+          "Search",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48882562",
+        "name": "Show HN: Shirei, cross-platform GUI framework in native Go",
+        "url": "https://github.com/hasenj/go-shirei/",
+        "points": 85,
+        "comments": 51,
+        "hn_url": "https://news.ycombinator.com/item?id=48882562"
+      },
+      {
+        "id": "48884663",
+        "name": "Show HN: Zen Mode – a global focus mode for macOS",
+        "url": "https://github.com/cabeen/zen-mode",
+        "points": 23,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48884663"
+      },
+      {
+        "id": "48881352",
+        "name": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
+        "url": "https://kurvengefahr.org/",
+        "points": 18,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48881352"
+      },
+      {
+        "id": "48885500",
+        "name": "Show HN: Codebase Posters – turn any Git repo into generative poster art",
+        "url": "https://github.com/unable12/codebase-posters",
+        "points": 18,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48885500"
+      },
+      {
+        "id": "48881112",
+        "name": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+        "url": "https://github.com/sshwarts/skillscript",
+        "points": 14,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=48881112"
+      },
+      {
+        "id": "48881516",
+        "name": "Show HN: Introducing: Zotfile Agents",
+        "url": "https://www.zot.sh/docs/zotfiles",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48881516"
+      },
+      {
+        "id": "48884903",
+        "name": "Show HN: Capn-hook for coding agents – don't grep the same mystery twice",
+        "url": "https://github.com/cyrusNuevoDia/capn-hook",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48884903"
+      },
+      {
+        "id": "48884885",
+        "name": "Show HN: Agent-run – Run a coding agent in a sandboxed environment",
+        "url": "https://github.com/sin-ack/agent-run",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48884885"
+      },
+      {
+        "id": "48885016",
+        "name": "Show HN: PitchTrail – Perfect Pitch for Kids",
+        "url": "https://pitchtrail.app/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48885016"
+      },
+      {
+        "id": "48886809",
+        "name": "Show HN: Use After Effects with Claude Code, Cursor and Antigravity",
+        "url": "https://github.com/Arman-Luthra/aftr",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48886809"
+      },
+      {
+        "id": "48886240",
+        "name": "Show HN: Let your coding agent iterate by seeing the browser",
+        "url": "https://github.com/puffinsoft/peek-cli",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48886240"
+      },
+      {
+        "id": "48879908",
+        "name": "Show HN: Sanbox, batteries included sandboxes for AI agents",
+        "url": "https://sanbox.cloud",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48879908"
+      },
+      {
+        "id": "48882363",
+        "name": "Show HN: Open-source browser mini-game where every level is provably solvable",
+        "url": "https://www.hooping.io/",
+        "points": 4,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48882363"
+      },
+      {
+        "id": "48881942",
+        "name": "Show HN: Pirate.kred – Tipjar DNS for Pirates to pay authors",
+        "url": "https://pirate.kred/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48881942"
+      },
+      {
+        "id": "48887276",
+        "name": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
+        "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48887276"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/mustsy",
+        "name": "Mustsy",
+        "description": "An alert app for fans to track resale prices across platforms",
+        "url": "https://betalist.com/startups/mustsy"
+      },
+      {
+        "id": "/startups/recipebot",
+        "name": "RecipeBot",
+        "description": "Generate chef-quality recipes from the ingredients you have",
+        "url": "https://betalist.com/startups/recipebot"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/the-ai-purple-problem-why-every-ai-brand-looks-the-same-6cb0aa2a02",
+        "title": "The AI Purple Problem: Why Every AI Brand Looks the Same",
+        "url": "https://www.indiehackers.com/post/the-ai-purple-problem-why-every-ai-brand-looks-the-same-6cb0aa2a02",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=TC3I0LPvz9NjfPmEHmpO",
+        "title": "Another indie founder joined DiscountHub as a partner",
+        "url": "https://www.indiehackers.com/product/discounthub?post=TC3I0LPvz9NjfPmEHmpO",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-my-first-product-in-10-days-as-a-complete-beginner-an-instagram-audit-pdf-generator-3c6d6f8b6a",
+        "title": "Built my first product in 10 days as a complete beginner — an Instagram audit PDF generator",
+        "url": "https://www.indiehackers.com/post/built-my-first-product-in-10-days-as-a-complete-beginner-an-instagram-audit-pdf-generator-3c6d6f8b6a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/got-our-first-paid-customers-from-an-unexpected-channel-4a4067f803",
+        "title": "Got our first paid customers from an unexpected channel",
+        "url": "https://www.indiehackers.com/post/got-our-first-paid-customers-from-an-unexpected-channel-4a4067f803",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/live-font-generator?post=rC57ZCmS5QX0uO3ST6VF",
+        "title": "Live Font Generator: I Built a Font Generator With 200+ Styles — Here's What I Learned",
+        "url": "https://www.indiehackers.com/product/live-font-generator?post=rC57ZCmS5QX0uO3ST6VF",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
