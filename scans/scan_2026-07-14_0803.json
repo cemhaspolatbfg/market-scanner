@@ -1,0 +1,236 @@
+{
+  "scan_time": "2026-07-14T08:03:09.310702+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "agentkey",
+        "name": "AgentKey",
+        "tagline": "One-stop live data marketplace for your agent",
+        "description": "AgentKey is a plugin that connects your agent to live external data in one command. Install it into Claude Code, Codex, OpenClaw, or any MCP-based agent and instantly unlock access to search, web pages, social platforms, finance, e-commerce, business and crypto data. No integrations. No setup. Auto failover keeps workflows running.",
+        "votes": 645,
+        "ph_url": "https://www.producthunt.com/posts/agentkey",
+        "website": "https://www.producthunt.com/r/U23MKZQPSZUKGY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Data"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "osaurus-ai",
+        "name": "Osaurus",
+        "tagline": "Open source agents that run 100% locally on your Mac",
+        "description": "The native macOS harness for AI agents. Any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+        "votes": 610,
+        "ph_url": "https://www.producthunt.com/posts/osaurus-ai",
+        "website": "https://www.producthunt.com/r/QOYR327FKDOKAZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Privacy",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48896286",
+        "name": "Show HN: Super Dario",
+        "url": "https://superdario.pawb.de",
+        "points": 383,
+        "comments": 96,
+        "hn_url": "https://news.ycombinator.com/item?id=48896286"
+      },
+      {
+        "id": "48892859",
+        "name": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+        "url": "https://github.com/clawkwork/clawk",
+        "points": 189,
+        "comments": 148,
+        "hn_url": "https://news.ycombinator.com/item?id=48892859"
+      },
+      {
+        "id": "48891267",
+        "name": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+        "url": "https://github.com/floodtide/dom-docx",
+        "points": 144,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=48891267"
+      },
+      {
+        "id": "48898154",
+        "name": "Show HN: YouTube Guitar Tab Parser",
+        "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+        "points": 100,
+        "comments": 63,
+        "hn_url": "https://news.ycombinator.com/item?id=48898154"
+      },
+      {
+        "id": "48897975",
+        "name": "Show HN: I implemented a neural network in SQL",
+        "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+        "points": 91,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=48897975"
+      },
+      {
+        "id": "48894630",
+        "name": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+        "url": "https://github.com/jbwinters/jacquard-lang",
+        "points": 84,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=48894630"
+      },
+      {
+        "id": "48896703",
+        "name": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+        "url": "https://nobie.com",
+        "points": 77,
+        "comments": 49,
+        "hn_url": "https://news.ycombinator.com/item?id=48896703"
+      },
+      {
+        "id": "48896599",
+        "name": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+        "url": "https://github.com/morganwilliscloud/billai-bass",
+        "points": 68,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=48896599"
+      },
+      {
+        "id": "48893550",
+        "name": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
+        "url": "https://hackney.app/",
+        "points": 45,
+        "comments": 41,
+        "hn_url": "https://news.ycombinator.com/item?id=48893550"
+      },
+      {
+        "id": "48898071",
+        "name": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
+        "url": "https://github.com/yeet-src/sigwire",
+        "points": 39,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48898071"
+      },
+      {
+        "id": "48900319",
+        "name": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+        "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+        "points": 34,
+        "comments": 29,
+        "hn_url": "https://news.ycombinator.com/item?id=48900319"
+      },
+      {
+        "id": "48896179",
+        "name": "Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise",
+        "url": "https://github.com/mathaix/OpenClawMachines",
+        "points": 33,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=48896179"
+      },
+      {
+        "id": "48900465",
+        "name": "Show HN: FixBugs – Reproduce production bugs and verify fixes",
+        "url": "https://fixbugs.ai",
+        "points": 27,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=48900465"
+      },
+      {
+        "id": "48899620",
+        "name": "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
+        "url": "https://1shotchallenge.ai",
+        "points": 11,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48899620"
+      },
+      {
+        "id": "48894572",
+        "name": "Show HN: HTML, CSS and JavaScript in the Terminal",
+        "url": "https://duetbrowser.com/krnl-ss-redirect?k2vh",
+        "points": 9,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48894572"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/snipplet",
+        "name": "Snipplet",
+        "description": "Create and share beautiful visual travel guides in minutes",
+        "url": "https://betalist.com/startups/snipplet"
+      },
+      {
+        "id": "/startups/transcribe-video-to-text",
+        "name": "Transcribe Video to Text",
+        "description": "Transcribe videos, audio, and YouTube links to text with AI for free",
+        "url": "https://betalist.com/startups/transcribe-video-to-text"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=piH5twmCXOKbs2pCiv22",
+        "title": "IbexAI: I keep faking a plane crash in the first 30 seconds of every Google Meet",
+        "url": "https://www.indiehackers.com/product/ibexai?post=piH5twmCXOKbs2pCiv22",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-shopify-app-to-stop-small-sellers-from-overselling-across-channels-looking-for-early-feedback-52994bba83",
+        "title": "Built a Shopify app to stop small sellers from overselling across channels — looking for early feedback",
+        "url": "https://www.indiehackers.com/post/built-a-shopify-app-to-stop-small-sellers-from-overselling-across-channels-looking-for-early-feedback-52994bba83",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/when-do-you-stop-grandfathering-old-pricing-b98836edb8",
+        "title": "When do you stop grandfathering old pricing?",
+        "url": "https://www.indiehackers.com/post/when-do-you-stop-grandfathering-old-pricing-b98836edb8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-bet-on-self-hosting-for-an-ai-product-heres-why-and-where-i-m-stuck-9721d7dfa4",
+        "title": "I bet on self-hosting for an AI product. Here's why, and where I'm stuck",
+        "url": "https://www.indiehackers.com/post/i-bet-on-self-hosting-for-an-ai-product-heres-why-and-where-i-m-stuck-9721d7dfa4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-came-up-with-a-great-idea-for-a-solo-vibe-coding-project-and-im-testing-it-out-right-now-0bfffe36bd",
+        "title": "I came up with a great idea for a solo Vibe Coding project, and I'm testing it out right now",
+        "url": "https://www.indiehackers.com/post/i-came-up-with-a-great-idea-for-a-solo-vibe-coding-project-and-im-testing-it-out-right-now-0bfffe36bd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/musegen-4?post=IT5lY1RliX0xKiaSAhkw",
+        "title": "I'm building MuseGen — a AI Music Generator for Commercial Songs from Text, Audio, or Lyrics",
+        "url": "https://www.indiehackers.com/product/musegen-4?post=IT5lY1RliX0xKiaSAhkw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/launching-an-app-builder-in-2-weeks-and-hitting-10k-mrr-within-a-year-gRWT2S68TIQwMvb6Xxt4",
+        "title": "Launching an app builder in 2 weeks and hitting $10k MRR within a year",
+        "url": "https://www.indiehackers.com/post/tech/launching-an-app-builder-in-2-weeks-and-hitting-10k-mrr-within-a-year-gRWT2S68TIQwMvb6Xxt4",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
