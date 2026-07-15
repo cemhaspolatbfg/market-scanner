@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-07-15T08:08:06.587863+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "clawteams-a263d5d3-d341-45d9-9e9f-7154e7066e4a",
+        "name": "ClawTeams",
+        "tagline": "The first goal-driven, proactive AI team for e-commerce",
+        "description": "ClawTeams is an AI employee platform for e-commerce sellers. Instead of hiring specialists—or doing everything yourself—you get a coordinated AI team that thinks, plans, and executes like real employees. One goal. One team. Zero micromanagement. Tell your team lead what you want—\"Increase Q4 revenue by 20%\"—and they break it down, assign specialists, and run the plan. You get updates in Slack or Discord. High-stakes decisions wait for your approval. Everything else just happens.",
+        "votes": 716,
+        "ph_url": "https://www.producthunt.com/posts/clawteams-a263d5d3-d341-45d9-9e9f-7154e7066e4a",
+        "website": "https://www.producthunt.com/r/XOOTYQZQO66BZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "pazi-2",
+        "name": "Pazi",
+        "tagline": "Vibe code business operations",
+        "description": "Pazi is an AI team for that idea you keep coming back to — a book, a shop, an app, a skill you want to sell. Tell Pazi what you're trying to do and it builds a team of agents around your idea and starts making things happen: a website, first outreach, content, the next step. Every time you come back, something has moved. You stay in control; your team does the rest alongside you, one real step at a time. Like vibe coding but for business operations.",
+        "votes": 678,
+        "ph_url": "https://www.producthunt.com/posts/pazi-2",
+        "website": "https://www.producthunt.com/r/ZFDSZ4CUJ3IHCB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Vibe coding"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48908271",
+        "name": "Show HN: Opening lines of famous literary works",
+        "url": "https://www.verbaprima.com/",
+        "points": 163,
+        "comments": 91,
+        "hn_url": "https://news.ycombinator.com/item?id=48908271"
+      },
+      {
+        "id": "48905914",
+        "name": "Show HN: Beautiful Type Erasure with C++26 Reflection",
+        "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+        "points": 112,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=48905914"
+      },
+      {
+        "id": "48905919",
+        "name": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+        "url": "https://github.com/Danau5tin/ai-trains-ai",
+        "points": 101,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=48905919"
+      },
+      {
+        "id": "48907615",
+        "name": "Show HN: Oodle.ai – $10 per million agent traces",
+        "url": "https://www.oodle.ai/product/agent-observability",
+        "points": 30,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48907615"
+      },
+      {
+        "id": "48904912",
+        "name": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+        "url": "https://github.com/rejourneyco/rejourney",
+        "points": 30,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48904912"
+      },
+      {
+        "id": "48905030",
+        "name": "Show HN: Beautiful QR Codes",
+        "url": "https://scanwayy.com",
+        "points": 20,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=48905030"
+      },
+      {
+        "id": "48911854",
+        "name": "Show HN: Flashbang – DuckDuckGo bangs resolved locally with a Service Worker",
+        "url": "https://flashbang-dyr.pages.dev",
+        "points": 15,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48911854"
+      },
+      {
+        "id": "48911998",
+        "name": "Show HN: A Free RSS reader with a configurable recommendation engine",
+        "url": "https://sprinklz.io/feed/home",
+        "points": 13,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48911998"
+      },
+      {
+        "id": "48907348",
+        "name": "Show HN: Real-time avatars that change emotions as you talk",
+        "url": "https://anam.ai/",
+        "points": 12,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48907348"
+      },
+      {
+        "id": "48911920",
+        "name": "Show HN: An Interactive Guide for Castlevania II: Simon's Quest",
+        "url": "https://theultimatesimonsquestguide.com/",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48911920"
+      },
+      {
+        "id": "48913954",
+        "name": "Show HN: Tilion – Stealth Browser Infrastructure for Agents",
+        "url": "https://twitter.com/tiliondev/status/2077162199739752933",
+        "points": 8,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48913954"
+      },
+      {
+        "id": "48908099",
+        "name": "Show HN: Cascade Chat – A Hackable IRCv3 Client for macOS, Windows, and Linux",
+        "url": "https://github.com/matt0x6F/irc-client",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48908099"
+      },
+      {
+        "id": "48913174",
+        "name": "Show HN: Voidfall – Space looter shooter in the browser",
+        "url": "https://github.com/nickyvanurk/voidfall",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48913174"
+      },
+      {
+        "id": "48910087",
+        "name": "Show HN: Pullrun – Run One OCI Image as a Container, Firecracker, or Apple VM",
+        "url": "https://github.com/pullrun/pullrun",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48910087"
+      },
+      {
+        "id": "48915561",
+        "name": "Show HN: Samosa Chat - Run Qwen3.6-35B-A3B Locally on a 16 GB Mac",
+        "url": "https://github.com/deepanwadhwa/samosa-chat",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48915561"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/health-research-report-healthresearch-pro",
+        "name": "Health Research Report - HealthResearch.pro",
+        "description": "\"What does the rest of the world know about this aspect of your health?\"",
+        "url": "https://betalist.com/startups/health-research-report-healthresearch-pro"
+      },
+      {
+        "id": "/startups/add-car-widgets",
+        "name": "Add Car Widgets",
+        "description": "Customize CarPlay with widgets, sounds, and a mount-friendly dashboard",
+        "url": "https://betalist.com/startups/add-car-widgets"
+      },
+      {
+        "id": "/startups/livediagram",
+        "name": "livediagram",
+        "description": "Draw, collaborate, and share diagrams instantly in your browser for free",
+        "url": "https://betalist.com/startups/livediagram"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/wordlock?post=AXWWiSapuIU0C3e828jj",
+        "title": "WordLock: I'm Building an Instagram Audience Before Building the App",
+        "url": "https://www.indiehackers.com/product/wordlock?post=AXWWiSapuIU0C3e828jj",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aproov?post=47KmftPJtaLAzawWjUSo",
+        "title": "Aproov: LIVE -Match with creators. Get real distribution.",
+        "url": "https://www.indiehackers.com/product/aproov?post=47KmftPJtaLAzawWjUSo",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-digital-product-automation-system-but-keeping-everything-connected-was-the-real-challenge-07d67446ec",
+        "title": "I built a digital product automation system,but keeping everything connected was the real challenge",
+        "url": "https://www.indiehackers.com/post/i-built-a-digital-product-automation-system-but-keeping-everything-connected-was-the-real-challenge-07d67446ec",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=9CGw8nYy9AJgctrLhzzv",
+        "title": "We just added an AI deal finder to DiscountHub",
+        "url": "https://www.indiehackers.com/product/discounthub?post=9CGw8nYy9AJgctrLhzzv",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-for-one-user-myself-84ef3ca242",
+        "title": "I built for one user. Myself.",
+        "url": "https://www.indiehackers.com/post/i-built-for-one-user-myself-84ef3ca242",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-turned-my-it-governance-checklist-into-a-live-tool-not-sure-anyone-wants-that-yet-e243e27ef6",
+        "title": "I turned my IT governance checklist into a live tool. Not sure anyone wants that yet.",
+        "url": "https://www.indiehackers.com/post/i-turned-my-it-governance-checklist-into-a-live-tool-not-sure-anyone-wants-that-yet-e243e27ef6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/buck-the-critics?post=FEjG5ZZogvM5HjVg2mX8",
+        "title": "Buck The Critics: I'm a self-taught solo dev. My app is high-quality and barely used. Help!!!",
+        "url": "https://www.indiehackers.com/product/buck-the-critics?post=FEjG5ZZogvM5HjVg2mX8",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
