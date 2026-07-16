@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-07-16T08:11:45.555840+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "v2fun",
+        "name": "V2Fun",
+        "tagline": "Generate 3D character with 8K textures and AI motion capture",
+        "description": "V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion capture models. It helps creators turn images, prompts, and videos into high-quality 3D models, enhance assets with advanced 8K texture generation, and create motion-ready characters without switching between separate modeling, texturing, and mocap tools. V2Fun also supports image generation through models including Nano Banana and others, so creators can explore visual concepts and bring them into 3D faster.",
+        "votes": 643,
+        "ph_url": "https://www.producthunt.com/posts/v2fun",
+        "website": "https://www.producthunt.com/r/YMZ2X3HYSCQ2UP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "3D Modeling",
+          "Animation"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "velo-3-0",
+        "name": "Velo 3.0",
+        "tagline": "AI video infrastructure to explain, train, and sell faster.",
+        "description": "Velo 3.0 is here, our third and biggest launch yet. Start with a screen recording or a prompt. Describe the video you need, and Velo writes the script, narrates it in your own voice, and builds the finished cut. It stays grounded in your company knowledge, from your docs and tools you connect through connectors and MCP. Edit by typing changes. Localize the finished video into 25+ languages in one click. Recording or prompt, Velo turns either into a polished video you can ship anywhere.",
+        "votes": 615,
+        "ph_url": "https://www.producthunt.com/posts/velo-3-0",
+        "website": "https://www.producthunt.com/r/KDX5BM26GQ5BM5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Sales",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48926939",
+        "name": "Show HN: Firefox in WebAssembly",
+        "url": "https://developer.puter.com/labs/firefox-wasm/",
+        "points": 186,
+        "comments": 97,
+        "hn_url": "https://news.ycombinator.com/item?id=48926939"
+      },
+      {
+        "id": "48922838",
+        "name": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+        "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+        "points": 143,
+        "comments": 41,
+        "hn_url": "https://news.ycombinator.com/item?id=48922838"
+      },
+      {
+        "id": "48928402",
+        "name": "Show HN: One More Letter",
+        "url": "https://playonemoreletter.com/",
+        "points": 71,
+        "comments": 45,
+        "hn_url": "https://news.ycombinator.com/item?id=48928402"
+      },
+      {
+        "id": "48919489",
+        "name": "Show HN: Make senders work to get into your inbox",
+        "url": "https://www.captchainbox.com",
+        "points": 41,
+        "comments": 67,
+        "hn_url": "https://news.ycombinator.com/item?id=48919489"
+      },
+      {
+        "id": "48919191",
+        "name": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
+        "points": 36,
+        "comments": 50,
+        "hn_url": "https://news.ycombinator.com/item?id=48919191"
+      },
+      {
+        "id": "48920888",
+        "name": "Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
+        "url": "https://github.com/bitjaru/styleseed",
+        "points": 23,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=48920888"
+      },
+      {
+        "id": "48920811",
+        "name": "Show HN: 18KB ls alternative in no_std rust and Libc",
+        "url": "https://crates.io/crates/fli-tool",
+        "points": 22,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48920811"
+      },
+      {
+        "id": "48923842",
+        "name": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
+        "url": "https://github.com/jbunke/painterly",
+        "points": 21,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48923842"
+      },
+      {
+        "id": "48920537",
+        "name": "Show HN: Grepathy – Claude made a decision nobody approved",
+        "url": "https://github.com/evansjp/grepathy",
+        "points": 18,
+        "comments": 39,
+        "hn_url": "https://news.ycombinator.com/item?id=48920537"
+      },
+      {
+        "id": "48920681",
+        "name": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",
+        "url": "https://github.com/synseqack/aict",
+        "points": 16,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48920681"
+      },
+      {
+        "id": "48926435",
+        "name": "Show HN: BibleFollow – Scroll the Bible instead of doomscrolling",
+        "url": "https://biblefollow.com",
+        "points": 14,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48926435"
+      },
+      {
+        "id": "48922631",
+        "name": "Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",
+        "url": "https://github.com/sirixdb/sirix",
+        "points": 12,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48922631"
+      },
+      {
+        "id": "48919638",
+        "name": "Show HN: Leet Robotics: Learn robotics and ROS2 with hands-on courses",
+        "url": "https://www.leetrobotics.com",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48919638"
+      },
+      {
+        "id": "48926718",
+        "name": "Show HN: Spellsurf – Create words from words",
+        "url": "https://spellsurf.com/",
+        "points": 9,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=48926718"
+      },
+      {
+        "id": "48920650",
+        "name": "Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
+        "url": "https://userfrom1995.github.io/goku/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48920650"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/visibility-radar",
+        "name": "Visibility Radar",
+        "description": "See how AI recommends your brand and get a model-specific plan",
+        "url": "https://betalist.com/startups/visibility-radar"
+      },
+      {
+        "id": "/startups/inboundy",
+        "name": "Inboundy",
+        "description": "Automate LinkedIn outreach, follow-ups, and posts without plugins",
+        "url": "https://betalist.com/startups/inboundy"
+      },
+      {
+        "id": "/startups/odisea",
+        "name": "Odisea",
+        "description": "Compare Erasmus destinations and plan your exchange with clarity",
+        "url": "https://betalist.com/startups/odisea"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-sent-43-cold-emails-with-my-own-tool-17-replied-1-paid-here-s-the-unofficial-launch-329774e623",
+        "title": "I sent 43 cold emails with my own tool. 17 replied. 1 paid. Here’s the unofficial launch.",
+        "url": "https://www.indiehackers.com/post/i-sent-43-cold-emails-with-my-own-tool-17-replied-1-paid-here-s-the-unofficial-launch-329774e623",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/signalshunt?post=EZgkTc0aLx226zIHaV15",
+        "title": "SignalsHunt: I sent 43 cold emails with my own tool. 17 replied. 1 paid. Here’s the unofficial launch.",
+        "url": "https://www.indiehackers.com/product/signalshunt?post=EZgkTc0aLx226zIHaV15",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=CXiRMotAMh8zBeLMLggp",
+        "title": "DiscountHub: I almost auto-expired a live partner deal because the FAQ contained “sold out”",
+        "url": "https://www.indiehackers.com/product/discounthub?post=CXiRMotAMh8zBeLMLggp",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=FBnnAn41JnMonJTHdFOi",
+        "title": "IbexAI: Stop building the same product as others",
+        "url": "https://www.indiehackers.com/product/ibexai?post=FBnnAn41JnMonJTHdFOi",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-3-weeks-wiring-stripe-auth-llm-routing-heres-what-indie-hackers-should-skip-1f59a640d3",
+        "title": "I spent 3 weeks wiring Stripe + auth + LLM routing. Here's what indie hackers should skip.",
+        "url": "https://www.indiehackers.com/post/i-spent-3-weeks-wiring-stripe-auth-llm-routing-heres-what-indie-hackers-should-skip-1f59a640d3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-my-first-iphone-app-and-i-m-stuck-at-13-downloads-roast-my-positioning-871f15a45c",
+        "title": "I launched my first iPhone app and I’m stuck at 13 downloads. Roast my positioning.",
+        "url": "https://www.indiehackers.com/post/i-launched-my-first-iphone-app-and-i-m-stuck-at-13-downloads-roast-my-positioning-871f15a45c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/carving-out-a-1m-yr-niche-out-of-the-microsoft-ecosystem-ekxDn4Rdn8zD3uZU2asY",
+        "title": "Carving out a $1M+/yr niche out of the Microsoft ecosystem",
+        "url": "https://www.indiehackers.com/post/tech/carving-out-a-1m-yr-niche-out-of-the-microsoft-ecosystem-ekxDn4Rdn8zD3uZU2asY",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
