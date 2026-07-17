@@ -1,0 +1,225 @@
+{
+  "scan_time": "2026-07-17T08:08:35.982776+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "paradigm-3",
+        "name": "Paradigm",
+        "tagline": "Turn any goal into a personalized, adaptive learning path.",
+        "description": "Paradigm reimagines education around the individual, taking any learning goal and turning it into a step-by-step path that evolves with your progress, helping you move steadily from curiosity to mastery without getting lost.",
+        "votes": 588,
+        "ph_url": "https://www.producthunt.com/posts/paradigm-3",
+        "website": "https://www.producthunt.com/r/BASZVKO22HWWKN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "User Experience",
+          "Education",
+          "Career",
+          "Vercel Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "goose-ads-remixer",
+        "name": "Goose Ads Remixer",
+        "tagline": "Remix the ads already winning in your niche",
+        "description": "The winning ads in your niche reveal what works: hooks, offers, copy structures, layouts. Goose learns those patterns and creates new ads for your brand with your real logo, product images, and messaging in minutes. First 10 ads free.",
+        "votes": 566,
+        "ph_url": "https://www.producthunt.com/posts/goose-ads-remixer",
+        "website": "https://www.producthunt.com/r/YYDC2FEFNNYIMM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Artificial Intelligence",
+          "GitHub",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48936389",
+        "name": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
+        "url": "https://github.com/patonw/leaves",
+        "points": 74,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=48936389"
+      },
+      {
+        "id": "48941123",
+        "name": "Show HN: Mojibake – A low-level Unicode library written in C",
+        "url": "https://mojibake.zaerl.com/",
+        "points": 57,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=48941123"
+      },
+      {
+        "id": "48934092",
+        "name": "Show HN: I've built a words game based on binary search",
+        "url": "https://hilogame.cc/",
+        "points": 47,
+        "comments": 56,
+        "hn_url": "https://news.ycombinator.com/item?id=48934092"
+      },
+      {
+        "id": "48936554",
+        "name": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
+        "url": "",
+        "points": 40,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48936554"
+      },
+      {
+        "id": "48938524",
+        "name": "Show HN: Be the ChatBOT",
+        "url": "https://bethechatbot.com/",
+        "points": 34,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=48938524"
+      },
+      {
+        "id": "48936271",
+        "name": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+        "url": "https://bamboo.kickstage.com",
+        "points": 27,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48936271"
+      },
+      {
+        "id": "48936803",
+        "name": "Show HN: Galois connections for composable numeric casts in Rust",
+        "url": "https://github.com/cmk/connections",
+        "points": 27,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48936803"
+      },
+      {
+        "id": "48935176",
+        "name": "Show HN: QBasic Gorillas (Repeeled)",
+        "url": "https://gameswithtony.com/gorillas/",
+        "points": 25,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=48935176"
+      },
+      {
+        "id": "48936491",
+        "name": "Show HN: Ratel, give agents unlimited tools and skills without context bloat",
+        "url": "https://github.com/ratel-ai/ratel",
+        "points": 20,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=48936491"
+      },
+      {
+        "id": "48934583",
+        "name": "Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
+        "url": "https://ai-law-tracker.com",
+        "points": 20,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=48934583"
+      },
+      {
+        "id": "48939710",
+        "name": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+        "url": "https://libretto.sh/debug-agents",
+        "points": 18,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48939710"
+      },
+      {
+        "id": "48935383",
+        "name": "Show HN: Trying to fix the web scraping industry's benchmark problem",
+        "url": "https://github.com/usestring/web-data-frontier-benchmark",
+        "points": 16,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48935383"
+      },
+      {
+        "id": "48935984",
+        "name": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
+        "url": "https://blog.simbastack.com/announcing-sentinel/",
+        "points": 15,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48935984"
+      },
+      {
+        "id": "48935163",
+        "name": "Show HN: Algotrek – Algorithms visualized, problem shape shifting and a tutor",
+        "url": "https://app.algotrek.io",
+        "points": 12,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48935163"
+      },
+      {
+        "id": "48935212",
+        "name": "Show HN: Nous – give GTM agents one context graph across your tools",
+        "url": "https://github.com/NousC/opennous",
+        "points": 10,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48935212"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/elio-2",
+        "name": "Elio",
+        "description": "A map you can talk to for personalized places and trip planning",
+        "url": "https://betalist.com/startups/elio-2"
+      },
+      {
+        "id": "/startups/ugcfy",
+        "name": "UGCfy",
+        "description": "Turn product links into TikTok-ready UGC ads with AI actors",
+        "url": "https://betalist.com/startups/ugcfy"
+      },
+      {
+        "id": "/startups/woolet-2",
+        "name": "Woolet",
+        "description": "20-second AI face scan for glasses that fit",
+        "url": "https://betalist.com/startups/woolet-2"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=WjMsEWEoqWFdt1Xn7Jqy",
+        "title": "IbexAI: Almost hired a developer pretending to be someone they’re not. Be careful",
+        "url": "https://www.indiehackers.com/product/ibexai?post=WjMsEWEoqWFdt1Xn7Jqy",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ive-posted-everywhere-and-gotten-zero-sales-here-s-what-i-m-learning-about-why-818b90462f",
+        "title": "I've posted everywhere and gotten zero sales. Here's what I'm learning about why",
+        "url": "https://www.indiehackers.com/post/ive-posted-everywhere-and-gotten-zero-sales-here-s-what-i-m-learning-about-why-818b90462f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-missing-piece-in-ai-powered-linkedin-outreach-2873acb6b3",
+        "title": "The Missing Piece in AI-Powered LinkedIn Outreach",
+        "url": "https://www.indiehackers.com/post/the-missing-piece-in-ai-powered-linkedin-outreach-2873acb6b3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-first-product-positioning-failed-one-feature-showed-me-why-d06146d300",
+        "title": "My First Product Positioning Failed. One Feature Showed Me Why",
+        "url": "https://www.indiehackers.com/post/my-first-product-positioning-failed-one-feature-showed-me-why-d06146d300",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
