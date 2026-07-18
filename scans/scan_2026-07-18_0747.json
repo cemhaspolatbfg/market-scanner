@@ -1,0 +1,225 @@
+{
+  "scan_time": "2026-07-18T07:47:49.236626+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "unabyss-for-claude",
+        "name": "Unabyss for Claude",
+        "tagline": "Shared memory across all apps and LLMs. In Claude",
+        "description": "Claude doesn't know what happens in GPT. Neither one really knows who you are or what your company does. Now they can. Unabyss gives Claude memories from your other AI agents and everyday apps: email, Drive, GitHub, Notion, meeting recorders, and 20+ more. It saves new memories too, so GPT and Cursor stay in sync with the exact same context - sharper than wiring each tool into Claude one by one. Finally, a real memory that follows you. Private. Portable.",
+        "votes": 576,
+        "ph_url": "https://www.producthunt.com/posts/unabyss-for-claude",
+        "website": "https://www.producthunt.com/r/AW6GAYWJDAD4GS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48947548",
+        "name": "Show HN: Watch bots interact with an SSH honeypot in real time",
+        "url": "https://honeypotlive.cc/",
+        "points": 156,
+        "comments": 57,
+        "hn_url": "https://news.ycombinator.com/item?id=48947548"
+      },
+      {
+        "id": "48950774",
+        "name": "Show HN: A zoomable timeline of 4M Wikipedia events",
+        "url": "https://app.everything.diena.co/",
+        "points": 89,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=48950774"
+      },
+      {
+        "id": "48947754",
+        "name": "Show HN: On-chain bond market where the issuers are AI agents",
+        "url": "https://selbonds.now",
+        "points": 15,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=48947754"
+      },
+      {
+        "id": "48950920",
+        "name": "Show HN: Docket (system for active note-taking) now self-hosted after HN asked",
+        "url": "https://withdocket.com/self-hosted",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48950920"
+      },
+      {
+        "id": "48955042",
+        "name": "Show HN: IKEA Complexity Index",
+        "url": "https://ikea.greg.technology/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48955042"
+      },
+      {
+        "id": "48951498",
+        "name": "Show HN: I ported Fallout 1 to the PSP",
+        "url": "https://github.com/abduznik/fallout1-ce-psp",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48951498"
+      },
+      {
+        "id": "48953349",
+        "name": "Show HN: Qwen3.6-35B-A3B on a 16 GB M1 Pro with SSD-streamed MoE",
+        "url": "https://github.com/andreaborio/ds4",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48953349"
+      },
+      {
+        "id": "48947765",
+        "name": "Show HN: Crux, a personal AI on your computer you can reach from anywhere",
+        "url": "https://qunt.in",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48947765"
+      },
+      {
+        "id": "48952507",
+        "name": "Show HN: Building a Rust-ish programming language with 100% coding agents: Wado",
+        "url": "https://wado-lang.org/playground/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48952507"
+      },
+      {
+        "id": "48951565",
+        "name": "Show HN: Fluent, tiny lang for reactivity and autograd",
+        "url": "https://mlajtos.github.io/fluent/?code=VG91cg",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48951565"
+      },
+      {
+        "id": "48947766",
+        "name": "Show HN: DSA View View – A TypeScript runtime visualizer for algorithms",
+        "url": "https://dsa-view-view.vercel.app/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48947766"
+      },
+      {
+        "id": "48952508",
+        "name": "Show HN: The Port Index – 3,804 seaports and 9,640 airports, scored",
+        "url": "https://www.theportindex.online",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48952508"
+      },
+      {
+        "id": "48951768",
+        "name": "Show HN: Argument duello game with your friend – AI judge decides who's right",
+        "url": "https://wram.chat",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48951768"
+      },
+      {
+        "id": "48950192",
+        "name": "Show HN: Lific: Issue trackers should be simple, right?",
+        "url": "https://lific.dev",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48950192"
+      },
+      {
+        "id": "48947364",
+        "name": "Show HN: Wolbarg – Local-first shared memory for AI agents using SQLite",
+        "url": "https://wolbarg.com/blog/why-sqlite-is-enough-for-local-ai-agent-memory",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48947364"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/mailberry",
+        "name": "Mailberry",
+        "description": "The Email Revenue Platform",
+        "url": "https://betalist.com/startups/mailberry"
+      },
+      {
+        "id": "/startups/soonar",
+        "name": "Soonar",
+        "description": "Find Reddit leads and draft editable replies",
+        "url": "https://betalist.com/startups/soonar"
+      },
+      {
+        "id": "/startups/stat-sniper",
+        "name": "Stat Sniper",
+        "description": "Get AI sports picks, track props, and analyze bets in one place",
+        "url": "https://betalist.com/startups/stat-sniper"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/the-bug-isnt-missing-feedback-it-s-missing-an-exit-6a4953bf9b",
+        "title": "The bug isn't missing feedback. It's missing an exit.",
+        "url": "https://www.indiehackers.com/post/the-bug-isnt-missing-feedback-it-s-missing-an-exit-6a4953bf9b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-web-based-vector-editor-from-scratch-and-integrated-an-ai-agent-need-just-one-beta-tester-633cb20630",
+        "title": "I built a web-based vector editor from scratch and integrated an AI Agent. Need just ONE beta tester!",
+        "url": "https://www.indiehackers.com/post/i-built-a-web-based-vector-editor-from-scratch-and-integrated-an-ai-agent-need-just-one-beta-tester-633cb20630",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/3-months-building-stripe-fee-auditor-0-revenue-5-clicks-2-real-users-heres-what-i-learned-9750b274bb",
+        "title": "3 months building Stripe Fee Auditor: $0 revenue, 5 clicks, 2 real users — here's what I learned",
+        "url": "https://www.indiehackers.com/post/3-months-building-stripe-fee-auditor-0-revenue-5-clicks-2-real-users-heres-what-i-learned-9750b274bb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-claude-chatgpt-api-relay-because-my-api-bill-was-eating-my-side-project-budget-9df60a6a52",
+        "title": "I built a Claude / ChatGPT API relay because my API bill was eating my side-project budget",
+        "url": "https://www.indiehackers.com/post/i-built-a-claude-chatgpt-api-relay-because-my-api-bill-was-eating-my-side-project-budget-9df60a6a52",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-found-17-conversion-killers-on-saas-homepages-in-one-hour-052986b21c",
+        "title": "I Found 17 Conversion Killers on SaaS Homepages in One Hour",
+        "url": "https://www.indiehackers.com/post/i-found-17-conversion-killers-on-saas-homepages-in-one-hour-052986b21c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/caplyo-territory-scout?post=Z9Fc3z8Fnl9icz9sNCcZ",
+        "title": "Caplyo Territory Scout: I built a tool that scores market saturation for any US zip code in 30 seconds. Looking for 10 beta testers.",
+        "url": "https://www.indiehackers.com/product/caplyo-territory-scout?post=Z9Fc3z8Fnl9icz9sNCcZ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/a-5-figure-mrr-success-after-a-failed-product-buried-him-in-debt-jzXCQaChntz3v1usYLz5",
+        "title": "A 5-figure-MRR success after a failed product buried him in debt",
+        "url": "https://www.indiehackers.com/post/tech/a-5-figure-mrr-success-after-a-failed-product-buried-him-in-debt-jzXCQaChntz3v1usYLz5",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
