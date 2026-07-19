@@ -16,6 +16,7 @@
     "/startups/assembly-studio": "2026-06-08",
     "/startups/augurine": "2026-05-12",
     "/startups/axisone": "2026-06-29",
+    "/startups/barakah-tasks": "2026-07-19",
     "/startups/beautybound": "2026-06-09",
     "/startups/bizsupply": "2026-05-07",
     "/startups/blogseo-2": "2026-06-21",
@@ -93,6 +94,7 @@
     "/startups/livediagram": "2026-07-15",
     "/startups/loot-2": "2026-07-05",
     "/startups/lotto-predictions": "2026-07-07",
+    "/startups/lyzer-ai": "2026-07-19",
     "/startups/mailberry": "2026-07-18",
     "/startups/maintouch": "2026-07-08",
     "/startups/markty": "2026-06-01",
@@ -151,6 +153,7 @@
     "/startups/stat-sniper": "2026-07-18",
     "/startups/stewai": "2026-07-06",
     "/startups/stewie-reflect": "2026-06-30",
+    "/startups/surfmind": "2026-07-19",
     "/startups/tateru-pro": "2026-05-23",
     "/startups/telyn": "2026-06-12",
     "/startups/teno": "2026-06-25",
@@ -1321,7 +1324,22 @@
     "48952507": "2026-07-18",
     "48952508": "2026-07-18",
     "48953349": "2026-07-18",
-    "48955042": "2026-07-18"
+    "48955042": "2026-07-18",
+    "48956234": "2026-07-19",
+    "48957230": "2026-07-19",
+    "48957476": "2026-07-19",
+    "48957581": "2026-07-19",
+    "48957639": "2026-07-19",
+    "48957814": "2026-07-19",
+    "48958119": "2026-07-19",
+    "48958474": "2026-07-19",
+    "48958854": "2026-07-19",
+    "48959248": "2026-07-19",
+    "48960551": "2026-07-19",
+    "48961120": "2026-07-19",
+    "48962931": "2026-07-19",
+    "48963286": "2026-07-19",
+    "48965137": "2026-07-19"
   },
   "indiehackers": {
     "https://www.indiehackers.com/post/11-weeks-ago-i-had-0-users-now-vidi-has-reviewed-10m-in-contracts-and-i-m-opening-a-small-safe-round-7e9ac36d9b": "2026-05-11",
@@ -1510,6 +1528,7 @@
     "https://www.indiehackers.com/post/show-ih-i-built-a-tool-that-tells-site-owners-what-content-to-create-looking-for-10-people-to-break-it-6779cc1337": "2026-05-06",
     "https://www.indiehackers.com/post/show-ih-i-launched-a-saas-with-no-audience-heres-what-happened-in-the-first-week-7d911dae8e": "2026-05-03",
     "https://www.indiehackers.com/post/show-ih-im-building-a-lead-gen-crm-tool-for-web-designers-targeting-local-businesses-without-websites-starting-with-spain-5cc8a2d16c": "2026-05-18",
+    "https://www.indiehackers.com/post/signalshunt-one-month-later-the-features-you-asked-for-and-the-bug-that-humbled-me-da53c43337": "2026-07-19",
     "https://www.indiehackers.com/post/small-businesses-arent-asking-for-more-features-they-re-asking-for-fewer-problems-6a404937d1": "2026-06-12",
     "https://www.indiehackers.com/post/solo-dev-here-nobody-using-my-app-how-do-you-actually-do-marketing-4e4bfad079": "2026-05-27",
     "https://www.indiehackers.com/post/startups-are-not-small-businesses-8815059f82": "2026-05-03",
@@ -1760,6 +1779,7 @@
     "https://www.indiehackers.com/product/scamlens?post=zIRb79cLDNIKChxzbZ3E": "2026-07-05",
     "https://www.indiehackers.com/product/shipahead?post=hxslWDKNzJsVhE4a7RfX": "2026-05-06",
     "https://www.indiehackers.com/product/shipfit-ai?post=jZsDAMRNP4p1CQOZJnKh": "2026-07-06",
+    "https://www.indiehackers.com/product/signalshunt?post=3P8I9L1oyU2K3OATQJtm": "2026-07-19",
     "https://www.indiehackers.com/product/signalshunt?post=EZgkTc0aLx226zIHaV15": "2026-07-16",
     "https://www.indiehackers.com/product/storrx?post=ZzPkUkFqTzdli0SEuNQI": "2026-06-18",
     "https://www.indiehackers.com/product/techloghub?post=LZryKUFNHG5FYnjPADe8": "2026-07-11",
@@ -1768,6 +1788,7 @@
     "https://www.indiehackers.com/product/valta?post=eWCM5GON7ti7pja6LGLu": "2026-06-15",
     "https://www.indiehackers.com/product/who-owes-what?post=hV6SCRVvQ3ZgpHMp4NVu": "2026-05-22",
     "https://www.indiehackers.com/product/wordlock?post=AXWWiSapuIU0C3e828jj": "2026-07-15",
+    "https://www.indiehackers.com/product/xreply?post=PNTxJhC1tvFU3RQNflA6": "2026-07-19",
     "https://www.indiehackers.com/product/zol-ai-studio?post=8BICnRWea7lwHl5AdMJD": "2026-05-14",
     "https://www.indiehackers.com/product/zopnight?post=gOp4o41GR6gM9DaDt4XB": "2026-07-01",
     "https://www.indiehackers.com/products": "2026-05-21"
@@ -1930,6 +1951,7 @@
     "workclaw": "2026-06-23",
     "yansu": "2026-05-27",
     "zaro": "2026-06-26",
-    "zed-1-0": "2026-05-03"
+    "zed-1-0": "2026-05-03",
+    "zoodata-3": "2026-07-19"
   }
 }

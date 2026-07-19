@@ -1,0 +1,202 @@
+{
+  "scan_time": "2026-07-19T08:15:39.794157+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "zoodata-3",
+        "name": "ZooData",
+        "tagline": "The data layer for AI agents",
+        "description": "ZooData turns any URL into agent-ready JSON, so AI agents can work with structured data instead of raw HTML or bloated markdown. Use ~75% fewer LLM tokens, pay only for the fields you use, and skip extra extraction credits.Beyond extraction, ZooData gives agents pre-analyzed e-commerce intelligence — competitor, market, traffic, and consumer insights — live for Amazon and TikTok. API, CLI, and MCP server included. Start with 1,000 free credits, no card required.",
+        "votes": 593,
+        "ph_url": "https://www.producthunt.com/posts/zoodata-3",
+        "website": "https://www.producthunt.com/r/2S6BVJ6IPXLOG5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "E-Commerce"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48958854",
+        "name": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+        "url": "https://q3edit.com",
+        "points": 84,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=48958854"
+      },
+      {
+        "id": "48960551",
+        "name": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+        "url": "https://imaxxing.io/",
+        "points": 30,
+        "comments": 51,
+        "hn_url": "https://news.ycombinator.com/item?id=48960551"
+      },
+      {
+        "id": "48963286",
+        "name": "Show HN: Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
+        "url": "https://ilya-papers-quest.naigap.com/#/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48963286"
+      },
+      {
+        "id": "48958474",
+        "name": "Show HN: Japan and Korea Parliament Members Archive",
+        "url": "https://eastasiainsights.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48958474"
+      },
+      {
+        "id": "48957476",
+        "name": "Show HN: PixelUp – A 100% offline, lightweight AI video upscaler for Windows",
+        "url": "https://steelsoft.site/software/PixelUp_home.html",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48957476"
+      },
+      {
+        "id": "48957639",
+        "name": "Show HN: ride-recap, teaching a LLM my taste to automate cycling highlights",
+        "url": "https://www.iandmacomber.com/blog/gopro-garmin-gemini-ride-recap/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48957639"
+      },
+      {
+        "id": "48958119",
+        "name": "Show HN: iMessage is the best interface, so I built TypeScript SDK for it",
+        "url": "https://github.com/jmisilo/imessage-sdk",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48958119"
+      },
+      {
+        "id": "48957814",
+        "name": "Show HN: I Didn't Write a Single Line of My Framework Code",
+        "url": "https://no-js.dev/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48957814"
+      },
+      {
+        "id": "48961120",
+        "name": "Show HN: Peek-CLI: Let Claude Code iterate on front end designs",
+        "url": "https://github.com/puffinsoft/peek-cli",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48961120"
+      },
+      {
+        "id": "48962931",
+        "name": "Show HN: RewindCup – explore 23 World Cups on an interactive globe",
+        "url": "https://rewindcup.com",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48962931"
+      },
+      {
+        "id": "48957230",
+        "name": "Show HN: Safehttp – an SSRF-resistant HTTP client for Go",
+        "url": "https://github.com/ayuhito/safehttp",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48957230"
+      },
+      {
+        "id": "48965137",
+        "name": "Show HN: Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking",
+        "url": "https://zlvox.com/",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48965137"
+      },
+      {
+        "id": "48956234",
+        "name": "Show HN: Loris Tunnel – an open-source desktop manager for SSH tunnels",
+        "url": "https://github.com/RangerWolf/loris-tunnel-app",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48956234"
+      },
+      {
+        "id": "48957581",
+        "name": "Show HN: TrAIcer – capture your AI coding traces to sell later",
+        "url": "https://github.com/smashah/traicer",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48957581"
+      },
+      {
+        "id": "48959248",
+        "name": "Show HN: Randomly Generated ASCII Trees",
+        "url": "https://gist.githubusercontent.com/Soham-Saha/f6e8d25327ee86b915c53ac73e4eb7b3/raw/aeba99ece14c90b3145435bde322126de8d71ff0/trees.txt",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48959248"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/barakah-tasks",
+        "name": "Barakah Tasks",
+        "description": "Plan your tasks, family, and ibadah around salah",
+        "url": "https://betalist.com/startups/barakah-tasks"
+      },
+      {
+        "id": "/startups/surfmind",
+        "name": "SurfMind",
+        "description": "Instant AI assistant on your browser",
+        "url": "https://betalist.com/startups/surfmind"
+      },
+      {
+        "id": "/startups/lyzer-ai",
+        "name": "Lyzer.ai",
+        "description": "Write winning RFP proposals 70% faster with intelligent automation",
+        "url": "https://betalist.com/startups/lyzer-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/signalshunt-one-month-later-the-features-you-asked-for-and-the-bug-that-humbled-me-da53c43337",
+        "title": "SignalsHunt one month later — the features you asked for, and the bug that humbled me",
+        "url": "https://www.indiehackers.com/post/signalshunt-one-month-later-the-features-you-asked-for-and-the-bug-that-humbled-me-da53c43337",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/signalshunt?post=3P8I9L1oyU2K3OATQJtm",
+        "title": "SignalsHunt one month later —the features you asked for,and the bug that humbled me",
+        "url": "https://www.indiehackers.com/product/signalshunt?post=3P8I9L1oyU2K3OATQJtm",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/xreply?post=PNTxJhC1tvFU3RQNflA6",
+        "title": "XReply: Replying on X was eating too much time.",
+        "url": "https://www.indiehackers.com/product/xreply?post=PNTxJhC1tvFU3RQNflA6",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 3
+    }
+  }
+}
