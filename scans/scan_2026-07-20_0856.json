@@ -1,0 +1,242 @@
+{
+  "scan_time": "2026-07-20T08:56:43.140259+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "openseo",
+        "name": "OpenSEO",
+        "tagline": "The open source Ahrefs alternative",
+        "description": "Without good data, your agent gives generic advice. Keyword research, competitor research, backlinks and site audits, starting at $10/month instead of a $100-plus monthly subscription. Connect with MCP so that you can work with your agent to build an SEO strategy and write content tailored to your company.",
+        "votes": 695,
+        "ph_url": "https://www.producthunt.com/posts/openseo",
+        "website": "https://www.producthunt.com/r/Y35NVXDA24JBBT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Marketing",
+          "SEO"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "zro",
+        "name": "Zro",
+        "tagline": "Private inference for coding agents",
+        "description": "Fast and optimized open-model inference on multi-region infrastructure with zero request retention.",
+        "votes": 511,
+        "ph_url": "https://www.producthunt.com/posts/zro",
+        "website": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Tech",
+          "Vercel Day"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48968606",
+        "name": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "url": "",
+        "points": 2242,
+        "comments": 238,
+        "hn_url": "https://news.ycombinator.com/item?id=48968606"
+      },
+      {
+        "id": "48971847",
+        "name": "Show HN: A canvas-based note taking and organizer app",
+        "url": "https://www.passinote.app/",
+        "points": 53,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=48971847"
+      },
+      {
+        "id": "48969051",
+        "name": "Show HN: Bribes.fyi – Built something to report bribes",
+        "url": "https://bribes.fyi/",
+        "points": 31,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=48969051"
+      },
+      {
+        "id": "48970684",
+        "name": "Show HN: How much profit does your employer make per employee?",
+        "url": "https://yourfairshare.info",
+        "points": 14,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=48970684"
+      },
+      {
+        "id": "48966939",
+        "name": "Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir",
+        "url": "https://github.com/CaviraOSS/Akashic",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48966939"
+      },
+      {
+        "id": "48967220",
+        "name": "Show HN: Textcaster – social networking where RSS is the protocol",
+        "url": "https://textcaster.app",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48967220"
+      },
+      {
+        "id": "48971042",
+        "name": "Show HN: Chalie – AI peer not employee",
+        "url": "https://github.com/chalie-ai/chalie",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48971042"
+      },
+      {
+        "id": "48968295",
+        "name": "Show HN: PostgreSQL course with database running in your browser",
+        "url": "https://learnpg.xyz",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48968295"
+      },
+      {
+        "id": "48971669",
+        "name": "Show HN: ShipMD.app – Moving things in folders, move things in the real world",
+        "url": "https://shipmd.app",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48971669"
+      },
+      {
+        "id": "48966808",
+        "name": "Show HN: Same castle prompt, 8 LLMs, 24 procedural Three.js worlds",
+        "url": "https://castle-bakeoff.pages.dev/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48966808"
+      },
+      {
+        "id": "48972350",
+        "name": "Show HN: A self-hosted AI that turns Hacker News into a daily briefing",
+        "url": "https://github.com/RecNes/hn-ai-summarizer",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48972350"
+      },
+      {
+        "id": "48974142",
+        "name": "Show HN: Local-first CLI to make Obsidian vaults searchable for AI agents",
+        "url": "https://github.com/nmdra/notebrain-cli",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48974142"
+      },
+      {
+        "id": "48966965",
+        "name": "Show HN:MinIO-dash – MinIO admin panel after they removed the Console in 2025",
+        "url": "https://github.com/MarceliRacis/minio-dash",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48966965"
+      },
+      {
+        "id": "48966546",
+        "name": "Show HN: Inertia, Physics in a Terminal",
+        "url": "https://inertia-web.github.io/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48966546"
+      },
+      {
+        "id": "48969619",
+        "name": "Show HN: Phosphor – a CRT TV video player for your Mac",
+        "url": "https://github.com/JoAz111/Phosphor",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=48969619"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/pinchstreet",
+        "name": "PinchStreet",
+        "description": "Swipe to discover and invest in stocks solo or with your kids",
+        "url": "https://betalist.com/startups/pinchstreet"
+      },
+      {
+        "id": "/startups/archybase",
+        "name": "ArchyBase",
+        "description": "Turn photos and sketches into photorealistic interior and exterior designs",
+        "url": "https://betalist.com/startups/archybase"
+      },
+      {
+        "id": "/startups/schedpilot",
+        "name": "SchedPilot",
+        "description": "Social media management for AI agents and traditional users",
+        "url": "https://betalist.com/startups/schedpilot"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/matdrop?post=DKZdAZEz9BKyXYmEGbUd",
+        "title": "MatDrop: Live since March, 4,000+ gyms, $0 revenue",
+        "url": "https://www.indiehackers.com/product/matdrop?post=DKZdAZEz9BKyXYmEGbUd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/vortyx?post=r3qb8gQf8xxbFbEHJmJH",
+        "title": "Vortyx: We launched an AI assistant for unfinished work. Is the problem clear enough?",
+        "url": "https://www.indiehackers.com/product/vortyx?post=r3qb8gQf8xxbFbEHJmJH",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/client-koi?post=hENiLEpzpHQTRIe9xQEn",
+        "title": "Client Koi: I built an open-source Google Maps scraper to automate B2B lead gen (Free)",
+        "url": "https://www.indiehackers.com/product/client-koi?post=hENiLEpzpHQTRIe9xQEn",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/your-meeting-ai-vendor-shouldn-t-be-able-to-read-your-transcripts-so-we-made-that-a-hard-architectural-constraint-ac03288df1",
+        "title": "Your meeting AI vendor shouldn’t be able to read your transcripts — so we made that a hard architectural constraint",
+        "url": "https://www.indiehackers.com/post/your-meeting-ai-vendor-shouldn-t-be-able-to-read-your-transcripts-so-we-made-that-a-hard-architectural-constraint-ac03288df1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/https-thecalctools-com?post=qgf4Dl7EawhEeFkraP0Z",
+        "title": "Launched two products – Bioixa AI & TheCalcTools – AMA or roast my landing pages",
+        "url": "https://www.indiehackers.com/product/https-thecalctools-com?post=qgf4Dl7EawhEeFkraP0Z",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-built-an-ai-native-crm-then-mostly-stopped-saying-ai-in-sales-calls-here-s-why-47a333422f",
+        "title": "We built an AI-native CRM, then mostly stopped saying \"AI\" in sales calls. Here's why",
+        "url": "https://www.indiehackers.com/post/we-built-an-ai-native-crm-then-mostly-stopped-saying-ai-in-sales-calls-here-s-why-47a333422f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-to-catch-churn-signals-before-they-show-in-usage-data-22665bf04c",
+        "title": "How to catch churn signals before they show in usage data",
+        "url": "https://www.indiehackers.com/post/how-to-catch-churn-signals-before-they-show-in-usage-data-22665bf04c",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
