@@ -1,0 +1,252 @@
+{
+  "scan_time": "2026-07-21T08:26:53.361594+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "fuzzy-ai-2",
+        "name": "Fuzzy AI",
+        "tagline": "We warm your prospects before reaching out",
+        "description": "Cold outreach gets ignored because prospects do not know you yet. Fuzzy warms them before you ever reach out by finding people already engaging in your market, helping you stay visible through content and thoughtful comments, then launching personalised LinkedIn and email campaigns in your voice. Research, enrichment, sequences, replies and team workflows live in one place. Customers call it intuitive, seamless and more comprehensive than the tools they used before.",
+        "votes": 649,
+        "ph_url": "https://www.producthunt.com/posts/fuzzy-ai-2",
+        "website": "https://www.producthunt.com/r/TZH7KMCWHJXAY5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Artificial Intelligence",
+          "Vercel Day",
+          "OpenAI Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "nautis-2",
+        "name": "Nautis",
+        "tagline": "The AI-native Operating System for founders.",
+        "description": "Nautis is the AI-native Operating System for founders. Manage fundraising, planning, finance, documents, meetings, CRM, hiring, and daily operations from one connected workspace. Unlike disconnected SaaS tools, every module shares one AI brain, giving you context-aware automation, smarter insights, and a Chief of Staff that understands your business—not just one app. Spend less time managing tools and more time building.",
+        "votes": 508,
+        "ph_url": "https://www.producthunt.com/posts/nautis-2",
+        "website": "https://www.producthunt.com/r/RVQOOZX7DXALRT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "clark-8",
+        "name": "Clark",
+        "tagline": "An AI coworker with its own cloud computer",
+        "description": "Clark is an AI coworker with its own cloud computer - browser, terminal, files, and code. Hand it a real task, close the tab, and come back to finished work: wide, sourced research; websites; spreadsheets; decks; audits; or tested code. It can fan work out to parallel specialists, run on a schedule, and return artifacts with the evidence behind them. Use Clark on web or mobile, work in real repositories with Clark Code, or embed the agent through an OpenAI-compatible API.",
+        "votes": 497,
+        "ph_url": "https://www.producthunt.com/posts/clark-8",
+        "website": "https://www.producthunt.com/r/YDCFYTSZJ66D6D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48984254",
+        "name": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+        "url": "https://vincentwoo.com/3d/grace_cathedral/",
+        "points": 155,
+        "comments": 33,
+        "hn_url": "https://news.ycombinator.com/item?id=48984254"
+      },
+      {
+        "id": "48980167",
+        "name": "Show HN: Wheesper – Start an anonymous discussion with a link",
+        "url": "https://wheesper.com/",
+        "points": 34,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=48980167"
+      },
+      {
+        "id": "48988158",
+        "name": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+        "url": "https://exsitu.app/map",
+        "points": 27,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48988158"
+      },
+      {
+        "id": "48978961",
+        "name": "Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
+        "url": "https://github.com/dawndrain/movie-gen",
+        "points": 18,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=48978961"
+      },
+      {
+        "id": "48978880",
+        "name": "Show HN: The0 – self-hosted runtime for trading bots, bring your own language",
+        "url": "https://github.com/alexanderwanyoike/the0",
+        "points": 13,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48978880"
+      },
+      {
+        "id": "48978841",
+        "name": "Show HN: OTP Inspired actor supervisor based full stack templates",
+        "url": "https://shipstacks.tech",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48978841"
+      },
+      {
+        "id": "48983277",
+        "name": "Show HN: cbxy – A format for creating guided comic book experiences",
+        "url": "https://github.com/ngafar/cbxy",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48983277"
+      },
+      {
+        "id": "48986762",
+        "name": "Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
+        "url": "https://useekko.app/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48986762"
+      },
+      {
+        "id": "48976989",
+        "name": "Show HN: A comprehensive, filterable list of AI agent jails",
+        "url": "https://pleasedonotescape.com/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48976989"
+      },
+      {
+        "id": "48988093",
+        "name": "Show HN: UEFI Bootloader for TempleOS",
+        "url": "https://codeberg.org/0x2f22d23e/UwUEFI",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48988093"
+      },
+      {
+        "id": "48987618",
+        "name": "Show HN: Turn casual photos into professional headshots with AI",
+        "url": "https://portraify.app",
+        "points": 7,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48987618"
+      },
+      {
+        "id": "48986912",
+        "name": "Show HN: I made email signatures less boring",
+        "url": "https://esigna.app",
+        "points": 6,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48986912"
+      },
+      {
+        "id": "48982322",
+        "name": "Show HN: GPU Accelerated Desktop Screen Flash Filter (Photosensitive Epilepsy)",
+        "url": "https://flashfilter.app/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48982322"
+      },
+      {
+        "id": "48984040",
+        "name": "Show HN: Visual-HN – a hcker.news reader with images",
+        "url": "https://hn.is-ai-good-yet.com/?view=frontpage",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48984040"
+      },
+      {
+        "id": "48978565",
+        "name": "Show HN: A 16-control subtractive synth for microcontrollers (39k ELF, web demo)",
+        "url": "https://mini000.itch.io/beeper",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48978565"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/ant-app",
+        "name": "Ant App",
+        "description": "Hire verified local workers with escrow and instant payments",
+        "url": "https://betalist.com/startups/ant-app"
+      },
+      {
+        "id": "/startups/libas-collective",
+        "name": "Libas Collective",
+        "description": "Buy and sell authenticated pre-owned luxury fashion worldwide",
+        "url": "https://betalist.com/startups/libas-collective"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-that-turns-an-idea-into-a-live-business-in-under-10-minutes-here-s-what-1-000-launches-taught-me-4df62ca3f5",
+        "title": "I built an AI that turns an idea into a live business in under 10 minutes. Here’s what 1,000 launches taught me",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-that-turns-an-idea-into-a-live-business-in-under-10-minutes-here-s-what-1-000-launches-taught-me-4df62ca3f5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-noodle-a-keyboard-first-rest-client-for-the-terminal-d99a1411dc",
+        "title": "Building Noodle, a keyboard-first REST client for the terminal",
+        "url": "https://www.indiehackers.com/post/building-noodle-a-keyboard-first-rest-client-for-the-terminal-d99a1411dc",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-operational-gap-we-noticed-while-talking-to-growing-teams-78a8143b37",
+        "title": "The operational gap we noticed while talking to growing teams",
+        "url": "https://www.indiehackers.com/post/the-operational-gap-we-noticed-while-talking-to-growing-teams-78a8143b37",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=1ZqQijwxuHfsri41XFcV",
+        "title": "IbexAI: How I increased my cold email reply rate by 245%",
+        "url": "https://www.indiehackers.com/product/ibexai?post=1ZqQijwxuHfsri41XFcV",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ascendme?post=XhdlmMijnku3xLBIhaaz",
+        "title": "AscendMe: 3,000 visitors but 0 customers. What am I missing?",
+        "url": "https://www.indiehackers.com/product/ascendme?post=XhdlmMijnku3xLBIhaaz",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/mention-network?post=oUfgYLILBitJUp7LVqhW",
+        "title": "Mention Network: The reseller blind spot: your brand can be \"visible\" in AI and still lose the sale.",
+        "url": "https://www.indiehackers.com/product/mention-network?post=oUfgYLILBitJUp7LVqhW",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/after-five-failed-products-this-founder-quit-his-job-and-hit-7-5k-mo-in-12-months-xaDBfmynasknHQkim3sO",
+        "title": "After five failed products, this founder quit his job and hit $7.5k/mo in 12 months",
+        "url": "https://www.indiehackers.com/post/tech/after-five-failed-products-this-founder-quit-his-job-and-hit-7-5k-mo-in-12-months-xaDBfmynasknHQkim3sO",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
