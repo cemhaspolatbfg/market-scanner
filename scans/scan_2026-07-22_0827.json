@@ -1,0 +1,250 @@
+{
+  "scan_time": "2026-07-22T08:27:31.936612+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "lev8",
+        "name": "Lev8",
+        "tagline": "Find, research, and reach the right people",
+        "description": "Chat with Lev8, the fastest way to find and reach your target people and companies, powered by live web search via parallel AI agents across every corner of the internet. Enrich CSVs with waterfall lookups, monitor intent signals, and send personalized multi-channel messages, all running automatically.",
+        "votes": 547,
+        "ph_url": "https://www.producthunt.com/posts/lev8",
+        "website": "https://www.producthunt.com/r/IITOSI26P6BQTV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Artificial Intelligence",
+          "Marketing automation"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "kimi-k3-3",
+        "name": "Kimi K3",
+        "tagline": "The world's first open 3T-class model",
+        "description": "Kimi K3 is the world's first open 3T-class model — frontier performance across coding, knowledge work, and reasoning, with native multimodality and 1M context.",
+        "votes": 498,
+        "ph_url": "https://www.producthunt.com/posts/kimi-k3-3",
+        "website": "https://www.producthunt.com/r/YT3DDK5NRLBZDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "loova-ads-studio",
+        "name": "Loova Ads Studio",
+        "tagline": "Create AI ads that convert, not just look good",
+        "description": "Loova Ads Studio is an all-in-one AI ad studio that creates UGC videos, product commercials, avatar videos, and static creatives. Built for conversions, not just visuals, it helps brands and agencies make high-performing ads for under $2 each.",
+        "votes": 488,
+        "ph_url": "https://www.producthunt.com/posts/loova-ads-studio",
+        "website": "https://www.producthunt.com/r/7WSRFJ4UO3U5WQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Advertising",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "48996187",
+        "name": "Show HN: A self-running space economy SIM in Rust and Bevy",
+        "url": "https://github.com/Kalcode/spaceprojectsim",
+        "points": 101,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=48996187"
+      },
+      {
+        "id": "48995444",
+        "name": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+        "url": "https://github.com/cristibaluta/Imagin-Raw",
+        "points": 61,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=48995444"
+      },
+      {
+        "id": "48995181",
+        "name": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+        "url": "https://github.com/AlmanacCode/codealmanac/",
+        "points": 51,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=48995181"
+      },
+      {
+        "id": "49002344",
+        "name": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+        "url": "https://www.readkinetic.com/app/",
+        "points": 49,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=49002344"
+      },
+      {
+        "id": "48998828",
+        "name": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+        "url": "https://www.getcomputable.com/",
+        "points": 41,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=48998828"
+      },
+      {
+        "id": "48995304",
+        "name": "Show HN: Word in Web – Near MS Word Parity Docx Editor in Web",
+        "url": "https://word-in-web.com/",
+        "points": 33,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=48995304"
+      },
+      {
+        "id": "49002276",
+        "name": "Show HN: A new kind of FPS aim trainer",
+        "url": "https://openaim.pramit.gg/",
+        "points": 31,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49002276"
+      },
+      {
+        "id": "48994984",
+        "name": "Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
+        "url": "https://github.com/Observal/Observal",
+        "points": 21,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48994984"
+      },
+      {
+        "id": "48992699",
+        "name": "Show HN: Anypost – transactional and broadcast email API, 8¢ per 1k",
+        "url": "https://anypost.com",
+        "points": 20,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48992699"
+      },
+      {
+        "id": "48994186",
+        "name": "Show HN: An MCP server that turns async-work practices into tools",
+        "url": "https://github.com/open-and-async/mcp",
+        "points": 19,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=48994186"
+      },
+      {
+        "id": "48995754",
+        "name": "Show HN: I left Figma to build a diffusion-based UI design tool",
+        "url": "https://diffui.ai/blog/show-hn",
+        "points": 18,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=48995754"
+      },
+      {
+        "id": "48995671",
+        "name": "Show HN: Language Model Builder (an app to learn about and build models)",
+        "url": "https://languagemodelbuilder.com/",
+        "points": 15,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48995671"
+      },
+      {
+        "id": "48996269",
+        "name": "Show HN: Fractal – recursive agent loops for complex, multi-step work",
+        "url": "https://github.com/plasma-ai/fractal",
+        "points": 14,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=48996269"
+      },
+      {
+        "id": "48997941",
+        "name": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
+        "url": "https://orate.to/",
+        "points": 11,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=48997941"
+      },
+      {
+        "id": "48998262",
+        "name": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
+        "url": "https://libretto.sh/browser-tools",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48998262"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/hoaboardstack",
+        "name": "BoardStack",
+        "description": "Professional HOA management tools for self-managed communities",
+        "url": "https://betalist.com/startups/hoaboardstack"
+      },
+      {
+        "id": "/startups/skinai",
+        "name": "SkinAI",
+        "description": "Scan and identify 62+ skin conditions including rash, nevus, eczema, and ps",
+        "url": "https://betalist.com/startups/skinai"
+      },
+      {
+        "id": "/startups/beautifyx",
+        "name": "Beautifyx",
+        "description": "Booking, marketing, and growth software for beauty professionals",
+        "url": "https://betalist.com/startups/beautifyx"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/saasoffers?post=AgBHpyQVsKOCmAfeVp1Y",
+        "title": "SaasOffers: My client's site started getting cited in AI after 2 weeks (just from Reddit)",
+        "url": "https://www.indiehackers.com/product/saasoffers?post=AgBHpyQVsKOCmAfeVp1Y",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/link-analytics-tools-hand-you-numbers-what-marketers-actually-need-is-a-verdict-2fd71e4c31",
+        "title": "Link analytics tools hand you numbers. What marketers actually need is a verdict.",
+        "url": "https://www.indiehackers.com/post/link-analytics-tools-hand-you-numbers-what-marketers-actually-need-is-a-verdict-2fd71e4c31",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=xAKy2407Sd2FtwRT64EB",
+        "title": "IbexAI: Built a SaaS in 32 minutes. Reached $1million MRR. Rejected a $5b acquisition.",
+        "url": "https://www.indiehackers.com/product/ibexai?post=xAKy2407Sd2FtwRT64EB",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=HSS1gzyVvYvDZ2QQkqWD",
+        "title": "DiscountHub: I built the product. Now I’m looking for the right growth co-founder.",
+        "url": "https://www.indiehackers.com/product/discounthub?post=HSS1gzyVvYvDZ2QQkqWD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/from-idea-to-sellable-product-in-48-hours-with-a-200-budget-day-4-numbers-inside-ae001a6d63",
+        "title": "From idea to sellable product in 48 hours with a $200 budget: day-4 numbers inside",
+        "url": "https://www.indiehackers.com/post/from-idea-to-sellable-product-in-48-hours-with-a-200-budget-day-4-numbers-inside-ae001a6d63",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/looks-good-to-me-is-quietly-killing-your-feedback-loop-9d0da2bc20",
+        "title": "\"Looks Good to Me\" Is Quietly Killing Your Feedback Loop",
+        "url": "https://www.indiehackers.com/post/looks-good-to-me-is-quietly-killing-your-feedback-loop-9d0da2bc20",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
