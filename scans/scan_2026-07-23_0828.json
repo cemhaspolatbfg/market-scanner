@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-07-23T08:28:26.843895+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "buzzy-2",
+        "name": "Buzzy",
+        "tagline": "Your creative AI co-director",
+        "description": "Buzzy is the first truly agentic infinite canvas for video creation. It helps you spark ideas, build moodboards, and precisely photoshop your video in one click — while creating unlimited-length blockbuster films and commercial ads, keeping unlimited subjects consistent, controlling lighting and camera angles, and precisely editing video like photoshop in one workspace.",
+        "votes": 510,
+        "ph_url": "https://www.producthunt.com/posts/buzzy-2",
+        "website": "https://www.producthunt.com/r/3CNNP4C2NOIRFY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Movies",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "humalike-x-hermes",
+        "name": "Humalike x Hermes",
+        "tagline": "Social intelligence plugin for Hermes Agent",
+        "description": "One command gives your Hermes agent social intelligence. It decides when to speak, adapts to your group's tone and remembers who said what. Works in group chats on Slack, Telegram and WhatsApp.",
+        "votes": 493,
+        "ph_url": "https://www.producthunt.com/posts/humalike-x-hermes",
+        "website": "https://www.producthunt.com/r/7WFK7BDIY5DLKG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49008211",
+        "name": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "url": "https://bento.page/slides/",
+        "points": 804,
+        "comments": 177,
+        "hn_url": "https://news.ycombinator.com/item?id=49008211"
+      },
+      {
+        "id": "49008406",
+        "name": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
+        "url": "https://www.orangecrumbs.com/hall/",
+        "points": 198,
+        "comments": 37,
+        "hn_url": "https://news.ycombinator.com/item?id=49008406"
+      },
+      {
+        "id": "49010782",
+        "name": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+        "url": "https://github.com/cactus-compute/cactus-hybrid",
+        "points": 127,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=49010782"
+      },
+      {
+        "id": "49009324",
+        "name": "Show HN: Web swing through midtown NYC",
+        "url": "https://www.swingnyc.com/",
+        "points": 69,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=49009324"
+      },
+      {
+        "id": "49006862",
+        "name": "Show HN: Agent in 9 Lines Python",
+        "url": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
+        "points": 17,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49006862"
+      },
+      {
+        "id": "49006149",
+        "name": "Show HN: Housecat.com – Gmail + durable workflows + sandbox VM",
+        "url": "https://housecat.com/",
+        "points": 15,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49006149"
+      },
+      {
+        "id": "49007024",
+        "name": "Show HN: Maptoolkit.org – Free and beautiful vector maps",
+        "url": "https://www.maptoolkit.org/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49007024"
+      },
+      {
+        "id": "49015852",
+        "name": "Show HN: AgentNest, self-hosted sandboxes for AI agents",
+        "url": "https://github.com/mihirahuja1/agentnestOSS",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49015852"
+      },
+      {
+        "id": "49010890",
+        "name": "Show HN: Cartopolis – OpenStreetMap rendered like it's 1999",
+        "url": "https://seriot.ch/drawing/cartopolis/",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49010890"
+      },
+      {
+        "id": "49011806",
+        "name": "Show HN: Millwright – Rust-based, self-hosted LLM router",
+        "url": "https://github.com/Northwood-Systems/millwright",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49011806"
+      },
+      {
+        "id": "49014781",
+        "name": "Show HN: Vivace – A single-process Qt media player with interactive DVD menus",
+        "url": "https://github.com/Sportacandy/vivace",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49014781"
+      },
+      {
+        "id": "49007760",
+        "name": "Show HN: Langy, an automated AI engineer (we gave it a robot body) [video]",
+        "url": "https://langwatch.ai/blog/introducing-langy-your-automated-ai-engineer",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49007760"
+      },
+      {
+        "id": "49014246",
+        "name": "Show HN: ValuePair – a friendship app that cares about values first",
+        "url": "https://valuepair.app",
+        "points": 7,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49014246"
+      },
+      {
+        "id": "49007271",
+        "name": "Show HN: Ingot, evidence-gated optimization and version control for agent skills",
+        "url": "https://github.com/SlanchaAI/ingot",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49007271"
+      },
+      {
+        "id": "49013348",
+        "name": "Show HN: LiquidBrain – Unlimited Tokens. Unlimited Context. One Fixed Price",
+        "url": "https://liquidbrain.ai/",
+        "points": 6,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49013348"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/onepagey",
+        "name": "OnePagey",
+        "description": "Launch a one-page business website in 5 minutes",
+        "url": "https://betalist.com/startups/onepagey"
+      },
+      {
+        "id": "/startups/brainrot-shorts",
+        "name": "Brainrot Shorts",
+        "description": "Make any faceless video go viral",
+        "url": "https://betalist.com/startups/brainrot-shorts"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/greve?post=P2RVuvDeRj04wHQJnDiP",
+        "title": "Greve: Launching on Product Hunt today, but I need honest feedback more than upvotes.",
+        "url": "https://www.indiehackers.com/product/greve?post=P2RVuvDeRj04wHQJnDiP",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/devshield-ai?post=5dTfPfGFXvYY3ZnhDwfp",
+        "title": "DevShield AI: I Built an AI That Doesn't Just Detect Bugs—It Helps Developers Fix Them.",
+        "url": "https://www.indiehackers.com/product/devshield-ai?post=5dTfPfGFXvYY3ZnhDwfp",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launching-my-saas-only-buyer-database-today-on-product-hunt-heres-the-bet-i-made-on-pricing-396eb5bf31",
+        "title": "Launching my SaaS-only buyer database today on Product Hunt. Here's the bet I made on pricing.",
+        "url": "https://www.indiehackers.com/post/launching-my-saas-only-buyer-database-today-on-product-hunt-heres-the-bet-i-made-on-pricing-396eb5bf31",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/35k-views-1-5k-website-visits-still-zero-paid-customers-what-am-i-missing-a404387cbd",
+        "title": "35K+ views. 1.5K+ website visits. Still zero paid customers. What am I missing?",
+        "url": "https://www.indiehackers.com/post/35k-views-1-5k-website-visits-still-zero-paid-customers-what-am-i-missing-a404387cbd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-postponed-my-product-hunt-launch-because-90-lifetime-visits-is-not-an-audience-10c9d78bc6",
+        "title": "I postponed my Product Hunt launch because 90 lifetime visits is not an audience",
+        "url": "https://www.indiehackers.com/post/i-postponed-my-product-hunt-launch-because-90-lifetime-visits-is-not-an-audience-10c9d78bc6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/failing-6-times-before-hitting-a-7-figure-arr-in-10-months-with-no-code-3FvQoHUh2SglJvAJGkSF",
+        "title": "Failing 6 times before hitting a 7-figure ARR in 10 months with no code",
+        "url": "https://www.indiehackers.com/post/tech/failing-6-times-before-hitting-a-7-figure-arr-in-10-months-with-no-code-3FvQoHUh2SglJvAJGkSF",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
