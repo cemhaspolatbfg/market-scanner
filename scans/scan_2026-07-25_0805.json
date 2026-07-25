@@ -1,0 +1,201 @@
+{
+  "scan_time": "2026-07-25T08:05:01.110643+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "promptql-2",
+        "name": "PromptQL",
+        "tagline": "Multiplayer AI that replaces Slack",
+        "description": "Stop splitting team knowledge between Slack and everyone's private AI chats. PromptQL is multiplayer AI for teams: think Claude or ChatGPT in shared threads. Tag teammates to review, correct, and refine answers without losing the reasoning. Connect databases, SaaS apps, coding agents, and events. PromptQL captures tribal knowledge and suggests shared-brain updates so context compounds. Scopes and multi-user permissions keep the right context accessible to the right people.",
+        "votes": 467,
+        "ph_url": "https://www.producthunt.com/posts/promptql-2",
+        "website": "https://www.producthunt.com/r/UDARQUO4K2JLJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence",
+          "OpenAI Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "teable-3-0",
+        "name": "Teable 3.0",
+        "tagline": "AI Spreadsheet for Business",
+        "description": "Turn your business data into AI workflows and custom apps. Connect any system, migrate any data, and build anything that fits your business 100%.",
+        "votes": 458,
+        "ph_url": "https://www.producthunt.com/posts/teable-3-0",
+        "website": "https://www.producthunt.com/r/XNGC556XAKVRWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Spreadsheets",
+          "Artificial Intelligence",
+          "GitHub",
+          "OpenAI Day"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49041546",
+        "name": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+        "url": "https://github.com/apresta/max-studio-tools",
+        "points": 28,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49041546"
+      },
+      {
+        "id": "49033302",
+        "name": "Show HN: Audio Player with \"Binaural Beats\" tuned to the same key as your music",
+        "url": "https://github.com/henrygabriels/binaural-studio",
+        "points": 19,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49033302"
+      },
+      {
+        "id": "49040345",
+        "name": "Show HN: Twigg – open-source big-tech-like version control and software forge",
+        "url": "https://github.com/twigg-vc/monorepo",
+        "points": 17,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49040345"
+      },
+      {
+        "id": "49034474",
+        "name": "Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC",
+        "url": "https://x402vps.com",
+        "points": 13,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49034474"
+      },
+      {
+        "id": "49042653",
+        "name": "Show HN: How well do you use Claude Code?",
+        "url": "",
+        "points": 12,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49042653"
+      },
+      {
+        "id": "49036339",
+        "name": "Show HN: GeoImageTagger – AI image geotagging and metadata editor",
+        "url": "https://geoimagetagger.com",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49036339"
+      },
+      {
+        "id": "49034476",
+        "name": "Show HN: Uploads.sh – the missing upload command for coding agents (open-source)",
+        "url": "https://uploads.sh/",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49034476"
+      },
+      {
+        "id": "49041317",
+        "name": "Show HN: Open-weight OCR got so cheap I had to share it",
+        "url": "https://www.openparser.dev/cheapest-ocr",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49041317"
+      },
+      {
+        "id": "49033173",
+        "name": "Show HN: A static, client-side tarot calculator for Brazilian Portuguese",
+        "url": "https://meuarcanopessoal.net/",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49033173"
+      },
+      {
+        "id": "49037725",
+        "name": "Show HN: Jixp, a Lisp DSL for describing Jax neural nets",
+        "url": "https://github.com/baileywickham/jixp",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49037725"
+      },
+      {
+        "id": "49036750",
+        "name": "Show HN: Sigil – compile a SKILL.md the model MUST run, not \"might\"",
+        "url": "https://github.com/sigilagent/sigil",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49036750"
+      },
+      {
+        "id": "49036872",
+        "name": "Show HN: PocketLens – free, self-hosted Mint alternative via Plaid",
+        "url": "https://github.com/PocketLens/pocketlens-app",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49036872"
+      },
+      {
+        "id": "49035560",
+        "name": "Show HN: CockroachCrawler–1 package for crawling,browsers,PDF,extraction,and MCP",
+        "url": "https://github.com/AjnasNB/cockroach-crawler",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49035560"
+      },
+      {
+        "id": "49034163",
+        "name": "Show HN: YC Has It – describe your problem, find the YC startup that solves it",
+        "url": "https://www.ychasit.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49034163"
+      },
+      {
+        "id": "49034024",
+        "name": "Show HN: Chrome extension for clean, readable SEC filings (10-K, 10-Q, 8-K)",
+        "url": "https://chromewebstore.google.com/detail/sec-reader/jimblilpjbmhmgiooeobpabjnkadcoji",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49034024"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/kinu",
+        "name": "Kinu",
+        "description": "A private place to remember the little things about your people",
+        "url": "https://betalist.com/startups/kinu"
+      },
+      {
+        "id": "/startups/housekraft",
+        "name": "HouseKraft",
+        "description": "Upload a room photo to visualize flooring, paint, and furniture instantly",
+        "url": "https://betalist.com/startups/housekraft"
+      },
+      {
+        "id": "/startups/dataease",
+        "name": "DataEase AI",
+        "description": "Brand presence intelligence for founders and marketing teams",
+        "url": "https://betalist.com/startups/dataease"
+      }
+    ],
+    "indiehackers": []
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 0,
+      "new": 0
+    }
+  }
+}
