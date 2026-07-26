@@ -1,0 +1,239 @@
+{
+  "scan_time": "2026-07-26T08:24:41.895639+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "ditto-site",
+        "name": "ditto.site",
+        "tagline": "Clone any website into clean code. Free & open source",
+        "description": "Point Ditto at any public URL and get a faithful copy as clean, componentized Next.js or Vite code, in minutes. It's fully deterministic, so it's fast, cheap, and consistent. Components, tokens, interactions & hover states included. Free REST API + MCP server, open source.",
+        "votes": 450,
+        "ph_url": "https://www.producthunt.com/posts/ditto-site",
+        "website": "https://www.producthunt.com/r/HMFIHL7XJ25WLP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Open Source",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49049693",
+        "name": "Show HN: Brolly, a plain-text weather forecast site",
+        "url": "https://brolly.sh/forecast/RWFP2qW8",
+        "points": 182,
+        "comments": 55,
+        "hn_url": "https://news.ycombinator.com/item?id=49049693"
+      },
+      {
+        "id": "49054010",
+        "name": "Show HN: I mapped every US golf course",
+        "url": "https://golfcoursebrowser.com/",
+        "points": 113,
+        "comments": 57,
+        "hn_url": "https://news.ycombinator.com/item?id=49054010"
+      },
+      {
+        "id": "49050566",
+        "name": "Show HN: Bribes.fyi – Know before you go. New feature added",
+        "url": "https://bribes.fyi/before-you-go",
+        "points": 74,
+        "comments": 47,
+        "hn_url": "https://news.ycombinator.com/item?id=49050566"
+      },
+      {
+        "id": "49051130",
+        "name": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+        "url": "",
+        "points": 41,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49051130"
+      },
+      {
+        "id": "49049638",
+        "name": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
+        "url": "https://github.com/alokdhir/spinwin",
+        "points": 35,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49049638"
+      },
+      {
+        "id": "49050824",
+        "name": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
+        "url": "https://github.com/lucid-fabrics/proxmox-bluetooth",
+        "points": 26,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49050824"
+      },
+      {
+        "id": "49050803",
+        "name": "Show HN: Minesweeper Raycasted",
+        "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+        "points": 16,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49050803"
+      },
+      {
+        "id": "49053986",
+        "name": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+        "url": "https://synaptale.com/graph?ch=100",
+        "points": 15,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49053986"
+      },
+      {
+        "id": "49052181",
+        "name": "Show HN: Rudoc – a 4.5MB Rust document converter",
+        "url": "https://github.com/asong56/rudoc",
+        "points": 13,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49052181"
+      },
+      {
+        "id": "49047201",
+        "name": "Show HN: Jargo, a Go port of Pipecat for building realtime voice agents",
+        "url": "https://github.com/gojargo/jargo",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49047201"
+      },
+      {
+        "id": "49052913",
+        "name": "Show HN: Desktui – a remote desktop client for your terminal",
+        "url": "https://github.com/mishushakov/desktui",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49052913"
+      },
+      {
+        "id": "49051043",
+        "name": "Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
+        "url": "https://github.com/0hardik1/awsmux",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49051043"
+      },
+      {
+        "id": "49045838",
+        "name": "Show HN: Nostalgia – A shareable Windows 98 desktop builder",
+        "url": "https://nostalgia-stilloo.zocomputer.io/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49045838"
+      },
+      {
+        "id": "49046973",
+        "name": "Show HN: Cygnus – A fast, lightweight self-hostable serverless runtime and PaaS",
+        "url": "https://cygnus.run",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49046973"
+      },
+      {
+        "id": "49052552",
+        "name": "Show HN: Hubo – two agents that implement and review code until they agree",
+        "url": "https://github.com/h0ngcha0/hubo",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49052552"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/turner-ai",
+        "name": "Turner AI",
+        "description": "Edit any photo with AI in seconds, no login or watermark",
+        "url": "https://betalist.com/startups/turner-ai"
+      },
+      {
+        "id": "/startups/mailtwine",
+        "name": "Mailtwine",
+        "description": "AI email triage and assistant turning your inbox into an action list",
+        "url": "https://betalist.com/startups/mailtwine"
+      },
+      {
+        "id": "/startups/monroya",
+        "name": "Monroya",
+        "description": "Free AI-readiness check to see if AI recommends you or your competitor",
+        "url": "https://betalist.com/startups/monroya"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/rovaspace?post=DWbEXz2fKdZHWU77O6bV",
+        "title": "Rovaspace: Most remote teams don't have a communication problem.",
+        "url": "https://www.indiehackers.com/product/rovaspace?post=DWbEXz2fKdZHWU77O6bV",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-validating-a-b2b-idea-and-want-honest-reactions-093396d0c6",
+        "title": "I'm validating a B2B idea and want honest reactions.",
+        "url": "https://www.indiehackers.com/post/im-validating-a-b2b-idea-and-want-honest-reactions-093396d0c6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aproov?post=aCmleC4gBqFlWkuJP8EB",
+        "title": "Aproov: Bigger creators, worse results",
+        "url": "https://www.indiehackers.com/product/aproov?post=aCmleC4gBqFlWkuJP8EB",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/stop-losing-deals-in-the-gap-between-sounds-good-and-getting-paid-65b12c1351",
+        "title": "Stop losing deals in the gap between \"sounds good\" and getting paid",
+        "url": "https://www.indiehackers.com/post/stop-losing-deals-in-the-gap-between-sounds-good-and-getting-paid-65b12c1351",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/greve?post=0NQTrwk702YSIZso5KtD",
+        "title": "Greve: This one comment completely changed my product.",
+        "url": "https://www.indiehackers.com/product/greve?post=0NQTrwk702YSIZso5KtD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/greve?post=jXFgjKXdTU87SElSocqq",
+        "title": "Greve: Would a personalized landing page make you more likely to book a meeting?",
+        "url": "https://www.indiehackers.com/product/greve?post=jXFgjKXdTU87SElSocqq",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/randomverse?post=4AIDPIpN6zxGXBoTvC1H",
+        "title": "Randomverse: Reached 100+ views and our 1st real user on an algorithm-free social web app",
+        "url": "https://www.indiehackers.com/product/randomverse?post=4AIDPIpN6zxGXBoTvC1H",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/67k-impressions-in-2-days-from-a-single-daily-dev-post-heres-what-happened-ac5057bf0d",
+        "title": "67K impressions in 2 days from a single Daily-Dev post — here's what happened",
+        "url": "https://www.indiehackers.com/post/67k-impressions-in-2-days-from-a-single-daily-dev-post-heres-what-happened-ac5057bf0d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-15k-mo-by-purchasing-defunct-domains-and-building-for-pre-existing-demand-n5NdriCp6HBqm4ApZO05",
+        "title": "Hitting $15k/mo by purchasing defunct domains and building for pre-existing demand",
+        "url": "https://www.indiehackers.com/post/tech/hitting-15k-mo-by-purchasing-defunct-domains-and-building-for-pre-existing-demand-n5NdriCp6HBqm4ApZO05",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 9
+    }
+  }
+}
