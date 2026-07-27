@@ -1,0 +1,245 @@
+{
+  "scan_time": "2026-07-27T09:50:15.186289+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "fedica-2-0",
+        "name": "Fedica 2.0",
+        "tagline": "Publish and grow your profile across social apps",
+        "description": "For creators who want to succeed when their fans are fragmented across platforms. Know who engages, what they care about, and where they're from, with deep audience segmentation and demographics. Publish tailored posts on 12+ platforms. Connect with engagers from one inbox. 15 years of audience intelligence, built on Tweepsmap's geographic foundation. We put the people back in your analytics.",
+        "votes": 426,
+        "ph_url": "https://www.producthunt.com/posts/fedica-2-0",
+        "website": "https://www.producthunt.com/r/BUIW56GARKIM77?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Analytics",
+          "Marketing"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "pushary-4",
+        "name": "Pushary",
+        "tagline": "Approve AI requests from your lock screen",
+        "description": "One command connects your AI agents to your lock screen. When Claude Code, Codex, Cursor, Gemini CLI, Hermes, or Claude Cowork stops to ask, you tap yes from your phone and the run keeps moving. New in this launch: native iPhone and Android apps. Pairing is a QR code you scan from the terminal, no key to paste. Per-tool policies auto-approve the safe reads. Every decision lands in an audit trail.",
+        "votes": 410,
+        "ph_url": "https://www.producthunt.com/posts/pushary-4",
+        "website": "https://www.producthunt.com/r/FVVAIY5OGI5VVM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "kastra",
+        "name": "Kastra",
+        "tagline": "Runtime authorization for Claude, Cursor, Codex and OpenClaw",
+        "description": "Kastra is the runtime authorization layer for AI agents. It decides what agents can and cannot do before actions execute, enforcing policies with sub-1 ms latency across tools, prompts, inputs, and outputs. Use one control plane to govern agents and policies across Claude Code, Cursor, Codex, OpenClaw, the Anthropic SDK, the OpenAI SDK, and more. Prevent unauthorized tool use, prompt injection, and exposure of sensitive data before they become incidents. Trust the rules, not the agents.",
+        "votes": 399,
+        "ph_url": "https://www.producthunt.com/posts/kastra",
+        "website": "https://www.producthunt.com/r/PIAVHXT5GCZFUV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub",
+          "Security"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49057666",
+        "name": "Show HN: Reverse Minesweeper",
+        "url": "https://sunflowersgame.com/",
+        "points": 221,
+        "comments": 70,
+        "hn_url": "https://news.ycombinator.com/item?id=49057666"
+      },
+      {
+        "id": "49059398",
+        "name": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+        "url": "https://github.com/gmrandazzo/CheapSecurity",
+        "points": 129,
+        "comments": 26,
+        "hn_url": "https://news.ycombinator.com/item?id=49059398"
+      },
+      {
+        "id": "49063454",
+        "name": "Show HN: Distill and serve models with frontier quality for half the cost",
+        "url": "https://github.com/experientiallabs/world-model-optimizer",
+        "points": 43,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=49063454"
+      },
+      {
+        "id": "49061879",
+        "name": "Show HN: Infinite Jigsaw Game",
+        "url": "https://infinitejigsaw.com",
+        "points": 24,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=49061879"
+      },
+      {
+        "id": "49057767",
+        "name": "Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload",
+        "url": "https://github.com/openlake-project/openlake",
+        "points": 21,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49057767"
+      },
+      {
+        "id": "49061015",
+        "name": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "url": "https://github.com/hertz-ai/HARTOS",
+        "points": 18,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=49061015"
+      },
+      {
+        "id": "49057985",
+        "name": "Show HN: Managing on-premise servers without Kubernetes",
+        "url": "https://github.com/ricardoborges/Nautilus",
+        "points": 18,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49057985"
+      },
+      {
+        "id": "49060998",
+        "name": "Show HN: The Occult Gatsby",
+        "url": "https://occultgatsby.work",
+        "points": 18,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49060998"
+      },
+      {
+        "id": "49058396",
+        "name": "Show HN: A browser-based video editor that renders videos directly with FFmpeg",
+        "url": "https://github.com/thiagoalbrecht/weave",
+        "points": 16,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49058396"
+      },
+      {
+        "id": "49063648",
+        "name": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+        "url": "https://portzero.net/",
+        "points": 15,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49063648"
+      },
+      {
+        "id": "49056854",
+        "name": "Show HN: Wmux – A workspace multiplexer for AI agents",
+        "url": "https://github.com/openwong2kim/wmux",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49056854"
+      },
+      {
+        "id": "49062863",
+        "name": "Show HN: Discrete6502 – one thing led to another",
+        "url": "https://epatel.github.io/discrete6502/",
+        "points": 11,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49062863"
+      },
+      {
+        "id": "49063062",
+        "name": "Show HN: The Jac Programming Language",
+        "url": "https://jaclang.org/",
+        "points": 8,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49063062"
+      },
+      {
+        "id": "49057298",
+        "name": "Show HN: QueryTuner – SQL diagnostics across 5 DBs, no database connection",
+        "url": "https://www.querytuner.com/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49057298"
+      },
+      {
+        "id": "49063339",
+        "name": "Show HN: Paper – A Journaling CLI for Developers",
+        "url": "https://paper.rewrlution.com",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49063339"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/keepember",
+        "name": "Ember",
+        "description": "Remember everything about the people you love",
+        "url": "https://betalist.com/startups/keepember"
+      },
+      {
+        "id": "/startups/minds",
+        "name": "Minds",
+        "description": "Replace weeks of market research with 60-second AI panels",
+        "url": "https://betalist.com/startups/minds"
+      },
+      {
+        "id": "/startups/scrolltoll",
+        "name": "ScrollToll",
+        "description": "Block distracting apps until you earn screen time with exercise",
+        "url": "https://betalist.com/startups/scrolltoll"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/saasoffers?post=wce8MhtcnbKutoyqrr3W",
+        "title": "SaasOffers: I was surprised Notion offers this to startups",
+        "url": "https://www.indiehackers.com/product/saasoffers?post=wce8MhtcnbKutoyqrr3W",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-m-building-a-tool-to-help-founders-kill-bad-startup-ideas-before-building-what-signal-would-you-trust-b905feb023",
+        "title": "I’m building a tool to help founders kill bad startup ideas before building — what signal would you trust?",
+        "url": "https://www.indiehackers.com/post/i-m-building-a-tool-to-help-founders-kill-bad-startup-ideas-before-building-what-signal-would-you-trust-b905feb023",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/llm-knights?post=K01PaPmCjOzkFYQe31G1",
+        "title": "LLM Knights: Single model mode is roughly done",
+        "url": "https://www.indiehackers.com/product/llm-knights?post=K01PaPmCjOzkFYQe31G1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/two-founders-zero-funding-and-a-bet-that-career-advice-shouldnt-feel-like-astrology-dc7b1544a0",
+        "title": "Two founders, zero funding, and a bet that career advice shouldn't feel like astrology",
+        "url": "https://www.indiehackers.com/post/two-founders-zero-funding-and-a-bet-that-career-advice-shouldnt-feel-like-astrology-dc7b1544a0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/eye-drops-reminder-tracker?post=AE8TFEUtJGPBg6ybNJ2Z",
+        "title": "Eye Drops Reminder & Tracker: Built a free android eye drop reminder app for myself. Hope it helps others too",
+        "url": "https://www.indiehackers.com/product/eye-drops-reminder-tracker?post=AE8TFEUtJGPBg6ybNJ2Z",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
