@@ -1,0 +1,256 @@
+{
+  "scan_time": "2026-07-28T08:32:54.120671+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "adomate",
+        "name": "Adomate",
+        "tagline": "Turn data into winning ads. At scale.",
+        "description": "With Adomate you create ads from data, at scale. Take data from your Meta ad account, the ad library and reviews from Trustpilot and Amazon. Build creative research workflows that create branded ad concepts, the way you want. Fully traceable to their original data trigger, no blackbox.",
+        "votes": 523,
+        "ph_url": "https://www.producthunt.com/posts/adomate",
+        "website": "https://www.producthunt.com/r/EPLPB5QB6JEVTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "artifacts-by-databox",
+        "name": "Artifacts by Databox",
+        "tagline": "Ask your AI Analyst and get back a ready-to-share report",
+        "description": "Turn any conversation with your AI Analyst into a polished report, slide deck, or interactive document built from your live data. Generate it from a single prompt, then share it via public link or download as a PDF.",
+        "votes": 416,
+        "ph_url": "https://www.producthunt.com/posts/artifacts-by-databox",
+        "website": "https://www.producthunt.com/r/OT2MF465VDKFTA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "athena-by-shoplazza-2",
+        "name": "Athena by Shoplazza",
+        "tagline": "An orchestrator agent for your entire commerce stack",
+        "description": "Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy. From there, it keeps the business moving by creating products in bulk, setting up discounts, configuring shipping, and launching ad campaigns. Payments, logistics, fulfillment, and loyalty are built into the same platform, so the store Athena creates is not just a storefront. It is ready to operate as a real business.",
+        "votes": 410,
+        "ph_url": "https://www.producthunt.com/posts/athena-by-shoplazza-2",
+        "website": "https://www.producthunt.com/r/BFVWD7733PP65I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "E-Commerce",
+          "Shopping"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49072462",
+        "name": "Show HN: FeyNoBg – Automatic background removal model and training library",
+        "url": "https://usefeyn.com/blog/feynobg/",
+        "points": 104,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=49072462"
+      },
+      {
+        "id": "49071365",
+        "name": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+        "url": "https://github.com/letsseal/letsseal",
+        "points": 85,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=49071365"
+      },
+      {
+        "id": "49073834",
+        "name": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+        "url": "https://github.com/FrigadeHQ/yap",
+        "points": 63,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=49073834"
+      },
+      {
+        "id": "49076975",
+        "name": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+        "url": "https://www.dowe.dev",
+        "points": 20,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=49076975"
+      },
+      {
+        "id": "49071915",
+        "name": "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat",
+        "url": "https://infrawrench.com",
+        "points": 19,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49071915"
+      },
+      {
+        "id": "49067632",
+        "name": "Show HN: Dozenal – A Game of Spatial Arithmetic",
+        "url": "https://dozenal.game",
+        "points": 15,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49067632"
+      },
+      {
+        "id": "49076978",
+        "name": "Show HN: Trylle – The Next-Gen Git Platform for Modern Teams",
+        "url": "https://trylle.com/home",
+        "points": 12,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49076978"
+      },
+      {
+        "id": "49070811",
+        "name": "Show HN: multiaes – hardware-accelerated, constant-time AES, two-file drop-in",
+        "url": "https://github.com/ttarvis/multiaes",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49070811"
+      },
+      {
+        "id": "49070881",
+        "name": "Show HN: 1,250 SwiftUI components, and an MCP that writes them into your app",
+        "url": "https://nibware.dev/",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49070881"
+      },
+      {
+        "id": "49076625",
+        "name": "Show HN: Ami – A local, open-source agent that does your busywork across apps",
+        "url": "https://github.com/NanoNets/ami",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49076625"
+      },
+      {
+        "id": "49079247",
+        "name": "Show HN: A 6M-token movable window on a single 46GB GPU",
+        "url": "https://arxiv.org/abs/2607.23806",
+        "points": 6,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49079247"
+      },
+      {
+        "id": "49070104",
+        "name": "Show HN: Pilot Protocol – a network where AI agents find tools and each other",
+        "url": "",
+        "points": 6,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49070104"
+      },
+      {
+        "id": "49078625",
+        "name": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
+        "url": "",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49078625"
+      },
+      {
+        "id": "49068698",
+        "name": "Show HN: Case study: A coding agent refactors a 750k LOC app, no code review",
+        "url": "",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49068698"
+      },
+      {
+        "id": "49068384",
+        "name": "Show HN: PumpProof – Scores a hyped stock's dilution risk from its SEC filings",
+        "url": "https://pumpproof.com",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49068384"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/booktranslator",
+        "name": "BookTranslator",
+        "description": "Translate books, PDFs, and EPUBs with quality AI",
+        "url": "https://betalist.com/startups/booktranslator"
+      },
+      {
+        "id": "/startups/teachecker",
+        "name": "TeaChecker",
+        "description": "Get a discreet Tea app profile lookup with verified results in 24h",
+        "url": "https://betalist.com/startups/teachecker"
+      },
+      {
+        "id": "/startups/papi",
+        "name": "PAPI",
+        "description": "Keep your AI builds on vision with decision memory and drift checks",
+        "url": "https://betalist.com/startups/papi"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/we-scanned-50-000-domains-your-cold-email-list-is-really-four-systems-a1d17cfd16",
+        "title": "We scanned 50,000 domains. Your cold email list is really four systems.",
+        "url": "https://www.indiehackers.com/post/we-scanned-50-000-domains-your-cold-email-list-is-really-four-systems-a1d17cfd16",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=PyUEAF6zmi2GzdsbaYiQ",
+        "title": "IbexAI: How to find thousands of high-intent leads without buying a list",
+        "url": "https://www.indiehackers.com/product/ibexai?post=PyUEAF6zmi2GzdsbaYiQ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-i-ranked-slashit-app-with-my-biggest-competitors-name-and-made-it-my-best-traffic-source-ce35ecba78",
+        "title": "How I ranked Slashit App with my biggest competitor's name and made it my best traffic source",
+        "url": "https://www.indiehackers.com/post/how-i-ranked-slashit-app-with-my-biggest-competitors-name-and-made-it-my-best-traffic-source-ce35ecba78",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aproov?post=JfgVqTDfx7L3H5ZHlESR",
+        "title": "Aproov: The Product Hunt problem nobody warns you about",
+        "url": "https://www.indiehackers.com/product/aproov?post=JfgVqTDfx7L3H5ZHlESR",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/llm-knights?post=rG6KEKIl9RaBKq4k3g24",
+        "title": "LLM Knights: Another challenge is LLM's pricing",
+        "url": "https://www.indiehackers.com/product/llm-knights?post=rG6KEKIl9RaBKq4k3g24",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-kitzo-because-i-was-tired-of-searching-for-the-same-developer-tools-repeatedly-a16cb98616",
+        "title": "I built Kitzo because I was tired of searching for the same developer tools repeatedly",
+        "url": "https://www.indiehackers.com/post/i-built-kitzo-because-i-was-tired-of-searching-for-the-same-developer-tools-repeatedly-a16cb98616",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/leveraging-a-marketplace-and-existing-user-bases-to-hit-a-5-figure-mrr-in-two-years-ltsw3AYvsvslFIYZtYZG",
+        "title": "Leveraging a marketplace and existing user bases to hit a 5-figure MRR in two years",
+        "url": "https://www.indiehackers.com/post/tech/leveraging-a-marketplace-and-existing-user-bases-to-hit-a-5-figure-mrr-in-two-years-ltsw3AYvsvslFIYZtYZG",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
