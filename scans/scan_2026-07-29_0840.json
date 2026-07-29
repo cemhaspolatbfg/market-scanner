@@ -1,0 +1,213 @@
+{
+  "scan_time": "2026-07-29T08:39:16.849429+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "prefactor",
+        "name": "Prefactor",
+        "tagline": "Evaluate your AI Agents in real-time",
+        "description": "Most agents pass their evals and fail in production. Prefactor is the evaluation layer that closes the gap. We score every agent run in real time, surface quality regressions and drift as they happen, and show engineering teams exactly how their agents are performing at scale. Built for the teams shipping agents to customers.",
+        "votes": 582,
+        "ph_url": "https://www.producthunt.com/posts/prefactor",
+        "website": "https://www.producthunt.com/r/Y5XXYGBXLHNUGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "claude-opus-5",
+        "name": "Claude Opus 5",
+        "tagline": "Near-Fable 5 intelligence at half the price",
+        "description": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+        "votes": 426,
+        "ph_url": "https://www.producthunt.com/posts/claude-opus-5",
+        "website": "https://www.producthunt.com/r/IU2TVFNFIUECW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Messaging",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "cekura-3",
+        "name": "Cekura",
+        "tagline": "The self-improvement loop for voice agents",
+        "description": "Cekura is the testing, observability, and self-improvement platform for production voice and chat AI agents. It simulates thousands of scenarios, catches failures, diagnoses the root cause, rewrites prompts and config, then re-validates with a full regression sweep. Unlike tools that hand failures back to your team, Cekura closes the loop by fixing the agent itself and proving the fix holds without overfitting.",
+        "votes": 408,
+        "ph_url": "https://www.producthunt.com/posts/cekura-3",
+        "website": "https://www.producthunt.com/r/KH2LLNVN2ZL3SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Developer Tools",
+          "Audio"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49090607",
+        "name": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+        "url": "https://github.com/twalichiewicz/HNewhere",
+        "points": 295,
+        "comments": 76,
+        "hn_url": "https://news.ycombinator.com/item?id=49090607"
+      },
+      {
+        "id": "49085798",
+        "name": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
+        "url": "https://github.com/reflex-dev/xy",
+        "points": 122,
+        "comments": 45,
+        "hn_url": "https://news.ycombinator.com/item?id=49085798"
+      },
+      {
+        "id": "49083239",
+        "name": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+        "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+        "points": 109,
+        "comments": 48,
+        "hn_url": "https://news.ycombinator.com/item?id=49083239"
+      },
+      {
+        "id": "49083389",
+        "name": "Show HN: tale.fyi, we deserve a home for fiction",
+        "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+        "points": 71,
+        "comments": 65,
+        "hn_url": "https://news.ycombinator.com/item?id=49083389"
+      },
+      {
+        "id": "49083336",
+        "name": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+        "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+        "points": 49,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49083336"
+      },
+      {
+        "id": "49091703",
+        "name": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+        "url": "https://studio.academa.ai/",
+        "points": 48,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=49091703"
+      },
+      {
+        "id": "49082779",
+        "name": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+        "url": "https://segue.ai/",
+        "points": 30,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=49082779"
+      },
+      {
+        "id": "49084371",
+        "name": "Show HN: Tines 3B – safe workflow automation for when everyone builds software",
+        "url": "https://www.tines.com/",
+        "points": 27,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49084371"
+      },
+      {
+        "id": "49085503",
+        "name": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
+        "url": "https://flashpaper.app/",
+        "points": 25,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49085503"
+      },
+      {
+        "id": "49092151",
+        "name": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+        "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+        "points": 20,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49092151"
+      },
+      {
+        "id": "49083244",
+        "name": "Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
+        "url": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
+        "points": 18,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=49083244"
+      },
+      {
+        "id": "49081887",
+        "name": "Show HN: Open-source Cloudflare deployed agent native task management and wiki",
+        "url": "https://tajd.github.io/projektor/",
+        "points": 17,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49081887"
+      },
+      {
+        "id": "49086179",
+        "name": "Show HN: Somebodyhire.me",
+        "url": "https://somebodyhire.me/",
+        "points": 15,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49086179"
+      },
+      {
+        "id": "49086558",
+        "name": "Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure",
+        "url": "https://github.com/cynative/cynative",
+        "points": 15,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49086558"
+      },
+      {
+        "id": "49081241",
+        "name": "Show HN: BrowserAct: Browser Layer for Your AI Agent",
+        "url": "https://github.com/browser-act/skills",
+        "points": 14,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49081241"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/living-page",
+        "name": "Living Page",
+        "description": "Turn PDFs into fast, shareable flipbooks you can embed anywhere",
+        "url": "https://betalist.com/startups/living-page"
+      },
+      {
+        "id": "/startups/trapped",
+        "name": "Trapped",
+        "description": "Put your friends in a box as widgets on your Home Screen",
+        "url": "https://betalist.com/startups/trapped"
+      },
+      {
+        "id": "/startups/postplanify",
+        "name": "PostPlanify",
+        "description": "Social media management platform for agencies and teams",
+        "url": "https://betalist.com/startups/postplanify"
+      }
+    ],
+    "indiehackers": []
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 0,
+      "new": 0,
+      "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.indiehackers.com/?filter=top&period=weekly\", waiting until \"load\"\n"
+    }
+  }
+}
