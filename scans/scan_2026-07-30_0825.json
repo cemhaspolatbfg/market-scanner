@@ -1,0 +1,261 @@
+{
+  "scan_time": "2026-07-30T08:24:59.370086+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "prelint",
+        "name": "Prelint",
+        "tagline": "Prevent product drift in AI-written code",
+        "description": "AI writes your code at 10× speed. Prelint makes sure it's the right code - it reviews every PR against your ADRs, docs and past decisions, and catches product drift before it ships. On teams using several AI reviewers, ~40% of the issues fixed before merge are caught by Prelint.",
+        "votes": 548,
+        "ph_url": "https://www.producthunt.com/posts/prelint",
+        "website": "https://www.producthunt.com/r/7JDFCGARSHV32N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "soundgate-guitar",
+        "name": "SoundGate Guitar",
+        "tagline": "AI Music Tutor that gives real-time feedback on your playing",
+        "description": "SoundGate Guitar is an AI practice companion that actually listens to you play. Get instant visual feedback on an interactive fretboard with zero-lag note detection. The built-in AI tutor analyzes your playing to provide personalized feedback, custom practice routines, and answers to any guitar question.",
+        "votes": 420,
+        "ph_url": "https://www.producthunt.com/posts/soundgate-guitar",
+        "website": "https://www.producthunt.com/r/MMIYN6ZQTIOL72?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Music",
+          "Education",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "webhound-2",
+        "name": "Webhound",
+        "tagline": "A research engine for your agent",
+        "description": "Research has no natural finish line. An agent can spend ten minutes or ten hours on the same question, and both answers can look finished. Webhound lets you choose how much work the question deserves. Give it a question and a dollar budget. It follows leads and checks weak claims until the budget is consumed, then returns a cited report or sourced dataset with the sources and working documents behind it. Run Webhound yourself or call it from your agent through MCP or the API.",
+        "votes": 410,
+        "ph_url": "https://www.producthunt.com/posts/webhound-2",
+        "website": "https://www.producthunt.com/r/TSDAGJRI6E3MV7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Search"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49098510",
+        "name": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "url": "https://github.com/drumih/turbo-fieldfare",
+        "points": 772,
+        "comments": 271,
+        "hn_url": "https://news.ycombinator.com/item?id=49098510"
+      },
+      {
+        "id": "49100043",
+        "name": "Show HN: CheapFoodMap – A map of good meals under $10",
+        "url": "https://cheapfoodmap.com/",
+        "points": 196,
+        "comments": 189,
+        "hn_url": "https://news.ycombinator.com/item?id=49100043"
+      },
+      {
+        "id": "49098260",
+        "name": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+        "url": "https://github.com/VladUZH/qwen-scribe",
+        "points": 83,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49098260"
+      },
+      {
+        "id": "49096917",
+        "name": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+        "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+        "points": 62,
+        "comments": 65,
+        "hn_url": "https://news.ycombinator.com/item?id=49096917"
+      },
+      {
+        "id": "49099434",
+        "name": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+        "url": "https://kedge.dev/",
+        "points": 60,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49099434"
+      },
+      {
+        "id": "49097833",
+        "name": "Show HN: The Federalist Papers, typeset as the 1787 newspapers they ran in",
+        "url": "https://federalistreader.org/",
+        "points": 40,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49097833"
+      },
+      {
+        "id": "49104747",
+        "name": "Show HN: A local merge queue for parallel Claude Code agents",
+        "url": "https://github.com/funador/claude-code-merge-queue",
+        "points": 35,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49104747"
+      },
+      {
+        "id": "49095143",
+        "name": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+        "url": "https://vimgolf.ai",
+        "points": 34,
+        "comments": 26,
+        "hn_url": "https://news.ycombinator.com/item?id=49095143"
+      },
+      {
+        "id": "49096767",
+        "name": "Show HN: Echologue – the private AI voice journal I built for myself",
+        "url": "https://echologue.com/",
+        "points": 29,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49096767"
+      },
+      {
+        "id": "49101030",
+        "name": "Show HN: Dreeve, a self-hosted dashboard for your sports and fitness data",
+        "url": "https://github.com/dreeveapp/dreeve",
+        "points": 13,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49101030"
+      },
+      {
+        "id": "49097727",
+        "name": "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
+        "url": "https://github.com/hongnoul/hwatu",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49097727"
+      },
+      {
+        "id": "49098183",
+        "name": "Show HN: A free curl API for IP data (we scan the IPv4 space in <24h)",
+        "url": "https://worldip.io/news/keyless-ip-api-no-key-required",
+        "points": 10,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49098183"
+      },
+      {
+        "id": "49096914",
+        "name": "Show HN: A Persistent AI RPG Engine Built with React SPA and Supabase",
+        "url": "https://vampirolife.com/en",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49096914"
+      },
+      {
+        "id": "49104832",
+        "name": "Show HN: Full stack development from one codebase web, Android, and iOS",
+        "url": "https://github.com/usedowe/dowe-lang",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49104832"
+      },
+      {
+        "id": "49103612",
+        "name": "Show HN: Replicant Space – an HTTP API-based game based on the Bobiverse books",
+        "url": "https://replicant.space/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49103612"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/fantastic-forms",
+        "name": "Fantastic Forms",
+        "description": "The online website form builder app, fast, fun and 100% free",
+        "url": "https://betalist.com/startups/fantastic-forms"
+      },
+      {
+        "id": "/startups/nexly",
+        "name": "Nexly",
+        "description": "Unify traffic, product analytics, conversions, and AI insights in one",
+        "url": "https://betalist.com/startups/nexly"
+      },
+      {
+        "id": "/startups/tradie-capital",
+        "name": "Tradie Capital",
+        "description": "Build, backtest, and trade strategies with an AI-powered workspace",
+        "url": "https://betalist.com/startups/tradie-capital"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-to-rank-1-on-chatgpt-7c19eef6fa",
+        "title": "How to rank #1 on ChatGPT?",
+        "url": "https://www.indiehackers.com/post/how-to-rank-1-on-chatgpt-7c19eef6fa",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-tested-agenmatic-for-finding-customers-in-communities-here-s-what-i-learned-c5fb31ccf7",
+        "title": "I tested agenmatic for finding customers in communities. Here’s what I learned.",
+        "url": "https://www.indiehackers.com/post/i-tested-agenmatic-for-finding-customers-in-communities-here-s-what-i-learned-c5fb31ccf7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/just-got-invited-to-web-summit-lisbon-now-i-need-5-more-clients-in-13-days-aab8a58d2a",
+        "title": "Just got invited to Web Summit Lisbon. Now I need 5 more clients in 13 days.",
+        "url": "https://www.indiehackers.com/post/just-got-invited-to-web-summit-lisbon-now-i-need-5-more-clients-in-13-days-aab8a58d2a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/day-8-of-building-startuphq-how-would-you-visualize-ai-agents-working-in-the-background-a01b58ad7b",
+        "title": "Day 8 of building StartupHQ: How would you visualize AI agents working in the background?",
+        "url": "https://www.indiehackers.com/post/day-8-of-building-startuphq-how-would-you-visualize-ai-agents-working-in-the-background-a01b58ad7b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/32-commits-later-the-biggest-improvement-wasnt-technical-98c9a2bc84",
+        "title": "32 commits later, the biggest improvement wasn't technical",
+        "url": "https://www.indiehackers.com/post/32-commits-later-the-biggest-improvement-wasnt-technical-98c9a2bc84",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=enX7reW75a5hA1gntMH3",
+        "title": "IbexAI: My friend closed an $82K deal off a single LinkedIn like",
+        "url": "https://www.indiehackers.com/product/ibexai?post=enX7reW75a5hA1gntMH3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/leado-co?post=2jjSqCsBgJZ2btUDeUEB",
+        "title": "Six months after launching Leado, here's what surprised me.",
+        "url": "https://www.indiehackers.com/product/leado-co?post=2jjSqCsBgJZ2btUDeUEB",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/side-hustling-for-three-years-before-going-all-in-and-hitting-6-4k-mrr-5kZRj2Lln7jO7nVVoYFP",
+        "title": "Side-hustling for three years before going all-in and hitting $6.4k MRR",
+        "url": "https://www.indiehackers.com/post/tech/side-hustling-for-three-years-before-going-all-in-and-hitting-6-4k-mrr-5kZRj2Lln7jO7nVVoYFP",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
