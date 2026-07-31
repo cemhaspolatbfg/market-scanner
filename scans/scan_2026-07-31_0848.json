@@ -1,0 +1,244 @@
+{
+  "scan_time": "2026-07-31T08:48:07.308358+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "ski",
+        "name": "SKI",
+        "tagline": "Free voice coding for Claude Code, Codex and more",
+        "description": "We just built SKI — voice coding for Claude Code, Codex and more. It's not dictation: your agent answers you out loud, like a real teammate, so you build at the speed you think. You can even bring it into a meeting to build live, or send it in your place to speak for you. It's an ambient thing that just sits on your desktop — hit a key, talk, it works. All on your machine, free. Available on Mac & Windows.",
+        "votes": 561,
+        "ph_url": "https://www.producthunt.com/posts/ski",
+        "website": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "memmy-agent",
+        "name": "Memmy Agent",
+        "tagline": "Let every AI remember the same you.",
+        "description": "🍙 Memmy Agent is a personal memory hub and local AI agent for all AI Agent and tools like Claude Code, Codex, OpenClaw and Hermes. Gives every AI one shared, full-controlled memory — they all remember the same you. Memmy turns chats, decisions, prefs, progresses, and experiences into long-term memory, brings the right context into matching task, also can take on work directly. Local-first by default. Your memory stay under your control: manage them anytime. Free start with 2M ChatGPT tokens.",
+        "votes": 512,
+        "ph_url": "https://www.producthunt.com/posts/memmy-agent",
+        "website": "https://www.producthunt.com/r/5S7SGS3F5S6RN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Open Source",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "ai-search-console",
+        "name": "AI Search Console",
+        "tagline": "Prompt analytics and citation mapping for AI search",
+        "description": "AI Search Console helps SEO and GEO teams replace manual AI visibility checks with repeatable data. Track brand mentions, rankings, share of voice, competitors, and cited sources across ChatGPT, Claude, Gemini, and Perplexity. Analyze visibility at the individual prompt level, find content and citation gaps, and generate client-ready reports without spreadsheets or screenshots.",
+        "votes": 503,
+        "ph_url": "https://www.producthunt.com/posts/ai-search-console",
+        "website": "https://www.producthunt.com/r/O7C4XHAKCEG4AF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "SEO",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49113599",
+        "name": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "points": 123,
+        "comments": 64,
+        "hn_url": "https://news.ycombinator.com/item?id=49113599"
+      },
+      {
+        "id": "49108571",
+        "name": "Show HN: I made a game where you build a CPU from logic gates",
+        "url": "https://select.supply/game/chipbuilder",
+        "points": 84,
+        "comments": 67,
+        "hn_url": "https://news.ycombinator.com/item?id=49108571"
+      },
+      {
+        "id": "49111019",
+        "name": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+        "url": "https://github.com/hamzarehmandeveloper/claude-account",
+        "points": 49,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=49111019"
+      },
+      {
+        "id": "49119274",
+        "name": "Show HN: What should the GUI for AI agents look like?",
+        "url": "https://marbleos.com/demo",
+        "points": 41,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=49119274"
+      },
+      {
+        "id": "49119425",
+        "name": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+        "url": "https://github.com/mokshablr/gander",
+        "points": 35,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49119425"
+      },
+      {
+        "id": "49113279",
+        "name": "Show HN: ZeroShot: Agent session monitoring to make your team go faster",
+        "url": "https://tryzeroshot.com",
+        "points": 18,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49113279"
+      },
+      {
+        "id": "49113543",
+        "name": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+        "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+        "points": 17,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49113543"
+      },
+      {
+        "id": "49113559",
+        "name": "Show HN: Ski – Voice Coding for Claude Code, Codex and More – On-Device – Free",
+        "url": "https://heyski.io/",
+        "points": 15,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49113559"
+      },
+      {
+        "id": "49109663",
+        "name": "Show HN: Local text, image, video, music and 3D from one CLI, no Python",
+        "url": "https://github.com/sawfwair/mere-run",
+        "points": 13,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49109663"
+      },
+      {
+        "id": "49108849",
+        "name": "Show HN: Tinbase – OSS Supabase-compatible back end in TypeScript",
+        "url": "https://www.tinbase.dev/",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49108849"
+      },
+      {
+        "id": "49111255",
+        "name": "Show HN: AgentCouch – let your agents chat with other agents",
+        "url": "https://agentcouch.dev",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49111255"
+      },
+      {
+        "id": "49117989",
+        "name": "Show HN: Widen – Open-source Mac Postgres GUI with local or cloud text-to-SQL",
+        "url": "https://widen.dev/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49117989"
+      },
+      {
+        "id": "49113381",
+        "name": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
+        "url": "https://tally.jiegou.ai/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49113381"
+      },
+      {
+        "id": "49113999",
+        "name": "Show HN: NegativeEV – I built a tool to help people see how bad their bets are",
+        "url": "https://negativeev.com/",
+        "points": 6,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49113999"
+      },
+      {
+        "id": "49118782",
+        "name": "Show HN: The fastest JSON parser for Go",
+        "url": "https://github.com/buger/jsonparser",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49118782"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/nick-launches",
+        "name": "Nick Launches",
+        "description": "Submit your product, get votes, and reach early adopters",
+        "url": "https://betalist.com/startups/nick-launches"
+      },
+      {
+        "id": "/startups/hollerapp",
+        "name": "HollerApp",
+        "description": "Book trusted local cleaners, barbers, and beauty pros on demand",
+        "url": "https://betalist.com/startups/hollerapp"
+      },
+      {
+        "id": "/startups/double",
+        "name": "Double",
+        "description": "Your AI career agent that gets you hired",
+        "url": "https://betalist.com/startups/double"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-to-automate-refund-reviews-without-giving-ai-the-final-say-7d2cff40ad",
+        "title": "How to automate refund reviews without giving AI the final say",
+        "url": "https://www.indiehackers.com/post/how-to-automate-refund-reviews-without-giving-ai-the-final-say-7d2cff40ad",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/show-ih-i-lost-three-weeks-of-ai-context-in-one-mistake-so-i-spent-over-a-year-building-a-local-memory-forest-mac-only-bdd23fda30",
+        "title": "Show IH: I lost three weeks of AI context in one mistake. So I spent over a year building a local memory forest. (Mac only)",
+        "url": "https://www.indiehackers.com/post/show-ih-i-lost-three-weeks-of-ai-context-in-one-mistake-so-i-spent-over-a-year-building-a-local-memory-forest-mac-only-bdd23fda30",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=xXgf1Vd08twUuooeOImt",
+        "title": "IbexAI: 2 ways you can get high-intent leads for your product",
+        "url": "https://www.indiehackers.com/product/ibexai?post=xXgf1Vd08twUuooeOImt",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/5-churn-at-3k-mrr-is-150-at-20k-its-1-000-nothing-about-the-product-changed-50e17575a2",
+        "title": "5% churn at $3k MRR is $150. At $20k it's $1,000. Nothing about the product changed.",
+        "url": "https://www.indiehackers.com/post/5-churn-at-3k-mrr-is-150-at-20k-its-1-000-nothing-about-the-product-changed-50e17575a2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-studied-saas-websites-that-struggle-to-convert-the-problem-was-usually-hidden-in-plain-sight-3380541789",
+        "title": "I Studied SaaS Websites That Struggle to Convert. The Problem Was Usually Hidden in Plain Sight.",
+        "url": "https://www.indiehackers.com/post/i-studied-saas-websites-that-struggle-to-convert-the-problem-was-usually-hidden-in-plain-sight-3380541789",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
