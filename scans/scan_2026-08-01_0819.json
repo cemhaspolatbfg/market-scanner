@@ -1,0 +1,204 @@
+{
+  "scan_time": "2026-08-01T08:19:03.851204+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49128826",
+        "name": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+        "url": "https://code.intellios.ai/cwbrowser/",
+        "points": 117,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=49128826"
+      },
+      {
+        "id": "49123789",
+        "name": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
+        "url": "https://github.com/richlegrand/bitbang-cli",
+        "points": 82,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=49123789"
+      },
+      {
+        "id": "49125922",
+        "name": "Show HN: Slope remade in HTML5 to load instantly on any browser, any device",
+        "url": "https://hurtle.site/",
+        "points": 34,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=49125922"
+      },
+      {
+        "id": "49128177",
+        "name": "Show HN: How to build and self-host a code review agent",
+        "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+        "points": 26,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49128177"
+      },
+      {
+        "id": "49124017",
+        "name": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
+        "url": "https://privacything.com/en/",
+        "points": 19,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49124017"
+      },
+      {
+        "id": "49124733",
+        "name": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+        "url": "https://uml.gpmai.workers.dev",
+        "points": 17,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49124733"
+      },
+      {
+        "id": "49125918",
+        "name": "Show HN: The Goal is simple, there should be an actual free editor",
+        "url": "https://sylixide.com",
+        "points": 17,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49125918"
+      },
+      {
+        "id": "49126114",
+        "name": "Show HN: Chronos, 2 terminal games through 50 years of hacking history",
+        "url": "https://www.chronos-game.com/",
+        "points": 13,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49126114"
+      },
+      {
+        "id": "49128567",
+        "name": "Show HN: Penca – branchable, versioned OLTP+OLAP on one open copy of your data",
+        "url": "https://github.com/penca-io/penca",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49128567"
+      },
+      {
+        "id": "49125058",
+        "name": "Show HN: A local memory of all you have seen, said or heard while you work",
+        "url": "https://github.com/Rafaelpta/litepipe",
+        "points": 8,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49125058"
+      },
+      {
+        "id": "49123821",
+        "name": "Show HN: A little physical breakout clone",
+        "url": "https://brontosaurusrex.github.io/physical/v7/",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49123821"
+      },
+      {
+        "id": "49123662",
+        "name": "Show HN: I built a tool that reviews any GitHub PR and quizzes you on it",
+        "url": "https://makesensegithub.com/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49123662"
+      },
+      {
+        "id": "49130047",
+        "name": "Show HN: SmokeVPN – All-in-One WireGuard VPN Hub – Switch Exits in Realtime",
+        "url": "https://smokevpn.com",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49130047"
+      },
+      {
+        "id": "49128650",
+        "name": "Show HN: old reddit is back (without login) via 'shreddit'.",
+        "url": "https://github.com/the1truedan/shreddit",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49128650"
+      },
+      {
+        "id": "49124606",
+        "name": "Show HN: Squishword, a word game where meaning, not spelling, matters",
+        "url": "https://squishword.com/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49124606"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/launched",
+        "name": "LAUNCHED",
+        "description": "One-page websites you can publish in minutes",
+        "url": "https://betalist.com/startups/launched"
+      },
+      {
+        "id": "/startups/matcha",
+        "name": "Matcha",
+        "description": "Find up-to-date, verified career postings",
+        "url": "https://betalist.com/startups/matcha"
+      },
+      {
+        "id": "/startups/agent-planners",
+        "name": "Agent Planners",
+        "description": "Plan and approve AI-run ad operations across Google and 250+ tools",
+        "url": "https://betalist.com/startups/agent-planners"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=sNZZql5hJt75kAJRQAZJ",
+        "title": "IbexAI: Skip the unicorn dream. $10K MRR solo beats $2M seed plus the stress",
+        "url": "https://www.indiehackers.com/product/ibexai?post=sNZZql5hJt75kAJRQAZJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aproov?post=My1N2m10AAv3d05bI70p",
+        "title": "Aproov: How a first-time founder went from zero to 400 users",
+        "url": "https://www.indiehackers.com/product/aproov?post=My1N2m10AAv3d05bI70p",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-a-shopify-bundles-app-for-stores-with-real-fulfillment-heres-the-wedge-f2e73344cd",
+        "title": "Building a Shopify bundles app for stores with real fulfillment: here's the wedge",
+        "url": "https://www.indiehackers.com/post/building-a-shopify-bundles-app-for-stores-with-real-fulfillment-heres-the-wedge-f2e73344cd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-did-you-size-your-free-tier-4b8f8c2449",
+        "title": "How did you size your free tier?",
+        "url": "https://www.indiehackers.com/post/how-did-you-size-your-free-tier-4b8f8c2449",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-recorded-myself-using-200-indie-saas-products-cold-here-are-the-7-conversion-killers-that-keep-showing-up-eee3321007",
+        "title": "I recorded myself using 200+ indie SaaS products cold. Here are the 7 conversion killers that keep showing up.",
+        "url": "https://www.indiehackers.com/post/i-recorded-myself-using-200-indie-saas-products-cold-here-are-the-7-conversion-killers-that-keep-showing-up-eee3321007",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/exiting-his-agency-and-hitting-10k-mrr-within-60-days-of-launching-his-saas-sTo5m9qfhxXbruvhBIyH",
+        "title": "Exiting his agency and hitting $10k MRR within 60 days of launching his SaaS",
+        "url": "https://www.indiehackers.com/post/tech/exiting-his-agency-and-hitting-10k-mrr-within-60-days-of-launching-his-saas-sTo5m9qfhxXbruvhBIyH",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
