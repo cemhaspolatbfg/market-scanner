@@ -1,0 +1,192 @@
+{
+  "scan_time": "2026-08-02T08:22:51.365280+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49140396",
+        "name": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+        "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+        "points": 133,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=49140396"
+      },
+      {
+        "id": "49133851",
+        "name": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+        "url": "https://github.com/pochenai/nano-llm-posttraining",
+        "points": 21,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49133851"
+      },
+      {
+        "id": "49140340",
+        "name": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "url": "https://costperprompt.com/",
+        "points": 19,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49140340"
+      },
+      {
+        "id": "49137410",
+        "name": "Show HN: Cockpit for you Claude Code agents in Rust",
+        "url": "https://episko.dev/",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49137410"
+      },
+      {
+        "id": "49139461",
+        "name": "Show HN: Symbio self fine-tuning AI loop",
+        "url": "https://github.com/huyedits/Symbio",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49139461"
+      },
+      {
+        "id": "49140789",
+        "name": "Show HN: I get 25 deep researched ideas with one single prompt",
+        "url": "https://github.com/ringlochid/banksia",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49140789"
+      },
+      {
+        "id": "49139370",
+        "name": "Show HN: Wage Against the Machine – MacWages Index for AI Tasks",
+        "url": "https://watm.ddyo.dev/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49139370"
+      },
+      {
+        "id": "49138692",
+        "name": "Show HN: Copy any website pixel perfect",
+        "url": "https://github.com/HarKro753/claude-copy",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49138692"
+      },
+      {
+        "id": "49134502",
+        "name": "Show HN: Aurora – AI Gateway built in Go",
+        "url": "https://github.com/aurorallm/aurora",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49134502"
+      },
+      {
+        "id": "49134381",
+        "name": "Show HN: Wienerdog – memory and self-improving skills for Claude Code/Codex",
+        "url": "https://github.com/wienerdog-ai/wienerdog/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49134381"
+      },
+      {
+        "id": "49142002",
+        "name": "Show HN: Tone Generator",
+        "url": "https://soundtonegenerator.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49142002"
+      },
+      {
+        "id": "49139252",
+        "name": "Show HN: Use iPhone's camera as a lux meter",
+        "url": "https://www.impulsearc.com/wavelength/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49139252"
+      },
+      {
+        "id": "49137891",
+        "name": "Show HN: Crew, a local collaborative (people and agents) IDE",
+        "url": "https://github.com/JamelHammoud/crew",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49137891"
+      },
+      {
+        "id": "49139602",
+        "name": "Show HN: I made 70K+ hand-drawn icons using AI",
+        "url": "https://koboyo.com/icons",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49139602"
+      },
+      {
+        "id": "49137528",
+        "name": "Show HN: Posecode inspectable human movement as text",
+        "url": "https://www.posecode.org/play",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49137528"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/foco",
+        "name": "FOCO",
+        "description": "Turn any task into tiny steps you can actually begin",
+        "url": "https://betalist.com/startups/foco"
+      },
+      {
+        "id": "/startups/sheetward",
+        "name": "Sheetward",
+        "description": "Turn spreadsheets into full-stack web apps without code",
+        "url": "https://betalist.com/startups/sheetward"
+      },
+      {
+        "id": "/startups/tvgo",
+        "name": "TVGO",
+        "description": "Upload a video; get an AI agent that presents, answers, and qualifies",
+        "url": "https://betalist.com/startups/tvgo"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/beetler-ai?post=s9vCr5H1JnkTlWLx2y5w",
+        "title": "beetler.ai: Just Launched!",
+        "url": "https://www.indiehackers.com/product/beetler-ai?post=s9vCr5H1JnkTlWLx2y5w",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-shipped-v2-with-zero-paying-customers-heres-the-honest-version-fae23ae6a4",
+        "title": "I shipped v2 with zero paying customers. Here's the honest version.",
+        "url": "https://www.indiehackers.com/post/i-shipped-v2-with-zero-paying-customers-heres-the-honest-version-fae23ae6a4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/capixe?post=O3uxdXnOEdGbDFTrxAw9",
+        "title": "I got tired of losing screenshots, so I'm building Capixe",
+        "url": "https://www.indiehackers.com/product/capixe?post=O3uxdXnOEdGbDFTrxAw9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/solo-founders-how-do-you-handle-changelogs-maintenance-notices-and-status-updates-today-2171f34adb",
+        "title": "Solo founders: how do you handle changelogs, maintenance notices, and status updates today?",
+        "url": "https://www.indiehackers.com/post/solo-founders-how-do-you-handle-changelogs-maintenance-notices-and-status-updates-today-2171f34adb",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
