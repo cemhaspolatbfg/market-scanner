@@ -1,0 +1,245 @@
+{
+  "scan_time": "2026-08-03T09:42:10.971188+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "claude-code-usage-tracking-by-langwatch",
+        "name": "Claude Code usage tracking by LangWatch ",
+        "tagline": "See what your Claude Code sessions actually cost",
+        "description": "Track Claude Code usage: cost, cache, session replay. Run `npx langwatch claude` once. Every session gets cost with cache reads/writes as separate token classes, every bash and MCP call as a span, theoretical vs billed for your Max plan, and a full terminal replay in the UI. Works for Codex too.",
+        "votes": 403,
+        "ph_url": "https://www.producthunt.com/posts/claude-code-usage-tracking-by-langwatch",
+        "website": "https://www.producthunt.com/r/5R3GKBPGWVMPBY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "zinley",
+        "name": "Zinley",
+        "tagline": "Your Personal AI Representative for calls, email, and tasks",
+        "description": "Most AI waits inside a chat. Zinley is reachable by you and the people around you. With its own phone number and email, it answers calls, handles email, books things, and gets work done within your rules. It remembers your people and relationships, then reports back in your language. Not another chatbot. A second you that shows up.",
+        "votes": 395,
+        "ph_url": "https://www.producthunt.com/posts/zinley",
+        "website": "https://www.producthunt.com/r/IQRSF4SZFC3JK2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Virtual Assistants"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "lottie-creator-2-0",
+        "name": "Lottie Creator 2.0",
+        "tagline": "After Effects for the web, built on Lottie",
+        "description": "Yes, we're calling it: After Effects for the web. Design vector animations from scratch in your browser, move faster with Motion Copilot AI, wire up interactivity with State Machines, and export production-ready Lottie + dotLottie. No desktop app. No dev handoff.",
+        "votes": 393,
+        "ph_url": "https://www.producthunt.com/posts/lottie-creator-2-0",
+        "website": "https://www.producthunt.com/r/GSHXQX2CIK3S3Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Graphics & Design",
+          "Animation"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49145937",
+        "name": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+        "url": "https://github.com/wie-project/kakehashi",
+        "points": 219,
+        "comments": 55,
+        "hn_url": "https://news.ycombinator.com/item?id=49145937"
+      },
+      {
+        "id": "49149966",
+        "name": "Show HN: Isopolis – Isometric pixel map of SF",
+        "url": "https://sf.isopolis.city/",
+        "points": 214,
+        "comments": 49,
+        "hn_url": "https://news.ycombinator.com/item?id=49149966"
+      },
+      {
+        "id": "49149326",
+        "name": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+        "url": "https://github.com/pg83/shitty",
+        "points": 142,
+        "comments": 129,
+        "hn_url": "https://news.ycombinator.com/item?id=49149326"
+      },
+      {
+        "id": "49145934",
+        "name": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+        "url": "https://sprocket-demo.spikonado.com",
+        "points": 123,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49145934"
+      },
+      {
+        "id": "49146267",
+        "name": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+        "url": "https://github.com/graham33/nixos-dgx-spark",
+        "points": 118,
+        "comments": 35,
+        "hn_url": "https://news.ycombinator.com/item?id=49146267"
+      },
+      {
+        "id": "49149805",
+        "name": "Show HN: ssh ssh.place",
+        "url": "https://ssh.place",
+        "points": 112,
+        "comments": 67,
+        "hn_url": "https://news.ycombinator.com/item?id=49149805"
+      },
+      {
+        "id": "49143412",
+        "name": "Show HN: Fuse – statically typed functional programming language",
+        "url": "https://fuselang.org",
+        "points": 110,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=49143412"
+      },
+      {
+        "id": "49148048",
+        "name": "Show HN: Make your Framework 12 sound like a creaky door",
+        "url": "https://github.com/ArcaEge/creakwork12",
+        "points": 84,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=49148048"
+      },
+      {
+        "id": "49142794",
+        "name": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+        "url": "https://github.com/syncular/syncular",
+        "points": 75,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=49142794"
+      },
+      {
+        "id": "49148899",
+        "name": "Show HN: Mu – Tools for Agents",
+        "url": "https://github.com/micro/mu",
+        "points": 50,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=49148899"
+      },
+      {
+        "id": "49143179",
+        "name": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+        "url": "https://github.com/kamalfarahani/katharos",
+        "points": 35,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49143179"
+      },
+      {
+        "id": "49147842",
+        "name": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "url": "https://github.com/paoloanzn/microcodex",
+        "points": 19,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49147842"
+      },
+      {
+        "id": "49148735",
+        "name": "Show HN: Alfa. Killing AI hallucinations with resonance",
+        "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
+        "points": 12,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49148735"
+      },
+      {
+        "id": "49148163",
+        "name": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
+        "url": "https://github.com/0xchasercat/draco/",
+        "points": 11,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49148163"
+      },
+      {
+        "id": "49148342",
+        "name": "Show HN: I implemented the Kimi K3 paper from scratch in PyTorch",
+        "url": "https://github.com/TimRots/kimi3",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49148342"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/vidrip",
+        "name": "Vidrip",
+        "description": "Record real reactions with face lenses and share with friends",
+        "url": "https://betalist.com/startups/vidrip"
+      },
+      {
+        "id": "/startups/hi-tabi",
+        "name": "hi tabi",
+        "description": "An installable offline itinerary planner",
+        "url": "https://betalist.com/startups/hi-tabi"
+      },
+      {
+        "id": "/startups/passenger-seat",
+        "name": "Passenger Seat",
+        "description": "Hear stories about places as you drive, completely hands free",
+        "url": "https://betalist.com/startups/passenger-seat"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ai-youtube-helper?post=RLiDX8cq3wSjA8eV0KsN",
+        "title": "AI YouTube Helper: I got tired of opening 15 AI websites every time I made a YouTube video, so I built one desktop app instead.",
+        "url": "https://www.indiehackers.com/product/ai-youtube-helper?post=RLiDX8cq3wSjA8eV0KsN",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-ll-just-post-on-upwork-is-not-a-client-strategy-here-s-what-i-built-instead-78ae781ab3",
+        "title": "“I’ll just post on Upwork” is not a client strategy. Here’s what I built instead.",
+        "url": "https://www.indiehackers.com/post/i-ll-just-post-on-upwork-is-not-a-client-strategy-here-s-what-i-built-instead-78ae781ab3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/signalshunt?post=1QPhNElOx0XA7hLzvbY8",
+        "title": "SignalsHunt: “I’ll just post on Upwork” is not a client strategy. Here’s what I built instead.",
+        "url": "https://www.indiehackers.com/product/signalshunt?post=1QPhNElOx0XA7hLzvbY8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-startup-idea-scanner-it-just-told-me-none-of-my-3-400-ideas-are-easy-wins-c6e4e7e5f2",
+        "title": "I built a startup-idea scanner. It just told me none of my 3,400 ideas are easy wins.",
+        "url": "https://www.indiehackers.com/post/i-built-a-startup-idea-scanner-it-just-told-me-none-of-my-3-400-ideas-are-easy-wins-c6e4e7e5f2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/restryde?post=sHqbu3axYoY2YorUQD0y",
+        "title": "New Startup, Restryde.",
+        "url": "https://www.indiehackers.com/product/restryde?post=sHqbu3axYoY2YorUQD0y",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
