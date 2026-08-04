@@ -1,0 +1,213 @@
+{
+  "scan_time": "2026-08-04T08:34:51.448118+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "agentsky",
+        "name": "AgentSky",
+        "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
+        "description": "Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.",
+        "votes": 441,
+        "ph_url": "https://www.producthunt.com/posts/agentsky",
+        "website": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "ctruh-studio-2",
+        "name": "Ctruh Studio",
+        "tagline": "Create interactive 3D and XR experiences without coding",
+        "description": "Ctruh Studio is an AI-powered no-code platform that lets anyone create, customise and publish interactive 3D experiences for websites. Generate 3D assets with AI, build immersive product showcases, virtual stores, configurators and AR experiences directly in your browser.",
+        "votes": 406,
+        "ph_url": "https://www.producthunt.com/posts/ctruh-studio-2",
+        "website": "https://www.producthunt.com/r/YYAIX2KMA2K36Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Augmented Reality",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "minimax-h3",
+        "name": "MiniMax H3",
+        "tagline": "Unified video generation for motion design and branding",
+        "description": "MiniMax H3 is an open multimodal model that generates 2K video with native stereo sound. It unifies text, image, and audio inputs, excelling at accurate text rendering, visual packaging, and complex instruction following for commercial content creation.",
+        "votes": 394,
+        "ph_url": "https://www.producthunt.com/posts/minimax-h3",
+        "website": "https://www.producthunt.com/r/OLTE3UX4QGE277?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Art",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49158333",
+        "name": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+        "url": "https://github.com/leonickson1/Swiftlet",
+        "points": 155,
+        "comments": 63,
+        "hn_url": "https://news.ycombinator.com/item?id=49158333"
+      },
+      {
+        "id": "49154127",
+        "name": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "url": "https://github.com/garagehq/nightcrawler/",
+        "points": 110,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=49154127"
+      },
+      {
+        "id": "49159018",
+        "name": "Show HN: Hacker News with AI stories filtered out",
+        "url": "https://hcker.news/?view=frontpage&ai=exclude",
+        "points": 47,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49159018"
+      },
+      {
+        "id": "49157807",
+        "name": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "url": "https://armature.tech/",
+        "points": 40,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49157807"
+      },
+      {
+        "id": "49158573",
+        "name": "Show HN: Mstat a temperature and stat tracker for macOS in Zig and SwiftUI",
+        "url": "https://git.cafe/versecafe/mstat",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49158573"
+      },
+      {
+        "id": "49157941",
+        "name": "Show HN: FutureSearch, AI forecasting you can verify",
+        "url": "https://futuresearch.ai/",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49157941"
+      },
+      {
+        "id": "49162898",
+        "name": "Show HN: LarpIn – LinkedIn, but everyone admits they're larping, one global feed",
+        "url": "https://larpin.io",
+        "points": 8,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49162898"
+      },
+      {
+        "id": "49158883",
+        "name": "Show HN: Vinyl – Animated vinyl record wallpaper for Mac, synced to Spotify",
+        "url": "https://www.vinylformac.com/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49158883"
+      },
+      {
+        "id": "49152993",
+        "name": "Show HN: SaaS payment integration in ~10 lines of code",
+        "url": "https://github.com/paycan-app/paycan",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49152993"
+      },
+      {
+        "id": "49156306",
+        "name": "Show HN: Lunar, a \"fast\", memory-efficient Lua 5.1 VM written in Go",
+        "url": "https://github.com/mmcdole/lunar",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49156306"
+      },
+      {
+        "id": "49155493",
+        "name": "Show HN: Semsearch – Embedding-first indexing and search engine for indle blogs",
+        "url": "https://github.com/yikerman/semantic-search",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49155493"
+      },
+      {
+        "id": "49158317",
+        "name": "Show HN: Latex.to – LaTeX to PDF via Full Tex Live in the Browser",
+        "url": "https://latex.to/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49158317"
+      },
+      {
+        "id": "49154146",
+        "name": "Show HN: SubTrends – stats and trends across 100k subreddits",
+        "url": "https://subtrends.io/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49154146"
+      },
+      {
+        "id": "49157992",
+        "name": "Show HN: CCo – Go-style coroutines in C",
+        "url": "https://github.com/gtutino/CCo",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49157992"
+      },
+      {
+        "id": "49158734",
+        "name": "Show HN: 11-Node Agentic RAG with MCP and PII Shield Under 512MB RAM",
+        "url": "https://agentic-rag-financial-parser.onrender.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49158734"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/aidesignhouse",
+        "name": "AIDesignHouse",
+        "description": "Your AI room planner and floor plan maker for instant redesigns",
+        "url": "https://betalist.com/startups/aidesignhouse"
+      },
+      {
+        "id": "/startups/y-build",
+        "name": "Y Build",
+        "description": "Your crew of specialist AI agents in one shared workspace",
+        "url": "https://betalist.com/startups/y-build"
+      },
+      {
+        "id": "/startups/lifeknox",
+        "name": "LifeKnox",
+        "description": "Organize vital life details and act fast when it matters most",
+        "url": "https://betalist.com/startups/lifeknox"
+      }
+    ],
+    "indiehackers": []
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 0,
+      "new": 0
+    }
+  }
+}
