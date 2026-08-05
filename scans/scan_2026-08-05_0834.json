@@ -1,0 +1,248 @@
+{
+  "scan_time": "2026-08-05T08:34:07.914724+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "hey-noah",
+        "name": "Hey Noah",
+        "tagline": "A proactive AI executive assistant for founders",
+        "description": "Noah is a proactive AI executive assistant for founders. Claude talks to you; Noah talks to your network. It's like Tesla Full Self Driving, and not cruise control- an autonomous AI EA that manages your calendar, relationships, and follow-ups across email, text, and WhatsApp - so nothing slips. Think of it as an always-on EA living in your SMS and helping you with meeting logistics.",
+        "votes": 529,
+        "ph_url": "https://www.producthunt.com/posts/hey-noah",
+        "website": "https://www.producthunt.com/r/XG4DNYGMW6GCPP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Calendar",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "capptivo",
+        "name": "Capptivo",
+        "tagline": "Free open-source screen recorder & demo editor",
+        "description": "Capptivo is a free, open-source screen recorder and demo editor for macOS, Windows, and Linux. Record locally, add follow-cursor zooms, polish the look, burn on-device captions, and export, no account, no subscription. Give your demos the spotlight they deserve.",
+        "votes": 376,
+        "ph_url": "https://www.producthunt.com/posts/capptivo",
+        "website": "https://www.producthunt.com/r/4DHHOKGIDD7PW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "GitHub",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49170165",
+        "name": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+        "url": "https://toneyalexander.github.io/inclusive-color-space/",
+        "points": 516,
+        "comments": 90,
+        "hn_url": "https://news.ycombinator.com/item?id=49170165"
+      },
+      {
+        "id": "49166984",
+        "name": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+        "url": "https://github.com/MakazhanAlpamys/Soup",
+        "points": 127,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=49166984"
+      },
+      {
+        "id": "49173984",
+        "name": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+        "url": "https://deepgrove.ai/maple-preview",
+        "points": 106,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=49173984"
+      },
+      {
+        "id": "49176212",
+        "name": "Show HN: SIMD Viterbi Decoder in Rust",
+        "url": "https://github.com/brian-armstrong/fec",
+        "points": 43,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49176212"
+      },
+      {
+        "id": "49171140",
+        "name": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+        "url": "https://github.com/Chiaro-HQ/methodology",
+        "points": 34,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49171140"
+      },
+      {
+        "id": "49170704",
+        "name": "Show HN: Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
+        "url": "https://jido.run/blog/jido-assembly-slack-clone",
+        "points": 20,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49170704"
+      },
+      {
+        "id": "49165845",
+        "name": "Show HN: I made a private self-destructing image hosting site in Golang",
+        "url": "https://picburn.xyz/",
+        "points": 15,
+        "comments": 35,
+        "hn_url": "https://news.ycombinator.com/item?id=49165845"
+      },
+      {
+        "id": "49168675",
+        "name": "Show HN: Implement-spec – a harness-agnostic spec-to-verified-PR agent skill",
+        "url": "https://github.com/SteveVitali/agent-skills",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49168675"
+      },
+      {
+        "id": "49169818",
+        "name": "Show HN: OpenEdit – Your coding agent can now edit videos",
+        "url": "https://github.com/veedstudio/open-edit",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49169818"
+      },
+      {
+        "id": "49171404",
+        "name": "Show HN: SIEMatic, a fair-sourced observability and security platform",
+        "url": "https://github.com/mcindi/siematic",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49171404"
+      },
+      {
+        "id": "49166758",
+        "name": "Show HN: Listnr – macOS meeting transcription that never mixes mic and speakers",
+        "url": "https://github.com/rokib16x/listnr",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49166758"
+      },
+      {
+        "id": "49172545",
+        "name": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+        "url": "https://github.com/agentrust-io/cmcp",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49172545"
+      },
+      {
+        "id": "49173799",
+        "name": "Show HN: A faster coding agent than Codex and Claude Code",
+        "url": "https://www.codewithbullet.com",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49173799"
+      },
+      {
+        "id": "49171258",
+        "name": "Show HN: Blender for AI Agents",
+        "url": "https://www.mixar.app",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49171258"
+      },
+      {
+        "id": "49175296",
+        "name": "Show HN: Mcpscore – validate any MCP server compliance with a new MCP version",
+        "url": "https://github.com/mcp-box/mcpscore",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49175296"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/arivaanai",
+        "name": "ArivaanAI",
+        "description": "All AI tools in one place with a single credit system and no limits",
+        "url": "https://betalist.com/startups/arivaanai"
+      },
+      {
+        "id": "/startups/magicshot-ai",
+        "name": "MagicShot.ai",
+        "description": "Every AI creative tool in one studio with 500+ models and 85+ tools",
+        "url": "https://betalist.com/startups/magicshot-ai"
+      },
+      {
+        "id": "/startups/competiflow",
+        "name": "Competiflow",
+        "description": "Track competitor changes with evidence and actionable alerts",
+        "url": "https://betalist.com/startups/competiflow"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/picktests?post=wqdgXVW9cvI7EawAzKJw",
+        "title": "I’m building PickTests, one small browser test at a time",
+        "url": "https://www.indiehackers.com/product/picktests?post=wqdgXVW9cvI7EawAzKJw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/hivemind-3?post=LdAOMRPGepl6cmGIFLQ6",
+        "title": "Hivemind: \"It's not a model problem, it's an instruction problem.\" Icarus buried its best sentence below the fold",
+        "url": "https://www.indiehackers.com/product/hivemind-3?post=LdAOMRPGepl6cmGIFLQ6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-capture-trap-189f397999",
+        "title": "The Capture Trap",
+        "url": "https://www.indiehackers.com/post/the-capture-trap-189f397999",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/your-product-doesnt-need-more-features-it-needs-more-questions-ffc7b7a8c6",
+        "title": "Your Product Doesn't Need More Features. It Needs More Questions.",
+        "url": "https://www.indiehackers.com/post/your-product-doesnt-need-more-features-it-needs-more-questions-ffc7b7a8c6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=GGozIc87pRb4qjQultdq",
+        "title": "IbexAI: My own agency became our first customer",
+        "url": "https://www.indiehackers.com/product/ibexai?post=GGozIc87pRb4qjQultdq",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-design-i-offered-in-public-did-not-survive-contact-8fbb7d329d",
+        "title": "The design I offered in public did not survive contact",
+        "url": "https://www.indiehackers.com/post/the-design-i-offered-in-public-did-not-survive-contact-8fbb7d329d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/smooth-bundle?post=QfwUJC5L05IfpjhhgSx2",
+        "title": "Smooth Bundle: Publish assets once. Use them everywhere.",
+        "url": "https://www.indiehackers.com/product/smooth-bundle?post=QfwUJC5L05IfpjhhgSx2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/this-full-time-data-scientist-built-a-7k-mo-portfolio-of-side-projects-quOo7AXtrGlePopsGslc",
+        "title": "This full-time data scientist built a $7k/mo portfolio of side projects",
+        "url": "https://www.indiehackers.com/post/tech/this-full-time-data-scientist-built-a-7k-mo-portfolio-of-side-projects-quOo7AXtrGlePopsGslc",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
