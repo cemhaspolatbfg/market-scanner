@@ -1,0 +1,277 @@
+{
+  "scan_time": "2026-08-06T08:34:00.707831+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "adant-ai",
+        "name": "AdAnt AI",
+        "tagline": "Claude for viral, high-converting social ads",
+        "description": "AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration. Built on the strategies our founding team used to generate 50M+ Organic Views and reduce Paid Acquisition Costs by 60% on average, AdAnt AI creates Scroll-Stopping, High-Converting Ads for TikTok, Instagram, and YouTube.",
+        "votes": 587,
+        "ph_url": "https://www.producthunt.com/posts/adant-ai",
+        "website": "https://www.producthunt.com/r/QNPUB2TD4A4RX4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Advertising",
+          "Artificial Intelligence",
+          "Social media marketing"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "wispr-flow-notetaker",
+        "name": "Wispr Flow Notetaker",
+        "tagline": "Meeting notes that get the details right.",
+        "description": "Your follow-ups are only as good as your meeting notes. Wispr Notetaker gets your words and your speakers right, so your recaps, follow-ups, and answers are too. Before the meeting starts, it checks the invite so names are spelled correctly, and it brings the terminology you've already taught Wispr Flow into every conversation. Your transcripts use real names instead of \"Speaker 1\" and \"Speaker 2,\" and every meeting is ready to pull into Claude or ChatGPT via MCP. Available on Mac. Free to try.",
+        "votes": 538,
+        "ph_url": "https://www.producthunt.com/posts/wispr-flow-notetaker",
+        "website": "https://www.producthunt.com/r/TP2MPL5CRVXSM2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Notes",
+          "Meetings",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "nextdoor-company",
+        "name": "NextDoor.Company",
+        "tagline": "Discover startups hiring near you, on a map",
+        "description": "Find startups hiring near you, on a map. 400+ hand curated startups globally, 16,000+ live job openings updated weekly. Filter by work mode: remote, hybrid, or on site. See funding, valuation, and revenue details, verified founder profiles, key investors, and their investment details, all in one place.",
+        "votes": 428,
+        "ph_url": "https://www.producthunt.com/posts/nextdoor-company",
+        "website": "https://www.producthunt.com/r/W6SVY7XXFTOVTY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Hiring",
+          "Maps",
+          "Career"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "wondering-2",
+        "name": "Wondering",
+        "tagline": "Duolingo for learning anything",
+        "description": "Wondering is the most delightful way to break down complex topics into knowledge you can remember and apply. Tell it what you want to learn, and it creates a personalized path of short lessons with visuals, podcasts, and interactive exercises. It surfaces the most important ideas and lets you explore them in your own way, like a thoughtful tutor beside you.",
+        "votes": 378,
+        "ph_url": "https://www.producthunt.com/posts/wondering-2",
+        "website": "https://www.producthunt.com/r/534DO3AKV4LOCN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Education",
+          "Audio"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49186767",
+        "name": "Show HN: Hacker News with reduced priority for AI driven content",
+        "url": "https://sprinklz.io/public/nncrnx74ykir",
+        "points": 23,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=49186767"
+      },
+      {
+        "id": "49184388",
+        "name": "Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode",
+        "url": "https://github.com/adrida/hud-mode",
+        "points": 22,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49184388"
+      },
+      {
+        "id": "49186732",
+        "name": "Show HN: ClickBench Playground – a playground for 110 database systems",
+        "url": "https://benchmark.clickhouse.com/playground/",
+        "points": 21,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49186732"
+      },
+      {
+        "id": "49192219",
+        "name": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+        "url": "https://github.com/pradipta/wallfacer",
+        "points": 19,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49192219"
+      },
+      {
+        "id": "49187583",
+        "name": "Show HN: My receipt printer prints an original artwork every morning",
+        "url": "https://github.com/matt-w-horn/morningprint",
+        "points": 19,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49187583"
+      },
+      {
+        "id": "49182352",
+        "name": "Show HN: Modern Browsers Don't Need the Cookie Anymore",
+        "url": "https://kuber.studio/cookie/",
+        "points": 16,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=49182352"
+      },
+      {
+        "id": "49183110",
+        "name": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+        "url": "https://www.vocab.top/",
+        "points": 16,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49183110"
+      },
+      {
+        "id": "49184845",
+        "name": "Show HN: Diffing Binary Files",
+        "url": "https://withkord.com/diff",
+        "points": 15,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49184845"
+      },
+      {
+        "id": "49182263",
+        "name": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+        "url": "https://quantsignals.xyz/fst",
+        "points": 15,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49182263"
+      },
+      {
+        "id": "49185576",
+        "name": "Show HN: ExANS – Lossless KV cache compression at 622 GB/s on H100",
+        "url": "https://www.theopenlake.com/blog/exans-lossless-gpu-compression-for-bf16-kv-cache",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49185576"
+      },
+      {
+        "id": "49188168",
+        "name": "Show HN: Capy – A Git-style platform for managing your team's secrets",
+        "url": "https://github.com/capysc/capy-cli",
+        "points": 13,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49188168"
+      },
+      {
+        "id": "49181106",
+        "name": "Show HN: 3D models, but they're 100% code",
+        "url": "https://polyfork.dev/try",
+        "points": 12,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49181106"
+      },
+      {
+        "id": "49181982",
+        "name": "Show HN: AuditBadger – SOC 2 and ISO 27001 – AI drafts, you approve",
+        "url": "https://auditbadger.com/",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49181982"
+      },
+      {
+        "id": "49180550",
+        "name": "Show HN: Systematic reporting in under an hour, not months",
+        "url": "https://octigen.com/blog/posts/2026-08-04-systematic-reporting/",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49180550"
+      },
+      {
+        "id": "49180394",
+        "name": "Show HN: Bitbead – Photo to printable bead pattern, in the browser",
+        "url": "https://www.bitbead.app/en",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49180394"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/postrush",
+        "name": "Postrush",
+        "description": "You relax, we ship",
+        "url": "https://betalist.com/startups/postrush"
+      },
+      {
+        "id": "/startups/rental-wealth-simulator",
+        "name": "Rental Wealth Simulator",
+        "description": "Project your real estate portfolio moves and compare futures side by side",
+        "url": "https://betalist.com/startups/rental-wealth-simulator"
+      },
+      {
+        "id": "/startups/halfway",
+        "name": "Halfway",
+        "description": "Personal finance app for couples with different incomes",
+        "url": "https://betalist.com/startups/halfway"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=24fswLcSfB42dnJp48yo",
+        "title": "DiscountHub just passed 10,000 pageviews in a month",
+        "url": "https://www.indiehackers.com/product/discounthub?post=24fswLcSfB42dnJp48yo",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/co-founders-suck-e4116b6d72",
+        "title": "Co-founders suck…",
+        "url": "https://www.indiehackers.com/post/co-founders-suck-e4116b6d72",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pytch?post=3MUTc2maWq1Svbnkf3Xv",
+        "title": "Pytch: Fighting the struggle of getting your product noticed",
+        "url": "https://www.indiehackers.com/product/pytch?post=3MUTc2maWq1Svbnkf3Xv",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-just-discovered-my-analytics-numbers-are-mostly-fake-here-is-why-8197e3ff9d",
+        "title": "I Just Discovered My Analytics Numbers Are Mostly Fake. Here Is Why.",
+        "url": "https://www.indiehackers.com/post/i-just-discovered-my-analytics-numbers-are-mostly-fake-here-is-why-8197e3ff9d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/banned-on-substack-reddit-and-etsy-in-my-first-month-for-offering-people-free-promotion-4465ef4b95",
+        "title": "Banned on Substack, Reddit, and Etsy in my first month – for offering people free promotion",
+        "url": "https://www.indiehackers.com/post/banned-on-substack-reddit-and-etsy-in-my-first-month-for-offering-people-free-promotion-4465ef4b95",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/your-users-want-to-interact-your-roadmap-doesnt-have-weeks-to-spare-8b7a26b8b4",
+        "title": "Your users want to interact. Your roadmap doesn't have weeks to spare.",
+        "url": "https://www.indiehackers.com/post/your-users-want-to-interact-your-roadmap-doesnt-have-weeks-to-spare-8b7a26b8b4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/118-visitors-0-signups-and-the-two-bugs-i-only-found-by-digging-cc665c94e4",
+        "title": "118 visitors, 0 signups, and the two bugs I only found by digging",
+        "url": "https://www.indiehackers.com/post/118-visitors-0-signups-and-the-two-bugs-i-only-found-by-digging-cc665c94e4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/growing-a-talent-marketplace-to-2-5m-yr-after-two-years-of-losses-9CktlRa1UunyRWHrftxv",
+        "title": "Growing a talent marketplace to $2.5M+/yr after two years of losses",
+        "url": "https://www.indiehackers.com/post/tech/growing-a-talent-marketplace-to-2-5m-yr-after-two-years-of-losses-9CktlRa1UunyRWHrftxv",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
