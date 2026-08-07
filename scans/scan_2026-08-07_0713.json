@@ -1,0 +1,209 @@
+{
+  "scan_time": "2026-08-07T07:13:38.862958+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "cloudflare-os-2",
+        "name": "Cloudflare OS",
+        "tagline": "Build the AI operating system for your company",
+        "description": "Give every person an agent and workspace built around how your company works, what it knows, and the systems it relies on. Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules.",
+        "votes": 436,
+        "ph_url": "https://www.producthunt.com/posts/cloudflare-os-2",
+        "website": "https://www.producthunt.com/r/VYDPLSA7MSOD7N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Artificial Intelligence",
+          "GitHub",
+          "Bots"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49197137",
+        "name": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+        "url": "https://electronicmaterialsoffice.com/",
+        "points": 268,
+        "comments": 220,
+        "hn_url": "https://news.ycombinator.com/item?id=49197137"
+      },
+      {
+        "id": "49198583",
+        "name": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+        "url": "https://github.com/CopilotKit/channels-sdk",
+        "points": 100,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=49198583"
+      },
+      {
+        "id": "49203059",
+        "name": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+        "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+        "points": 44,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=49203059"
+      },
+      {
+        "id": "49195297",
+        "name": "Show HN: Skyline Co-op is like SimTower, but built around democratic socialism",
+        "url": "https://intergalacticrobots.app/skyline-coop/",
+        "points": 39,
+        "comments": 41,
+        "hn_url": "https://news.ycombinator.com/item?id=49195297"
+      },
+      {
+        "id": "49194772",
+        "name": "Show HN: A terminal glued to the macOS dock",
+        "url": "https://github.com/palamim/starboard",
+        "points": 38,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49194772"
+      },
+      {
+        "id": "49195251",
+        "name": "Show HN: demake – one source project compiles to any retro game console ROM",
+        "url": "https://geosona.com/demake/",
+        "points": 38,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49195251"
+      },
+      {
+        "id": "49196603",
+        "name": "Show HN: Science for Kids",
+        "url": "https://science.ocaho.com/",
+        "points": 20,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49196603"
+      },
+      {
+        "id": "49198572",
+        "name": "Show HN: Silo – S3-compatible object storage, a maintained fork of MinIO",
+        "url": "https://silo.pgsty.com",
+        "points": 20,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49198572"
+      },
+      {
+        "id": "49195914",
+        "name": "Show HN: Hope, 1-on-1 AI Tutor for kids Grades 2-10 learning math",
+        "url": "https://usehope.app",
+        "points": 11,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49195914"
+      },
+      {
+        "id": "49198472",
+        "name": "Show HN: mcp-use v2 rebuilt from scratch for stateless 2026-07-28 MCP spec",
+        "url": "https://manufact.com/blog/mcp-use-v2",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49198472"
+      },
+      {
+        "id": "49198533",
+        "name": "Show HN: Popcorn – An open-source browser cloud that runs inside TEEs",
+        "url": "https://blog.reclaimprotocol.org/posts/why-we-built-popcorn",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49198533"
+      },
+      {
+        "id": "49196850",
+        "name": "Show HN: Ranking weather models by how their forecasts turned out",
+        "url": "https://nickleenders.github.io/verisky-scoreboard/?city=newyork",
+        "points": 7,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49196850"
+      },
+      {
+        "id": "49198262",
+        "name": "Show HN: See every Google ad any company is running (free, no signup)",
+        "url": "https://vaytric.com/google-ads-lookup/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49198262"
+      },
+      {
+        "id": "49200118",
+        "name": "Show HN: Node.JS in the Browser – An Open-source Alternative to WebContainers",
+        "url": "https://developer.puter.com/labs/node/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49200118"
+      },
+      {
+        "id": "49196116",
+        "name": "Show HN: How will the Aug 12 eclipse look like from your address?",
+        "url": "https://eclipse2026times.com/",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49196116"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/park-with-us",
+        "name": "Park With Us",
+        "description": "Campground management software simple and free",
+        "url": "https://betalist.com/startups/park-with-us"
+      },
+      {
+        "id": "/startups/siift",
+        "name": "siift",
+        "description": "An executive filter for serious builders to focus on what matters",
+        "url": "https://betalist.com/startups/siift"
+      },
+      {
+        "id": "/startups/outagedeck",
+        "name": "OutageDeck",
+        "description": "Get Slack, Discord, and email alerts when your vendors go down",
+        "url": "https://betalist.com/startups/outagedeck"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-tool-to-find-people-already-talking-about-problems-your-product-solves-dbca80a1cb",
+        "title": "I built a tool to find people already talking about problems your product solves",
+        "url": "https://www.indiehackers.com/post/i-built-a-tool-to-find-people-already-talking-about-problems-your-product-solves-dbca80a1cb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-that-finds-the-right-product-for-your-customers-1f6c340daf",
+        "title": "I built an AI that finds the right product for your customers",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-that-finds-the-right-product-for-your-customers-1f6c340daf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-product-wasn-t-our-biggest-bottleneck-96b200c5c4",
+        "title": "The product wasn’t our biggest bottleneck",
+        "url": "https://www.indiehackers.com/post/the-product-wasn-t-our-biggest-bottleneck-96b200c5c4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-6-weeks-of-shipping-fitforge-in-public-actually-looked-like-9b610d316f",
+        "title": "What 6 weeks of shipping FitForge in public actually looked like",
+        "url": "https://www.indiehackers.com/post/what-6-weeks-of-shipping-fitforge-in-public-actually-looked-like-9b610d316f",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
