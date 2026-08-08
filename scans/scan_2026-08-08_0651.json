@@ -1,0 +1,235 @@
+{
+  "scan_time": "2026-08-08T06:51:27.845195+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "coldtea",
+        "name": "Coldtea.ai",
+        "tagline": "Make your software delivery self-driving",
+        "description": "The faster your team ships with AI, the harder it becomes to keep production stable. Not anymore. Coldtea is an agentic IDE where your coding agents build, visual QA agents catch regressions, and AI monitoring watches production, so your team can keep moving at agent speed without breaking anything",
+        "votes": 462,
+        "ph_url": "https://www.producthunt.com/posts/coldtea",
+        "website": "https://www.producthunt.com/r/WB4IUOEMBNYG5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "soloop-2",
+        "name": "Soloop",
+        "tagline": "Approval-first Agent OS for solo founders",
+        "description": "Soloop is an agentic company-building system for solo founders. It takes you from idea to revenue with an AI CEO to plan, manage and prioritize, an AI CTO to build and execute, and an AI CMO to find users and sell. Keep your own judgment and ownership while delegating the unfamiliar work that usually requires a team.",
+        "votes": 442,
+        "ph_url": "https://www.producthunt.com/posts/soloop-2",
+        "website": "https://www.producthunt.com/r/K3YBVXDB7SFOVL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Maker Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49209385",
+        "name": "Show HN: Wyzer Programming Language",
+        "url": "https://github.com/Wyzer-Lang/wyzer",
+        "points": 189,
+        "comments": 105,
+        "hn_url": "https://news.ycombinator.com/item?id=49209385"
+      },
+      {
+        "id": "49208458",
+        "name": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+        "url": "https://textlog.cc/about",
+        "points": 159,
+        "comments": 65,
+        "hn_url": "https://news.ycombinator.com/item?id=49208458"
+      },
+      {
+        "id": "49207793",
+        "name": "Show HN: Certo – An open source platform to deliver Open Badges",
+        "url": "https://github.com/schroedinger-Hat/certo",
+        "points": 15,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49207793"
+      },
+      {
+        "id": "49213400",
+        "name": "Show HN: 514 - Managed infra, agents and data to simulate coding agents as users",
+        "url": "https://docs.514.ax/0.5.0-rp/getting-started",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49213400"
+      },
+      {
+        "id": "49207898",
+        "name": "Show HN: Recipe Jar, a local-first recipe keeper with no account or ads",
+        "url": "https://recipejar.app/",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49207898"
+      },
+      {
+        "id": "49207194",
+        "name": "Show HN: Remembrane – agent memory in one SQLite file, zero dependencies",
+        "url": "https://github.com/satyasairay/remembrane",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49207194"
+      },
+      {
+        "id": "49217068",
+        "name": "Show HN: CrossPlay - Games, puzzles and tools for your e-reader",
+        "url": "https://crossplay.ma-r-s.com",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49217068"
+      },
+      {
+        "id": "49206971",
+        "name": "Show HN: XSAF – Extra Small Agent Framework",
+        "url": "https://xsaf.ilha.build/",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49206971"
+      },
+      {
+        "id": "49211040",
+        "name": "Show HN: S-Bahn Seat Picker",
+        "url": "https://welidev.github.io/sbahn-picker/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49211040"
+      },
+      {
+        "id": "49210885",
+        "name": "Show HN: Clef – spaced repetition for piano over MIDI",
+        "url": "https://playclef.com/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49210885"
+      },
+      {
+        "id": "49217761",
+        "name": "Show HN: Modern C++ Build Tools for Module Feature",
+        "url": "https://github.com/mcpp-community/mcpp",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49217761"
+      },
+      {
+        "id": "49210199",
+        "name": "Show HN: Tamron Lens Utility Alternative on Linux",
+        "url": "https://github.com/yikerman/tamron-lens-control",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49210199"
+      },
+      {
+        "id": "49209498",
+        "name": "Show HN: Lefts – a domain specific language for building creative ML models",
+        "url": "https://nsmat.github.io/lefts/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49209498"
+      },
+      {
+        "id": "49207894",
+        "name": "Show HN: File-based HTTP endpoints for Python with its own isolated dependencies",
+        "url": "https://github.com/tanrax/bitpoint",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49207894"
+      },
+      {
+        "id": "49209747",
+        "name": "Show HN: Mirafold – Your Agent with Generative UI (Codex, Claude Code, Gemini)",
+        "url": "https://mirafold.com/",
+        "points": 4,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49209747"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/talkpix-ai",
+        "name": "TalkPix AI",
+        "description": "Turn any photo into a talking video",
+        "url": "https://betalist.com/startups/talkpix-ai"
+      },
+      {
+        "id": "/startups/planninn",
+        "name": "Planninn",
+        "description": "is the shared calendar for your family, team, or club",
+        "url": "https://betalist.com/startups/planninn"
+      },
+      {
+        "id": "/startups/lawh-ai",
+        "name": "Lawh.ai",
+        "description": "Turn a prompt into a fully editable, on-brand design in minutes",
+        "url": "https://betalist.com/startups/lawh-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/are-my-ads-actually-making-me-money-56f518aa4b",
+        "title": "Are my ads actually making me money?",
+        "url": "https://www.indiehackers.com/post/are-my-ads-actually-making-me-money-56f518aa4b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-easiest-version-of-generation-history-was-probably-the-least-useful-one-33849ba72b",
+        "title": "The easiest version of generation history was probably the least useful one",
+        "url": "https://www.indiehackers.com/post/the-easiest-version-of-generation-history-was-probably-the-least-useful-one-33849ba72b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=ZO8oKivHleGwHEXei462",
+        "title": "Users have clicked through from DiscountHub to partner stores 537 times in 20 days",
+        "url": "https://www.indiehackers.com/product/discounthub?post=ZO8oKivHleGwHEXei462",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-a-freelancing-playbook-for-web-developers-would-love-your-feedback-1e5fbeace8",
+        "title": "Building a freelancing playbook for web developers — would love your feedback",
+        "url": "https://www.indiehackers.com/post/building-a-freelancing-playbook-for-web-developers-would-love-your-feedback-1e5fbeace8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-104-free-tools-solo-in-4-months-heres-the-honest-journey-so-far-671b2be76f",
+        "title": "I built 104 free tools solo in 4 months. Here's the honest journey so far.",
+        "url": "https://www.indiehackers.com/post/i-built-104-free-tools-solo-in-4-months-heres-the-honest-journey-so-far-671b2be76f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/analyzing-markets-for-months-before-finding-the-right-idea-and-building-a-5-figure-mrr-product-24ddaphAJ0Zn3m4RKtqc",
+        "title": "Analyzing markets for months before finding the right idea and building a 5-figure MRR product",
+        "url": "https://www.indiehackers.com/post/tech/analyzing-markets-for-months-before-finding-the-right-idea-and-building-a-5-figure-mrr-product-24ddaphAJ0Zn3m4RKtqc",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
