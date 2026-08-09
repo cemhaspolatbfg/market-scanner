@@ -1,0 +1,192 @@
+{
+  "scan_time": "2026-08-09T06:54:32.796656+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49221354",
+        "name": "Show HN: A free DOCX editor with MCP server for editing",
+        "url": "https://revise.io/help/mcp-server",
+        "points": 13,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49221354"
+      },
+      {
+        "id": "49224241",
+        "name": "Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean",
+        "url": "https://github.com/skorotkiewicz/algebruh",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49224241"
+      },
+      {
+        "id": "49226627",
+        "name": "Show HN: Try Benzi – A coding harness/agent beating Claude Code itself on Sonnet",
+        "url": "https://benzi.fly.dev/about",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49226627"
+      },
+      {
+        "id": "49223981",
+        "name": "Show HN: Clippy for macOS – retro floating paperclip with computer use",
+        "url": "https://github.com/Ar9av/clippy",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49223981"
+      },
+      {
+        "id": "49223383",
+        "name": "Show HN: 49IDE – 2D Grid IDE for managing many agents, Git trees, issues",
+        "url": "https://github.com/alpbahadur/49Agents",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49223383"
+      },
+      {
+        "id": "49226623",
+        "name": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+        "url": "https://photosynthesis.camera",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49226623"
+      },
+      {
+        "id": "49220768",
+        "name": "Show HN: Compactdiff – see what compaction dropped from an agent session",
+        "url": "https://github.com/mkmkkkkk/compactdiff",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49220768"
+      },
+      {
+        "id": "49227119",
+        "name": "Show HN: Tura – Build agent that uses 80% less token and delivers better results",
+        "url": "https://github.com/Tura-AI/tura",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49227119"
+      },
+      {
+        "id": "49226838",
+        "name": "Show HN: Defcon and HN, the only two audiences I might find",
+        "url": "",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49226838"
+      },
+      {
+        "id": "49223667",
+        "name": "Show HN: Let your jailbroken kindle have a domain name on your network",
+        "url": "https://github.com/sindhusp/kindle-mdns-rcvr",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49223667"
+      },
+      {
+        "id": "49225487",
+        "name": "Show HN: Camera Sun – Fixing the iPhone's Camera App",
+        "url": "",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49225487"
+      },
+      {
+        "id": "49219823",
+        "name": "Show HN: I updated my unofficial Substack Posting API",
+        "url": "https://apisubstack.com/",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49219823"
+      },
+      {
+        "id": "49223119",
+        "name": "Show HN: Geotop – Real-time terminal network monitor with map visualization",
+        "url": "https://github.com/ozkanpakdil/geotop",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49223119"
+      },
+      {
+        "id": "49228791",
+        "name": "Show HN: AppPage – Fix Instagram blocking App Store links in your bio",
+        "url": "https://apppage.co/",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49228791"
+      },
+      {
+        "id": "49226707",
+        "name": "Show HN: VD – TUI Password Manager and OTP Authenticator for Unix",
+        "url": "https://github.com/ahmedhosssam/vd",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49226707"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/dreamermade",
+        "name": "DreamerMade",
+        "description": "AI and human-powered startup roadmaps for entrepreneurs",
+        "url": "https://betalist.com/startups/dreamermade"
+      },
+      {
+        "id": "/startups/nexscope-2",
+        "name": "Nexscope",
+        "description": "Ecommerce data, UGC videos, repricing, and tools for multichannel growth",
+        "url": "https://betalist.com/startups/nexscope-2"
+      },
+      {
+        "id": "/startups/nueprism",
+        "name": "NuePrism",
+        "description": "Detect software execution risks before delivery slips",
+        "url": "https://betalist.com/startups/nueprism"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/23-days-of-distributing-a-saas-heres-exactly-what-happened-48bbe07158",
+        "title": "23 days of distributing a SaaS. Here's exactly what happened.",
+        "url": "https://www.indiehackers.com/post/23-days-of-distributing-a-saas-heres-exactly-what-happened-48bbe07158",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/why-vibe-coded-apps-are-still-leaking-user-data-in-2026-4a6ab2fbdd",
+        "title": "Why vibe-coded apps are still leaking user data in 2026",
+        "url": "https://www.indiehackers.com/post/why-vibe-coded-apps-are-still-leaking-user-data-in-2026-4a6ab2fbdd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/nokey?post=GXAvLZ70PBJLHtHY06NF",
+        "title": "NoKey: How I stopped sending PDF invoices from Notion (and started getting paid from it)",
+        "url": "https://www.indiehackers.com/product/nokey?post=GXAvLZ70PBJLHtHY06NF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-hard-part-of-delegating-to-an-ai-agent-is-knowing-what-evidence-would-let-you-trust-the-stop-point-b564ce94e4",
+        "title": "The hard part of delegating to an AI agent is knowing what evidence would let you trust the stop point",
+        "url": "https://www.indiehackers.com/post/the-hard-part-of-delegating-to-an-ai-agent-is-knowing-what-evidence-would-let-you-trust-the-stop-point-b564ce94e4",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
