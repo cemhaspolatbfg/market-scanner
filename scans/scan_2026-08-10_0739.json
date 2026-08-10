@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-08-10T07:39:00.790014+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "the-gtm-co-founder",
+        "name": "The GTM Co-Founder",
+        "tagline": "Open-source GTM skills for technical founders",
+        "description": "Most AI hands dev-tool founders the same generic sales and marketing advice. The GTM Co-Founder doesn't. It's a set of open-source skills that interview you once, learn your real product and market, then walk you move by move through a prioritised GTM roadmap: who it's for, positioning, your first 50 users, launch, pricing, etc. Grounded in the playbooks of Adam Frankl and Jakub Czakon, plus my own time as a Founding AE and GTM advisor. Free and open source.",
+        "votes": 411,
+        "ph_url": "https://www.producthunt.com/posts/the-gtm-co-founder",
+        "website": "https://www.producthunt.com/r/VPBAUGHOUKAU4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Marketing",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "omniwork-4",
+        "name": "Omniwork",
+        "tagline": "The Creative Agent OS, create better with desktop AI agents",
+        "description": "Omniwork is an always-on Creative Agent OS that turns ideas into finished work. Specialized AI agents research, create, monitor, and automate your creative workflows, while a proactive desktop companion keeps projects moving and pushes results, alerts, and progress straight to your screen.",
+        "votes": 404,
+        "ph_url": "https://www.producthunt.com/posts/omniwork-4",
+        "website": "https://www.producthunt.com/r/M4Y5GPSVZTCBSU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Social media marketing"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49230891",
+        "name": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+        "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+        "points": 113,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=49230891"
+      },
+      {
+        "id": "49238851",
+        "name": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "url": "https://www.whodunnitai.com/",
+        "points": 59,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=49238851"
+      },
+      {
+        "id": "49229848",
+        "name": "Show HN: Airy – Free, fast, and simple voice content creation",
+        "url": "https://airy.so",
+        "points": 39,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=49229848"
+      },
+      {
+        "id": "49235347",
+        "name": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+        "url": "https://alphabetsoup.club",
+        "points": 31,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=49235347"
+      },
+      {
+        "id": "49231777",
+        "name": "Show HN: Today's cities on a globe of Earth's tectonic past and future",
+        "url": "https://douwe.com/projects/tectonic_globe",
+        "points": 31,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49231777"
+      },
+      {
+        "id": "49230550",
+        "name": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+        "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+        "points": 29,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=49230550"
+      },
+      {
+        "id": "49232369",
+        "name": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+        "url": "https://alexanderwanyoike.github.io/vibez/",
+        "points": 20,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49232369"
+      },
+      {
+        "id": "49233306",
+        "name": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+        "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+        "points": 18,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49233306"
+      },
+      {
+        "id": "49235471",
+        "name": "Show HN: 35k+ paper psychedelic library that knows LSD from Lumpy Skin Disease",
+        "url": "https://consciousnesslibrary.org/",
+        "points": 16,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49235471"
+      },
+      {
+        "id": "49233442",
+        "name": "Show HN: Open-source playground to red-team AI agents against public prompts",
+        "url": "https://playground.fabraix.com/",
+        "points": 13,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49233442"
+      },
+      {
+        "id": "49230742",
+        "name": "Show HN: My WHOOP has no screen. My Kindle had no job. So I put them together",
+        "url": "https://github.com/kaibuildsai/kindle-for-whoop",
+        "points": 11,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49230742"
+      },
+      {
+        "id": "49236781",
+        "name": "Show HN: Lumabri – What if LLMs worked like Napster?",
+        "url": "https://github.com/JustVugg/lumabri",
+        "points": 8,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49236781"
+      },
+      {
+        "id": "49238670",
+        "name": "Show HN: Weather balloon to the stratosphere with a Raspberry Pi computer",
+        "url": "https://github.com/stratopi-org/stratopi",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49238670"
+      },
+      {
+        "id": "49231474",
+        "name": "Show HN: Augmented Violin Finger Choice Recommendation",
+        "url": "https://violin-fingering.unstacked.cc",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49231474"
+      },
+      {
+        "id": "49235865",
+        "name": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+        "url": "https://pacslate.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49235865"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/findrix",
+        "name": "Findrix",
+        "description": "Track how AI models cite your brand and get prioritized fixes",
+        "url": "https://betalist.com/startups/findrix"
+      },
+      {
+        "id": "/startups/mp3tomidi-io",
+        "name": "mp3tomidi.io",
+        "description": "MP3 to MIDI converter free with no signup",
+        "url": "https://betalist.com/startups/mp3tomidi-io"
+      },
+      {
+        "id": "/startups/herobot",
+        "name": "HeroBot",
+        "description": "Your website's AI agent for customer engagement, support, and sales",
+        "url": "https://betalist.com/startups/herobot"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/what-100b-claude-tokens-actually-look-like-inside-a-tiny-company-21f121799c",
+        "title": "What 100B+ Claude tokens actually look like inside a tiny company",
+        "url": "https://www.indiehackers.com/post/what-100b-claude-tokens-actually-look-like-inside-a-tiny-company-21f121799c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-churn-prevention-tool-then-deleted-the-billing-code-and-made-it-free-2fb1fc16d1",
+        "title": "I built a churn-prevention tool, then deleted the billing code and made it free",
+        "url": "https://www.indiehackers.com/post/i-built-a-churn-prevention-tool-then-deleted-the-billing-code-and-made-it-free-2fb1fc16d1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/indie-hackers-i-d-love-your-advice-on-launching-a-saas-0bf3b6227d",
+        "title": "Indie Hackers, I’d love your advice on launching a SaaS.",
+        "url": "https://www.indiehackers.com/post/indie-hackers-i-d-love-your-advice-on-launching-a-saas-0bf3b6227d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=SGIFPK5GRzQEnh1TYs0W",
+        "title": "Clone The App: How a Simple Sleep Sound App Makes $50K/Month",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=SGIFPK5GRzQEnh1TYs0W",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/from-local-plumbers-to-dentists-i-automated-seo-blogging-for-8-niches-with-lovable-roast-my-mvp-0b50a77be1",
+        "title": "From Local Plumbers to Dentists: I automated SEO blogging for 8 niches with Lovable. Roast my MVP.",
+        "url": "https://www.indiehackers.com/post/from-local-plumbers-to-dentists-i-automated-seo-blogging-for-8-niches-with-lovable-roast-my-mvp-0b50a77be1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-tracked-my-time-for-14-days-the-result-was-embarrassing-74c34422fd",
+        "title": "I tracked my time for 14 days. The result was embarrassing.",
+        "url": "https://www.indiehackers.com/post/i-tracked-my-time-for-14-days-the-result-was-embarrassing-74c34422fd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-stopped-collecting-productivity-tools-and-built-a-small-operating-stack-instead-e3e9cb7d1c",
+        "title": "I stopped collecting productivity tools and built a small operating stack instead",
+        "url": "https://www.indiehackers.com/post/i-stopped-collecting-productivity-tools-and-built-a-small-operating-stack-instead-e3e9cb7d1c",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
