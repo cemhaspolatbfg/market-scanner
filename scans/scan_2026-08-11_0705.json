@@ -1,0 +1,234 @@
+{
+  "scan_time": "2026-08-11T07:05:08.190099+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "ngrok-ai-gateway",
+        "name": "ngrok AI Gateway",
+        "tagline": "One private gateway for every AI model",
+        "description": "ngrok AI Gateway provides one hosted gateway for every model: public providers, custom endpoints, and the models you run yourself. Use one key and one URL to route across OpenAI, Anthropic, and self-hosted models with observability, access control, and fallbacks built in. Your private models connect through ngrok’s network, so they sit beside hosted providers without being exposed to the public internet.",
+        "votes": 344,
+        "ph_url": "https://www.producthunt.com/posts/ngrok-ai-gateway",
+        "website": "https://www.producthunt.com/r/HRVA5S3NHPLDDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "voiceos-app-store",
+        "name": "VoiceOS App Store",
+        "tagline": "The app store for voice native apps that lives in your notch",
+        "description": "The App Store for your voice, where building takes one sentence. Describe what you want \"Create an app to help me to journal\" and VoiceOS creates the app for you. Share it as a link and anyone can install it in a click.",
+        "votes": 339,
+        "ph_url": "https://www.producthunt.com/posts/voiceos-app-store",
+        "website": "https://www.producthunt.com/r/RAQNCR3ER46NG2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Audio"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49246804",
+        "name": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
+        "points": 289,
+        "comments": 106,
+        "hn_url": "https://news.ycombinator.com/item?id=49246804"
+      },
+      {
+        "id": "49251179",
+        "name": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+        "url": "https://everycube.alen.is/",
+        "points": 163,
+        "comments": 51,
+        "hn_url": "https://news.ycombinator.com/item?id=49251179"
+      },
+      {
+        "id": "49245437",
+        "name": "Show HN: Ante, a coding agent in a single binary that runs offline",
+        "url": "https://github.com/AntigmaLabs/ante",
+        "points": 126,
+        "comments": 76,
+        "hn_url": "https://news.ycombinator.com/item?id=49245437"
+      },
+      {
+        "id": "49242475",
+        "name": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
+        "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+        "points": 51,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=49242475"
+      },
+      {
+        "id": "49253721",
+        "name": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+        "url": "https://github.com/activeing123/mcptoon",
+        "points": 26,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49253721"
+      },
+      {
+        "id": "49250141",
+        "name": "Show HN: My local climbing gym from photogrammetry",
+        "url": "https://kmcheung12.github.io/climb-preview/tour/ae43c6e5",
+        "points": 22,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49250141"
+      },
+      {
+        "id": "49243168",
+        "name": "Show HN: Design Engineering, as a Service",
+        "url": "https://designshippers.com/?0",
+        "points": 13,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49243168"
+      },
+      {
+        "id": "49250486",
+        "name": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+        "url": "https://github.com/leog/ai-pulse",
+        "points": 13,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49250486"
+      },
+      {
+        "id": "49243358",
+        "name": "Show HN: 100% native Swift harness (NOT Electron)",
+        "url": "https://github.com/Lore-Hex/QuillCode",
+        "points": 12,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49243358"
+      },
+      {
+        "id": "49241284",
+        "name": "Show HN: Watching browser fingerprinting calls via Chromium's Blink layer",
+        "url": "https://kameleo.io/blog/this-is-the-closest-well-ever-get-to-reverse-engineering-anti-bots",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49241284"
+      },
+      {
+        "id": "49253378",
+        "name": "Show HN: I vibecoded a heavy lift drone",
+        "url": "https://lukeiseman.substack.com/p/i-vibecoded-a-drone",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49253378"
+      },
+      {
+        "id": "49244041",
+        "name": "Show HN: Neolabs.fyi – 100 new AI labs by research area, valuation, and more",
+        "url": "https://neolabs.fyi/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49244041"
+      },
+      {
+        "id": "49250229",
+        "name": "Show HN: Keen Code – an agentic-engineered coding agent",
+        "url": "https://github.com/mochow13/keen-code",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49250229"
+      },
+      {
+        "id": "49244029",
+        "name": "Show HN: Open-Source Greptile Alternative",
+        "url": "https://github.com/Juror-AI/juror",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49244029"
+      },
+      {
+        "id": "49251269",
+        "name": "Show HN: Opencodex, a free open-source coding agent for VSCode",
+        "url": "https://github.com/matonhp5108/Opencodex",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49251269"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/home-design-ai",
+        "name": "Home Design AI",
+        "description": "Upload your space to preview interiors, exteriors, gardens, and plans",
+        "url": "https://betalist.com/startups/home-design-ai"
+      },
+      {
+        "id": "/startups/posse",
+        "name": "Posse",
+        "description": "Meet your people, build your posse, and make real offline connections",
+        "url": "https://betalist.com/startups/posse"
+      },
+      {
+        "id": "/startups/sooner",
+        "name": "Sooner",
+        "description": "connects you to local businesses and gets you booked faster",
+        "url": "https://betalist.com/startups/sooner"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=wXkCv10lmFTWtFesLVA3",
+        "title": "IbexAI: Built 2 SaaS and got 0 customers. Here's how.",
+        "url": "https://www.indiehackers.com/product/ibexai?post=wXkCv10lmFTWtFesLVA3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/shipped-my-ai-tool-3-weeks-ago-0-paying-users-heres-what-i-m-doing-wrong-d7b6de733a",
+        "title": "Shipped my AI tool 3 weeks ago. 0 paying users. Here's what I'm doing wrong.",
+        "url": "https://www.indiehackers.com/post/shipped-my-ai-tool-3-weeks-ago-0-paying-users-heres-what-i-m-doing-wrong-d7b6de733a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-turned-a-real-client-problem-into-a-b2b-design-tool-d61d530ab1",
+        "title": "I turned a real client problem into a B2B design tool",
+        "url": "https://www.indiehackers.com/post/i-turned-a-real-client-problem-into-a-b2b-design-tool-d61d530ab1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/0-real-signups-in-29-days-killing-facelessflow-the-post-mortem-48746778cf",
+        "title": "0 real signups in 29 days — killing FacelessFlow (the post-mortem)",
+        "url": "https://www.indiehackers.com/post/0-real-signups-in-29-days-killing-facelessflow-the-post-mortem-48746778cf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/4-months-to-go-chrome-extension-live-web-search-integrated-4-users-0-revenue-still-here-c73b847c61",
+        "title": "4 months to go. Chrome extension live. Web search integrated. 4 users. $0 revenue. Still here.",
+        "url": "https://www.indiehackers.com/post/4-months-to-go-chrome-extension-live-web-search-integrated-4-users-0-revenue-still-here-c73b847c61",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-for-himself-and-growing-his-portfolio-to-10k-mo-1r8AaZOjxXZSB5MMAhG5",
+        "title": "Building for himself and growing his portfolio to $10k+/mo",
+        "url": "https://www.indiehackers.com/post/tech/building-for-himself-and-growing-his-portfolio-to-10k-mo-1r8AaZOjxXZSB5MMAhG5",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
