@@ -1,0 +1,258 @@
+{
+  "scan_time": "2026-08-12T07:22:51.881408+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "tines-3b",
+        "name": "Tines 3B",
+        "tagline": "The secure environment for agents, apps, and automations",
+        "description": "Tines 3B is the single, secure environment for your most important agents, apps, and automation. Build with AI, from anywhere. Code runs isolated and credentials stay protected. Everything you ship is fully auditable and monitored from one place. Tines 3B is code-first and AI-native, built to help you move fast without compromising on security. Explore Edition is available today and gives you access to 3 live workflows with unlimited users, spaces, and connectors.",
+        "votes": 404,
+        "ph_url": "https://www.producthunt.com/posts/tines-3b",
+        "website": "https://www.producthunt.com/r/YIH4E6DK7N5RLY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "oqoqo",
+        "name": "oqoqo",
+        "tagline": "Build evals and custom benchmarks for real-world tasks",
+        "description": "Run eval experiments at scale in realistic environments. Define custom task sets to build your private benchmarks, measure how well agents can use any product, and find best models for your use cases. Generate dynamic insights to detect frictions in product interfaces or token inefficiencies.",
+        "votes": 366,
+        "ph_url": "https://www.producthunt.com/posts/oqoqo",
+        "website": "https://www.producthunt.com/r/HURZKMJEK6FWXH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "portfolio-lab-2",
+        "name": "Portfolio Lab",
+        "tagline": "AI investing, done responsibly",
+        "description": "AI made building investment strategies easy. Telling a good one from a lucky one still takes expertise. Portfolio Lab is the responsible AI investing platform: every strategy is tested on unseen data and in live markets. Connect your agent to deploy only vetted strategies in your own brokerage account. SEC-registered.",
+        "votes": 320,
+        "ph_url": "https://www.producthunt.com/posts/portfolio-lab-2",
+        "website": "https://www.producthunt.com/r/O2BNSCSAU5BUCP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Investing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "solouno",
+        "name": "SoloUno",
+        "tagline": "Take control of hair pulling, nail biting & skin picking",
+        "description": "SoloUno helps people take control over body-focused repetitive behaviors (BFRBs) such as hair pulling (trichotillomania), skin picking (dermatillomania), and nail biting. Inspired by Habit Reversal Training, CBT, and ACT, it works as a gamified self-help tool. You progress by achieving small daily wins: habit-free challenges and streaks, quick habit logging, trigger analysis, and urge-acceptance sessions. No shame - just steady progress.",
+        "votes": 314,
+        "ph_url": "https://www.producthunt.com/posts/solouno",
+        "website": "https://www.producthunt.com/r/XAIWIH5Z6NGPYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Android",
+          "iOS",
+          "Health"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49259611",
+        "name": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+        "url": "https://github.com/TheRealYT/git-knife",
+        "points": 150,
+        "comments": 96,
+        "hn_url": "https://news.ycombinator.com/item?id=49259611"
+      },
+      {
+        "id": "49258011",
+        "name": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
+        "url": "https://writemd.app/",
+        "points": 91,
+        "comments": 72,
+        "hn_url": "https://news.ycombinator.com/item?id=49258011"
+      },
+      {
+        "id": "49261987",
+        "name": "Show HN: TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs",
+        "url": "https://github.com/bikeshaving/termdom",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49261987"
+      },
+      {
+        "id": "49259418",
+        "name": "Show HN: Tokyo Trains",
+        "url": "https://greggman.github.io/tokyo-trains/",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49259418"
+      },
+      {
+        "id": "49259583",
+        "name": "Show HN: OJCP – an open protocol for agent-consumable job data",
+        "url": "https://ojcp.dev/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49259583"
+      },
+      {
+        "id": "49264157",
+        "name": "Show HN: Cut LLM turns in MCP interactions by 75%+",
+        "url": "https://github.com/Tura-AI/tura",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49264157"
+      },
+      {
+        "id": "49257824",
+        "name": "Show HN: Parley – your coding agent can talk to a teammate's agent",
+        "url": "https://parley.weldra.dev",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49257824"
+      },
+      {
+        "id": "49257687",
+        "name": "Show HN: Alchemize – Review AI Slop PRs Faster",
+        "url": "https://tryalchemize.com/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49257687"
+      },
+      {
+        "id": "49260805",
+        "name": "Show HN: ExtractBench, an open-source schema extraction benchmark",
+        "url": "https://github.com/run-llama/ExtractBench",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49260805"
+      },
+      {
+        "id": "49256033",
+        "name": "Show HN: Compare Wikipedia articles between languages in the Middle East",
+        "url": "https://wikicompare.app",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49256033"
+      },
+      {
+        "id": "49265124",
+        "name": "Show HN: MacPacker – open-source archive manager for macOS, now edits ZIPs",
+        "url": "https://github.com/sarensw/MacPacker",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49265124"
+      },
+      {
+        "id": "49262726",
+        "name": "Show HN: Pulp – Zero-allocation C11 telemetry engine (28M logs/SEC to disk)",
+        "url": "https://github.com/superwired-labs/Pulp",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49262726"
+      },
+      {
+        "id": "49262475",
+        "name": "Show HN: NotebookLM Calibre Plugin",
+        "url": "https://github.com/divyenduz/notebooklm-calibre-plugin",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49262475"
+      },
+      {
+        "id": "49258397",
+        "name": "Show HN: Dbctx – Compile a PostgreSQL database into compact, queryable context",
+        "url": "https://github.com/shrsv/dbctx",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49258397"
+      },
+      {
+        "id": "49257740",
+        "name": "Show HN: HQBase – team email that runs in your Cloudflare account",
+        "url": "https://hqbase.io/",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49257740"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/muniment",
+        "name": "muniment",
+        "description": "One governed workspace for every AI model your org uses",
+        "url": "https://betalist.com/startups/muniment"
+      },
+      {
+        "id": "/startups/careersim-ai",
+        "name": "careersim.ai",
+        "description": "Rehearse interviews, negotiations, and tough 1:1s with scored coaching",
+        "url": "https://betalist.com/startups/careersim-ai"
+      },
+      {
+        "id": "/startups/aldena",
+        "name": "aldena",
+        "description": "Staff AI agents to ship PRs, docs, and deploys through your tools",
+        "url": "https://betalist.com/startups/aldena"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/leapd?post=vQIDr1ASvFinMM5yJbak",
+        "title": "Leapd: Free website audit to show up in ChatGPT",
+        "url": "https://www.indiehackers.com/product/leapd?post=vQIDr1ASvFinMM5yJbak",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/maybe-we-don-t-have-a-productivity-problem-maybe-we-have-a-context-problem-6dc873feca",
+        "title": "Maybe we don’t have a productivity problem. Maybe we have a context problem.",
+        "url": "https://www.indiehackers.com/post/maybe-we-don-t-have-a-productivity-problem-maybe-we-have-a-context-problem-6dc873feca",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/solo-pre-seed-the-tool-stack-decision-that-will-either-save-or-sink-your-first-18-months-987ce6cad8",
+        "title": "Solo → Pre-Seed: The Tool Stack Decision That Will Either Save or Sink Your First 18 Months",
+        "url": "https://www.indiehackers.com/post/solo-pre-seed-the-tool-stack-decision-that-will-either-save-or-sink-your-first-18-months-987ce6cad8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-two-years-building-things-nobody-used-this-time-im-stopping-at-v0-2-0-2182554f73",
+        "title": "I spent two years building things nobody used. This time I'm stopping at v0.2.0.",
+        "url": "https://www.indiehackers.com/post/i-spent-two-years-building-things-nobody-used-this-time-im-stopping-at-v0-2-0-2182554f73",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/link-rot-is-quietly-an-attribution-problem-not-just-a-broken-link-problem-605f6c0005",
+        "title": "Link rot is quietly an attribution problem, not just a broken-link problem",
+        "url": "https://www.indiehackers.com/post/link-rot-is-quietly-an-attribution-problem-not-just-a-broken-link-problem-605f6c0005",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
