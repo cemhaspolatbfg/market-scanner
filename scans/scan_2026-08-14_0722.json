@@ -1,0 +1,238 @@
+{
+  "scan_time": "2026-08-14T07:22:36.080336+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "kane-cli-2",
+        "name": "Kane CLI",
+        "tagline": "Natural language browser & mobile app tests from terminal",
+        "description": "An agentic quality verifier for developers and AI coding agents. Describe a test in natural language, and Kane CLI runs it in a real Chrome browser and returns pass or fail with shareable proof. No selectors to write. Local-first, free to start.",
+        "votes": 445,
+        "ph_url": "https://www.producthunt.com/posts/kane-cli-2",
+        "website": "https://www.producthunt.com/r/3OE7IF5ZP7LPWJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "ito-6",
+        "name": "Ito",
+        "tagline": "AI code review that runs your code",
+        "description": "Ito is an AI code review tool that runs your app before it reviews the code. For every pull request, Ito spins up an ephemeral environment, validates impacted flows, and returns runtime evidence so teams can catch bugs that static analysis and model-only reviewers miss. Instead of guessing from diffs, Ito shows what actually broke, where it happened, and why it matters before the PR reaches production.",
+        "votes": 416,
+        "ph_url": "https://www.producthunt.com/posts/ito-6",
+        "website": "https://www.producthunt.com/r/ZLCM32IRDVPZ5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "nuphos-2",
+        "name": "Nuphos",
+        "tagline": "The AI-Native DevOps Workspace.",
+        "description": "Nuphos gives engineering teams a shared environment where AI agents can learn your infrastructure, investigate issues, and operate production systems.",
+        "votes": 365,
+        "ph_url": "https://www.producthunt.com/posts/nuphos-2",
+        "website": "https://www.producthunt.com/r/2TYRIPK2F3Z6W7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "SaaS",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49292584",
+        "name": "Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies",
+        "url": "https://github.com/StamManif/mcp-stama",
+        "points": 71,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49292584"
+      },
+      {
+        "id": "49286073",
+        "name": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+        "url": "https://github.com/fellowgeek/mcp-memory",
+        "points": 59,
+        "comments": 35,
+        "hn_url": "https://news.ycombinator.com/item?id=49286073"
+      },
+      {
+        "id": "49285086",
+        "name": "Show HN: Stackdome – An open source self-hostable Railway alternative on K8s",
+        "url": "https://stackdome.com",
+        "points": 21,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49285086"
+      },
+      {
+        "id": "49287604",
+        "name": "Show HN: OxiSH, a modern, memory-safe SSH server",
+        "url": "https://dirkjan.ochtman.nl/writing/2026/08/13/announcing-oxish.html",
+        "points": 20,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49287604"
+      },
+      {
+        "id": "49287596",
+        "name": "Show HN: A Rosetta Stone for UI component libraries",
+        "url": "https://www.frontfamily.com/",
+        "points": 16,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49287596"
+      },
+      {
+        "id": "49288389",
+        "name": "Show HN: Artificial Analysis tool to create custom benchmarks for any use case",
+        "url": "https://artificialanalysis.ai/optima",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49288389"
+      },
+      {
+        "id": "49288198",
+        "name": "Show HN: At 16K features, flat autoencoders break. Curved space doesn't",
+        "url": "https://github.com/vishal-dehurdle/hypersae",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49288198"
+      },
+      {
+        "id": "49286216",
+        "name": "Show HN: NanoRL – RL training for LLMs in ~1,800 lines",
+        "url": "https://github.com/alex000kim/nanoRL",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49286216"
+      },
+      {
+        "id": "49286398",
+        "name": "Show HN: Meat-O-Meter – the internet most generous ruler (18+)",
+        "url": "https://meat-o-meter.ya-abr97.chatgpt.site/",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49286398"
+      },
+      {
+        "id": "49292004",
+        "name": "Show HN: Hearth – a shared family workspace where an agent can build apps",
+        "url": "",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49292004"
+      },
+      {
+        "id": "49289890",
+        "name": "Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin",
+        "url": "https://github.com/itsmeadarsh2008/opencode-senses",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49289890"
+      },
+      {
+        "id": "49284329",
+        "name": "Show HN: Markleft – how I review Claude's Markdown plans",
+        "url": "https://blog.lysk.tech/markleft-ai-markdown-review/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49284329"
+      },
+      {
+        "id": "49294887",
+        "name": "Show HN: VeerHost – $1/month web hosting, limited spots",
+        "url": "https://veerhost.com/1-dollar-web-hosting/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49294887"
+      },
+      {
+        "id": "49287176",
+        "name": "Show HN: Track habits, metrics, time and whateven you think worth tracking",
+        "url": "https://habitpocket.io/",
+        "points": 6,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49287176"
+      },
+      {
+        "id": "49286115",
+        "name": "Show HN: Modern Alternative to Plausible",
+        "url": "https://getopen.so",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49286115"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/filmpitch",
+        "name": "Filmpitch",
+        "description": "Turn film ideas into professional pitches in minutes",
+        "url": "https://betalist.com/startups/filmpitch"
+      },
+      {
+        "id": "/startups/mocktomer",
+        "name": "mocktomer",
+        "description": "AI customers that test your website like real shoppers",
+        "url": "https://betalist.com/startups/mocktomer"
+      },
+      {
+        "id": "/startups/staffingleads",
+        "name": "StaffingLeads",
+        "description": "Get real-time hiring alerts with verified hiring manager emails",
+        "url": "https://betalist.com/startups/staffingleads"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-2m-arr-product-after-his-8m-arr-product-failed-overnight-UZm68xNgjDZBHH7Mvc54",
+        "title": "Building a $2M ARR product after his $8M ARR product failed overnight",
+        "url": "https://www.indiehackers.com/post/tech/building-a-2m-arr-product-after-his-8m-arr-product-failed-overnight-UZm68xNgjDZBHH7Mvc54",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/powsight?post=KalR23HdP27SmQcT5htr",
+        "title": "Powsight: Stuck on \"what next\"?",
+        "url": "https://www.indiehackers.com/product/powsight?post=KalR23HdP27SmQcT5htr",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-2?post=XY2mOKevUJ0pY5WwjvkD",
+        "title": "Launch Nest: Your Product Is Built. Now Let People Discover It. 🚀",
+        "url": "https://www.indiehackers.com/product/launch-nest-2?post=XY2mOKevUJ0pY5WwjvkD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-ai-agent-leaked-my-api-key-so-i-built-the-guardrail-and-launched-it-on-product-hunt-today-4b6ca9bf92",
+        "title": "My AI agent leaked my API key — so I built the guardrail and launched it on Product Hunt today",
+        "url": "https://www.indiehackers.com/post/my-ai-agent-leaked-my-api-key-so-i-built-the-guardrail-and-launched-it-on-product-hunt-today-4b6ca9bf92",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
