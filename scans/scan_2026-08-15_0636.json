@@ -1,0 +1,180 @@
+{
+  "scan_time": "2026-08-15T06:36:02.488896+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49301215",
+        "name": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+        "url": "https://luacad.ad-si.com",
+        "points": 89,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49301215"
+      },
+      {
+        "id": "49297996",
+        "name": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+        "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+        "points": 69,
+        "comments": 62,
+        "hn_url": "https://news.ycombinator.com/item?id=49297996"
+      },
+      {
+        "id": "49303046",
+        "name": "Show HN: Mole – Deep research agent for your terminal",
+        "url": "https://github.com/lajosdeme/mole",
+        "points": 64,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49303046"
+      },
+      {
+        "id": "49299985",
+        "name": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+        "url": "https://github.com/NanoNets/Graft",
+        "points": 39,
+        "comments": 41,
+        "hn_url": "https://news.ycombinator.com/item?id=49299985"
+      },
+      {
+        "id": "49307099",
+        "name": "Show HN: Deltix – AI Driven Testing",
+        "url": "https://app.deltix.ai",
+        "points": 22,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49307099"
+      },
+      {
+        "id": "49300129",
+        "name": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
+        "url": "https://mininote.ink/",
+        "points": 21,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49300129"
+      },
+      {
+        "id": "49297708",
+        "name": "Show HN: Rdio – an open-source internet radio control suite",
+        "url": "https://rdio-docs.vercel.app",
+        "points": 19,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49297708"
+      },
+      {
+        "id": "49298674",
+        "name": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
+        "url": "https://isaidumber.today/",
+        "points": 14,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49298674"
+      },
+      {
+        "id": "49303027",
+        "name": "Show HN: Embed a real Linux terminal on your website",
+        "url": "https://sandbox.bio/training/embed",
+        "points": 13,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49303027"
+      },
+      {
+        "id": "49300419",
+        "name": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
+        "url": "https://mib-viewer.com/",
+        "points": 13,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49300419"
+      },
+      {
+        "id": "49304188",
+        "name": "Show HN: Pestle-27B-Ternary",
+        "url": "https://huggingface.co/Doses-AI/Pestle-27B-Ternary-GGUF",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49304188"
+      },
+      {
+        "id": "49299000",
+        "name": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+        "url": "https://apimart.ai/register?aff=yScTCM",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49299000"
+      },
+      {
+        "id": "49303593",
+        "name": "Show HN: Banquish – Take other websites apart and build your own",
+        "url": "https://banquish.space",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49303593"
+      },
+      {
+        "id": "49297723",
+        "name": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+        "url": "https://gatewai.studio/artifex",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49297723"
+      },
+      {
+        "id": "49296432",
+        "name": "Show HN: OpenComplAI – open-source EU AI Act compliance checks in CI/CD",
+        "url": "https://github.com/opencomplai/opencomplai",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49296432"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/cad-scene",
+        "name": "CAD Scene",
+        "description": "Render photorealistic architectural images from 3D scenes and prompts in秒",
+        "url": "https://betalist.com/startups/cad-scene"
+      },
+      {
+        "id": "/startups/synabot",
+        "name": "SynaBot",
+        "description": "Adopt AI fast with curated assistants, tested prompts, and tools",
+        "url": "https://betalist.com/startups/synabot"
+      },
+      {
+        "id": "/startups/menuforma",
+        "name": "MenuForma",
+        "description": "Create QR menus and accept pickup, delivery, and table orders",
+        "url": "https://betalist.com/startups/menuforma"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=EdCu8dqnNTZVlOkWDRL1",
+        "title": "IbexAI: How I do cold outreach on LinkedIn",
+        "url": "https://www.indiehackers.com/product/ibexai?post=EdCu8dqnNTZVlOkWDRL1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/pivoting-an-internal-tool-into-a-7-figure-business-N2V1Oud7cNE3G5xRP1wz",
+        "title": "Pivoting an internal tool into a 7-figure business",
+        "url": "https://www.indiehackers.com/post/tech/pivoting-an-internal-tool-into-a-7-figure-business-N2V1Oud7cNE3G5xRP1wz",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 2
+    }
+  }
+}
