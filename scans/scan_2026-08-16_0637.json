@@ -1,0 +1,226 @@
+{
+  "scan_time": "2026-08-16T06:37:20.686266+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "outcome-2",
+        "name": "Outcome ",
+        "tagline": "Turn your content into a personal outcome for every lead",
+        "description": "Outcome helps creators turn their content and expertise into personalized funnels that listen, understand, and deliver a useful outcome to every lead. Instead of sending everyone the same lead magnet or placing them into a predefined quiz result bucket, an Outcome Funnel uses each person’s answers together with the creator’s content, knowledge, and process to generate something made for them - an action plan, audit, score, roadmap, recommendation, and more.",
+        "votes": 368,
+        "ph_url": "https://www.producthunt.com/posts/outcome-2",
+        "website": "https://www.producthunt.com/r/GBFHMSYXVPFMF7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49315742",
+        "name": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+        "url": "https://www.micdrop.gg/",
+        "points": 44,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=49315742"
+      },
+      {
+        "id": "49310533",
+        "name": "Show HN: Quasicrystals Animation Playground with WebXR",
+        "url": "https://hypnagogic-quasicrystals.github.io/",
+        "points": 37,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49310533"
+      },
+      {
+        "id": "49314765",
+        "name": "Show HN: Bribes.fyi – Compare bribes statistics department wise",
+        "url": "https://bribes.fyi/compare",
+        "points": 34,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=49314765"
+      },
+      {
+        "id": "49315709",
+        "name": "Show HN: I built a native app for coding agents with Rust and GPUI",
+        "url": "https://waku.sh",
+        "points": 24,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49315709"
+      },
+      {
+        "id": "49310834",
+        "name": "Show HN: I evaluated file, vector, graph and RL based memory frameworks",
+        "url": "https://www.pinglin.tw/blog/the-shapes-of-agent-memory",
+        "points": 13,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49310834"
+      },
+      {
+        "id": "49314594",
+        "name": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "url": "https://github.com/christensen143/claude-trofeo-hud",
+        "points": 12,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49314594"
+      },
+      {
+        "id": "49310317",
+        "name": "Show HN: Feature-packed 6MB Rust+Tauri free bookmarking app",
+        "url": "",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49310317"
+      },
+      {
+        "id": "49310572",
+        "name": "Show HN: Visually Precise AI Tutoring on iOS",
+        "url": "https://useknowable.ai/",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49310572"
+      },
+      {
+        "id": "49308787",
+        "name": "Show HN: HN Without AI Stories",
+        "url": "https://hnnoai.readpipe.org/",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49308787"
+      },
+      {
+        "id": "49311484",
+        "name": "Show HN: Between Tokens – an interactive piece where you are the language model",
+        "url": "https://chrisjz.github.io/between-tokens/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49311484"
+      },
+      {
+        "id": "49313340",
+        "name": "Show HN: Every MUNI, BART and Caltrain in SF on a Live Map",
+        "url": "https://github.com/UtpalJayNadiger/wheres-my-muni",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49313340"
+      },
+      {
+        "id": "49309755",
+        "name": "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs",
+        "url": "https://xenodium.com/agent-shell-0-73-updates#agent-shell-enters-the-chat",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49309755"
+      },
+      {
+        "id": "49312505",
+        "name": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
+        "url": "https://lettertrace.com",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49312505"
+      },
+      {
+        "id": "49310114",
+        "name": "Show HN: Back In Time 2.0.0 – Release Candidate 1",
+        "url": "https://github.com/bit-team/backintime/releases/tag/v2.0.0-rc1",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49310114"
+      },
+      {
+        "id": "49309989",
+        "name": "Show HN: Tempered – AI Powered PC Optimizer",
+        "url": "https://tempered.to/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49309989"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/recastia",
+        "name": "Recastia",
+        "description": "Turn one PDF into video, slides, flipbooks, pages, and a chatbot",
+        "url": "https://betalist.com/startups/recastia"
+      },
+      {
+        "id": "/startups/ask-my-wardrobe",
+        "name": "Ask My Wardrobe",
+        "description": "Plan outfits and try on clothes virtually",
+        "url": "https://betalist.com/startups/ask-my-wardrobe"
+      },
+      {
+        "id": "/startups/outfit-finder",
+        "name": "Outfit Finder",
+        "description": "Identify clothing items from photos and get guidance on where to buy them",
+        "url": "https://betalist.com/startups/outfit-finder"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/my-first-paying-user-told-me-i-was-charging-too-little-it-took-me-4-months-to-listen-94797fabd6",
+        "title": "My first paying user told me I was charging too little. It took me 4 months to listen.",
+        "url": "https://www.indiehackers.com/post/my-first-paying-user-told-me-i-was-charging-too-little-it-took-me-4-months-to-listen-94797fabd6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-could-not-tell-if-googles-ai-overview-was-citing-my-sites-so-i-built-a-way-to-check-c6bba799af",
+        "title": "I could not tell if Google's AI Overview was citing my sites, so I built a way to check",
+        "url": "https://www.indiehackers.com/post/i-could-not-tell-if-googles-ai-overview-was-citing-my-sites-so-i-built-a-way-to-check-c6bba799af",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/most-directories-forget-you-exist-after-you-list-were-trying-something-different-1471d96402",
+        "title": "Most directories forget you exist after you list. We're trying something different.",
+        "url": "https://www.indiehackers.com/post/most-directories-forget-you-exist-after-you-list-were-trying-something-different-1471d96402",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/most-ai-browsers-hide-what-the-agent-is-doing-i-wanted-to-see-it-happen-live-and-run-it-locally-so-i-built-one-b637803640",
+        "title": "Most AI browsers hide what the agent is doing. I wanted to see it happen live, and run it locally. So I built one.",
+        "url": "https://www.indiehackers.com/post/most-ai-browsers-hide-what-the-agent-is-doing-i-wanted-to-see-it-happen-live-and-run-it-locally-so-i-built-one-b637803640",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-launch-coach-after-my-own-product-launch-got-11-upvotes-and-3-signups-0b24d149fc",
+        "title": "I built a launch coach after my own product launch got 11 upvotes and 3 signups",
+        "url": "https://www.indiehackers.com/post/i-built-a-launch-coach-after-my-own-product-launch-got-11-upvotes-and-3-signups-0b24d149fc",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/ibexai?post=BPQlllL820QlwYWKTQCO",
+        "title": "IbexAI: Good feeling",
+        "url": "https://www.indiehackers.com/product/ibexai?post=BPQlllL820QlwYWKTQCO",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-5?post=5CzXDJExQf2CUeJZt7QG",
+        "title": "Launch Nest: Your Next Product Deserves to Be Discovered",
+        "url": "https://www.indiehackers.com/product/launch-nest-5?post=5CzXDJExQf2CUeJZt7QG",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
