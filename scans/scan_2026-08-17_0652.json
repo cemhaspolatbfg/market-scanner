@@ -1,0 +1,208 @@
+{
+  "scan_time": "2026-08-17T06:52:35.987216+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "scrimba-explain",
+        "name": "Scrimba Explain",
+        "tagline": "Ask any question, get a video back instantly",
+        "description": "Scrimba Explain generates a narrated video tutorial about almost anything you ask, instantly. You can upload files, add links, paste code, or just write what you’re trying to understand. It's MUCH faster than any of the video generation models, as we utilise our DOM-based playback technology. The video explainer can include images, code walkthroughs, animations, diagrams, and other visual aids, plus voiceover, captions and cursor so it feels more like YouTube than traditional chatbot UX.",
+        "votes": 322,
+        "ph_url": "https://www.producthunt.com/posts/scrimba-explain",
+        "website": "https://www.producthunt.com/r/VT3DATI3BPG4AZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Education",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49319814",
+        "name": "Show HN: A public AI whose memory is shared across all users",
+        "url": "https://wildstatic.com/",
+        "points": 70,
+        "comments": 63,
+        "hn_url": "https://news.ycombinator.com/item?id=49319814"
+      },
+      {
+        "id": "49317546",
+        "name": "Show HN: Laptop is the last place your secrets are still in plaintext",
+        "url": "https://github.com/jitpass/jit",
+        "points": 51,
+        "comments": 79,
+        "hn_url": "https://news.ycombinator.com/item?id=49317546"
+      },
+      {
+        "id": "49318128",
+        "name": "Show HN: Grafana agent observability for Hermes Agent",
+        "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+        "points": 27,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49318128"
+      },
+      {
+        "id": "49317799",
+        "name": "Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
+        "url": "https://github.com/mldsveda/PyScrappy",
+        "points": 20,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49317799"
+      },
+      {
+        "id": "49321813",
+        "name": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+        "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+        "points": 17,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49321813"
+      },
+      {
+        "id": "49320034",
+        "name": "Show HN: PageSieve, a web scraping browser extension",
+        "url": "https://julius383.github.io/PageSieve/",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49320034"
+      },
+      {
+        "id": "49321985",
+        "name": "Show HN: built my 15-year-old game idea",
+        "url": "",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49321985"
+      },
+      {
+        "id": "49322015",
+        "name": "Show HN: Flynt.js – 2.2kb, zero-build, CSP-safe reactivity library for MPAs",
+        "url": "https://github.com/marsbos/flynt.js",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49322015"
+      },
+      {
+        "id": "49319026",
+        "name": "Show HN: Remove AI voice from AI writings",
+        "url": "https://unslopai.com",
+        "points": 8,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49319026"
+      },
+      {
+        "id": "49322982",
+        "name": "Show HN: Manthan a MCP server to store Concept cards with prerequisite links",
+        "url": "https://manthan.sirune.tech/share.html?token=942df0d3590d422aa74d9b44f5d3ba77",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49322982"
+      },
+      {
+        "id": "49319392",
+        "name": "Show HN: Wordle for Metro Stations",
+        "url": "https://dailymetro.live/paris",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49319392"
+      },
+      {
+        "id": "49319551",
+        "name": "Show HN: 3 Scrambled News Headlines",
+        "url": "https://pzlgames.com/games/headlines/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49319551"
+      },
+      {
+        "id": "49323514",
+        "name": "Show HN: Interactive component to map fibre breaks (OTDR)",
+        "url": "https://react-networks-lib.rackout.net/otdr-strip",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49323514"
+      },
+      {
+        "id": "49320056",
+        "name": "Show HN: A nutrition companion for endurance athletes",
+        "url": "",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49320056"
+      },
+      {
+        "id": "49325445",
+        "name": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
+        "url": "https://continuum-app.xyz/",
+        "points": 5,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49325445"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/science-ai-journal",
+        "name": "Science AI Journal",
+        "description": "Find research gaps, match journals, and get AI peer review",
+        "url": "https://betalist.com/startups/science-ai-journal"
+      },
+      {
+        "id": "/startups/morning-alpha",
+        "name": "Morning Alpha",
+        "description": "AI-powered investing research tailored to your portfolio",
+        "url": "https://betalist.com/startups/morning-alpha"
+      },
+      {
+        "id": "/startups/orderain",
+        "name": "Orderain",
+        "description": "AI-native ecommerce platform that builds and runs your store",
+        "url": "https://betalist.com/startups/orderain"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-6?post=s52pUDIjiPCaLlCDq8w0",
+        "title": "Launch Nest: Launch Products. Discover What’s Next",
+        "url": "https://www.indiehackers.com/product/launch-nest-6?post=s52pUDIjiPCaLlCDq8w0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aproov?post=TZVuNRxshelrMukousM1",
+        "title": "Aproov: Pitch us your SaaS and get distribution",
+        "url": "https://www.indiehackers.com/product/aproov?post=TZVuNRxshelrMukousM1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-chrome-extension-where-right-click-menu-items-run-real-javascript-825719af91",
+        "title": "I built a Chrome extension where right-click menu items run real JavaScript",
+        "url": "https://www.indiehackers.com/post/i-built-a-chrome-extension-where-right-click-menu-items-run-real-javascript-825719af91",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/update-clawed-back-from-3-4k-to-8-9k-daily-clicks-after-the-may-google-core-update-heres-what-actually-worked-a022fedc8c",
+        "title": "Update: clawed back from ~3-4K to ~8-9K daily clicks after the May Google core update — here's what actually worked",
+        "url": "https://www.indiehackers.com/post/update-clawed-back-from-3-4k-to-8-9k-daily-clicks-after-the-may-google-core-update-heres-what-actually-worked-a022fedc8c",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
