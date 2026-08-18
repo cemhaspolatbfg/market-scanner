@@ -1,0 +1,242 @@
+{
+  "scan_time": "2026-08-18T06:40:32.869795+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "meridian-19",
+        "name": "Meridian",
+        "tagline": "Don't let your work go unnoticed. Get promoted!",
+        "description": "Meridian is an open-source AI work journal that runs entirely on your device. It writes your work up in plain English as the day goes, so by the end of the day you have a summary of everything you did. Meridian automatically drafts your updates for your project management tools like Jira, ready to post once you approve them. Do the work. Let the remembering take care of itself. No cloud, no account. MIT-licensed, free.",
+        "votes": 384,
+        "ph_url": "https://www.producthunt.com/posts/meridian-19",
+        "website": "https://www.producthunt.com/r/Q3UR7I2PIWKD7D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Open Source",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "harnessrouter-community-edition",
+        "name": "HarnessRouter Community Edition",
+        "tagline": "Open-source unified interface for agent harnesses",
+        "description": "Plug-and-play managed agent harnesses in your product: Codex, Claude Code and Hermes through one API on your infrastructure, now open sourced under Apache 2.0. Switch harnesses without rebuilding your backend. Sessions, streaming, files, artifacts, cancellation, failure recovery, all handled. Model provider keys, state, and deliveries under your control. Gateway, Runner, Console in one Docker container. Ready-to-use starter kit apps as inspiration of possibilities.",
+        "votes": 370,
+        "ph_url": "https://www.producthunt.com/posts/harnessrouter-community-edition",
+        "website": "https://www.producthunt.com/r/C247JURJJIF5WQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49327643",
+        "name": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+        "url": "https://desktopcolors.com",
+        "points": 144,
+        "comments": 62,
+        "hn_url": "https://news.ycombinator.com/item?id=49327643"
+      },
+      {
+        "id": "49330215",
+        "name": "Show HN: Sokoban AI Solver",
+        "url": "https://mkornreich.me/projects/sokoban/",
+        "points": 68,
+        "comments": 41,
+        "hn_url": "https://news.ycombinator.com/item?id=49330215"
+      },
+      {
+        "id": "49331288",
+        "name": "Show HN: Learn Flags Quiz",
+        "url": "https://flagquizzes.com/",
+        "points": 47,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=49331288"
+      },
+      {
+        "id": "49331551",
+        "name": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+        "url": "https://saggar.marginalutility.dev/",
+        "points": 40,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=49331551"
+      },
+      {
+        "id": "49330604",
+        "name": "Show HN: 1667, a terminal UI for writing fiction with language models",
+        "url": "https://1667.ai/",
+        "points": 35,
+        "comments": 90,
+        "hn_url": "https://news.ycombinator.com/item?id=49330604"
+      },
+      {
+        "id": "49335470",
+        "name": "Show HN: Visimer – open-source visual editor for Mermaid diagrams",
+        "url": "https://github.com/inkeep/visimer",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49335470"
+      },
+      {
+        "id": "49334754",
+        "name": "Show HN: Tesana – An AI game engine that builds quality games end-to-end",
+        "url": "https://tesana.ai/en",
+        "points": 13,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49334754"
+      },
+      {
+        "id": "49330386",
+        "name": "Show HN: LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
+        "url": "https://aitradingcompetition.com/",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49330386"
+      },
+      {
+        "id": "49330285",
+        "name": "Show HN: A community library for Claude Code status lines",
+        "url": "https://statuslin.es",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49330285"
+      },
+      {
+        "id": "49333084",
+        "name": "Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression",
+        "url": "https://github.com/liventruth/UL-SMF-Cache-Compression",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49333084"
+      },
+      {
+        "id": "49331512",
+        "name": "Show HN: All roads lead home – a Google timeline replacement",
+        "url": "https://takeallroads.com/",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49331512"
+      },
+      {
+        "id": "49335595",
+        "name": "Show HN: HarnessRouter: Unified interface for agent harnesses",
+        "url": "https://github.com/harnessrouter/harnessrouter",
+        "points": 9,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49335595"
+      },
+      {
+        "id": "49331599",
+        "name": "Show HN: Eve Software Factory",
+        "url": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49331599"
+      },
+      {
+        "id": "49333213",
+        "name": "Show HN: Classifier and browser extension to detect rule violating HN comments",
+        "url": "https://classify.stylometry.net/",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49333213"
+      },
+      {
+        "id": "49328818",
+        "name": "Show HN: Cite Hustle – SEO agent that does your content marketing",
+        "url": "https://citehustle.com/",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49328818"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/image-to-3d-ai",
+        "name": "Image to 3D AI",
+        "description": "Turn any image or text into production-ready 3D models in minutes",
+        "url": "https://betalist.com/startups/image-to-3d-ai"
+      },
+      {
+        "id": "/startups/ai-image-to-3d",
+        "name": "AI Image to 3D",
+        "description": "AI-powered 2D image to 3D model generator with format conversion",
+        "url": "https://betalist.com/startups/ai-image-to-3d"
+      },
+      {
+        "id": "/startups/seo-architect",
+        "name": "SEO Architect",
+        "description": "SEO tool to plan and optimise your website",
+        "url": "https://betalist.com/startups/seo-architect"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/most-platforms-treat-founders-as-data-were-trying-something-uncomfortably-human-d731289806",
+        "title": "Most platforms treat founders as data. We're trying something uncomfortably human.",
+        "url": "https://www.indiehackers.com/post/most-platforms-treat-founders-as-data-were-trying-something-uncomfortably-human-d731289806",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-two-sided-marketplace-and-never-once-asked-anyone-to-use-it-6de9901e32",
+        "title": "I built a two-sided marketplace and never once asked anyone to use it",
+        "url": "https://www.indiehackers.com/post/i-built-a-two-sided-marketplace-and-never-once-asked-anyone-to-use-it-6de9901e32",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-told-a-founder-to-get-listed-on-the-review-sites-her-report-showed-ai-was-citing-her-competitors-homepages-150af1e406",
+        "title": "I told a founder to get listed on the review sites. Her report showed AI was citing her competitors' homepages.",
+        "url": "https://www.indiehackers.com/post/i-told-a-founder-to-get-listed-on-the-review-sites-her-report-showed-ai-was-citing-her-competitors-homepages-150af1e406",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/40-posts-to-expect-1-sale-zero-sales-are-not-failure-at-100-followers-c0d3e5f678",
+        "title": "40 posts to expect 1 sale. Zero sales are not failure at 100 followers.",
+        "url": "https://www.indiehackers.com/post/40-posts-to-expect-1-sale-zero-sales-are-not-failure-at-100-followers-c0d3e5f678",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-7?post=Tv8QkQhsUyxeurZa053t",
+        "title": "launch Nest: What should you discover next?",
+        "url": "https://www.indiehackers.com/product/launch-nest-7?post=Tv8QkQhsUyxeurZa053t",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pdfyre?post=UvNixXujqIladu49ESFe",
+        "title": "PDFyre: I built a parallel OCR engine that makes scanned PDFs searchable — entirely in your browser",
+        "url": "https://www.indiehackers.com/product/pdfyre?post=UvNixXujqIladu49ESFe",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-paid-149-for-1-000-b2b-leads-and-got-0-customers-the-fix-wasnt-my-copy-d4ec1c7d58",
+        "title": "I paid $149 for 1,000 B2B leads and got 0 customers. The fix wasn't my copy.",
+        "url": "https://www.indiehackers.com/post/i-paid-149-for-1-000-b2b-leads-and-got-0-customers-the-fix-wasnt-my-copy-d4ec1c7d58",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
