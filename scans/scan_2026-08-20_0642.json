@@ -1,0 +1,282 @@
+{
+  "scan_time": "2026-08-20T06:42:35.427737+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "astute-2",
+        "name": "Astute",
+        "tagline": "Automate your B2B brand going viral, with new media creators",
+        "description": "Astute is the first B2B new media platform, starting with creator partnerships. We monitor your presence in the new media, build a data-backed strategy around the creators your buyers trust, and run the partnerships on autopilot. All within minutes.",
+        "votes": 482,
+        "ph_url": "https://www.producthunt.com/posts/astute-2",
+        "website": "https://www.producthunt.com/r/T27HYYATJQRXUQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "clipto-mcp",
+        "name": "Clipto MCP",
+        "tagline": "Let agents source clips from terabytes of your local video",
+        "description": "Clipto MCP gives Claude, ChatGPT, and other AI agents the ability to source clips and more from inside the videos, photos, and audio recordings stored on your computer. Instead of manually browsing files, simply describe what you need. For example, turn a script into a video by matching each sentence with your local footage; find every scene where someone mentioned a topic; create rough cuts; or search years of media as if you have a dedicated assistant editor.",
+        "votes": 438,
+        "ph_url": "https://www.producthunt.com/posts/clipto-mcp",
+        "website": "https://www.producthunt.com/r/OTKPG4D4Y4NG66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Search",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "clara-ai-sdr",
+        "name": "Clara AI SDR",
+        "tagline": "Turn website visitors into qualified pipeline",
+        "description": "Clara is an AI SDR that converts inbound website traffic into pipeline - engaging, qualifying, demoing, handling objections, and booking meetings in real time. No forms. No waiting. No extra headcount. 24/7 selling with seamless CRM integration.",
+        "votes": 437,
+        "ph_url": "https://www.producthunt.com/posts/clara-ai-sdr",
+        "website": "https://www.producthunt.com/r/GUZOAGUD6W6XFS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "taku-ai",
+        "name": "Taku AI",
+        "tagline": "Borrow the best AI setups and make them yours.",
+        "description": "AI is getting insanely powerful — and somehow harder to use. Taku fixes the last mile. It turns the best skills, agents, and workflows into real desktop apps anyone can run, remix, and make their own. Borrow setups from the pros, skip GitHub and setup, or just tell Taku what you want and watch it assemble the stack. The more you work, the more Taku learns what you need — and brings the right tools to you.",
+        "votes": 403,
+        "ph_url": "https://www.producthunt.com/posts/taku-ai",
+        "website": "https://www.producthunt.com/r/4SO4LDF6AEJUCI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49364223",
+        "name": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+        "url": "https://demo.frugaltokens.com/",
+        "points": 32,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49364223"
+      },
+      {
+        "id": "49361478",
+        "name": "Show HN: Anonymous age verification with passkey-powered encryption",
+        "url": "https://loginwithone.com/",
+        "points": 13,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49361478"
+      },
+      {
+        "id": "49365575",
+        "name": "Show HN: Open Bot – an open-source Grok Bot that works with any agent harness",
+        "url": "https://github.com/copilotkit/openbot",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49365575"
+      },
+      {
+        "id": "49357881",
+        "name": "Show HN: Privacy focused client side password generator",
+        "url": "https://password-generator.aaqa.dev/",
+        "points": 8,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49357881"
+      },
+      {
+        "id": "49361399",
+        "name": "Show HN: My Mac slept through its cron jobs, so I made goguma, a menu bar app",
+        "url": "https://github.com/junnam586/goguma",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49361399"
+      },
+      {
+        "id": "49367942",
+        "name": "Show HN: A new way to read books, magnifying in and out",
+        "url": "https://book.curiora.space/",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49367942"
+      },
+      {
+        "id": "49361499",
+        "name": "Show HN: Xalgorix – open-source AI pentester that proves vulnerabilities",
+        "url": "https://www.xalgorix.com/",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49361499"
+      },
+      {
+        "id": "49364296",
+        "name": "Show HN: terminal-code – VS Code inside the terminal",
+        "url": "https://terminal-code.com",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49364296"
+      },
+      {
+        "id": "49364398",
+        "name": "Show HN: Flocker.md – Portable identity and shared state for agents",
+        "url": "https://flocker.md/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49364398"
+      },
+      {
+        "id": "49360903",
+        "name": "Show HN: Carno.js – a Nest-style application framework for Bun",
+        "url": "https://github.com/carnojs/carno.js",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49360903"
+      },
+      {
+        "id": "49365721",
+        "name": "Show HN: CopyLasso, a free local screen OCR app for macOS",
+        "url": "https://copylasso.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49365721"
+      },
+      {
+        "id": "49361975",
+        "name": "Show HN: Progressive web-app to explore Paris while solving puzzles without app",
+        "url": "https://flanori.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49361975"
+      },
+      {
+        "id": "49362974",
+        "name": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+        "url": "https://github.com/inxm-ai/inxm-local",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49362974"
+      },
+      {
+        "id": "49360928",
+        "name": "Show HN: JobEasyApply – AI job auto-applier for LinkedIn, Greenhouse and Lever",
+        "url": "https://jobeasyapply.com",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49360928"
+      },
+      {
+        "id": "49364594",
+        "name": "Show HN: HRAG – Hybrid RAG on €116/month of Hetzner, officially benchmarked",
+        "url": "https://hrag.app/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49364594"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/startup-hq",
+        "name": "Startup HQ",
+        "description": "Validate and launch your startup with an AI co-founder and agents",
+        "url": "https://betalist.com/startups/startup-hq"
+      },
+      {
+        "id": "/startups/easytools",
+        "name": "Easytools",
+        "description": "Set up, market, and sell digital products in minutes",
+        "url": "https://betalist.com/startups/easytools"
+      },
+      {
+        "id": "/startups/monthlet",
+        "name": "monthlet",
+        "description": "Turn brain dumps into finished notes with AI-built layout",
+        "url": "https://betalist.com/startups/monthlet"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/4-founders-told-me-the-same-thing-about-launch-platforms-so-i-m-changing-what-i-m-building-7424714b3b",
+        "title": "4 founders told me the same thing about launch platforms — so I’m changing what I’m building",
+        "url": "https://www.indiehackers.com/post/4-founders-told-me-the-same-thing-about-launch-platforms-so-i-m-changing-what-i-m-building-7424714b3b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-m-building-a-product-hunt-alternative-for-indie-makers-what-would-make-you-actually-use-it-a61816d1f9",
+        "title": "I’m building a Product Hunt alternative for indie makers — what would make you actually use it?",
+        "url": "https://www.indiehackers.com/post/i-m-building-a-product-hunt-alternative-for-indie-makers-what-would-make-you-actually-use-it-a61816d1f9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/477-signups-later-here-s-what-surprised-me-about-user-acquisition-043fd4ce67",
+        "title": "477 signups later, here’s what surprised me about user acquisition",
+        "url": "https://www.indiehackers.com/post/477-signups-later-here-s-what-surprised-me-about-user-acquisition-043fd4ce67",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-an-ai-assistant-for-freelancers-who-forget-to-follow-up-ed16319346",
+        "title": "Building an AI assistant for freelancers who forget to follow up",
+        "url": "https://www.indiehackers.com/post/building-an-ai-assistant-for-freelancers-who-forget-to-follow-up-ed16319346",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-10?post=szEytPPXkfM53CQuLKSD",
+        "title": "Launch Nest: Help Us Build a Better Home for New Products",
+        "url": "https://www.indiehackers.com/product/launch-nest-10?post=szEytPPXkfM53CQuLKSD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/700-downloads-and-stuck-five-months-later-6a4d9bd878",
+        "title": "700 downloads and stuck, five months later...",
+        "url": "https://www.indiehackers.com/post/700-downloads-and-stuck-five-months-later-6a4d9bd878",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-8?post=NOduQPf6E125wkDjTa0e",
+        "title": "Launch Nest: Discover, launch, and grow the next great products",
+        "url": "https://www.indiehackers.com/product/launch-nest-8?post=NOduQPf6E125wkDjTa0e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/career-suite-ai-3?post=akg6I23HitIIwRCVzDFQ",
+        "title": "Career Suite AI: Your Job Search, From Resume to Interview — In One Place",
+        "url": "https://www.indiehackers.com/product/career-suite-ai-3?post=akg6I23HitIIwRCVzDFQ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-40k-mrr-with-bottom-of-funnel-content-until-ai-search-forced-her-to-change-tactics-4OPu0F9zFGfb3tEJFvrx",
+        "title": "Hitting $40k+ MRR with bottom-of-funnel content until AI search forced her to change tactics",
+        "url": "https://www.indiehackers.com/post/tech/hitting-40k-mrr-with-bottom-of-funnel-content-until-ai-search-forced-her-to-change-tactics-4OPu0F9zFGfb3tEJFvrx",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 9
+    }
+  }
+}
