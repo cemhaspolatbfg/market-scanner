@@ -1,0 +1,250 @@
+{
+  "scan_time": "2026-08-21T06:43:17.429276+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "omni-by-xpander",
+        "name": "Omni by xpander",
+        "tagline": "Stop babysitting your AI agents",
+        "description": "Omni is the AI engineer that takes your agents from a laptop to the cloud. Today, your best AI workflows still live in Claude on your machine - stopping when the lid closes, running for no one but you. Describe what you want, or bring what you've built, and Omni wires the tools and skills, tests on mock data, and hands you a running cloud agent: scheduled, long-running, shareable with your team. It keeps agents healthy too - improves system prompts, compares models, debugs and fixes failed runs.",
+        "votes": 384,
+        "ph_url": "https://www.producthunt.com/posts/omni-by-xpander",
+        "website": "https://www.producthunt.com/r/VHCEJOVH4KWCVJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Slack",
+          "Artificial Intelligence",
+          "Virtual Assistants"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "clears",
+        "name": "Clears",
+        "tagline": "Move beyond AI coding to Agentic Software Delivery",
+        "description": "Clears is an agentic execution platform for autonomous software delivery, helping R&D organizations move beyond individual AI tools to agentic execution across the entire SDLC.",
+        "votes": 371,
+        "ph_url": "https://www.producthunt.com/posts/clears",
+        "website": "https://www.producthunt.com/r/XEDS2MD2VPICZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "vendo-2",
+        "name": "Vendo ",
+        "tagline": "Let your users build their own features inside your product",
+        "description": "Vendo is an open-source customization layer in your product that lets every customer add the features and micro-apps they need, just by describing what they want. Until now software has been rigid, and every customer had to adapt to it. Vendo makes it dynamic, so your product shapes itself around each customer, built on your own API and inside the guardrails you set.",
+        "votes": 357,
+        "ph_url": "https://www.producthunt.com/posts/vendo-2",
+        "website": "https://www.producthunt.com/r/XMJNYPK5RL7FBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "SaaS",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49373456",
+        "name": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "points": 543,
+        "comments": 113,
+        "hn_url": "https://news.ycombinator.com/item?id=49373456"
+      },
+      {
+        "id": "49378768",
+        "name": "Show HN: Huzzah – a novel approach to coding with AI",
+        "url": "https://www.danielvaughn.dev/posts/huzzah/",
+        "points": 280,
+        "comments": 146,
+        "hn_url": "https://news.ycombinator.com/item?id=49378768"
+      },
+      {
+        "id": "49375237",
+        "name": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+        "url": "https://pub.doub.ly/",
+        "points": 71,
+        "comments": 37,
+        "hn_url": "https://news.ycombinator.com/item?id=49375237"
+      },
+      {
+        "id": "49375244",
+        "name": "Show HN: Open-source Stripe Connect alternative",
+        "url": "https://zoneless.com",
+        "points": 69,
+        "comments": 29,
+        "hn_url": "https://news.ycombinator.com/item?id=49375244"
+      },
+      {
+        "id": "49377660",
+        "name": "Show HN: We chased a weather balloon across Montana and never found it",
+        "url": "https://radi8.dev/blog/uplink/",
+        "points": 55,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=49377660"
+      },
+      {
+        "id": "49374830",
+        "name": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
+        "url": "https://github.com/paulsp94/omacosy",
+        "points": 53,
+        "comments": 40,
+        "hn_url": "https://news.ycombinator.com/item?id=49374830"
+      },
+      {
+        "id": "49380653",
+        "name": "Show HN: A data viewer for choosing Frigate-compatible IP cameras",
+        "url": "https://github.com/ch-bas/cctv-camera-database",
+        "points": 41,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49380653"
+      },
+      {
+        "id": "49373730",
+        "name": "Show HN: Why You Lost – a Dota 2 post-match autopsy",
+        "url": "https://wyl.serenedb.com/why-you-lost",
+        "points": 19,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49373730"
+      },
+      {
+        "id": "49377989",
+        "name": "Show HN: WaveHouse – Supabase for ClickHouse",
+        "url": "https://wavehouse.dev",
+        "points": 15,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49377989"
+      },
+      {
+        "id": "49374554",
+        "name": "Show HN: LilScript makes JavaScript libraries smaller",
+        "url": "",
+        "points": 14,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49374554"
+      },
+      {
+        "id": "49382022",
+        "name": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
+        "url": "https://search.parqdb.io/",
+        "points": 12,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49382022"
+      },
+      {
+        "id": "49378305",
+        "name": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
+        "url": "https://kandelo.dev/20260819-demo/",
+        "points": 9,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49378305"
+      },
+      {
+        "id": "49375757",
+        "name": "Show HN: Sci-Trust – Compare trust among researchers based on their citations",
+        "url": "https://science.uptrusthq.com/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49375757"
+      },
+      {
+        "id": "49374045",
+        "name": "Show HN: Sitmap – a World in Conflict inspired map maker for Cold War scenarios",
+        "url": "https://tomaytotomato.github.io/sitmap/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49374045"
+      },
+      {
+        "id": "49373158",
+        "name": "Show HN: Built my 15-year-old game idea",
+        "url": "",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49373158"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/ego-lite",
+        "name": "ego lite",
+        "description": "Let your AI agents drive your logged-in browser to automate the web",
+        "url": "https://betalist.com/startups/ego-lite"
+      },
+      {
+        "id": "/startups/lunar-log",
+        "name": "Lunar Log",
+        "description": "Capture dreams before they fade and find patterns over time",
+        "url": "https://betalist.com/startups/lunar-log"
+      },
+      {
+        "id": "/startups/waterchamp",
+        "name": "WaterChamp",
+        "description": "Caffeine and hydration tracker with smart reminders",
+        "url": "https://betalist.com/startups/waterchamp"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/show-ih-i-built-18-industry-pages-for-the-small-businesses-ai-search-ignores-which-one-did-i-leave-out-7aa6b73dbb",
+        "title": "Show IH: I built 18 industry pages for the small businesses AI search ignores",
+        "url": "https://www.indiehackers.com/post/show-ih-i-built-18-industry-pages-for-the-small-businesses-ai-search-ignores-which-one-did-i-leave-out-7aa6b73dbb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-12?post=shN2hXaZ28y9Vy1DAl7X",
+        "title": "Launch Nest: Give Your Next Product Launch the Visibility It Deserves",
+        "url": "https://www.indiehackers.com/product/launch-nest-12?post=shN2hXaZ28y9Vy1DAl7X",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ditching-the-multi-tool-tax-why-founders-are-switching-from-mixpanel-to-posthog-f3af79b50d",
+        "title": "Ditching the Multi-Tool Tax: Why Founders Are Switching From Mixpanel to PostHog",
+        "url": "https://www.indiehackers.com/post/ditching-the-multi-tool-tax-why-founders-are-switching-from-mixpanel-to-posthog-f3af79b50d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/alongly-2?post=H1VEXKrI7O8WS1sXs4yM",
+        "title": "Alongly: What happens to a startup story after it gets buried in the feed?",
+        "url": "https://www.indiehackers.com/product/alongly-2?post=H1VEXKrI7O8WS1sXs4yM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/career-suite-ai-4?post=xpQFNKE7XE4RYqXFVL7x",
+        "title": "Career Suite AI: Your Job Search, From Resume to Interview — In One Place",
+        "url": "https://www.indiehackers.com/product/career-suite-ai-4?post=xpQFNKE7XE4RYqXFVL7x",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/nerves-kicking-in-before-launch-8292a53ece",
+        "title": "Nerves kicking in before launch!",
+        "url": "https://www.indiehackers.com/post/nerves-kicking-in-before-launch-8292a53ece",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
