@@ -1,0 +1,232 @@
+{
+  "scan_time": "2026-08-22T06:37:29.496938+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "hynote-for-mac",
+        "name": "HyNote for Mac",
+        "tagline": "Free local transcription that is 100% Private",
+        "description": "Solving the three biggest pain points in meeting software: privacy, friction, and cost. By running speech-to-text entirely on-device, your confidential discussions never leave your hardware, ensuring total data privacy. It operates invisibly without sending an awkward bot into your attendee list, capturing system audio directly across Zoom, Google Meet, and Microsoft Teams.",
+        "votes": 378,
+        "ph_url": "https://www.producthunt.com/posts/hynote-for-mac",
+        "website": "https://www.producthunt.com/r/TFVUEICJCPZ3GD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Meetings",
+          "Menu Bar Apps",
+          "Apple"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49394827",
+        "name": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "url": "https://ozbrain.com",
+        "points": 63,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=49394827"
+      },
+      {
+        "id": "49390739",
+        "name": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+        "url": "https://github.com/proliferate-ai/proliferate",
+        "points": 39,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49390739"
+      },
+      {
+        "id": "49389466",
+        "name": "Show HN: A desktop fly drawn to the scent of vibecode",
+        "url": "https://github.com/kulikov0/desktop-vibe-fly",
+        "points": 19,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49389466"
+      },
+      {
+        "id": "49389493",
+        "name": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+        "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+        "points": 15,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49389493"
+      },
+      {
+        "id": "49391469",
+        "name": "Show HN: Declarative-forms – await an object the way prompt() awaits a string",
+        "url": "https://wolfoo2931.github.io/declarative-forms/",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49391469"
+      },
+      {
+        "id": "49389846",
+        "name": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+        "url": "https://www.pianoify.net/",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49389846"
+      },
+      {
+        "id": "49389593",
+        "name": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
+        "url": "https://github.com/uncognic/steppewm",
+        "points": 8,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49389593"
+      },
+      {
+        "id": "49386763",
+        "name": "Show HN: ssh sshfighter.com",
+        "url": "",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49386763"
+      },
+      {
+        "id": "49391007",
+        "name": "Show HN: Visual way to understand things in parallel",
+        "url": "https://wondering.app/canvas",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49391007"
+      },
+      {
+        "id": "49391880",
+        "name": "Show HN: Interactive map of the Odyssey with tap-to-gloss Homeric Greek",
+        "url": "https://georgemasto.com/odyssey/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49391880"
+      },
+      {
+        "id": "49391447",
+        "name": "Show HN: Oasis - Giving Agents Situational Awareness",
+        "url": "https://joinoasis.com",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49391447"
+      },
+      {
+        "id": "49396071",
+        "name": "Show HN: I let an subagent workflow refactor my codebase for three days",
+        "url": "https://github.com/ringlochid/oh-my-subagents",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49396071"
+      },
+      {
+        "id": "49389972",
+        "name": "Show HN: Gramola, a CoverFlow-style music dock for macOS",
+        "url": "https://apps.apple.com/us/app/gramola-music-dock/id6801078031?mt=12",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49389972"
+      },
+      {
+        "id": "49392389",
+        "name": "Show HN: CSVtoTable – turn a CSV/XLSX into one self-contained HTML file",
+        "url": "https://github.com/vividvilla/csvtotable",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49392389"
+      },
+      {
+        "id": "49387504",
+        "name": "Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
+        "url": "https://github.com/baturyilmaz/agent-office",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49387504"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/studioeditor",
+        "name": "StudioEditor",
+        "description": "Edit, record, and enhance audio in your browser for free",
+        "url": "https://betalist.com/startups/studioeditor"
+      },
+      {
+        "id": "/startups/salaryhow",
+        "name": "SalaryHow",
+        "description": "Convert hourly pay to yearly, monthly, and take-home income fast",
+        "url": "https://betalist.com/startups/salaryhow"
+      },
+      {
+        "id": "/startups/camera-for-obs-studio",
+        "name": "Camera for OBS Studio",
+        "description": "Turn your iPhone into a low-latency pro camera for OBS Studio",
+        "url": "https://betalist.com/startups/camera-for-obs-studio"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-ln-6?post=5bzthZOg6A4BhgsIBZ7g",
+        "title": "Launch Nest LN: A Better Place to Launch, Discover & Get Noticed",
+        "url": "https://www.indiehackers.com/product/launch-nest-ln-6?post=5bzthZOg6A4BhgsIBZ7g",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-tool-i-reviewed-audited-my-own-site-and-found-a-bug-id-missed-3526ed98fc",
+        "title": "A tool I reviewed audited my own site and found a bug I'd missed",
+        "url": "https://www.indiehackers.com/post/a-tool-i-reviewed-audited-my-own-site-and-found-a-bug-id-missed-3526ed98fc",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-tool-that-catches-when-ai-agents-quietly-get-worse-looking-for-2-3-people-to-try-it-free-8e98c9125f",
+        "title": "Built a tool that catches when AI agents quietly get worse. Looking for 2-3 people to try it free.",
+        "url": "https://www.indiehackers.com/post/built-a-tool-that-catches-when-ai-agents-quietly-get-worse-looking-for-2-3-people-to-try-it-free-8e98c9125f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pytch?post=Ob5zJFlis5oMHIgqJXL0",
+        "title": "Pytch: How much would you pay to pitch top-tier tech journalists? (Let's talk PR pricing)",
+        "url": "https://www.indiehackers.com/product/pytch?post=Ob5zJFlis5oMHIgqJXL0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-just-taught-my-app-to-talk-to-claude-and-it-made-me-rethink-the-whole-flat-list-vs-messy-whiteboard-problem-i-built-ulup-spaces-to-so-2027ea2059",
+        "title": "I just taught my app to talk to Claude and it made me rethink the whole \"flat list vs. messy whiteboard\" problem",
+        "url": "https://www.indiehackers.com/post/i-just-taught-my-app-to-talk-to-claude-and-it-made-me-rethink-the-whole-flat-list-vs-messy-whiteboard-problem-i-built-ulup-spaces-to-so-2027ea2059",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aproov?post=AnhQKjzdVe7oIiyzqesD",
+        "title": "Aproov: Our smallest creator outsold our biggest one",
+        "url": "https://www.indiehackers.com/product/aproov?post=AnhQKjzdVe7oIiyzqesD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-s-more-useful-after-launch-500-views-or-5-honest-responses-bf5a338c32",
+        "title": "What’s more useful after launch: 500 views or 5 honest responses?",
+        "url": "https://www.indiehackers.com/post/what-s-more-useful-after-launch-500-views-or-5-honest-responses-bf5a338c32",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-1m-arr-in-two-years-and-working-four-hours-per-day-Ts5M7PyFHRD6aeKmSXY1",
+        "title": "Hitting $1M ARR in two years and working four hours per day",
+        "url": "https://www.indiehackers.com/post/tech/hitting-1m-arr-in-two-years-and-working-four-hours-per-day-Ts5M7PyFHRD6aeKmSXY1",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
