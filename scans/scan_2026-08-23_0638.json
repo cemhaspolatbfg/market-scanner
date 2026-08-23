@@ -1,0 +1,198 @@
+{
+  "scan_time": "2026-08-23T06:38:39.362220+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49402521",
+        "name": "Show HN: Make your logo extra bright on HDR screens",
+        "url": "https://www.soverybright.com/",
+        "points": 57,
+        "comments": 67,
+        "hn_url": "https://news.ycombinator.com/item?id=49402521"
+      },
+      {
+        "id": "49401216",
+        "name": "Show HN: Structural code grep across public GitHub repositories",
+        "url": "https://grep.codemod.com/",
+        "points": 13,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49401216"
+      },
+      {
+        "id": "49397454",
+        "name": "Show HN: PgExtAssure – pre-admission security evidence for PostgreSQL extensions",
+        "url": "https://github.com/borborich/pgextassure",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49397454"
+      },
+      {
+        "id": "49398669",
+        "name": "Show HN: Git-reattribute – interactively rewrite Git commit attribution",
+        "url": "https://github.com/drk1rd/git-reattribute",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49398669"
+      },
+      {
+        "id": "49404182",
+        "name": "Show HN: A complete companion for agentic development- Burmese",
+        "url": "https://www.theburmese.xyz/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49404182"
+      },
+      {
+        "id": "49401230",
+        "name": "Show HN: Riyadh Tech Week – a year-round guide to Saudi Arabia's tech ecosystem",
+        "url": "https://riyadhtechweek.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49401230"
+      },
+      {
+        "id": "49400137",
+        "name": "Show HN: Get Your IP Address",
+        "url": "https://ip.ysebie.be/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49400137"
+      },
+      {
+        "id": "49399928",
+        "name": "Show HN: 3D Engine for Rust Programs",
+        "url": "https://github.com/David-OConnor/graphics",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49399928"
+      },
+      {
+        "id": "49399204",
+        "name": "Show HN: VinvAI runs and observes your services to find bugs and perf issues",
+        "url": "https://vinv.ai/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49399204"
+      },
+      {
+        "id": "49400803",
+        "name": "Show HN: I launched the most generous leaderboard",
+        "url": "https://goodbid.lol/",
+        "points": 3,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49400803"
+      },
+      {
+        "id": "49405354",
+        "name": "Show HN: Agent2Creator – a video social network whose members are AI agents",
+        "url": "https://agent2creator.vidmoat.com",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49405354"
+      },
+      {
+        "id": "49405261",
+        "name": "Show HN: Active Source of Truth for Your Coding Agents",
+        "url": "https://meetless.ai",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49405261"
+      },
+      {
+        "id": "49403796",
+        "name": "Show HN: Oxbow, a dynamic tiling window manager for the Wayland compositor River",
+        "url": "https://oxbow-wm.readthedocs.io/en/latest/",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49403796"
+      },
+      {
+        "id": "49397327",
+        "name": "Show HN: I reverse-engineered Bambu's 3MF color format so GLB keeps the colors",
+        "url": "https://github.com/SamiSalah221/3mf-to-glb",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49397327"
+      },
+      {
+        "id": "49406000",
+        "name": "Show HN: One portal for all your MCP servers",
+        "url": "https://onemcp.dev/",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49406000"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/thirdspace",
+        "name": "ThirdSpace",
+        "description": "Find local people and activities matching your interests and time",
+        "url": "https://betalist.com/startups/thirdspace"
+      },
+      {
+        "id": "/startups/pixx",
+        "name": "Pixx",
+        "description": "Pick a restaurant your group will love in seconds",
+        "url": "https://betalist.com/startups/pixx"
+      },
+      {
+        "id": "/startups/perislayer",
+        "name": "PeriSlayer",
+        "description": "Track perimenopause symptoms easily and let AI find patterns",
+        "url": "https://betalist.com/startups/perislayer"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/hardcoreai?post=c6SD7Qu25PM9ipgBnAlX",
+        "title": "HardcoreAI: From datasheet → working firmware",
+        "url": "https://www.indiehackers.com/product/hardcoreai?post=c6SD7Qu25PM9ipgBnAlX",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-think-founders-misunderstand-what-reddit-is-actually-useful-for-be3db3f7af",
+        "title": "I think founders misunderstand what Reddit is actually useful for.",
+        "url": "https://www.indiehackers.com/post/i-think-founders-misunderstand-what-reddit-is-actually-useful-for-be3db3f7af",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/give-your-product-a-place-to-be-discovered?post=Np5pqFbxWLTF4azR45gx",
+        "title": "Give Your Product a Place to Be Discovered: LaunchNest — Give Your Product a Chance to Be Discovered",
+        "url": "https://www.indiehackers.com/product/give-your-product-a-place-to-be-discovered?post=Np5pqFbxWLTF4azR45gx",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ai-can-build-your-app-but-can-you-trust-what-it-built-e4d7475b89",
+        "title": "AI Can Build Your App. But Can You Trust What It Built?",
+        "url": "https://www.indiehackers.com/post/ai-can-build-your-app-but-can-you-trust-what-it-built-e4d7475b89",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-built-practice-for-a-test-we-cant-see-75c5219b5b",
+        "title": "We built practice for a test we can't see",
+        "url": "https://www.indiehackers.com/post/we-built-practice-for-a-test-we-cant-see-75c5219b5b",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
