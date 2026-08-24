@@ -1,0 +1,213 @@
+{
+  "scan_time": "2026-08-24T06:55:49.667135+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "toplify",
+        "name": "Toplify",
+        "tagline": "Track your App Store ranking worldwide",
+        "description": "Toplify is a multi server service monitoring App Store charts across 175 countries, 24/7, so you never miss your next milestone. Get alerts for new rankings and significant jumps. No API keys or App Store Connect access needed. Just add your app and Toplify takes care of the rest.",
+        "votes": 355,
+        "ph_url": "https://www.producthunt.com/posts/toplify",
+        "website": "https://www.producthunt.com/r/HQFTOUXGX42OW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49407309",
+        "name": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+        "url": "https://skylens.yantraai.app/",
+        "points": 36,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49407309"
+      },
+      {
+        "id": "49408038",
+        "name": "Show HN: Declarative, reproducible configuration materializer for AI agents",
+        "url": "https://github.com/tooppoo/enozunu",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49408038"
+      },
+      {
+        "id": "49408089",
+        "name": "Show HN: linecast – weather, radar, tides and maps in the terminal",
+        "url": "https://terminaltrove.com/linecast/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49408089"
+      },
+      {
+        "id": "49409172",
+        "name": "Show HN: NeonBlocks – A Tokyo neon street billboard",
+        "url": "https://neonblocks.michii.dev",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49409172"
+      },
+      {
+        "id": "49408520",
+        "name": "Show HN: Rmp, a Subsonic music player for generating playlists on the fly",
+        "url": "https://github.com/codesoap/rmp",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49408520"
+      },
+      {
+        "id": "49408449",
+        "name": "Show HN: Ever Wanted to Call Codex from Claude Code? My Harness Orchestrator",
+        "url": "https://github.com/ptmrio/harness-subagent",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49408449"
+      },
+      {
+        "id": "49408304",
+        "name": "Show HN: Histiq – Local semantic search for the browser history and PDFs",
+        "url": "https://histiq.com/",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49408304"
+      },
+      {
+        "id": "49408078",
+        "name": "Show HN: Room Acoustic and HRTF Simulator",
+        "url": "https://nikhil-verma.com/room-signal/",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49408078"
+      },
+      {
+        "id": "49407968",
+        "name": "Show HN: Make ordinary subagent workflows persistent and trackable",
+        "url": "https://github.com/ringlochid/oh-my-subagents",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49407968"
+      },
+      {
+        "id": "49407450",
+        "name": "Show HN: ArchSentry – Deterministic architectural enforcement for CI",
+        "url": "https://github.com/comerade2134/archsentry",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49407450"
+      },
+      {
+        "id": "49406605",
+        "name": "Show HN: 2048bid.lol – Rank your product by playing 2048",
+        "url": "https://2048bid.lol/",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49406605"
+      },
+      {
+        "id": "49408898",
+        "name": "Show HN: An open knowledge graph of problems, solutions, and real-world outcomes",
+        "url": "https://communityfix.org/",
+        "points": 2,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49408898"
+      },
+      {
+        "id": "49407627",
+        "name": "Show HN: Budgethole.com – Close the US federal deficit yourself",
+        "url": "https://budgethole.com",
+        "points": 2,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49407627"
+      },
+      {
+        "id": "49409229",
+        "name": "Show HN: Telnet Hackerlinks.com",
+        "url": "",
+        "points": 2,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49409229"
+      },
+      {
+        "id": "49409070",
+        "name": "Show HN: Squat Counter Uses phone's accelerometer to count squats automatically",
+        "url": "https://julienreszka.github.io/squat-counter/",
+        "points": 2,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49409070"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/shotglass",
+        "name": "ShotGlass",
+        "description": "Make your demos look like an Apple commercial",
+        "url": "https://betalist.com/startups/shotglass"
+      },
+      {
+        "id": "/startups/wao",
+        "name": "WAO",
+        "description": "Measure, compare, and improve AI with evidence",
+        "url": "https://betalist.com/startups/wao"
+      },
+      {
+        "id": "/startups/firmgrove",
+        "name": "Firmgrove",
+        "description": "Run your startup from idea to exit with one company brain",
+        "url": "https://betalist.com/startups/firmgrove"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-would-you-get-your-first-customers-for-an-ai-reliability-product-891c58c018",
+        "title": "How would you get your first customers for an AI reliability product?",
+        "url": "https://www.indiehackers.com/post/how-would-you-get-your-first-customers-for-an-ai-reliability-product-891c58c018",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=gHkSb8liJWx2T9FRKTwF",
+        "title": "DiscountHub is live on PeerPush — competing for Product of the Day!",
+        "url": "https://www.indiehackers.com/product/discounthub?post=gHkSb8liJWx2T9FRKTwF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/appcharts?post=EpEd0JUP1bpLQkaSwHqJ",
+        "title": "AppCharts: App Store charts ignore indie apps. I made a chart that doesn’t.",
+        "url": "https://www.indiehackers.com/product/appcharts?post=EpEd0JUP1bpLQkaSwHqJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ive-run-an-autonomous-make-money-agent-every-hour-for-200-runs-here-s-the-honest-scoreboard-cc58f0b20a",
+        "title": "I've run an autonomous \"make money\" agent every hour for ~200 runs. Here's the honest scoreboard.",
+        "url": "https://www.indiehackers.com/post/ive-run-an-autonomous-make-money-agent-every-hour-for-200-runs-here-s-the-honest-scoreboard-cc58f0b20a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-17?post=mZSVHUR9CEOTHzPz8J7d",
+        "title": "Why We Built Launch Nest — And What We Want to Fix",
+        "url": "https://www.indiehackers.com/product/launch-nest-17?post=mZSVHUR9CEOTHzPz8J7d",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
