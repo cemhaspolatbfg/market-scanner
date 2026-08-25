@@ -1,0 +1,270 @@
+{
+  "scan_time": "2026-08-25T06:43:30.630573+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "paymentkit",
+        "name": "PaymentKit",
+        "tagline": "Billing that survives a processor shutdown",
+        "description": "PaymentKit is a multi-processor billing platform for SaaS and e-commerce. It routes payments across processors, vaults tokens independently, and keeps subscriptions billing even if a MID gets shut down. No code to launch, full API when you need it.",
+        "votes": 424,
+        "ph_url": "https://www.producthunt.com/posts/paymentkit",
+        "website": "https://www.producthunt.com/r/VBME2QKKZVBULI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Fintech",
+          "SaaS",
+          "E-Commerce"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "origin-by-cursor",
+        "name": "Origin by Cursor",
+        "tagline": "The Git forge built for the age of coding agents",
+        "description": "Origin is Cursor's new code hosting platform, built for a world where humans and coding agents work side by side. Create and host Git repos directly in Cursor, browse and search code, open and review pull requests, manage access, and sync with GitHub. Your code now lives next to the agents working on it—with more agent-native features on the way.",
+        "votes": 359,
+        "ph_url": "https://www.producthunt.com/posts/origin-by-cursor",
+        "website": "https://www.producthunt.com/r/SGM5OGI6LTVBU5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "construct-computer",
+        "name": "Construct Computer",
+        "tagline": "Your AI coworker gets a computer. You get your day back.",
+        "description": "AI workforce for solo founders and small teams. Any MCP or skill installs like an app, agents build the tools that don't exist yet, deployed and managed by the platform, shareable to the whole team, and any agent action that you like turns into a reusable workflow so agents spend less time thinking and more time doing.",
+        "votes": 344,
+        "ph_url": "https://www.producthunt.com/posts/construct-computer",
+        "website": "https://www.producthunt.com/r/WTHQ4KSPC225E6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "wizstar-2",
+        "name": "Wizstar",
+        "tagline": "Digital avatars that move and act like professional actors",
+        "description": "Wizstar helps founders, creators, and makers build an expressive, accurate digital ambassador that looks and moves like you. It gestures naturally, interacts with objects, and maintains precise lip sync—even during head turns or things in front of your face. Create product updates, training, localized videos, and branded content without being on camera every time. Bring your digital presence to life and scale it across markets, languages, and channels.",
+        "votes": 331,
+        "ph_url": "https://www.producthunt.com/posts/wizstar-2",
+        "website": "https://www.producthunt.com/r/66CCQDPHMOWPG6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49419351",
+        "name": "Show HN: A techno machine in one HTML file, with verifiable renders",
+        "url": "https://ssx360.github.io/rack-02/?src=hn",
+        "points": 189,
+        "comments": 35,
+        "hn_url": "https://news.ycombinator.com/item?id=49419351"
+      },
+      {
+        "id": "49421806",
+        "name": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+        "url": "https://picomq.com/",
+        "points": 112,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=49421806"
+      },
+      {
+        "id": "49421948",
+        "name": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+        "url": "https://glassbox.codecanary.org",
+        "points": 106,
+        "comments": 50,
+        "hn_url": "https://news.ycombinator.com/item?id=49421948"
+      },
+      {
+        "id": "49420714",
+        "name": "Show HN: How to mentally calculate the day of the week for any date",
+        "url": "https://tinkerandsee.com/weekday/",
+        "points": 63,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49420714"
+      },
+      {
+        "id": "49423927",
+        "name": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+        "url": "https://github.com/getkern/kern",
+        "points": 57,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49423927"
+      },
+      {
+        "id": "49422243",
+        "name": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+        "url": "https://github.com/ovenpasta/adi2",
+        "points": 43,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49422243"
+      },
+      {
+        "id": "49417684",
+        "name": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
+        "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
+        "points": 28,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49417684"
+      },
+      {
+        "id": "49429095",
+        "name": "Show HN: Screen memory without screenshots, just text to Markdown",
+        "url": "https://github.com/dragthelake/ambient-context",
+        "points": 21,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49429095"
+      },
+      {
+        "id": "49420783",
+        "name": "Show HN: Free Inference Engineer and Model Training Roadmap",
+        "url": "https://inferquest.org",
+        "points": 16,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49420783"
+      },
+      {
+        "id": "49423735",
+        "name": "Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT",
+        "url": "https://www.lpulite.com",
+        "points": 15,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49423735"
+      },
+      {
+        "id": "49423371",
+        "name": "Show HN: See how much your AI knows about you",
+        "url": "https://www.withcorpus.com/knows",
+        "points": 13,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49423371"
+      },
+      {
+        "id": "49420650",
+        "name": "Show HN: Tblue – 614 passive security scanners for any website, runs locally",
+        "url": "https://github.com/taylannuhogluofficial-png/Tblue",
+        "points": 13,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49420650"
+      },
+      {
+        "id": "49420055",
+        "name": "Show HN: My Emacs Zero to IDE Journey",
+        "url": "https://github.com/KallDrexx/emacs-zero-to-ide-journey/blob/main/README.md",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49420055"
+      },
+      {
+        "id": "49426877",
+        "name": "Show HN: Flostep – Diagrams people can actually walk through",
+        "url": "https://flostep.dev/",
+        "points": 10,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49426877"
+      },
+      {
+        "id": "49419837",
+        "name": "Show HN: Dashi – a 214KB Chrome new tab dashboard with no servers or analytics",
+        "url": "https://trydashi.app/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49419837"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/aituber",
+        "name": "AITuber",
+        "description": "Create faceless AI videos automatically for YouTube, TikTok, and Instagram",
+        "url": "https://betalist.com/startups/aituber"
+      },
+      {
+        "id": "/startups/just-say-yes-to-me",
+        "name": "Just Say Yes to Me",
+        "description": "Create a playful invite link where No dodges and Yes is easy to tap",
+        "url": "https://betalist.com/startups/just-say-yes-to-me"
+      },
+      {
+        "id": "/startups/sol",
+        "name": "Sol",
+        "description": "Finds what you said you'd do and starts doing it for you",
+        "url": "https://betalist.com/startups/sol"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/alarmor?post=HMU6xGyzqeVyWDSMb8eI",
+        "title": "Alarmor: No Subscription, No Ads Alarms: The alarm clock built for people who sleep through everything",
+        "url": "https://www.indiehackers.com/product/alarmor?post=HMU6xGyzqeVyWDSMb8eI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/mediafast-16?post=ihSSP0AXcuuF3HrHAh2d",
+        "title": "MediaFast: I got banned marketing my own products on Reddit, so I built a tool. 19 months later: 400 paying founders, $56K, zero ads",
+        "url": "https://www.indiehackers.com/product/mediafast-16?post=ihSSP0AXcuuF3HrHAh2d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/before-the-first-sale-what-is-your-most-honest-signal-44f3888aa6",
+        "title": "Before the first sale, what is your most honest signal?",
+        "url": "https://www.indiehackers.com/post/before-the-first-sale-what-is-your-most-honest-signal-44f3888aa6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-21?post=PycqMjCuo3i774Xs4EFC",
+        "title": "Launch Nest: Your Next Product Launch Deserves More Than a Launch Page",
+        "url": "https://www.indiehackers.com/product/launch-nest-21?post=PycqMjCuo3i774Xs4EFC",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-stripe-analytics-tool-for-saas-founders-remetry-is-live-abc60038f6",
+        "title": "I built a Stripe analytics tool for SaaS founders. Remetry is live.",
+        "url": "https://www.indiehackers.com/post/i-built-a-stripe-analytics-tool-for-saas-founders-remetry-is-live-abc60038f6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-do-you-currently-handle-requests-from-clients-386b04cef8",
+        "title": "How do you currently handle requests from clients?",
+        "url": "https://www.indiehackers.com/post/how-do-you-currently-handle-requests-from-clients-386b04cef8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/making-9k-mo-with-a-mobile-app-until-platform-risk-took-its-toll-jChJ6O2CpPMaLCa4NypB",
+        "title": "Making $9k/mo with a mobile app until platform risk took its toll",
+        "url": "https://www.indiehackers.com/post/tech/making-9k-mo-with-a-mobile-app-until-platform-risk-took-its-toll-jChJ6O2CpPMaLCa4NypB",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
