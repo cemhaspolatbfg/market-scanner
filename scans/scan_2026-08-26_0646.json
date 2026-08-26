@@ -1,0 +1,268 @@
+{
+  "scan_time": "2026-08-26T06:46:34.369409+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "akta-pro",
+        "name": "akta.pro",
+        "tagline": "Private company data and signals API for the agent economy",
+        "description": "Private company data with 4x the depth and 2x the coverage of PitchBook, plus 100+ event signals and news across companies, industries, and topics. Source and diligence deals or make outreach lists and trigger outbound. Built for financial services and GTM teams, pay-as-you-go.",
+        "votes": 400,
+        "ph_url": "https://www.producthunt.com/posts/akta-pro",
+        "website": "https://www.producthunt.com/r/7VLENQJQZQK4EG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "diet-claude",
+        "name": "Diet Claude",
+        "tagline": "Never get blindsided by Claude's usage limits again",
+        "description": "Hitting Claude's limit mid-work is annoying af. Diet Claude gives a live usage meter shows how much of your session you’ve used, how much time is left, and when your limits reset. It helps optimise token usage by context trimming, tightening prompts, suggesting apt models. And when you do run dry, it carries your conversation and context over to another LLM instead of starting from scratch.",
+        "votes": 380,
+        "ph_url": "https://www.producthunt.com/posts/diet-claude",
+        "website": "https://www.producthunt.com/r/FBBFOTHWP2O4QH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Chrome Extensions",
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "decawork",
+        "name": "Decawork",
+        "tagline": "Control your company's internal AI agents and tools",
+        "description": "Decawork is how IT teams take employee-built AI agents live and control every one of them from one place. An employee builds an agent on Claude Code, Codex, or any vibecoding tool; we take it in, put it on company accounts, and run it as a company asset. From there, IT team manages the agent like an employee: access, oversight, retirement.",
+        "votes": 333,
+        "ph_url": "https://www.producthunt.com/posts/decawork",
+        "website": "https://www.producthunt.com/r/6L7FAO6PDHTEGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Artificial Intelligence",
+          "Security"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49437049",
+        "name": "Show HN: LatticeDB – Like SQLite but for graph databases",
+        "url": "https://github.com/jeffhajewski/latticedb",
+        "points": 134,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=49437049"
+      },
+      {
+        "id": "49435675",
+        "name": "Show HN: I made a Raspberry with Qwen my local car AI",
+        "url": "https://github.com/ThinkOffApp/CarWatch",
+        "points": 127,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=49435675"
+      },
+      {
+        "id": "49441375",
+        "name": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+        "url": "https://github.com/swimmingbrain/texbrain",
+        "points": 76,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=49441375"
+      },
+      {
+        "id": "49437361",
+        "name": "Show HN: Lightweight system monitor for Linux VPS written in Go",
+        "url": "https://github.com/leodeim/vpsmon",
+        "points": 56,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=49437361"
+      },
+      {
+        "id": "49430259",
+        "name": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+        "url": "https://fdeploy.com/",
+        "points": 28,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49430259"
+      },
+      {
+        "id": "49431866",
+        "name": "Show HN: Coffeetable, A new UX to discover books inside Claude",
+        "url": "https://claude.ai/directory/coffeetable",
+        "points": 15,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49431866"
+      },
+      {
+        "id": "49435555",
+        "name": "Show HN: Keenable – A different web search API for AI agents",
+        "url": "https://keenable.ai/",
+        "points": 10,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49435555"
+      },
+      {
+        "id": "49433314",
+        "name": "Show HN: Wirespan, a daily power grid optimization puzzle I made for my son",
+        "url": "https://wirespan.app/?r=hnn",
+        "points": 6,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49433314"
+      },
+      {
+        "id": "49443296",
+        "name": "Show HN: Declaude",
+        "url": "https://speak-english.tenken.co/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49443296"
+      },
+      {
+        "id": "49438446",
+        "name": "Show HN: Wireshark in a TUI",
+        "url": "https://github.com/yeet-src/pktscope",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49438446"
+      },
+      {
+        "id": "49431013",
+        "name": "Show HN: MajinBook = Anna's Archive and Goodreads",
+        "url": "https://github.com/mazieres/MajinBook",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49431013"
+      },
+      {
+        "id": "49433095",
+        "name": "Show HN: ReadPlusOne – Spanish stories built around the words you're learning",
+        "url": "https://readplusone.com/",
+        "points": 5,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49433095"
+      },
+      {
+        "id": "49435251",
+        "name": "Show HN: I built a SaaS without knowing how to code – am I an idiot?",
+        "url": "https://www.learnfrom.co/",
+        "points": 5,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49435251"
+      },
+      {
+        "id": "49439218",
+        "name": "Show HN: MulmoTerminal – Run many Claude Code sessions, see which needs you",
+        "url": "https://github.com/receptron/mulmoterminal",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49439218"
+      },
+      {
+        "id": "49434426",
+        "name": "Show HN: A cemetery for failed side projects and what founders build next",
+        "url": "https://www.ripmybuild.com",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49434426"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/json-mapper",
+        "name": "JSON Mapper",
+        "description": "Paste two JSONs to auto-map and transform your data",
+        "url": "https://betalist.com/startups/json-mapper"
+      },
+      {
+        "id": "/startups/allervibe",
+        "name": "Allervibe",
+        "description": "Scan barcodes to spot your allergens in seconds",
+        "url": "https://betalist.com/startups/allervibe"
+      },
+      {
+        "id": "/startups/risly",
+        "name": "Risly",
+        "description": "Wake up fast with an alarm that stops only after completing a mission",
+        "url": "https://betalist.com/startups/risly"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=oYFBUMTdo8wHlDvdB7Ut",
+        "title": "Clone The App: 100K app downloads by taking a proven app idea to a different market",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=oYFBUMTdo8wHlDvdB7Ut",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/corepilot?post=yPIchoLHCa5LEQi11X4l",
+        "title": "CorePilot: I built an offline AI assistant that can actually use your computer",
+        "url": "https://www.indiehackers.com/product/corepilot?post=yPIchoLHCa5LEQi11X4l",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-a-project-to-see-if-people-would-pay-for-your-indie-hacker-idea-63fe100bf5",
+        "title": "I launched a project to see if people would pay for your Indie Hacker idea",
+        "url": "https://www.indiehackers.com/post/i-launched-a-project-to-see-if-people-would-pay-for-your-indie-hacker-idea-63fe100bf5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-22?post=j7fVj5FLWJAFScPae4xl",
+        "title": "Launch Nest: Launch boldly. Get discovered. Grow together.",
+        "url": "https://www.indiehackers.com/product/launch-nest-22?post=j7fVj5FLWJAFScPae4xl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/growth-has-a-paper-trail-capture-it-36f82fb78a",
+        "title": "Growth has a paper trail -- capture it!",
+        "url": "https://www.indiehackers.com/post/growth-has-a-paper-trail-capture-it-36f82fb78a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/seo-3xd-my-traffic-signups-dropped-to-zero-here-s-what-actually-drives-first-customers-in-vertical-saas-dc7ba9803a",
+        "title": "SEO 3x'd my traffic. Signups dropped to zero. Here's what actually drives first customers in vertical SaaS.",
+        "url": "https://www.indiehackers.com/post/seo-3xd-my-traffic-signups-dropped-to-zero-here-s-what-actually-drives-first-customers-in-vertical-saas-dc7ba9803a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-simple-directory-of-job-boards-4-years-ago-it-just-passed-100k-60da9ba8f2",
+        "title": "I built a simple directory of job boards 4 years ago. It just passed $100K 💵",
+        "url": "https://www.indiehackers.com/post/i-built-a-simple-directory-of-job-boards-4-years-ago-it-just-passed-100k-60da9ba8f2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-chrome-extension-to-stop-getting-cut-off-by-claude-70-users-in-4-weeks-zero-marketing-budget-3b49b2ad35",
+        "title": "Built a Chrome extension to stop getting cut off by Claude — 70 users in 4 weeks, zero marketing budget",
+        "url": "https://www.indiehackers.com/post/built-a-chrome-extension-to-stop-getting-cut-off-by-claude-70-users-in-4-weeks-zero-marketing-budget-3b49b2ad35",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/anyone-else-had-an-ai-coding-agent-claude-code-codex-etc-silently-die-mid-task-when-your-connection-dropped-007ee99244",
+        "title": "Anyone else had an AI coding agent (Claude Code, Codex, etc.) silently die mid-task when your connection dropped?",
+        "url": "https://www.indiehackers.com/post/anyone-else-had-an-ai-coding-agent-claude-code-codex-etc-silently-die-mid-task-when-your-connection-dropped-007ee99244",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 9
+    }
+  }
+}
