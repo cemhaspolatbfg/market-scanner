@@ -1,0 +1,278 @@
+{
+  "scan_time": "2026-08-27T17:21:37.539286+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "x1-2",
+        "name": "x1",
+        "tagline": "Lovable for iPhone apps go from idea to App Store",
+        "description": "X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store. Instead of trying to generate the entire app from one prompt, X1 guides you step by step. It asks focused questions, designs each screen for you to review and edit, then builds the app in stages. Preview and test it on your iPhone as you go. When it’s ready, X1 prepares your App Store listing, screenshots, and submission. No coding required.",
+        "votes": 490,
+        "ph_url": "https://www.producthunt.com/posts/x1-2",
+        "website": "https://www.producthunt.com/r/HRIWQ6DBNJOZ7W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "iOS",
+          "No-Code",
+          "Vibe coding"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "expertise-ai-6",
+        "name": "Expertise AI",
+        "tagline": "Turn your GTM skills into recurring revenue",
+        "description": "Expertise AI is where GTM experts monetize their playbooks as protected Al skills. Each expert gets a storefront where businesses demo and install these skills on a subscription, and gets paid every time one runs.",
+        "votes": 361,
+        "ph_url": "https://www.producthunt.com/posts/expertise-ai-6",
+        "website": "https://www.producthunt.com/r/UWNQIHNBEC6TSW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "posthog-desktop-3",
+        "name": "PostHog Desktop",
+        "tagline": "The product editor for product builders",
+        "description": "A multiplayer workspace for you, your team, and your agents – with your product data as context, and PostHog tools to ship and measure. Build and edit your product | Run a fleet of agents | Turn product signals into PRs.",
+        "votes": 336,
+        "ph_url": "https://www.producthunt.com/posts/posthog-desktop-3",
+        "website": "https://www.producthunt.com/r/2RW3QOUU4OK7XB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "supernova-6",
+        "name": "Supernova",
+        "tagline": "All your data in Claude and Codex",
+        "description": "Supernova connects your startup’s live data to Claude and Codex, so anyone can ask questions, investigate performance, and run complex analysis in the AI tools they already use. Connect Stripe, HubSpot, PostgreSQL, and 30+ other apps, then analyze revenue, pipeline, customers, usage, and operations without waiting on engineers or moving everything into a traditional BI stack.",
+        "votes": 332,
+        "ph_url": "https://www.producthunt.com/posts/supernova-6",
+        "website": "https://www.producthunt.com/r/NI5US6CC4XM5FB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Analytics",
+          "Artificial Intelligence",
+          "Data"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49461817",
+        "name": "Show HN: The load-bearing vocabulary of Claude",
+        "url": "https://louisabraham.github.io/load-bearing/",
+        "points": 127,
+        "comments": 59,
+        "hn_url": "https://news.ycombinator.com/item?id=49461817"
+      },
+      {
+        "id": "49455557",
+        "name": "Show HN: We built the smallest dual-band aircraft tracker",
+        "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+        "points": 35,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49455557"
+      },
+      {
+        "id": "49464459",
+        "name": "Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)",
+        "url": "https://github.com/issacnitin/RealDiff",
+        "points": 33,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49464459"
+      },
+      {
+        "id": "49465291",
+        "name": "Show HN: Restoredrill – proves your Postgres backups restore",
+        "url": "https://github.com/ahmadpiran/restoredrill",
+        "points": 26,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49465291"
+      },
+      {
+        "id": "49464834",
+        "name": "Show HN: Pause – weekly curated 1:1 coffee matches for London professionals",
+        "url": "https://joinpause.co/",
+        "points": 23,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=49464834"
+      },
+      {
+        "id": "49455695",
+        "name": "Show HN: Every push-up becomes an attack in a camera-counted RPG game",
+        "url": "https://pushup.quest/",
+        "points": 21,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49455695"
+      },
+      {
+        "id": "49452974",
+        "name": "Show HN: I made a retirement simulator: 125 years of data, 25 countries",
+        "url": "https://foresightplanner.com/",
+        "points": 15,
+        "comments": 37,
+        "hn_url": "https://news.ycombinator.com/item?id=49452974"
+      },
+      {
+        "id": "49455537",
+        "name": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
+        "url": "https://github.com/apvcode/Termux-Dev",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49455537"
+      },
+      {
+        "id": "49452794",
+        "name": "Show HN: Timber (iOS) and Timber Tabs (Mac) – best offline read-aloud LLMs",
+        "url": "https://timberreader.com/",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49452794"
+      },
+      {
+        "id": "49464704",
+        "name": "Show HN: Concord – let Claude Code, Codex and Cursor talk to each other",
+        "url": "https://github.com/Get-Concord-AI/concord-mcp",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49464704"
+      },
+      {
+        "id": "49464236",
+        "name": "Show HN: Derive – An open home for AI artifacts and workflows",
+        "url": "https://github.com/derive-to/derive",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49464236"
+      },
+      {
+        "id": "49463111",
+        "name": "Show HN: Gluestack – Open-Source UI Components for React and React Native",
+        "url": "https://gluestack.io/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49463111"
+      },
+      {
+        "id": "49462700",
+        "name": "Show HN: 20,000 words – which is the middle?",
+        "url": "https://pzlgames.com/games/themiddle/?play=1",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49462700"
+      },
+      {
+        "id": "49466095",
+        "name": "Show HN: Turn every PR into animated architecture diagrams (open-source)",
+        "url": "https://github.com/coldteadotai/pr-lens",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49466095"
+      },
+      {
+        "id": "49464732",
+        "name": "Show HN: Millnew AI – Explaining time-series models using local LLMs and Captum",
+        "url": "https://robinhood-demo.streamlit.app/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49464732"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/sela",
+        "name": "Sela",
+        "description": "Track meds, vitals, and appointments for every loved one",
+        "url": "https://betalist.com/startups/sela"
+      },
+      {
+        "id": "/startups/aistockwire",
+        "name": "AIStockWire",
+        "description": "AI stock news, real-time data, and free tools for smarter trades",
+        "url": "https://betalist.com/startups/aistockwire"
+      },
+      {
+        "id": "/startups/toby",
+        "name": "Toby",
+        "description": "Organize and summarize work across Email, Todoist, Slack, Jira, and Calendr",
+        "url": "https://betalist.com/startups/toby"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-location-aware-social-platform-as-a-solo-founder-now-i-need-real-feedback-796b0c2283",
+        "title": "I built a location-aware social platform as a solo founder - now I need real feedback",
+        "url": "https://www.indiehackers.com/post/i-built-a-location-aware-social-platform-as-a-solo-founder-now-i-need-real-feedback-796b0c2283",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-24?post=ZRmyfZ5fdg6p5XsAEO3b",
+        "title": "Launch Nest: Launch it. Get discovered. Find what’s next.",
+        "url": "https://www.indiehackers.com/product/launch-nest-24?post=ZRmyfZ5fdg6p5XsAEO3b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-3d-ecosystem-that-actually-cures-app-fragmentation-across-social-ai-generation-translation-and-the-metaverse-da30337b88",
+        "title": "I built an AI & 3D ecosystem that actually cures app fragmentation across social, AI generation, translation, and the metaverse.",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-3d-ecosystem-that-actually-cures-app-fragmentation-across-social-ai-generation-translation-and-the-metaverse-da30337b88",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-sold-the-documents-before-we-sold-the-software-and-it-was-not-the-plan-4dbc672bec",
+        "title": "We sold the documents before we sold the software, and it was not the plan.",
+        "url": "https://www.indiehackers.com/post/we-sold-the-documents-before-we-sold-the-software-and-it-was-not-the-plan-4dbc672bec",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/selling-alohando-a-uruguay-based-travel-marketplace-i-built-solo-over-2-years-2229ccc601",
+        "title": "Selling Alohando — a Uruguay-based travel marketplace I built solo over 2 years",
+        "url": "https://www.indiehackers.com/post/selling-alohando-a-uruguay-based-travel-marketplace-i-built-solo-over-2-years-2229ccc601",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/mediafast-16?post=w4BozQw5UP0QhCdy2yRx",
+        "title": "MediaFast: 400 founders paid for my Reddit tool. Today I'm launching the feature I should have led with: a monitor that watches Reddit 24/7 so you're t",
+        "url": "https://www.indiehackers.com/product/mediafast-16?post=w4BozQw5UP0QhCdy2yRx",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-claim-level-fact-checker-into-our-ai-rewrite-tools-heres-how-it-actually-works-b08f42522a",
+        "title": "Built a claim-level fact-checker into our AI rewrite tools — here's how it actually works",
+        "url": "https://www.indiehackers.com/post/built-a-claim-level-fact-checker-into-our-ai-rewrite-tools-heres-how-it-actually-works-b08f42522a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/services/from-broke-and-idealess-to-building-a-100k-mo-ai-services-company-u1RLyhlzNUE8oNW504GV",
+        "title": "From broke and idealess to building a $100k/mo AI services company",
+        "url": "https://www.indiehackers.com/post/services/from-broke-and-idealess-to-building-a-100k-mo-ai-services-company-u1RLyhlzNUE8oNW504GV",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
