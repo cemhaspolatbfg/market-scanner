@@ -1,0 +1,245 @@
+{
+  "scan_time": "2026-08-28T18:14:05.573509+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "skydive",
+        "name": "Skydive",
+        "tagline": "Build cloud agents that work across your tools",
+        "description": "Build cloud agent coworkers that take on real, multi-step work across the tools you already use. Describe the outcome you want, and Skydive creates a working agent in minutes. No code, no prompt engineering, no workflow wiring required. Skydive agents live in your stack, execute repeatable work, and get sharper over time.",
+        "votes": 406,
+        "ph_url": "https://www.producthunt.com/posts/skydive",
+        "website": "https://www.producthunt.com/r/YLZ2MF3E6WGU67?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "enter-pro-2",
+        "name": "Enter Pro",
+        "tagline": "The AI-native platform to build and scale your apps",
+        "description": "Building what runs a business takes more than code. Enter Pro is the AI-native platform that turns an idea into a working product. Plan, build, preview, launch, and scale apps, websites, and custom AI agents in one continuous workspace. Models, databases, authentication, hosting, payments, analytics, and localization are built in—so teams can ship software built for real business, not just prototypes.",
+        "votes": 381,
+        "ph_url": "https://www.producthunt.com/posts/enter-pro-2",
+        "website": "https://www.producthunt.com/r/BLPV3H4S2Y7TQX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49471965",
+        "name": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+        "url": "https://github.com/elyosh/OpenTIE/",
+        "points": 211,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=49471965"
+      },
+      {
+        "id": "49471407",
+        "name": "Show HN: We built open OpenRouter that turns usage into a better model",
+        "url": "https://github.com/experientiallabs/experiential",
+        "points": 203,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=49471407"
+      },
+      {
+        "id": "49476894",
+        "name": "Show HN: SubSmith – Turn your own videos into language-learning material",
+        "url": "https://subsmith.app",
+        "points": 57,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=49476894"
+      },
+      {
+        "id": "49473767",
+        "name": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
+        "url": "https://github.com/IndexFlowing/IndexFlow-core",
+        "points": 22,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49473767"
+      },
+      {
+        "id": "49475159",
+        "name": "Show HN: FnScribe – Open-source, offline dictation for macOS",
+        "url": "https://github.com/AlgorithmicResearchGroup/fnscribe",
+        "points": 20,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49475159"
+      },
+      {
+        "id": "49477530",
+        "name": "Show HN: Talos – An AI agent with a permission kernel between model and shell",
+        "url": "https://talos-agent.ch/",
+        "points": 14,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49477530"
+      },
+      {
+        "id": "49477217",
+        "name": "Show HN: Texttile, a multiplayer blog engine for people who write together",
+        "url": "https://www.texttile.blog/",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49477217"
+      },
+      {
+        "id": "49472151",
+        "name": "Show HN: Beating GPT5.5-xhigh for Coding agent security with SLMs and IRM",
+        "url": "https://harden.run/blog/aif-research-and-evidence",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49472151"
+      },
+      {
+        "id": "49469804",
+        "name": "Show HN: Telem – Route agent web search across providers and inspect the traces",
+        "url": "https://telem.ai/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49469804"
+      },
+      {
+        "id": "49473333",
+        "name": "Show HN: Pi-Black – Use Your Claude Max (Or Pro) Subscription with Pi",
+        "url": "https://github.com/paoloanzn/pi-black",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49473333"
+      },
+      {
+        "id": "49478737",
+        "name": "Show HN: Coordination Layer for Coding Agents",
+        "url": "https://twing.dev/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49478737"
+      },
+      {
+        "id": "49477916",
+        "name": "Show HN: LLM Inference Calculator – Estimate VRAM, Latency, and Throughput",
+        "url": "https://llm-inference-calculator-delta.vercel.app/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49477916"
+      },
+      {
+        "id": "49476090",
+        "name": "Show HN: 18 Words, Zanagrams and Sunflowers Are Now PZL Games",
+        "url": "",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49476090"
+      },
+      {
+        "id": "49477620",
+        "name": "Show HN: I built a tool showing how AI providers (should) throttle their models",
+        "url": "https://throttle.staffinganalytics.io/?src=hn",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49477620"
+      },
+      {
+        "id": "49472842",
+        "name": "Show HN: Caravan, a flexible TypeScript-first logger for JavaScript applications",
+        "url": "https://github.com/carlos-menezes/caravan",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49472842"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/hostpdf",
+        "name": "HostPDF",
+        "description": "Upload and share your PDFs online for free",
+        "url": "https://betalist.com/startups/hostpdf"
+      },
+      {
+        "id": "/startups/antseed",
+        "name": "AntSeed",
+        "description": "Route any AI model through a self-hosted private P2P marketplace",
+        "url": "https://betalist.com/startups/antseed"
+      },
+      {
+        "id": "/startups/colonyapp",
+        "name": "Colony",
+        "description": "Turn ideas into actionable plans and drive projects to done",
+        "url": "https://betalist.com/startups/colonyapp"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/saasoffers?post=iTqpOglQeT8Frb4kUWE5",
+        "title": "SaasOffers: Built an AI-visibility tool that also gets you cited, not just tracks it",
+        "url": "https://www.indiehackers.com/product/saasoffers?post=iTqpOglQeT8Frb4kUWE5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/15-days-after-launching-to-zero-audience-0-1-follower-0-stars-the-full-numbers-c14435be6c",
+        "title": "15 days after launching to zero audience: $0, 1 follower, 0 stars. The full numbers.",
+        "url": "https://www.indiehackers.com/post/15-days-after-launching-to-zero-audience-0-1-follower-0-stars-the-full-numbers-c14435be6c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/hivemind-3?post=wgLrejhCaJyzeeD4uIGJ",
+        "title": "Hivemind: Synapse Hire promises recruiters AI that makes them look unnecessary. They want AI that makes them look like geniuses.",
+        "url": "https://www.indiehackers.com/product/hivemind-3?post=wgLrejhCaJyzeeD4uIGJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-25?post=HzwzUUUJ3c3PaFbvx2ef",
+        "title": "Launch Nest: Your Product Deserves More Than Just a Launch Day",
+        "url": "https://www.indiehackers.com/product/launch-nest-25?post=HzwzUUUJ3c3PaFbvx2ef",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launched-on-product-hunt-today-the-part-of-shipping-an-ai-built-app-nobody-automates-the-server-f9fc810a05",
+        "title": "Launched on Product Hunt today: the part of shipping an AI-built app nobody automates — the server",
+        "url": "https://www.indiehackers.com/post/launched-on-product-hunt-today-the-part-of-shipping-an-ai-built-app-nobody-automates-the-server-f9fc810a05",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-tool-that-catches-the-insurance-clauses-that-actually-get-claims-rejected-185daa8ab9",
+        "title": "Built a tool that catches the insurance clauses that actually get claims rejected.",
+        "url": "https://www.indiehackers.com/post/built-a-tool-that-catches-the-insurance-clauses-that-actually-get-claims-rejected-185daa8ab9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/ideas/Y4OhaUg5GaoOK5Fz7IFl",
+        "title": "A hosted rendering service that makes JavaScript sites visible to crawlers.",
+        "url": "https://www.indiehackers.com/ideas/Y4OhaUg5GaoOK5Fz7IFl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/creators/crossing-25k-mrr-on-a-newsletter-that-he-launched-72-hours-after-getting-laid-off-kvfqKOe3nwxkWntdALEN",
+        "title": "Crossing $25k MRR on a newsletter that he launched 72 hours after getting laid off",
+        "url": "https://www.indiehackers.com/post/creators/crossing-25k-mrr-on-a-newsletter-that-he-launched-72-hours-after-getting-laid-off-kvfqKOe3nwxkWntdALEN",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
