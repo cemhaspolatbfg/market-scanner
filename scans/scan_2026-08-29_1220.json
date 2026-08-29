@@ -1,0 +1,181 @@
+{
+  "scan_time": "2026-08-29T12:20:25.366597+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "pageindex-9",
+        "name": "PageIndex",
+        "tagline": "Accurate, trustworthy answers across professional documents",
+        "description": "PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on. Bring in your entire document set, ask your hardest question, and click any citation to jump to the exact highlighted source line, so you can verify it in seconds.",
+        "votes": 343,
+        "ph_url": "https://www.producthunt.com/posts/pageindex-9",
+        "website": "https://www.producthunt.com/r/XN6ZYWE35L5YMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49483038",
+        "name": "Show HN: Sesame - a local-first, open-source password manager",
+        "url": "https://usesesame.app/",
+        "points": 53,
+        "comments": 73,
+        "hn_url": "https://news.ycombinator.com/item?id=49483038"
+      },
+      {
+        "id": "49483173",
+        "name": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "url": "https://github.com/sseshachala/conductai",
+        "points": 22,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49483173"
+      },
+      {
+        "id": "49481956",
+        "name": "Show HN: Blast – Open-source sandbox-as-a-service",
+        "url": "https://github.com/stanford-mast/blast",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49481956"
+      },
+      {
+        "id": "49483436",
+        "name": "Show HN: Hacker News Client with Claude Code and Codex Integration",
+        "url": "https://github.com/nilbuild/rundown",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49483436"
+      },
+      {
+        "id": "49482939",
+        "name": "Show HN: Boop – tiny, self-hosted push notifications for your apps built in Go",
+        "url": "https://github.com/chrisgreg/boop",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49482939"
+      },
+      {
+        "id": "49484178",
+        "name": "Show HN: Kosh – Bash shell runtime with 100x faster Shellcheck and LSP built-in",
+        "url": "https://github.com/toiletbril/kosh",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49484178"
+      },
+      {
+        "id": "49485262",
+        "name": "Show HN: 500,000+ AOL Instant Messenger Buddy Icons All at Once",
+        "url": "https://buddyiconarchive.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49485262"
+      },
+      {
+        "id": "49484082",
+        "name": "Show HN: Passively Earn BTC/Sol/Anthropic for Using Claude Code",
+        "url": "https://prmpt.cash/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49484082"
+      },
+      {
+        "id": "49480266",
+        "name": "Show HN: OpenLayer – local Photoshop plugin for ComfyUI (inpaint/outpaint demo)",
+        "url": "https://github.com/MehranMarxian/OpenLayer",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49480266"
+      },
+      {
+        "id": "49478013",
+        "name": "Show HN: OnlyBots.chat – a chatroom where AI pays to post for humans",
+        "url": "https://onlybots.chat",
+        "points": 5,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49478013"
+      },
+      {
+        "id": "49480942",
+        "name": "Show HN: Open tool for testing your AI Agents (No LLM)",
+        "url": "https://github.com/IdoGol24/weir",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49480942"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/drizz",
+        "name": "Drizz",
+        "description": "Automate mobile app testing with plain English and Vision AI",
+        "url": "https://betalist.com/startups/drizz"
+      },
+      {
+        "id": "/startups/antalogy",
+        "name": "Antalogy",
+        "description": "Write Markdown with a Word-style editor and local LLM",
+        "url": "https://betalist.com/startups/antalogy"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-a-project-for-indie-hackers-and-i-just-wanted-to-say-thank-you-e9396c1289",
+        "title": "I launched a project for Indie Hackers, and I just wanted to say thank you",
+        "url": "https://www.indiehackers.com/post/i-launched-a-project-for-indie-hackers-and-i-just-wanted-to-say-thank-you-e9396c1289",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-26?post=tTAPFPQx4yIVUv9fyohB",
+        "title": "Launch Nest: Launch Your Product. Get Discovered.",
+        "url": "https://www.indiehackers.com/product/launch-nest-26?post=tTAPFPQx4yIVUv9fyohB",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=3FJvJQDXYYohScP4d3Xg",
+        "title": "LaunchOn.it: Under 24 hours since launch: Traffic, fixing infrastructure, and making analytics public",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=3FJvJQDXYYohScP4d3Xg",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/3-weeks-ago-0-paying-users-today-every-fix-the-commenters-asked-for-is-live-ffe397ee10",
+        "title": "3 weeks ago: 0 paying users. Today: every fix the commenters asked for is live",
+        "url": "https://www.indiehackers.com/post/3-weeks-ago-0-paying-users-today-every-fix-the-commenters-asked-for-is-live-ffe397ee10",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/going-up-against-a-calculator-site-that-outranks-everyone-3-weeks-in-eebac5c5d0",
+        "title": "Going up against a calculator site that outranks everyone: 3 weeks in",
+        "url": "https://www.indiehackers.com/post/going-up-against-a-calculator-site-that-outranks-everyone-3-weeks-in-eebac5c5d0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-stopped-sharing-agent-logins-and-the-fix-was-a-smaller-credential-not-a-bigger-one-99064c0a08",
+        "title": "We stopped sharing agent logins, and the fix was a smaller credential, not a bigger one",
+        "url": "https://www.indiehackers.com/post/we-stopped-sharing-agent-logins-and-the-fix-was-a-smaller-credential-not-a-bigger-one-99064c0a08",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 11
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
