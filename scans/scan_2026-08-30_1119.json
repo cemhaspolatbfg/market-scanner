@@ -1,0 +1,198 @@
+{
+  "scan_time": "2026-08-30T11:19:45.204897+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49493881",
+        "name": "Show HN: Delete yourself from data brokers without a subscription",
+        "url": "https://github.com/k7cfo/remove-your-data",
+        "points": 12,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49493881"
+      },
+      {
+        "id": "49491755",
+        "name": "Show HN: Flint – A minimal C/C++ package manager and build tool written in C",
+        "url": "https://github.com/mainak55512/flint",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49491755"
+      },
+      {
+        "id": "49489376",
+        "name": "Show HN: Laser Graffiti",
+        "url": "https://laser.consti.de",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49489376"
+      },
+      {
+        "id": "49493576",
+        "name": "Show HN: AI Agents for Osint/Sigint",
+        "url": "https://www.makralabs.org/about",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49493576"
+      },
+      {
+        "id": "49489682",
+        "name": "Show HN: The impact that made the Moon, 262k particles in a browser tab",
+        "url": "https://gaploid.github.io/cosmic-collisions/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49489682"
+      },
+      {
+        "id": "49488996",
+        "name": "Show HN: Qwiksi a CLI tool for adding your signature to a PDFs",
+        "url": "https://github.com/krisraven/qwiksi",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49488996"
+      },
+      {
+        "id": "49491968",
+        "name": "Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting",
+        "url": "https://github.com/QcFe/phpEZ",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49491968"
+      },
+      {
+        "id": "49489963",
+        "name": "Show HN: A downloader for public social posts, no sign-up and no ads",
+        "url": "https://www.socialdownloader.space",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49489963"
+      },
+      {
+        "id": "49491064",
+        "name": "Show HN: Idea Miner – I stopped ranking ideas by how often they're mentioned",
+        "url": "https://idea-miner.com/en/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49491064"
+      },
+      {
+        "id": "49491918",
+        "name": "Show HN: Open-Source Local Whisper Flow Alternative",
+        "url": "https://www.cloudless.so/",
+        "points": 4,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49491918"
+      },
+      {
+        "id": "49490076",
+        "name": "Show HN: Teamnaire – Discover Your Role in a Team",
+        "url": "https://teamnaire.com/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49490076"
+      },
+      {
+        "id": "49493250",
+        "name": "Show HN: Convert PNG and JPG to clean SVG in seconds",
+        "url": "https://www.vectorify.co",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49493250"
+      },
+      {
+        "id": "49490605",
+        "name": "Show HN: Too many articles to read, let random algorithm decide what I read next",
+        "url": "https://read.mustakim.dev/bored",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49490605"
+      },
+      {
+        "id": "49490148",
+        "name": "Show HN: DataZen – a local-first client for cross-database workflows",
+        "url": "https://flyxl.github.io/datazen/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49490148"
+      },
+      {
+        "id": "49489854",
+        "name": "Show HN: Visual workspace to design and operate daily multi-agent workflows",
+        "url": "https://github.com/ringlochid/oh-my-subagents",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49489854"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/holp",
+        "name": "Holp",
+        "description": "Customer service AI agent that answers instantly across channels and in any",
+        "url": "https://betalist.com/startups/holp"
+      },
+      {
+        "id": "/startups/lignique",
+        "name": "Lignique",
+        "description": "Create AI comics with character continuity across panels",
+        "url": "https://betalist.com/startups/lignique"
+      },
+      {
+        "id": "/startups/makeautomation",
+        "name": "MakeAutomation",
+        "description": "Automate workflows and voice calls with fast, ops-ready AI systems",
+        "url": "https://betalist.com/startups/makeautomation"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=H2WTifoTwaAKdFG2Qs3z",
+        "title": "Clone The App: How Calm app makes $30M/month from Sleep & Relaxation",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=H2WTifoTwaAKdFG2Qs3z",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-ln-7?post=b11Lrbw0wq5AtO0u70nh",
+        "title": "Launch Nest LN: 🔥 What’s the Best New Product You’ve Discovered Recently?",
+        "url": "https://www.indiehackers.com/product/launch-nest-ln-7?post=b11Lrbw0wq5AtO0u70nh",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=2p3y3izfPVzefHdmWIAN",
+        "title": "LaunchOn.it: The awkward silence of Day 2: Launching an app into a crowded trend wave",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=2p3y3izfPVzefHdmWIAN",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/were-validating-two-product-ideas-at-once-trying-to-figure-out-which-problem-is-worth-solving-first-f4e57e84ea",
+        "title": "We're validating two product ideas at once — trying to figure out which problem is worth solving first",
+        "url": "https://www.indiehackers.com/post/were-validating-two-product-ideas-at-once-trying-to-figure-out-which-problem-is-worth-solving-first-f4e57e84ea",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/rovaspace?post=1GsFH9w1aUib52BeBLlj",
+        "title": "Rovaspace: Your remote team might be working hard… but you wouldn’t know it.",
+        "url": "https://www.indiehackers.com/product/rovaspace?post=1GsFH9w1aUib52BeBLlj",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
