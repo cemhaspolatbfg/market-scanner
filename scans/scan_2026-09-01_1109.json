@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-09-01T11:09:48.461832+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "video-agent-by-fotor",
+        "name": "Video Agent by Fotor",
+        "tagline": "Create and edit precision motion graphics & video with chat",
+        "description": "Fotor Video Agent helps founders, marketers, and creators turn ideas, scripts, or raw assets into precision videos & motion graphics. It auto-orchestrates scenes, timing, visual FX, and kinetic typography—while keeping text, numbers, logos, and charts editable on a multi-track timeline before you render. Update stats at the last minute or refine timing without regenerating the whole video. Ship promos and explainers faster with zero black-box outputs and no tedious keyframes.",
+        "votes": 371,
+        "ph_url": "https://www.producthunt.com/posts/video-agent-by-fotor",
+        "website": "https://www.producthunt.com/r/KMJ6C2OCHCE4UL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "hyperfocus-3",
+        "name": "Hyperfocus",
+        "tagline": "Planner that turns goals into daily progress",
+        "description": "Hyperfocus is a free, goals-first planner for macOS. It helps you choose the few outcomes that matter most, plan weeks and days around them, and make consistent progress by doing focused work",
+        "votes": 319,
+        "ph_url": "https://www.producthunt.com/posts/hyperfocus-3",
+        "website": "https://www.producthunt.com/r/WIPDN746ZT7D27?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49509679",
+        "name": "Show HN: Linux server management over SSH – written in Rust and Tauri",
+        "url": "https://serverbox.stupidlabs.lol/",
+        "points": 47,
+        "comments": 50,
+        "hn_url": "https://news.ycombinator.com/item?id=49509679"
+      },
+      {
+        "id": "49511400",
+        "name": "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme",
+        "url": "https://corporatemindgames.com/",
+        "points": 47,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49511400"
+      },
+      {
+        "id": "49514729",
+        "name": "Show HN: Markdown Viewer and Editor",
+        "url": "https://kingsbridge-consultancy.com/md-viewer/",
+        "points": 27,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49514729"
+      },
+      {
+        "id": "49508735",
+        "name": "Show HN: SlideOps – slides from a repo that flag when they drift from the code",
+        "url": "https://github.com/glukicov/slideops",
+        "points": 21,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49508735"
+      },
+      {
+        "id": "49514828",
+        "name": "Show HN: 49 IDE – 2D Canvas for Agents",
+        "url": "https://github.com/alpbahadur/49-IDE",
+        "points": 18,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49514828"
+      },
+      {
+        "id": "49510547",
+        "name": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude",
+        "url": "https://fellowgeek.github.io/mcp-speak/",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49510547"
+      },
+      {
+        "id": "49508900",
+        "name": "Show HN: Astral – Astro.js, but in Elixir",
+        "url": "https://github.com/elixir-volt/astral",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49508900"
+      },
+      {
+        "id": "49509649",
+        "name": "Show HN: DogLM – Can you pet the dog in an AI-generated game?",
+        "url": "https://mikeushakov.github.io/doglm/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49509649"
+      },
+      {
+        "id": "49518062",
+        "name": "Show HN: A Bluesky bot that shares Wikipedia links from the HN front page",
+        "url": "https://bsky.app/profile/hnwiki.bsky.social",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49518062"
+      },
+      {
+        "id": "49517768",
+        "name": "Show HN: Serendipity – rediscover the web one interesting page at a time",
+        "url": "https://serendipity.surf/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49517768"
+      },
+      {
+        "id": "49516118",
+        "name": "Show HN: Saccade – Live semantic browser truth for AI agents",
+        "url": "https://github.com/nanlogic/saccade",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49516118"
+      },
+      {
+        "id": "49514013",
+        "name": "Show HN: Guess the AI model from its web design",
+        "url": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49514013"
+      },
+      {
+        "id": "49513287",
+        "name": "Show HN: Appwrite 2.0",
+        "url": "https://appwrite.io/blog/post/announcing-appwrite-2",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49513287"
+      },
+      {
+        "id": "49510831",
+        "name": "Show HN: E-Ink Optimized Manga for KOreader, Kindle, Kobo, ReMarkable with KCC",
+        "url": "https://github.com/ciromattia/kcc",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49510831"
+      },
+      {
+        "id": "49509142",
+        "name": "Show HN: Decispher – persistent engineering context and memory for coding agents",
+        "url": "",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49509142"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/applyboost",
+        "name": "ApplyBoost",
+        "description": "Turn any job description into ATS-ready resume bullets in two minutes",
+        "url": "https://betalist.com/startups/applyboost"
+      },
+      {
+        "id": "/startups/jobglance",
+        "name": "JobGlance",
+        "description": "Rank every visa and remote job from 100+ sources by your resume fit live",
+        "url": "https://betalist.com/startups/jobglance"
+      },
+      {
+        "id": "/startups/ai-supermarket",
+        "name": "AI Supermarket",
+        "description": "Discover, compare, and choose the best AI tools for any task",
+        "url": "https://betalist.com/startups/ai-supermarket"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/seenshot-app?post=4IZm96CxpggxQLou4fYK",
+        "title": "Seenshot.app: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing",
+        "url": "https://www.indiehackers.com/product/seenshot-app?post=4IZm96CxpggxQLou4fYK",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/leapd?post=hRCkRUQHxLqdS82nNA67",
+        "title": "Leapd: Free Business Builder — Turn One Idea Into a Real Business",
+        "url": "https://www.indiehackers.com/product/leapd?post=hRCkRUQHxLqdS82nNA67",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/hivemind-3?post=ao9rbWSDIzEXfdYeO70w",
+        "title": "Hivemind: Adwave puts a local shop on television. Its homepage leads with Google and Meta.",
+        "url": "https://www.indiehackers.com/product/hivemind-3?post=ao9rbWSDIzEXfdYeO70w",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-fired-all-my-clients-and-moved-to-bangkok-month-one-1-511-mrr-9a3b7adc5b",
+        "title": "i fired all my clients and moved to bangkok. month one: $1,511 MRR",
+        "url": "https://www.indiehackers.com/post/i-fired-all-my-clients-and-moved-to-bangkok-month-one-1-511-mrr-9a3b7adc5b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/2-000-upvotes-on-reddit-0-signups-i-stopped-launching-and-started-commenting-11-customers-later-67518d8aa1",
+        "title": "2,000 upvotes on Reddit, 0 signups. I stopped launching and started commenting. 11 customers later.",
+        "url": "https://www.indiehackers.com/post/2-000-upvotes-on-reddit-0-signups-i-stopped-launching-and-started-commenting-11-customers-later-67518d8aa1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/carving-out-a-6-3k-mrr-niche-in-a-saturated-market-y1bbTHkoRJmfJzMEmPsT",
+        "title": "Carving out a $6.3k MRR niche in a saturated market",
+        "url": "https://www.indiehackers.com/post/tech/carving-out-a-6-3k-mrr-niche-in-a-saturated-market-y1bbTHkoRJmfJzMEmPsT",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/products",
+        "title": "The Build Board 🪧",
+        "url": "https://www.indiehackers.com/products",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
