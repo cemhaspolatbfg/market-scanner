@@ -1,0 +1,244 @@
+{
+  "scan_time": "2026-09-03T10:43:54.303486+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "monid-3",
+        "name": "Monid",
+        "tagline": "OpenRouter for agent tools",
+        "description": "We connect your AI agent to 1,800+ APIs without any subscriptions. SEO, lead gen, video/music generation, social media, stocks, market trends, on-chain data, competitor tracking, sentiment analysis, all unlocked with one key.",
+        "votes": 434,
+        "ph_url": "https://www.producthunt.com/posts/monid-3",
+        "website": "https://www.producthunt.com/r/BF4YYRJGDZZ236?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "browzer-2",
+        "name": "Browzer",
+        "tagline": "Put your technical content on autopilot",
+        "description": "Connect your GitHub repo and Browzer drafts your docs, guides, changelogs, cookbooks, quickstarts, and SEO & AEO friendly blog posts, and then heals them on every merge. We automate all technical output of a DevRel so that DevRel teams can focus more on community, growth & events.",
+        "votes": 416,
+        "ph_url": "https://www.producthunt.com/posts/browzer-2",
+        "website": "https://www.producthunt.com/r/FWMERWRDIV2DJH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "articos",
+        "name": "Articos",
+        "tagline": "Launch with confidence, not gut instinct",
+        "description": "Articos helps SaaS teams, agencies, and founders test messaging, positioning, and landing pages against simulated personas matched to your ICP. Real audience signal in under 30 minutes. Peer-reviewed at 86% human accuracy vs Baymard and Nielsen Norman.",
+        "votes": 357,
+        "ph_url": "https://www.producthunt.com/posts/articos",
+        "website": "https://www.producthunt.com/r/SV57AXQTEEXIBS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49538490",
+        "name": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+        "url": "https://frontierharness.org",
+        "points": 74,
+        "comments": 52,
+        "hn_url": "https://news.ycombinator.com/item?id=49538490"
+      },
+      {
+        "id": "49536562",
+        "name": "Show HN: ZSvirt – A lightweight, scalable open source virtualization platform",
+        "url": "https://github.com/ZSvirt/zsvirt",
+        "points": 71,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49536562"
+      },
+      {
+        "id": "49545411",
+        "name": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
+        "url": "https://compute.cheap/",
+        "points": 26,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49545411"
+      },
+      {
+        "id": "49539913",
+        "name": "Show HN: I built a version of Omarchy that runs on Apple Silicon",
+        "url": "https://github.com/themartiano/try-omarchy",
+        "points": 20,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49539913"
+      },
+      {
+        "id": "49538195",
+        "name": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
+        "url": "https://github.com/mezmo/aura",
+        "points": 20,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49538195"
+      },
+      {
+        "id": "49537801",
+        "name": "Show HN: Kit. Claude Code but Concise",
+        "url": "https://github.com/speakeasy-api/kit",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49537801"
+      },
+      {
+        "id": "49536481",
+        "name": "Show HN: asciiQuake",
+        "url": "https://asciiquake.wtf/",
+        "points": 11,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49536481"
+      },
+      {
+        "id": "49538757",
+        "name": "Show HN: Skatanica – Browse and share skate clips by location",
+        "url": "https://skatanica.com/runs",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49538757"
+      },
+      {
+        "id": "49543617",
+        "name": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+        "url": "https://theyfell.com/",
+        "points": 9,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49543617"
+      },
+      {
+        "id": "49535163",
+        "name": "Show HN: Windrunner – AI-powered project collaboration workspace",
+        "url": "https://shzlw.github.io/windrunner/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49535163"
+      },
+      {
+        "id": "49539043",
+        "name": "Show HN: Kekoso – On-device dictation and transcription for macOS",
+        "url": "https://kekoso.app/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49539043"
+      },
+      {
+        "id": "49543217",
+        "name": "Show HN: Open source ML programming language playground",
+        "url": "https://sw-ml-study.github.io/sw-mlpl/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49543217"
+      },
+      {
+        "id": "49535300",
+        "name": "Show HN: Local Personal Financial Assistant",
+        "url": "https://apps.apple.com/us/app/linggen/id6798304906",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49535300"
+      },
+      {
+        "id": "49537988",
+        "name": "Show HN: I Built a Modern Version of the Million Dollar Homepage for SaaS",
+        "url": "https://www.milliondollarsaas.club/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49537988"
+      },
+      {
+        "id": "49536843",
+        "name": "Show HN: Convert Anything to Markdown",
+        "url": "https://anyto.md/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49536843"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/authored-ai",
+        "name": "Authored AI",
+        "description": "Get paid when your knowledge is used by AI",
+        "url": "https://betalist.com/startups/authored-ai"
+      },
+      {
+        "id": "/startups/stashkit",
+        "name": "Stashkit",
+        "description": "Design branded QR codes with editable destinations and tracking",
+        "url": "https://betalist.com/startups/stashkit"
+      },
+      {
+        "id": "/startups/proofavo",
+        "name": "Proofavo",
+        "description": "Send images and PDFs for client approval without accounts",
+        "url": "https://betalist.com/startups/proofavo"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=ZHE1ur4KagG9SzEU84zd",
+        "title": "Clone The App: The simple way to build a successful app business.",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=ZHE1ur4KagG9SzEU84zd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-ln-12?post=pA9qnRRhpnvGJ1vCtfse",
+        "title": "Launch Nest LN: Where New Products Launch and Great Ideas Get Discovered",
+        "url": "https://www.indiehackers.com/product/launch-nest-ln-12?post=pA9qnRRhpnvGJ1vCtfse",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/flouie?post=volLQErfgLfUpjhddF2D",
+        "title": "Flouie: I’m building something people might love but never use.",
+        "url": "https://www.indiehackers.com/product/flouie?post=volLQErfgLfUpjhddF2D",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-got-our-shopify-app-approved-in-72-days-now-were-stuck-at-distribution-and-people-keep-offering-us-paid-reviews-df8505401d",
+        "title": "We got our Shopify app approved in 72 days. Now we're stuck at distribution and people keep offering us paid reviews.",
+        "url": "https://www.indiehackers.com/post/we-got-our-shopify-app-approved-in-72-days-now-were-stuck-at-distribution-and-people-keep-offering-us-paid-reviews-df8505401d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/going-all-in-and-hitting-30m-arr-in-three-years-IBwjFYRHPn5joh0Qm17J",
+        "title": "Going all-in and hitting $30M ARR in three years",
+        "url": "https://www.indiehackers.com/post/tech/going-all-in-and-hitting-30m-arr-in-three-years-IBwjFYRHPn5joh0Qm17J",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
