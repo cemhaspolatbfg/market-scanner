@@ -1,0 +1,214 @@
+{
+  "scan_time": "2026-09-04T10:39:46.961921+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "nex-4",
+        "name": "Nex",
+        "tagline": "Claude Cowork for high-volume GTM workflows",
+        "description": "Nex automates workflows like CRM clean up, large list qualification, revenue recovery, at large volumes, that break general purpose agents. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.",
+        "votes": 333,
+        "ph_url": "https://www.producthunt.com/posts/nex-4",
+        "website": "https://www.producthunt.com/r/XMDJ7VCVJ2VC3D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49549148",
+        "name": "Show HN: Reactor Atlas",
+        "url": "https://reactoratlas.com",
+        "points": 31,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49549148"
+      },
+      {
+        "id": "49548962",
+        "name": "Show HN: I built my first MCP to manage Google Ads",
+        "url": "https://adchestra.com/",
+        "points": 15,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49548962"
+      },
+      {
+        "id": "49550479",
+        "name": "Show HN: I made a word building game supporting anagrams and one handed use",
+        "url": "",
+        "points": 15,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49550479"
+      },
+      {
+        "id": "49550515",
+        "name": "Show HN: Real-time AI news aggregator with daily digest",
+        "url": "https://aibriefs.news",
+        "points": 10,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49550515"
+      },
+      {
+        "id": "49550931",
+        "name": "Show HN: Ardent, a code-first agent for non-engineering work",
+        "url": "https://ardent.ai/",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49550931"
+      },
+      {
+        "id": "49550578",
+        "name": "Show HN: A searchable, timestamped index of 1,124 AI Engineer talks",
+        "url": "https://aietalks.com/",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49550578"
+      },
+      {
+        "id": "49548821",
+        "name": "Show HN: Moon – track your mood and see what fills and drains it",
+        "url": "https://moonapp.lv",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49548821"
+      },
+      {
+        "id": "49549760",
+        "name": "Show HN: Litelink – local-first, embedded stream capture into Iceberg tables",
+        "url": "https://github.com/nhobin219/litelink",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49549760"
+      },
+      {
+        "id": "49553343",
+        "name": "Show HN: MCP Tool Definition Quality Score (TDQS) Spec",
+        "url": "https://tdqs.dev",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49553343"
+      },
+      {
+        "id": "49552209",
+        "name": "Show HN: A Context Registry for AI coding agents",
+        "url": "https://context.apimatic.io/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49552209"
+      },
+      {
+        "id": "49553092",
+        "name": "Show HN: A gravity simulator where forces propagate at the speed of light",
+        "url": "https://github.com/alessandro-pioli/AstroCausal_Engine",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49553092"
+      },
+      {
+        "id": "49548526",
+        "name": "Show HN: Play Hide and Seek vs. a Self-Improving Agent Using WebMCP",
+        "url": "https://lightcone-webmcp.netlify.app/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49548526"
+      },
+      {
+        "id": "49562157",
+        "name": "Show HN: Prices.eu.org",
+        "url": "https://prices.eu.org/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49562157"
+      },
+      {
+        "id": "49561280",
+        "name": "Show HN: Interactive map of the Japanese address system",
+        "url": "https://japanmap.fyi",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49561280"
+      },
+      {
+        "id": "49556678",
+        "name": "Show HN: Sirenfall, a civil defense siren synthesized in Web Audio",
+        "url": "https://sirenfall.live/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49556678"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/nuros",
+        "name": "Nuros",
+        "description": "Turn any material into notes, drills, and exams with adaptive review",
+        "url": "https://betalist.com/startups/nuros"
+      },
+      {
+        "id": "/startups/nuatus",
+        "name": "Nuatus",
+        "description": "See tasks, events, lists, notes, and weather in one private daily view",
+        "url": "https://betalist.com/startups/nuatus"
+      },
+      {
+        "id": "/startups/local-llm-on-device",
+        "name": "Local LLM: On-Device",
+        "description": "On-device AI chat that feels closer to Gemini",
+        "url": "https://betalist.com/startups/local-llm-on-device"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-fitness-app-solo-got-banned-from-reddit-flopped-on-product-hunt-and-found-traction-on-q-a-sites-heres-what-worked-2471288559",
+        "title": "I built an AI fitness app solo, got banned from Reddit, flopped on Product Hunt, and found traction on Q&A sites. Here's what worked.",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-fitness-app-solo-got-banned-from-reddit-flopped-on-product-hunt-and-found-traction-on-q-a-sites-heres-what-worked-2471288559",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/writizzy?post=IieG0BIVLKyJkwOaQdMf",
+        "title": "Writizzy celebrates its 900+ users",
+        "url": "https://www.indiehackers.com/product/writizzy?post=IieG0BIVLKyJkwOaQdMf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-ln-14?post=6OX9VGuLun1u6MjVA78E",
+        "title": "Launch Nest LN: Launch Your Product Free. Discover the Best New Tools Free.",
+        "url": "https://www.indiehackers.com/product/launch-nest-ln-14?post=6OX9VGuLun1u6MjVA78E",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/same-idea-14k-views-on-reddit-and-15-impressions-on-x-a85614139c",
+        "title": "Same idea, 14K views on Reddit and <15 impressions on X",
+        "url": "https://www.indiehackers.com/post/same-idea-14k-views-on-reddit-and-15-impressions-on-x-a85614139c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/hivemind-3?post=5Nlb4RE0PYPAyUw8OtyU",
+        "title": "Hivemind: The manuscript is the starting line. Every writing tool sells it as the finish.",
+        "url": "https://www.indiehackers.com/product/hivemind-3?post=5Nlb4RE0PYPAyUw8OtyU",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
