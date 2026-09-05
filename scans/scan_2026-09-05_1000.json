@@ -1,0 +1,235 @@
+{
+  "scan_time": "2026-09-05T10:00:12.363805+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "gpt-6-astra-2",
+        "name": "GPT-6 Astra",
+        "tagline": "OpenAI's most capable model for end-to-end work",
+        "description": "GPT-6 Astra is OpenAI's most capable model for complex reasoning, software engineering, computer use, science, and professional work. Async tool calling and mid-turn steering help it run multistep agent workflows. API: model id gpt-6-astra, $10/$50 per 1M tokens (short context). Rolling out first via Trusted Access/Daybreak, then Plus, Pro, Business, Enterprise, and the API in the coming days. First OpenAI model at the Critical cybersecurity capability threshold (advanced cyber access limited).",
+        "votes": 403,
+        "ph_url": "https://www.producthunt.com/posts/gpt-6-astra-2",
+        "website": "https://www.producthunt.com/r/JZWSD2RN4SUNT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "agent-builder-by-airtop",
+        "name": "Agent Builder by Airtop",
+        "tagline": "Build agents that heal themselves. ",
+        "description": "Describe any workflow in plain English. Agent Builder compiles it into a coded automation that runs like software. When a run breaks, Airtop automatically investigates, rebuilds the step, and verifies the fix on a real test run. Airtop Agents run securely in the cloud and are up to 100x more efficient than traditional LLM-per-step AI Agents.",
+        "votes": 331,
+        "ph_url": "https://www.producthunt.com/posts/agent-builder-by-airtop",
+        "website": "https://www.producthunt.com/r/2EYT4D2MQCUU3J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "No-Code",
+          "Vibe coding"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49567437",
+        "name": "Show HN: Open-Source eInk Bike Computer",
+        "url": "https://opentrailpaper.com",
+        "points": 288,
+        "comments": 102,
+        "hn_url": "https://news.ycombinator.com/item?id=49567437"
+      },
+      {
+        "id": "49571537",
+        "name": "Show HN: Moadim.io – A scheduler for agents",
+        "url": "https://moadim.io/",
+        "points": 25,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49571537"
+      },
+      {
+        "id": "49565243",
+        "name": "Show HN: MeScript, music programming language inspired by Lisp",
+        "url": "https://quadracollision.com/mescript/",
+        "points": 25,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49565243"
+      },
+      {
+        "id": "49571563",
+        "name": "Show HN: Agent-to-agent payment. Your agents can pay each other",
+        "url": "https://openspender.com/agent-to-agent",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49571563"
+      },
+      {
+        "id": "49564984",
+        "name": "Show HN: Declick – Turn an OpenAPI Spec, MCP Server or SQLite DB into a CLI",
+        "url": "https://github.com/ucsandman/declick",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49564984"
+      },
+      {
+        "id": "49564393",
+        "name": "Show HN: SiteTweak – a browser extension to modify any website",
+        "url": "https://chromewebstore.google.com/detail/sitetweak-edit-any-site-w/jnhmhgddbeljneddgcpglgchbdheakbk",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49564393"
+      },
+      {
+        "id": "49563492",
+        "name": "Show HN: Agent Sandboxes with GPUs from $0.20/hr",
+        "url": "https://tama.computer/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49563492"
+      },
+      {
+        "id": "49571566",
+        "name": "Show HN: Personal Context MCP",
+        "url": "https://lanes.sh/showcase/personal-context-mcp",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49571566"
+      },
+      {
+        "id": "49568379",
+        "name": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
+        "url": "https://www.vlmrun.com/gateway",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49568379"
+      },
+      {
+        "id": "49565399",
+        "name": "Show HN: Give every agent the right data, access and context to get work done",
+        "url": "https://lanes.sh/showcase/agentic-fleet",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49565399"
+      },
+      {
+        "id": "49563463",
+        "name": "Show HN: Million Bricks – a 3D tower of one million bricks you can buy for $10",
+        "url": "https://www.millionbrickshomepage.com",
+        "points": 4,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49563463"
+      },
+      {
+        "id": "49567346",
+        "name": "Show HN: NationalDex • minimal open-source Pokédex",
+        "url": "https://www.nationaldex.app",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49567346"
+      },
+      {
+        "id": "49572780",
+        "name": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+        "url": "https://github.com/lovaxi/Rubato_Device",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49572780"
+      },
+      {
+        "id": "49569136",
+        "name": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+        "url": "https://sageling.ai/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49569136"
+      },
+      {
+        "id": "49568876",
+        "name": "Show HN: Coder Eval – A Framework for Evals",
+        "url": "https://github.com/uipath/coder_eval",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49568876"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/finit",
+        "name": "finit",
+        "description": "Track screen time honestly and see where your life really goes",
+        "url": "https://betalist.com/startups/finit"
+      },
+      {
+        "id": "/startups/entredash",
+        "name": "EntreDash",
+        "description": "Validate and shape your idea with a private AI advisory board",
+        "url": "https://betalist.com/startups/entredash"
+      },
+      {
+        "id": "/startups/zamlom",
+        "name": "Zamlom",
+        "description": "Train teams on security skills and run live incident response tabletops",
+        "url": "https://betalist.com/startups/zamlom"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/80-people-used-a-feature-i-never-announced-heres-what-i-learned-fccbf56247",
+        "title": "80+ people used a feature I never announced. Here's what I learned.",
+        "url": "https://www.indiehackers.com/post/80-people-used-a-feature-i-never-announced-heres-what-i-learned-fccbf56247",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-do-you-know-whether-low-traction-is-a-product-problem-or-a-distribution-problem-ded4a4b554",
+        "title": "How do you know whether low traction is a product problem or a distribution problem?",
+        "url": "https://www.indiehackers.com/post/how-do-you-know-whether-low-traction-is-a-product-problem-or-a-distribution-problem-ded4a4b554",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/flouie?post=qDPslnjgL0r9PwnxmPAB",
+        "title": "Flouie: Please roast my landing page.",
+        "url": "https://www.indiehackers.com/product/flouie?post=qDPslnjgL0r9PwnxmPAB",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-ln-15?post=yJ2IVlHilunT6vqYQ7cq",
+        "title": "Launch Nest LN: Launch Your Product Free & Get Discovered by Real Users",
+        "url": "https://www.indiehackers.com/product/launch-nest-ln-15?post=yJ2IVlHilunT6vqYQ7cq",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-an-ai-cofounder-that-remembers-my-startups-context-between-sessions-bb90ab83f6",
+        "title": "Built an AI cofounder that remembers my startup's context between sessions",
+        "url": "https://www.indiehackers.com/post/built-an-ai-cofounder-that-remembers-my-startups-context-between-sessions-bb90ab83f6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/stuck-at-300-mo-until-revenue-skyrocketed-to-17k-mo-in-a-month-uMOSolSKjXGX74a0lVGQ",
+        "title": "Stuck at $300/mo until revenue skyrocketed to $17k/mo in a month",
+        "url": "https://www.indiehackers.com/post/tech/stuck-at-300-mo-until-revenue-skyrocketed-to-17k-mo-in-a-month-uMOSolSKjXGX74a0lVGQ",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
