@@ -1,0 +1,209 @@
+{
+  "scan_time": "2026-09-06T10:19:19.398092+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "dif-sh",
+        "name": "dif.sh",
+        "tagline": "Markdown feature flags your coding agent installs for you",
+        "description": "Open source feature flags. Every flag is a markdown file that lives with the code it controls: what it does, why it exists, and what you decided, reviewed in a PR like any other change. Your coding agent installs Dif in one command, no account, and reads the context file so it knows what's live and what was already tried. A/B tests wait in the same files until you have traffic. Send events to your own analytics, or let Dif Cloud read the results and write the decision into the file.",
+        "votes": 351,
+        "ph_url": "https://www.producthunt.com/posts/dif-sh",
+        "website": "https://www.producthunt.com/r/ZYY34UR2OF3VDX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49578727",
+        "name": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+        "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+        "points": 35,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49578727"
+      },
+      {
+        "id": "49578046",
+        "name": "Show HN: Amaze Kings – a browser logic puzzle with 1,400 hand-graded levels",
+        "url": "https://kings.amaze-apps.com/",
+        "points": 14,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49578046"
+      },
+      {
+        "id": "49577670",
+        "name": "Show HN: Getting to the top of Show HN is getting harder",
+        "url": "https://artifactbin.dev/@vivek/6bXsx3-vol-2-show-hn-hall-of-fames",
+        "points": 13,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49577670"
+      },
+      {
+        "id": "49577943",
+        "name": "Show HN: HyperCard to HTML Converter",
+        "url": "https://github.com/stachon/hc2html",
+        "points": 13,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49577943"
+      },
+      {
+        "id": "49579812",
+        "name": "Show HN: Claude Skill – Interns must review (your agent's design choices)",
+        "url": "https://github.com/alpbahadur/interns-review-plugin",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49579812"
+      },
+      {
+        "id": "49575769",
+        "name": "Show HN: Minilith – A zero-dependency CMS stored inside a PNG file",
+        "url": "https://blog.minilith.site/#posts/minilith-architecture",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49575769"
+      },
+      {
+        "id": "49580689",
+        "name": "Show HN: Fast Cut Video tool for cutting video for Agents",
+        "url": "https://github.com/modecir/fast-cutvid",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49580689"
+      },
+      {
+        "id": "49577645",
+        "name": "Show HN: MobileCode – OpenCode with Built-In iOS and Android Previews",
+        "url": "https://github.com/hsandhu/mobilecode",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49577645"
+      },
+      {
+        "id": "49579498",
+        "name": "Show HN: Myjs An accidental pure-Python JavaScript interpreter",
+        "url": "https://pypi.org/project/myjs/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49579498"
+      },
+      {
+        "id": "49577541",
+        "name": "Show HN: Art – draw one stroke, let symmetry complete it",
+        "url": "https://mrdee.in/mandala/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49577541"
+      },
+      {
+        "id": "49580502",
+        "name": "Show HN: Merge Wikipedia articles across languages into one page",
+        "url": "https://github.com/gojiplus/wikifuse",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49580502"
+      },
+      {
+        "id": "49583881",
+        "name": "Show HN: Slock – A one-bit messenger inside your capslock key",
+        "url": "https://github.com/jonaraphael/slock",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49583881"
+      },
+      {
+        "id": "49580654",
+        "name": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+        "url": "https://www.phntmcore.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49580654"
+      },
+      {
+        "id": "49576025",
+        "name": "Show HN: Yulin Local AWS Simulator",
+        "url": "https://yulinsim.dev/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49576025"
+      },
+      {
+        "id": "49579296",
+        "name": "Show HN: I made a list of the vulnerabilities I got on my blog",
+        "url": "https://seiji.reachpad.app/cves.html",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49579296"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/signal-studio",
+        "name": "Signal Studio",
+        "description": "Upload your brand kit and get 100+ on-brand ad banners in every size",
+        "url": "https://betalist.com/startups/signal-studio"
+      },
+      {
+        "id": "/startups/pluribox",
+        "name": "Pluribox",
+        "description": "Sell digital products from the website you already own",
+        "url": "https://betalist.com/startups/pluribox"
+      },
+      {
+        "id": "/startups/viso-ai",
+        "name": "viso.ai",
+        "description": "Build, deploy, and scale AI vision from any camera in minutes",
+        "url": "https://betalist.com/startups/viso-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-ln-19?post=JxKiog5ULbH3P5cBhV7e",
+        "title": "Launch Nest LN: Get Your Product Featured — Top 5 Featured Spots FREE",
+        "url": "https://www.indiehackers.com/product/launch-nest-ln-19?post=JxKiog5ULbH3P5cBhV7e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/pushup-club?post=Nh64WKLcgE6BmnOfGQS4",
+        "title": "I’m building a PushUp Club - do pushups, make friends and have fun.",
+        "url": "https://www.indiehackers.com/product/pushup-club?post=Nh64WKLcgE6BmnOfGQS4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-m-building-a-runtime-governance-layer-for-ai-agents-not-another-prompt-guardrail-2ecf0435c8",
+        "title": "I’m building a runtime governance layer for AI agents — not another prompt guardrail",
+        "url": "https://www.indiehackers.com/post/i-m-building-a-runtime-governance-layer-for-ai-agents-not-another-prompt-guardrail-2ecf0435c8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-freelance-workflow-tool-without-ever-freelancing-myself-and-i-need-honest-feedback-9d0b6963fa",
+        "title": "I built a freelance workflow tool without ever freelancing myself—and I need honest feedback",
+        "url": "https://www.indiehackers.com/post/i-built-a-freelance-workflow-tool-without-ever-freelancing-myself-and-i-need-honest-feedback-9d0b6963fa",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
