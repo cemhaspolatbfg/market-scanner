@@ -1,0 +1,230 @@
+{
+  "scan_time": "2026-09-07T11:40:01.108103+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "ai-toolbox-3-0",
+        "name": "AI Toolbox 3.0",
+        "tagline": "Search, organize and export every AI chat in one place",
+        "description": "AI Toolbox is the missing layer on top of ChatGPT, Claude, Gemini and Grok: folders and subfolders, full-text search across every conversation (even all four platforms at once), a prompt library with // insert and multi-step chains, bulk export to Markdown/PDF/JSON, bookmarks, and a live context meter. One install covers all four AIs. Local-first: your chats stay in your browser. Trusted by 40,000+ users in 150+ countries, rated 4.5 stars on the Chrome Web Store.",
+        "votes": 409,
+        "ph_url": "https://www.producthunt.com/posts/ai-toolbox-3-0",
+        "website": "https://www.producthunt.com/r/FBV7SHB3HECJ55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Chrome Extensions",
+          "Productivity",
+          "Artificial Intelligence",
+          "YouTube"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "tadata",
+        "name": "Tadata",
+        "tagline": "The AI employee in Slack that reads the room.",
+        "description": "Tadata is the AI employee that lives in your Slack. It connects to your tools, learns your company and your preferences, and does work for your team.",
+        "votes": 353,
+        "ph_url": "https://www.producthunt.com/posts/tadata",
+        "website": "https://www.producthunt.com/r/ZAQQTCQFCASBA2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49590738",
+        "name": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "url": "https://github.com/marsbos/mador",
+        "points": 92,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=49590738"
+      },
+      {
+        "id": "49586902",
+        "name": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+        "url": "https://github.com/scastiel/kado",
+        "points": 75,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=49586902"
+      },
+      {
+        "id": "49592840",
+        "name": "Show HN: GET Together – A social network where you don't need POST to Post",
+        "url": "https://gettogether.dev",
+        "points": 70,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=49592840"
+      },
+      {
+        "id": "49594008",
+        "name": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "url": "https://github.com/timgordontg/engrim",
+        "points": 46,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49594008"
+      },
+      {
+        "id": "49590354",
+        "name": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+        "url": "https://getvodforge.com/",
+        "points": 37,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49590354"
+      },
+      {
+        "id": "49590524",
+        "name": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+        "url": "",
+        "points": 30,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49590524"
+      },
+      {
+        "id": "49589309",
+        "name": "Show HN: ZeroThesis – Multiplayer Autoresearch with Agents",
+        "url": "https://zerothesis.com",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49589309"
+      },
+      {
+        "id": "49586159",
+        "name": "Show HN: Dsnitch – Real-time, zero-config Docker egress inspector via eBPF",
+        "url": "https://github.com/infomaniac777/dsnitch",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49586159"
+      },
+      {
+        "id": "49590897",
+        "name": "Show HN: Deviant – Sci-Fi Thriller Movie about the Threat/Promise of AI",
+        "url": "https://www.youtube.com/watch?v=WTbYRsC8NZw",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49590897"
+      },
+      {
+        "id": "49587142",
+        "name": "Show HN: A local, Apple Intelligence meeting assistant",
+        "url": "https://github.com/rcarmo/swift-smart-prompter",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49587142"
+      },
+      {
+        "id": "49585726",
+        "name": "Show HN: Ramanujan – Multi-Model Agent for Research in Computational Maths",
+        "url": "https://github.com/AniketWathore/Ramanujan",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49585726"
+      },
+      {
+        "id": "49591969",
+        "name": "Show HN: Maths.free – Learn all of maths, in order",
+        "url": "https://maths.free/",
+        "points": 4,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49591969"
+      },
+      {
+        "id": "49593653",
+        "name": "Show HN: Lantunnel – a P2P-first private mesh for reaching your LANs",
+        "url": "https://github.com/lantunnel/lantunnel",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49593653"
+      },
+      {
+        "id": "49585787",
+        "name": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
+        "url": "https://github.com/LakBud/vernLLM",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49585787"
+      },
+      {
+        "id": "49585872",
+        "name": "Show HN: My portfolio website as a Windows 98 style web OS",
+        "url": "https://linkdd.github.io/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49585872"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/koloqr",
+        "name": "KoloQR",
+        "description": "Free private QR code generator with no signup",
+        "url": "https://betalist.com/startups/koloqr"
+      },
+      {
+        "id": "/startups/molyin",
+        "name": "Molyin",
+        "description": "Create videos, images, and music with one unified AI studio",
+        "url": "https://betalist.com/startups/molyin"
+      },
+      {
+        "id": "/startups/gohalves",
+        "name": "GoHalves",
+        "description": "AI-driven co-marketing matchmaking for tech brands",
+        "url": "https://betalist.com/startups/gohalves"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/if-you-had-a-b2b-saas-with-0-customers-today-how-would-you-get-the-first-10-e733c4b8e1",
+        "title": "If you had a B2B SaaS with 0 customers today, how would you get the first 10?",
+        "url": "https://www.indiehackers.com/post/if-you-had-a-b2b-saas-with-0-customers-today-how-would-you-get-the-first-10-e733c4b8e1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/48-mrr-and-i-cant-prove-where-any-of-it-came-from-e4c2829e58",
+        "title": "$48 MRR and I can't prove where any of it came from",
+        "url": "https://www.indiehackers.com/post/48-mrr-and-i-cant-prove-where-any-of-it-came-from-e4c2829e58",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/whittleos-an-idea-tool-built-to-say-no-9d9146d112",
+        "title": "WhittleOS — an idea tool built to say no",
+        "url": "https://www.indiehackers.com/post/whittleos-an-idea-tool-built-to-say-no-9d9146d112",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/when-should-an-ai-product-show-disagreement-0b70208d80",
+        "title": "When should an AI product show disagreement?",
+        "url": "https://www.indiehackers.com/post/when-should-an-ai-product-show-disagreement-0b70208d80",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-my-first-app-and-discovered-that-getting-people-to-see-it-might-be-harder-than-building-it-6a5ebd433d",
+        "title": "I built my first app and discovered that getting people to see it might be harder than building it",
+        "url": "https://www.indiehackers.com/post/i-built-my-first-app-and-discovered-that-getting-people-to-see-it-might-be-harder-than-building-it-6a5ebd433d",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
