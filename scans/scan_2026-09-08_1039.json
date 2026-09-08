@@ -1,0 +1,227 @@
+{
+  "scan_time": "2026-09-08T10:39:03.091541+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "pr-lens-by-coldtea-ai",
+        "name": "PR Lens by Coldtea.ai",
+        "tagline": "See code through a new lens",
+        "description": "PR Lens is a new way to look at code. It draws animated architecture and data flow diagrams of any codebase and every pull request, so you see the change before you read a single line of code. It runs as a GitHub Action, on the CLI, or as a skill for your coding agent. Open source under MIT.",
+        "votes": 328,
+        "ph_url": "https://www.producthunt.com/posts/pr-lens-by-coldtea-ai",
+        "website": "https://www.producthunt.com/r/QDW4KEB2OFO6GI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Software Engineering",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49603546",
+        "name": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+        "url": "https://github.com/Sadpainy/Stuxnet",
+        "points": 156,
+        "comments": 47,
+        "hn_url": "https://news.ycombinator.com/item?id=49603546"
+      },
+      {
+        "id": "49601328",
+        "name": "Show HN: HomeCat – Design your backyard office",
+        "url": "https://myhomecat.com",
+        "points": 36,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=49601328"
+      },
+      {
+        "id": "49600269",
+        "name": "Show HN: Wg-admin – web UI for an existing WireGuard host",
+        "url": "https://github.com/logimaxx/wg-admin",
+        "points": 29,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49600269"
+      },
+      {
+        "id": "49599559",
+        "name": "Show HN: Send flowers from your AI agent and make your mum happy",
+        "url": "",
+        "points": 11,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49599559"
+      },
+      {
+        "id": "49605122",
+        "name": "Show HN: NYC MapTap – Learn NYC neighborhoods",
+        "url": "https://albertjoseph0.github.io/nyc-maptap/",
+        "points": 11,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49605122"
+      },
+      {
+        "id": "49597472",
+        "name": "Show HN: Pod – A review site for dev tools where the reviewers are AI agents",
+        "url": "https://askpod.ai/",
+        "points": 10,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49597472"
+      },
+      {
+        "id": "49600473",
+        "name": "Show HN: Isle – managed application environments for computer-use agents",
+        "url": "https://www.tryisle.com",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49600473"
+      },
+      {
+        "id": "49600243",
+        "name": "Show HN: A real Omarchy Linux desktop in your browser",
+        "url": "https://tryomarchy.dev/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49600243"
+      },
+      {
+        "id": "49604261",
+        "name": "Show HN: Brw - better than Claude chrome",
+        "url": "https://brw.donworks.co.uk",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49604261"
+      },
+      {
+        "id": "49603561",
+        "name": "Show HN: Animaxxing – get agents to animate the shit out of your website",
+        "url": "https://animaxxing.com",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49603561"
+      },
+      {
+        "id": "49600397",
+        "name": "Show HN: Gote – a CLI note-taking management tool for plain Markdown",
+        "url": "",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49600397"
+      },
+      {
+        "id": "49605072",
+        "name": "Show HN: Caveat, a self-hosted publishing and newsletter tool",
+        "url": "https://github.com/CaveatJS",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49605072"
+      },
+      {
+        "id": "49600527",
+        "name": "Show HN: Raw Screen Recordings into Cinematic Apple-Style Product Demos",
+        "url": "https://isolate.video/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49600527"
+      },
+      {
+        "id": "49597570",
+        "name": "Show HN: NoMac.App – iOS CI/CD pipeline built for AI agents",
+        "url": "https://nomac.app",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49597570"
+      },
+      {
+        "id": "49601265",
+        "name": "Show HN: Office42, a Clone of Excel",
+        "url": "https://apps.microsoft.com/detail/9phpz3d7tgg5?hl=en-US&gl=US",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49601265"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/explain-ink",
+        "name": "explain.ink",
+        "description": "Turn topics or documents into hand-drawn explainer videos",
+        "url": "https://betalist.com/startups/explain-ink"
+      },
+      {
+        "id": "/startups/uniogram",
+        "name": "UNIOGRAM",
+        "description": "Create, manage, and grow your AI tools in one space",
+        "url": "https://betalist.com/startups/uniogram"
+      },
+      {
+        "id": "/startups/sistava",
+        "name": "Sistava",
+        "description": "Hire AI employees to run sales, marketing, and support 24/7",
+        "url": "https://betalist.com/startups/sistava"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/clone-the-app?post=6Nam1dhLUQslH3ElH1vl",
+        "title": "Clone The App: This app is making $100K/month by helping people improve their social skills.",
+        "url": "https://www.indiehackers.com/product/clone-the-app?post=6Nam1dhLUQslH3ElH1vl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-put-up-500-of-my-own-money-to-test-a-new-creator-distribution-model-for-an-indie-product-cbc19f2e71",
+        "title": "I put up $500 of my own money to test a new creator-distribution model for an indie product",
+        "url": "https://www.indiehackers.com/post/i-put-up-500-of-my-own-money-to-test-a-new-creator-distribution-model-for-an-indie-product-cbc19f2e71",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-1-market-for-side-projects-first-100-listings-free-b8098a80cd",
+        "title": "A $1 market for side projects – first 100 listings free",
+        "url": "https://www.indiehackers.com/post/a-1-market-for-side-projects-first-100-listings-free-b8098a80cd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-m-building-an-architecture-first-cli-because-ai-agents-were-wasting-my-tokens-fixing-preventable-mistakes-364ff001b8",
+        "title": "I’m building an architecture-first CLI because AI agents were wasting my tokens fixing preventable mistakes",
+        "url": "https://www.indiehackers.com/post/i-m-building-an-architecture-first-cli-because-ai-agents-were-wasting-my-tokens-fixing-preventable-mistakes-364ff001b8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/mini-teardown-making-a-79-competitor-brief-feel-buyable-in-30-seconds-77013bbb9a",
+        "title": "Mini-teardown: making a €79 competitor brief feel buyable in 30 seconds",
+        "url": "https://www.indiehackers.com/post/mini-teardown-making-a-79-competitor-brief-feel-buyable-in-30-seconds-77013bbb9a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/hivemind-3?post=z3yeQdPhUlaoQBBctl7g",
+        "title": "Hivemind: Appaca is Retool, Zapier, and Notion at once, which means it is none of them. The founder already wrote the fix.",
+        "url": "https://www.indiehackers.com/product/hivemind-3?post=z3yeQdPhUlaoQBBctl7g",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-building-monitoring-for-people-who-run-their-saas-on-vps-10-beta-spots-713364ee7b",
+        "title": "I'm building monitoring for people who run their SaaS on VPS — 10 beta spots",
+        "url": "https://www.indiehackers.com/post/im-building-monitoring-for-people-who-run-their-saas-on-vps-10-beta-spots-713364ee7b",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
