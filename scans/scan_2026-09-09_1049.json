@@ -1,0 +1,256 @@
+{
+  "scan_time": "2026-09-09T10:48:51.022909+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "switch-14",
+        "name": "Switch",
+        "tagline": "Bring any AI agent into Slack, Teams & Discord",
+        "description": "Switch brings AI agents into the collaboration tools your team already uses. Agents join as named participants in your Slack, Teams, Discord, or Telegram channels, sharing the same context and history as your team. Connect an agent once and use it across projects. Each room carries its own context, participants, and rules. Works with Claude Code, OpenAI, Google ADK, LangChain, and more. Open source, self-hostable, running in minutes.",
+        "votes": 505,
+        "ph_url": "https://www.producthunt.com/posts/switch-14",
+        "website": "https://www.producthunt.com/r/EAQYN6B2W3MDVB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "widgo",
+        "name": "Widgo",
+        "tagline": "AI Sales rep for your website visitors",
+        "description": "Widgo is an AI sales rep on your website. It scans your site, adds any docs you give it, and answers every visitor from that alone. It identifies the company, scores the lead, and books the demo on your calendar. One line of code. Free forever, no card.",
+        "votes": 406,
+        "ph_url": "https://www.producthunt.com/posts/widgo",
+        "website": "https://www.producthunt.com/r/KKQZVPBNVHRLPI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "SaaS",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "kombai-gallery",
+        "name": "Kombai Gallery",
+        "tagline": "20,000+ curated UI designs for agents and humans",
+        "description": "Build standout UIs by giving your agent design taste. Browse curated web and mobile designs, from full pages to individual components. Preview them live and copy a ready-to-use prompt. The gallery is free forever, with no sign-up required.",
+        "votes": 345,
+        "ph_url": "https://www.producthunt.com/posts/kombai-gallery",
+        "website": "https://www.producthunt.com/r/ALNGUII2YBU3ZB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Developer Tools",
+          "UX Design"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49610059",
+        "name": "Show HN: Copperhead – Cursor for circuit boards",
+        "url": "https://copperhead.sh/",
+        "points": 229,
+        "comments": 93,
+        "hn_url": "https://news.ycombinator.com/item?id=49610059"
+      },
+      {
+        "id": "49613068",
+        "name": "Show HN: LLM Attention Visualization",
+        "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+        "points": 156,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=49613068"
+      },
+      {
+        "id": "49609784",
+        "name": "Show HN: DriveSync – fast Git-styled Google Drive sync CLI",
+        "url": "https://github.com/scaleninja/drivesync",
+        "points": 19,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49609784"
+      },
+      {
+        "id": "49612459",
+        "name": "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+        "url": "https://sparrow2.tavuslabs.org/",
+        "points": 11,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49612459"
+      },
+      {
+        "id": "49613026",
+        "name": "Show HN: Infinite Sugar – a fruit fly emulation given a pleasant life",
+        "url": "https://infinitesugar.cnqso.com/",
+        "points": 10,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49613026"
+      },
+      {
+        "id": "49613152",
+        "name": "Show HN: Making a GBA game with GPT-6 Astra",
+        "url": "https://www.spritefusion.com/blog/making-a-game-boy-advance-game-with-gpt-6-astra",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49613152"
+      },
+      {
+        "id": "49618955",
+        "name": "Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones",
+        "url": "https://github.com/agamrossen/VolAnti",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49618955"
+      },
+      {
+        "id": "49617861",
+        "name": "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
+        "url": "https://genotype-lang.org/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49617861"
+      },
+      {
+        "id": "49618637",
+        "name": "Show HN: Spinifex – 19 releases in, from 3 AWS services to 11",
+        "url": "https://mulgadc.com/blog/spinifex-1-19-0-release",
+        "points": 7,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49618637"
+      },
+      {
+        "id": "49608665",
+        "name": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+        "url": "https://asm-editor.specy.app/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49608665"
+      },
+      {
+        "id": "49611395",
+        "name": "Show HN: Homebutler – reports what changed on your server, not what's running",
+        "url": "https://github.com/Higangssh/homebutler",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49611395"
+      },
+      {
+        "id": "49615951",
+        "name": "Show HN: Pipnote – Share a reminder they can't peek at until it arrives",
+        "url": "https://pipnote.app/",
+        "points": 6,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49615951"
+      },
+      {
+        "id": "49620394",
+        "name": "Show HN: Raven – Encrypted messages hidden inside ordinary text",
+        "url": "https://sendraven.ink",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49620394"
+      },
+      {
+        "id": "49621425",
+        "name": "Show HN: AI-first open-source alternative to Microsoft and Google Office",
+        "url": "https://github.com/injectinglabs/injoffice",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49621425"
+      },
+      {
+        "id": "49609389",
+        "name": "Show HN: CUDA/graphics in QEMU-KVM VMs without passing the Nvidia card to them",
+        "url": "https://github.com/reindertpelsma/nvkvm-pv",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49609389"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/my-own-homepage",
+        "name": "My Own Homepage",
+        "description": "Track the fastest-rising search trends on YouTube, TikTok, and Instagram",
+        "url": "https://betalist.com/startups/my-own-homepage"
+      },
+      {
+        "id": "/startups/agent-mentor",
+        "name": "Agent Mentor",
+        "description": "Generate tailored coding courses your agent writes and you own",
+        "url": "https://betalist.com/startups/agent-mentor"
+      },
+      {
+        "id": "/startups/mcpvault",
+        "name": "MCPVault",
+        "description": "Explore and trust MCP servers with grades, signals, and verification",
+        "url": "https://betalist.com/startups/mcpvault"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/grow-your-business-on-autopilot-b164a52785",
+        "title": "Grow Your Business on Autopilot",
+        "url": "https://www.indiehackers.com/post/grow-your-business-on-autopilot-b164a52785",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-launchnest-ln-a-cleaner-less-noisy-platform-to-launch-and-discover-saas-ai-tools-3c84af8f9c",
+        "title": "I built LaunchNest LN — a cleaner, less noisy platform to launch and discover SaaS & AI tools",
+        "url": "https://www.indiehackers.com/post/i-built-launchnest-ln-a-cleaner-less-noisy-platform-to-launch-and-discover-saas-ai-tools-3c84af8f9c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-if-great-products-don-t-need-more-hype-they-need-better-discovery-eb3f16b4e5",
+        "title": "What If Great Products Don’t Need More Hype — They Need Better Discovery?",
+        "url": "https://www.indiehackers.com/post/what-if-great-products-don-t-need-more-hype-they-need-better-discovery-eb3f16b4e5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launch-nest-ln-25?post=LhFK8tKc7xrvXbJxcQ3S",
+        "title": "Launch Nest LN: Don’t Let Your Next Great Product Stay Hidden",
+        "url": "https://www.indiehackers.com/product/launch-nest-ln-25?post=LhFK8tKc7xrvXbJxcQ3S",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-hardest-part-of-my-product-isnt-the-tech-it-s-deciding-how-much-to-explain-59a8e59c8c",
+        "title": "The hardest part of my product isn't the tech — it's deciding how much to explain",
+        "url": "https://www.indiehackers.com/post/the-hardest-part-of-my-product-isnt-the-tech-it-s-deciding-how-much-to-explain-59a8e59c8c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/did-you-block-chatgpt-from-your-site-by-mistake-b988446fec",
+        "title": "Did you block ChatGPT from your site by mistake?",
+        "url": "https://www.indiehackers.com/post/did-you-block-chatgpt-from-your-site-by-mistake-b988446fec",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/quitting-his-job-to-grow-his-5-figure-mrr-portfolio-f7ccINEtSYC74PsaFH5i",
+        "title": "Quitting his job to grow his 5-figure MRR portfolio",
+        "url": "https://www.indiehackers.com/post/tech/quitting-his-job-to-grow-his-5-figure-mrr-portfolio-f7ccINEtSYC74PsaFH5i",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
