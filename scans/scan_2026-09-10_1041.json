@@ -1,0 +1,236 @@
+{
+  "scan_time": "2026-09-10T10:41:39.400650+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "mastra-factory",
+        "name": "Mastra Factory",
+        "tagline": "From issue to production, run by agents.",
+        "description": "Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.",
+        "votes": 466,
+        "ph_url": "https://www.producthunt.com/posts/mastra-factory",
+        "website": "https://www.producthunt.com/r/52CAOAGHS62ZQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "harden",
+        "name": "Harden",
+        "tagline": "A security layer for AI coding agents",
+        "description": "Harden AIF is a free, local security tool for AI coding agents. Its post-trained model checks tool calls before they run, using your request and session context. It beat frontier models on key agent-security benchmarks, while keeping your repo and tool output on your machine.",
+        "votes": 387,
+        "ph_url": "https://www.producthunt.com/posts/harden",
+        "website": "https://www.producthunt.com/r/PV2MJET6ZGFMKD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Security"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49637385",
+        "name": "Show HN: What if the speed of light was 5 km/h?",
+        "url": "https://rivendell.dmitrybrant.com/relativity/",
+        "points": 355,
+        "comments": 151,
+        "hn_url": "https://news.ycombinator.com/item?id=49637385"
+      },
+      {
+        "id": "49627646",
+        "name": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+        "url": "https://github.com/Atomburstofficial/geiger",
+        "points": 45,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=49627646"
+      },
+      {
+        "id": "49630606",
+        "name": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+        "url": "https://github.com/OtoDock/oto-dock",
+        "points": 45,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49630606"
+      },
+      {
+        "id": "49629747",
+        "name": "Show HN: Rdltr – Inbox zero for your reading list",
+        "url": "https://rdltr.app/",
+        "points": 23,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49629747"
+      },
+      {
+        "id": "49627872",
+        "name": "Show HN: Give your AI agent on-screen guides that show users where to click",
+        "url": "",
+        "points": 18,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49627872"
+      },
+      {
+        "id": "49626148",
+        "name": "Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases",
+        "url": "",
+        "points": 14,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49626148"
+      },
+      {
+        "id": "49634934",
+        "name": "Show HN: Hydra – Open-source agentic terminal with a PTY daemon",
+        "url": "https://github.com/hydraterm/hydra-local",
+        "points": 14,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49634934"
+      },
+      {
+        "id": "49625553",
+        "name": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+        "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49625553"
+      },
+      {
+        "id": "49627357",
+        "name": "Show HN: Whetuu – An opinionated, zero-config status line and history picker",
+        "url": "https://github.com/yamafaktory/whetuu",
+        "points": 13,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49627357"
+      },
+      {
+        "id": "49625975",
+        "name": "Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing",
+        "url": "https://maxxwell.dev/",
+        "points": 10,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49625975"
+      },
+      {
+        "id": "49625363",
+        "name": "Show HN: Hazzel – A tiny, minimal, Git-native coding agent",
+        "url": "https://github.com/mukundzha/hazzel",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49625363"
+      },
+      {
+        "id": "49628052",
+        "name": "Show HN: A FOSS Expense Splitter",
+        "url": "",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49628052"
+      },
+      {
+        "id": "49636147",
+        "name": "Show HN: EmbedFlow –> Upgrade embedding models without re-embedding your corpus",
+        "url": "https://github.com/arnsri33/embedflow",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49636147"
+      },
+      {
+        "id": "49627555",
+        "name": "Show HN: PhotoToPattern – Turn photos into printable cross-stitch patterns",
+        "url": "https://phototopattern.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49627555"
+      },
+      {
+        "id": "49637555",
+        "name": "Show HN: They chose your competitor. Find out why",
+        "url": "https://drop.space",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49637555"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/gptinf",
+        "name": "GPTinf",
+        "description": "Detect, humanize, and clean AI-written text before submission",
+        "url": "https://betalist.com/startups/gptinf"
+      },
+      {
+        "id": "/startups/weezpr",
+        "name": "Weezpr",
+        "description": "Track your trades, discipline, and patterns driving your results",
+        "url": "https://betalist.com/startups/weezpr"
+      },
+      {
+        "id": "/startups/sim",
+        "name": "Sim",
+        "description": "Build, deploy, and manage AI agents that automate real work",
+        "url": "https://betalist.com/startups/sim"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-think-ai-agents-have-an-authority-problem-were-treating-as-a-permissions-problem-1950f379c0",
+        "title": "I think AI agents have an authority problem we're treating as a permissions problem",
+        "url": "https://www.indiehackers.com/post/i-think-ai-agents-have-an-authority-problem-were-treating-as-a-permissions-problem-1950f379c0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-thought-i-was-building-a-tech-blog-turns-out-i-was-building-a-distribution-asset-1e895d35bb",
+        "title": "I thought I was building a tech blog. Turns out I was building a distribution asset",
+        "url": "https://www.indiehackers.com/post/i-thought-i-was-building-a-tech-blog-turns-out-i-was-building-a-distribution-asset-1e895d35bb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launched-storeauditpro-a-shopify-app-that-finds-and-fixes-whats-costing-you-sales-4b6fb4e50b",
+        "title": "Launched StoreAuditPro — a Shopify app that finds and fixes what's costing you sales",
+        "url": "https://www.indiehackers.com/post/launched-storeauditpro-a-shopify-app-that-finds-and-fixes-whats-costing-you-sales-4b6fb4e50b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/stuck-at-2-5k-mrr-with-a-b2c-saas-what-would-you-double-down-on-next-3adbada2bc",
+        "title": "Stuck at $2.5K MRR with a B2C SaaS: what would you double down on next?",
+        "url": "https://www.indiehackers.com/post/stuck-at-2-5k-mrr-with-a-b2c-saas-what-would-you-double-down-on-next-3adbada2bc",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/topical-authority-injection-how-llms-pick-winners-before-you-even-ask-e66bf68a02",
+        "title": "Topical Authority Injection: How LLMs Pick Winners Before You Even Ask",
+        "url": "https://www.indiehackers.com/post/topical-authority-injection-how-llms-pick-winners-before-you-even-ask-e66bf68a02",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-if-your-product-data-could-catch-you-procrastinating-bbdfbafa57",
+        "title": "What if your product data could catch you procrastinating?",
+        "url": "https://www.indiehackers.com/post/what-if-your-product-data-could-catch-you-procrastinating-bbdfbafa57",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
