@@ -1,0 +1,214 @@
+{
+  "scan_time": "2026-09-11T10:40:17.061607+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "typewise-nova",
+        "name": "Typewise Nova",
+        "tagline": "AI customer experience that builds and improves itself",
+        "description": "Nova is the AI Operator that builds and improves your AI customer experience team, no developer required. Describe in plain language how customers should be handled and connect your tools. Nova builds the agents, tests them on past tickets and shows you what failed before anything goes live. Once running, it monitors quality and proposes fixes 24/7 for approval. Agents resolve whole requests, from orders and refunds to plan changes, across email, chat and WhatsApp. Unresolved requests are free.",
+        "votes": 333,
+        "ph_url": "https://www.producthunt.com/posts/typewise-nova",
+        "website": "https://www.producthunt.com/r/TCXETJND5MA53Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Customer Communication",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49645803",
+        "name": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+        "url": "https://usefeyn.com/blog/multimatte/",
+        "points": 48,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49645803"
+      },
+      {
+        "id": "49643992",
+        "name": "Show HN: I couldn't afford interview prep, so I built a free alternative",
+        "url": "https://learningto.co/",
+        "points": 41,
+        "comments": 52,
+        "hn_url": "https://news.ycombinator.com/item?id=49643992"
+      },
+      {
+        "id": "49644955",
+        "name": "Show HN: Syq – copy files between machines fast (better than rsync)",
+        "url": "https://greaber.github.io/syq/",
+        "points": 41,
+        "comments": 47,
+        "hn_url": "https://news.ycombinator.com/item?id=49644955"
+      },
+      {
+        "id": "49646928",
+        "name": "Show HN: Open-source simulation testing infra for voice agents",
+        "url": "https://github.com/egma-ai/egma",
+        "points": 14,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49646928"
+      },
+      {
+        "id": "49648105",
+        "name": "Show HN: Nightshift – Your code gets better while you sleep",
+        "url": "https://github.com/openslop/nightshift",
+        "points": 10,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49648105"
+      },
+      {
+        "id": "49652389",
+        "name": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+        "url": "https://benzi.fly.dev/benchmark",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49652389"
+      },
+      {
+        "id": "49652907",
+        "name": "Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure",
+        "url": "https://github.com/HimanshuJ16/Algo-Trading-Skills",
+        "points": 8,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49652907"
+      },
+      {
+        "id": "49644915",
+        "name": "Show HN: We served 5k dynamic websites from a 2-vCPU, 4 GB VPS",
+        "url": "https://github.com/Kooboo/Kooboo/blob/main/Docs/5000-sites-benchmark.md",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49644915"
+      },
+      {
+        "id": "49644385",
+        "name": "Show HN: Math Gambling",
+        "url": "https://kuber.studio/math-gambling/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49644385"
+      },
+      {
+        "id": "49643496",
+        "name": "Show HN: JavaScript grid and pivot library built for coding agents",
+        "url": "",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49643496"
+      },
+      {
+        "id": "49646392",
+        "name": "Show HN: I licensed $50k of stock market data to do analysis Claude can't",
+        "url": "https://www.athenic.com:443/",
+        "points": 7,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49646392"
+      },
+      {
+        "id": "49648352",
+        "name": "Show HN: Two small Chrome extensions for Hebrew text and dates",
+        "url": "https://chaimsapps.com/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49648352"
+      },
+      {
+        "id": "49642903",
+        "name": "Show HN: Swiftcruit – AI assisted technical assessment platform",
+        "url": "https://www.swiftcruit.ai/tools/assessment-question-generator",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49642903"
+      },
+      {
+        "id": "49644043",
+        "name": "Show HN: Calmscroll – a reader that shows the current paragraph in the library",
+        "url": "https://calmscroll.com",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49644043"
+      },
+      {
+        "id": "49641755",
+        "name": "Show HN: Draw a wheel. See the road it rolls on",
+        "url": "https://baselashraf.com/roadwright/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49641755"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/sparrowcrm",
+        "name": "SparrowCRM",
+        "description": "Run your entire sales process with AI agents that move deals forward",
+        "url": "https://betalist.com/startups/sparrowcrm"
+      },
+      {
+        "id": "/startups/billinghub",
+        "name": "BillingHub",
+        "description": "Invoicing billed by the invoice, not by the month, in 156 currencies",
+        "url": "https://betalist.com/startups/billinghub"
+      },
+      {
+        "id": "/startups/fulcrumaxe",
+        "name": "FULCRUMAXE",
+        "description": "Run an autonomous dev team in your GitHub that ships merged PRs",
+        "url": "https://betalist.com/startups/fulcrumaxe"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/we-capped-free-at-1-invoice-on-purpose-here-s-the-tradeoff-07b7427528",
+        "title": "We capped Free at 1 invoice on purpose — here’s the tradeoff",
+        "url": "https://www.indiehackers.com/post/we-capped-free-at-1-invoice-on-purpose-here-s-the-tradeoff-07b7427528",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/distribution-is-the-bit-i-always-skip-so-i-built-a-free-tool-for-it-a72629c050",
+        "title": "Distribution is the bit I always skip, so I built a free tool for it",
+        "url": "https://www.indiehackers.com/post/distribution-is-the-bit-i-always-skip-so-i-built-a-free-tool-for-it-a72629c050",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-chrome-extension-to-stop-re-explaining-project-context-to-ai-every-20-prompts-need-brutal-feedback-ff7b18e44d",
+        "title": "Built a Chrome extension to stop re-explaining project context to AI every 20 prompts (Need brutal feedback)",
+        "url": "https://www.indiehackers.com/post/built-a-chrome-extension-to-stop-re-explaining-project-context-to-ai-every-20-prompts-need-brutal-feedback-ff7b18e44d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-19-99-tool-for-a-pricing-problem-i-kept-seeing-in-bookkeeping-9d8a37c3e1",
+        "title": "I built a $19.99 tool for a pricing problem I kept seeing in bookkeeping",
+        "url": "https://www.indiehackers.com/post/i-built-a-19-99-tool-for-a-pricing-problem-i-kept-seeing-in-bookkeeping-9d8a37c3e1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/quitting-a-career-in-venture-capital-to-build-a-150k-arr-portfolio-of-health-apps-yr495WSeWzC6A4SLoRK8",
+        "title": "Quitting a career in venture capital to build a $150k ARR portfolio of health apps",
+        "url": "https://www.indiehackers.com/post/tech/quitting-a-career-in-venture-capital-to-build-a-150k-arr-portfolio-of-health-apps-yr495WSeWzC6A4SLoRK8",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
