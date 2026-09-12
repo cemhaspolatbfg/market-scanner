@@ -1,0 +1,235 @@
+{
+  "scan_time": "2026-09-12T10:09:41.725171+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "anysite-io",
+        "name": "Anysite.io",
+        "tagline": "Build and enrich B2B lists by chatting to your agent",
+        "description": "Anysite.io is a B2B data layer living in your favorite AI agent. Ask your agent for the list you need — companies by geo, industry, and size; the people inside them; their current job titles and emails — and Anysite.io returns it. No queries to write, no scrapers to maintain. Works over MCP or REST API inside Claude, Codex, Cursor, OpenCode, and other agents. Plug in and launch your outbound data collection the same day.",
+        "votes": 447,
+        "ph_url": "https://www.producthunt.com/posts/anysite-io",
+        "website": "https://www.producthunt.com/r/LWEA45Q3YRJ7ZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "loqua-3",
+        "name": "Loqua",
+        "tagline": "Speak naturally and move from thoughts to being done",
+        "description": "Your thoughts shouldn’t have to slow down for a keyboard. With Loqua, you can speak naturally to turn rough ideas into ready-to-use writing, understand what’s on your screen, listen when you’d rather not read, and move work forward by voice - from rewriting and translation to scheduling and coding workflows. Less typing, less context switching, more time in flow.",
+        "votes": 395,
+        "ph_url": "https://www.producthunt.com/posts/loqua-3",
+        "website": "https://www.producthunt.com/r/TI22A4U5XM3DVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Audio"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49659647",
+        "name": "Show HN: Hacker News, without AI",
+        "url": "https://hcker.news/?ai=exclude",
+        "points": 190,
+        "comments": 85,
+        "hn_url": "https://news.ycombinator.com/item?id=49659647"
+      },
+      {
+        "id": "49660783",
+        "name": "Show HN: Hacker News, Without AI",
+        "url": "https://www.unslop.news/",
+        "points": 186,
+        "comments": 79,
+        "hn_url": "https://news.ycombinator.com/item?id=49660783"
+      },
+      {
+        "id": "49660676",
+        "name": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+        "url": "https://github.com/godot-pty/gpty",
+        "points": 87,
+        "comments": 45,
+        "hn_url": "https://news.ycombinator.com/item?id=49660676"
+      },
+      {
+        "id": "49662496",
+        "name": "Show HN: Toast, a beautiful by default in terminal IDE",
+        "url": "https://github.com/paradise-runner/toast",
+        "points": 75,
+        "comments": 87,
+        "hn_url": "https://news.ycombinator.com/item?id=49662496"
+      },
+      {
+        "id": "49665864",
+        "name": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+        "url": "https://github.com/mirza-rizvi/ResolveHQ",
+        "points": 58,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=49665864"
+      },
+      {
+        "id": "49667188",
+        "name": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+        "url": "https://github.com/zachsaw/graphify-csharp",
+        "points": 35,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49667188"
+      },
+      {
+        "id": "49660111",
+        "name": "Show HN: Hopera, a free musical soothing rhythmic game",
+        "url": "https://jgthms.com/hopera/",
+        "points": 27,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49660111"
+      },
+      {
+        "id": "49656948",
+        "name": "Show HN: Foldelight – the iPhone Duo folding effect the MacBook was owed",
+        "url": "https://lufzle.dev/foldelight/",
+        "points": 19,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49656948"
+      },
+      {
+        "id": "49658328",
+        "name": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
+        "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
+        "points": 17,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49658328"
+      },
+      {
+        "id": "49661856",
+        "name": "Show HN: Extension to filter LLM written articles",
+        "url": "https://hnslop.nilsherzig.com/",
+        "points": 16,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49661856"
+      },
+      {
+        "id": "49658483",
+        "name": "Show HN: Clawfight.ai MCP-driven agentic game play",
+        "url": "https://clawfight.ai/agents.md",
+        "points": 13,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49658483"
+      },
+      {
+        "id": "49663429",
+        "name": "Show HN: I built a hand-modeled 3D Windows 98 portfolio with Three.js",
+        "url": "https://wesselsdesktop.com/",
+        "points": 13,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49663429"
+      },
+      {
+        "id": "49665875",
+        "name": "Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust",
+        "url": "https://github.com/Adarshent/Spnda",
+        "points": 13,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49665875"
+      },
+      {
+        "id": "49657006",
+        "name": "Show HN: NanoVector – A 120KB zero-dependency vector search engine in C and SIMD",
+        "url": "https://github.com/eminsk/nanovector",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49657006"
+      },
+      {
+        "id": "49658098",
+        "name": "Show HN: Hazzel – tiny, open-source, Git-native coding agent",
+        "url": "https://github.com/mukundzha/hazzel",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49658098"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/rankdesk",
+        "name": "Rankdesk",
+        "description": "Automate SEO research, writing, and publishing to grow traffic",
+        "url": "https://betalist.com/startups/rankdesk"
+      },
+      {
+        "id": "/startups/radiomap24",
+        "name": "RadioMap24",
+        "description": "Explore and play radio and podcasts worldwide on an interactive map",
+        "url": "https://betalist.com/startups/radiomap24"
+      },
+      {
+        "id": "/startups/murmur-2",
+        "name": "Murmur",
+        "description": "Calm, source-backed news ready when you press play",
+        "url": "https://betalist.com/startups/murmur-2"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/pytch?post=0c4QyHl79eSy4z7c2kv5",
+        "title": "Pytch: How I lost my first customer while trying to help them: 10 brutal launch lessons.",
+        "url": "https://www.indiehackers.com/product/pytch?post=0c4QyHl79eSy4z7c2kv5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-got-tired-of-writing-scripts-just-to-pass-api-tokens-so-i-built-a-visual-chainer-c7b5ed295e",
+        "title": "I got tired of writing scripts just to pass API tokens, so I built a visual chainer.",
+        "url": "https://www.indiehackers.com/post/i-got-tired-of-writing-scripts-just-to-pass-api-tokens-so-i-built-a-visual-chainer-c7b5ed295e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-paid-for-2-150-survey-responses-then-i-threw-441-of-them-away-88649ef59b",
+        "title": "I Paid for 2,150 Survey Responses. Then I Threw 441 of Them Away.",
+        "url": "https://www.indiehackers.com/post/i-paid-for-2-150-survey-responses-then-i-threw-441-of-them-away-88649ef59b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-sold-digital-products-before-i-ever-wrote-code-now-ive-built-the-platform-i-wish-existed-back-then-4ed0e812ae",
+        "title": "I sold digital products before I ever wrote code. Now I've built the platform I wish existed back then.",
+        "url": "https://www.indiehackers.com/post/i-sold-digital-products-before-i-ever-wrote-code-now-ive-built-the-platform-i-wish-existed-back-then-4ed0e812ae",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/arkon-vault-private-project-memory-so-work-continues-across-chatgpt-claude-and-codex-050f287021",
+        "title": "Arkon Vault — private project memory so work continues across ChatGPT, Claude, and Codex",
+        "url": "https://www.indiehackers.com/post/arkon-vault-private-project-memory-so-work-continues-across-chatgpt-claude-and-codex-050f287021",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-daily-tech-digest-that-runs-100-on-a-mac-launching-on-product-hunt-today-bcce41eea2",
+        "title": "I built a daily tech digest that runs 100% on a Mac. Launching on Product Hunt today.",
+        "url": "https://www.indiehackers.com/post/i-built-a-daily-tech-digest-that-runs-100-on-a-mac-launching-on-product-hunt-today-bcce41eea2",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
