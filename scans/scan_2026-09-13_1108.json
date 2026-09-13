@@ -1,0 +1,226 @@
+{
+  "scan_time": "2026-09-13T11:08:43.326930+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "chatgpt-images-2-5",
+        "name": "ChatGPT Images 2.5",
+        "tagline": "Sharper visuals, faster flow, better creative control",
+        "description": "ChatGPT Images 2.5 is OpenAI's next-generation image model built for sharper details, faster generation, and more precise editing. It helps you turn sketches, prompts, and reference photos into polished visuals with better consistency, natural lighting, richer textures, and stronger control across every edit.",
+        "votes": 321,
+        "ph_url": "https://www.producthunt.com/posts/chatgpt-images-2-5",
+        "website": "https://www.producthunt.com/r/LDNJX5W4CPPMNY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "API",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49678711",
+        "name": "Show HN: Most Penalized HN Stories",
+        "url": "https://news.social-protocols.org/penalties",
+        "points": 17,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49678711"
+      },
+      {
+        "id": "49677480",
+        "name": "Show HN: What If Donut.c but with Any ASCII Art",
+        "url": "https://asdesai.com/blog/how-fetch-works/",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49677480"
+      },
+      {
+        "id": "49671542",
+        "name": "Show HN: Liniora – Ever thought about replacing your project manager?",
+        "url": "https://liniora.com",
+        "points": 9,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49671542"
+      },
+      {
+        "id": "49678035",
+        "name": "Show HN: Everything a web page can learn about you, in plain English",
+        "url": "https://sessioncontext.org",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49678035"
+      },
+      {
+        "id": "49679224",
+        "name": "Show HN: Open-Sourced Chrome Extension to Save, Organize and Switch Bookmarks",
+        "url": "https://github.com/ringlochid/leotabs",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49679224"
+      },
+      {
+        "id": "49674280",
+        "name": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+        "url": "https://www.tokendelivery.ai/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49674280"
+      },
+      {
+        "id": "49677806",
+        "name": "Show HN: YazSes – offline hold-to-talk voice dictation for Linux, macOS, Windows",
+        "url": "https://github.com/MSKazemi/yazses",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49677806"
+      },
+      {
+        "id": "49671509",
+        "name": "Show HN: Rust-split – save your tokens on large Rust source files",
+        "url": "",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49671509"
+      },
+      {
+        "id": "49678341",
+        "name": "Show HN: DiskTriage – A simple CLI tool to reclaim space on your Win C drive",
+        "url": "https://github.com/ricardoborges/DiskTriage",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49678341"
+      },
+      {
+        "id": "49676363",
+        "name": "Show HN: Come prove the Berge Fulkerson conjecture with a swarm of agents",
+        "url": "https://provetogether.ai/problems/15",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49676363"
+      },
+      {
+        "id": "49675108",
+        "name": "Show HN: Music Generation Backed by Algebra",
+        "url": "https://monictheory.com",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49675108"
+      },
+      {
+        "id": "49672947",
+        "name": "Show HN: Agentic Deployment and Hosting",
+        "url": "https://sitedropper.com/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49672947"
+      },
+      {
+        "id": "49678717",
+        "name": "Show HN: Fleecevest – The Product Counterpart to Ponytail",
+        "url": "https://github.com/Websites-On-Computers/fleecevest",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49678717"
+      },
+      {
+        "id": "49678282",
+        "name": "Show HN: A Technical Book for the Age of AI",
+        "url": "https://codeberg.org/juurej/p4cu",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49678282"
+      },
+      {
+        "id": "49675338",
+        "name": "Show HN: Stackray – Detect any website's tech stack",
+        "url": "https://stackray.app",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49675338"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/musicamania-ai",
+        "name": "Musicamania AI",
+        "description": "Explore video, voice, and engineering tools built for live precision",
+        "url": "https://betalist.com/startups/musicamania-ai"
+      },
+      {
+        "id": "/startups/openfate",
+        "name": "OpenFate",
+        "description": "Free Bazi, Ziwei, and birth charts with clear AI readings",
+        "url": "https://betalist.com/startups/openfate"
+      },
+      {
+        "id": "/startups/screenies",
+        "name": "Screenies",
+        "description": "Turn app screenshots into cohesive App Store sets in minutes",
+        "url": "https://betalist.com/startups/screenies"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-wanted-letterboxd-for-stand-up-so-i-built-standupd-73557dc662",
+        "title": "I wanted Letterboxd for stand-up, so I built Standupd",
+        "url": "https://www.indiehackers.com/post/i-wanted-letterboxd-for-stand-up-so-i-built-standupd-73557dc662",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-free-site-speed-report-that-names-the-slow-file-pro-watch-19-mo-just-went-live-e955f190a2",
+        "title": "I built a free site speed report that names the slow file. Pro Watch ($19/mo) just went live.",
+        "url": "https://www.indiehackers.com/post/i-built-a-free-site-speed-report-that-names-the-slow-file-pro-watch-19-mo-just-went-live-e955f190a2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/claude-ate-my-products-main-feature-i-kept-the-part-it-can-t-eat-b2596a6a36",
+        "title": "Claude ate my product's main feature. I kept the part it can't eat.",
+        "url": "https://www.indiehackers.com/post/claude-ate-my-products-main-feature-i-kept-the-part-it-can-t-eat-b2596a6a36",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/that-5-600-minute-of-downtime-stat-you-ve-seen-everywhere-isn-t-about-you-72e30092d2",
+        "title": "That \"$5,600/minute of downtime\" stat you've seen everywhere isn't about you",
+        "url": "https://www.indiehackers.com/post/that-5-600-minute-of-downtime-stat-you-ve-seen-everywhere-isn-t-about-you-72e30092d2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/best-iptv-service-providers-3?post=H1H5MnPo9RskfdK3OFL2",
+        "title": "Best IPTV Service Providers: Best IPTV USA 2026: 4 IPTV Subscription Providers Compared for USA, UK, Canada & Europe",
+        "url": "https://www.indiehackers.com/product/best-iptv-service-providers-3?post=H1H5MnPo9RskfdK3OFL2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-weeks-building-a-pdf-workflow-now-i-need-strangers-to-break-it-07a3a0a4de",
+        "title": "I spent weeks building a PDF workflow. Now I need strangers to break it.",
+        "url": "https://www.indiehackers.com/post/i-spent-weeks-building-a-pdf-workflow-now-i-need-strangers-to-break-it-07a3a0a4de",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/this-founder-left-academia-built-four-failed-products-then-hit-12-5k-mo-xkng30lczEuiLG4983UN",
+        "title": "This founder left academia, built four failed products, then hit $12.5k/mo.",
+        "url": "https://www.indiehackers.com/post/tech/this-founder-left-academia-built-four-failed-products-then-hit-12-5k-mo-xkng30lczEuiLG4983UN",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
