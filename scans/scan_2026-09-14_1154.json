@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-09-14T11:54:09.974354+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "youkti-2",
+        "name": "Youkti ",
+        "tagline": "Finds who's ready to buy, then tells you what to do next ",
+        "description": "Youkti keeps a memory of every account, conversation, and deal, then tells your sales team the exact next move: which deal is slipping, which dormant account just fired a signal, what to prep for tomorrow's meeting. Built for AEs, RevOps, and outbound reps. Contact data, buying signals, and intent are all free, no card, no meter.",
+        "votes": 340,
+        "ph_url": "https://www.producthunt.com/posts/youkti-2",
+        "website": "https://www.producthunt.com/r/AXBZALUEGRY3KK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "raycast-2-0",
+        "name": "Raycast 2.0",
+        "tagline": "The next generation of Raycast is here",
+        "description": "Raycast 2.0 is built on a new foundation, redesigned from the inside out. Your shortcut to everything now brings AI that can take action across your apps, Automations for recurring tasks, and Projects to keep ongoing work together. Connect your own ChatGPT or Claude account and put AI to work alongside the commands and extensions you use every day. The best Launcher got even better.",
+        "votes": 324,
+        "ph_url": "https://www.producthunt.com/posts/raycast-2-0",
+        "website": "https://www.producthunt.com/r/MLZTWKGQKD6OHY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Productivity",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49690943",
+        "name": "Show HN: Is It Greg?",
+        "url": "https://github.com/antoineleclair/is-it-greg",
+        "points": 57,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=49690943"
+      },
+      {
+        "id": "49693226",
+        "name": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+        "url": "https://screensize.net/reports/viewport-stats",
+        "points": 25,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49693226"
+      },
+      {
+        "id": "49687032",
+        "name": "Show HN: Makefaster.dev",
+        "url": "https://makefaster.dev",
+        "points": 15,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49687032"
+      },
+      {
+        "id": "49690614",
+        "name": "Show HN: Exploring the intersection of prediction markets and social media",
+        "url": "https://www.thevidmarket.com/",
+        "points": 13,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49690614"
+      },
+      {
+        "id": "49689178",
+        "name": "Show HN: What Just Pinged Me?",
+        "url": "https://whatjustpingedme.com",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49689178"
+      },
+      {
+        "id": "49689049",
+        "name": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain",
+        "url": "https://petrelvoyage.com/app",
+        "points": 11,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49689049"
+      },
+      {
+        "id": "49684835",
+        "name": "Show HN: I built my own knowledge graph from the code AI writes",
+        "url": "https://github.com/aeroscissorz/learnlance/",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49684835"
+      },
+      {
+        "id": "49693971",
+        "name": "Show HN: I made a flight simulator, except you're just a passenger",
+        "url": "https://inflightsimulator.com",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49693971"
+      },
+      {
+        "id": "49688052",
+        "name": "Show HN: VibeWorld – a shared terminal world for developers and scientists",
+        "url": "https://github.com/SorBalda/vibeworld",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49688052"
+      },
+      {
+        "id": "49687860",
+        "name": "Show HN: Kibble – a reader for AI news, tutorials, code and models",
+        "url": "https://www.kibblebites.com/app/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49687860"
+      },
+      {
+        "id": "49683520",
+        "name": "Show HN: Rendly – Build demo videos from code in seconds",
+        "url": "https://github.com/mukundzha/rendly",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49683520"
+      },
+      {
+        "id": "49693539",
+        "name": "Show HN: A web based 4-channel Music Tracker",
+        "url": "https://johnoestmannmusic.com/1000-SOS/0007/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49693539"
+      },
+      {
+        "id": "49684291",
+        "name": "Show HN: Deeplearning from Scratch in 1400 Lines In my own Programming Language",
+        "url": "https://github.com/NoSavedDATA/Neve_benchmarks",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49684291"
+      },
+      {
+        "id": "49689603",
+        "name": "Show HN: Dep-radius, know which dependency updates touch your code",
+        "url": "https://www.npmjs.com/package/dep-radius",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49689603"
+      },
+      {
+        "id": "49688748",
+        "name": "Show HN: SF Title Alert",
+        "url": "https://sftitlealert.com",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49688748"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/wiggwigg",
+        "name": "WIGGWIGG",
+        "description": "Keep work, dating, and selling on separate phone numbers",
+        "url": "https://betalist.com/startups/wiggwigg"
+      },
+      {
+        "id": "/startups/groundworks",
+        "name": "GroundWorks",
+        "description": "Project management built for the field, not the office",
+        "url": "https://betalist.com/startups/groundworks"
+      },
+      {
+        "id": "/startups/aria",
+        "name": "Aria",
+        "description": "Free color analysis and honest verdicts before you buy",
+        "url": "https://betalist.com/startups/aria"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-are-you-getting-your-first-real-users-for-your-saas-or-ai-product-0375758a51",
+        "title": "How are you getting your first real users for your SaaS or AI product?",
+        "url": "https://www.indiehackers.com/post/how-are-you-getting-your-first-real-users-for-your-saas-or-ai-product-0375758a51",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/plavtora?post=j3ogKrUabY9tWcAs9doM",
+        "title": "Building Plavtora — an AI decision system for businesses",
+        "url": "https://www.indiehackers.com/product/plavtora?post=j3ogKrUabY9tWcAs9doM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/why-does-the-second-search-result-exist-the-question-that-decides-what-i-have-ai-write-498d94e4b7",
+        "title": "Why does the second search result exist? The question that decides what I have AI write",
+        "url": "https://www.indiehackers.com/post/why-does-the-second-search-result-exist-the-question-that-decides-what-i-have-ai-write-498d94e4b7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-offline-first-pos-app-for-indonesian-small-businesses-59a52221b6",
+        "title": "I built an offline-first POS app for Indonesian small businesses",
+        "url": "https://www.indiehackers.com/post/i-built-an-offline-first-pos-app-for-indonesian-small-businesses-59a52221b6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-lost-82-of-my-traffic-while-building-my-product-f19a036d7c",
+        "title": "I lost 82% of my traffic while building my product.",
+        "url": "https://www.indiehackers.com/post/i-lost-82-of-my-traffic-while-building-my-product-f19a036d7c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-small-question-for-founders-7403da3009",
+        "title": "A small question for founders",
+        "url": "https://www.indiehackers.com/post/a-small-question-for-founders-7403da3009",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-5k-mrr-app-while-freelancing-to-keep-the-lights-on-JhX6p14De0nagI0j1Xg1",
+        "title": "Building a $5k MRR app while freelancing to keep the lights on",
+        "url": "https://www.indiehackers.com/post/tech/building-a-5k-mrr-app-while-freelancing-to-keep-the-lights-on-JhX6p14De0nagI0j1Xg1",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
