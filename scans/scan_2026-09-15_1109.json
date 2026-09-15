@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-09-15T11:09:16.275882+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "naoma-ai-demo-agent-v2",
+        "name": "Naoma AI Demo Agent V2",
+        "tagline": "Turns website traffic into booked, qualified meetings",
+        "description": "Your book-a-demo button converts 1-2% of visitors. The rest leave. Naoma replaces the form with an AI account executive that runs the demo right then: it walks the prospect through your live product, answers questions, qualifies them and books the meeting. It remembers returning visitors, picks up where they left off, and writes every session back to your CRM. 50,000+ demos run for B2B SaaS teams. Now self-serve: upload your product and knowledge base test the agent today.",
+        "votes": 473,
+        "ph_url": "https://www.producthunt.com/posts/naoma-ai-demo-agent-v2",
+        "website": "https://www.producthunt.com/r/NPQUFAO3PMOWSZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Marketing automation"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "web-search-agents-by-nimble",
+        "name": "Web Search Agents by Nimble",
+        "tagline": "Self-learning agents automate web research + retrieval",
+        "description": "Web Search Agents are expert web crawling and research agents for your specific domain (company enrichment, regulations research, etc.). They self-learn your use case to go deeper into the sources that matter most to you, giving your AI deeper and more relevant web context. To get started, give your AI this link: https://docs.nimbleway.com/agent-onboarding.md",
+        "votes": 355,
+        "ph_url": "https://www.producthunt.com/posts/web-search-agents-by-nimble",
+        "website": "https://www.producthunt.com/r/4KNJ3HJMVH26RK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49699159",
+        "name": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+        "url": "https://www.neobrutalism.dev/",
+        "points": 153,
+        "comments": 72,
+        "hn_url": "https://news.ycombinator.com/item?id=49699159"
+      },
+      {
+        "id": "49696402",
+        "name": "Show HN: Pelican-bicycle alternatives",
+        "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+        "points": 121,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=49696402"
+      },
+      {
+        "id": "49695408",
+        "name": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+        "url": "https://github.com/callbacked/kinesis",
+        "points": 116,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=49695408"
+      },
+      {
+        "id": "49699267",
+        "name": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+        "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+        "points": 82,
+        "comments": 29,
+        "hn_url": "https://news.ycombinator.com/item?id=49699267"
+      },
+      {
+        "id": "49705442",
+        "name": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+        "url": "https://github.com/JamesRyanATX/fcbnerd",
+        "points": 76,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=49705442"
+      },
+      {
+        "id": "49706656",
+        "name": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+        "url": "https://sunkcost.ai/",
+        "points": 44,
+        "comments": 85,
+        "hn_url": "https://news.ycombinator.com/item?id=49706656"
+      },
+      {
+        "id": "49699477",
+        "name": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
+        "url": "https://attalambda.com",
+        "points": 25,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49699477"
+      },
+      {
+        "id": "49699075",
+        "name": "Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer",
+        "url": "https://github.com/Ibtisam-Mohammad/Fly.exe",
+        "points": 23,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49699075"
+      },
+      {
+        "id": "49697912",
+        "name": "Show HN: Pushie – Get notified with a simple webhook",
+        "url": "https://pushie.net",
+        "points": 20,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49697912"
+      },
+      {
+        "id": "49696084",
+        "name": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+        "url": "https://triangllabs.ai/otis",
+        "points": 19,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49696084"
+      },
+      {
+        "id": "49695744",
+        "name": "Show HN: I'm Serving Esp32s31.fun",
+        "url": "",
+        "points": 14,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=49695744"
+      },
+      {
+        "id": "49695057",
+        "name": "Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
+        "url": "https://stemjson.com/",
+        "points": 8,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49695057"
+      },
+      {
+        "id": "49699819",
+        "name": "Show HN: Biloba: fast and stable Chrome-based browser tests in Go and Vitest",
+        "url": "https://github.com/onsi/biloba",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49699819"
+      },
+      {
+        "id": "49695295",
+        "name": "Show HN: Authorize MCP tool calls without giving agents the credentials",
+        "url": "https://github.com/keydrisLabs/mcp-auth-keydris-template",
+        "points": 7,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49695295"
+      },
+      {
+        "id": "49699287",
+        "name": "Show HN: AgentDrive – persistent, versioned file storage for AI agents",
+        "url": "https://tokencanopy.com/products/agentdrive",
+        "points": 6,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49699287"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/chatley-ai",
+        "name": "Chatley AI",
+        "description": "AI voice agent for calls, SMS, and web chat",
+        "url": "https://betalist.com/startups/chatley-ai"
+      },
+      {
+        "id": "/startups/edititall",
+        "name": "EditItAll",
+        "description": "Edit photos, vectors, PDFs, and images privately in your browser",
+        "url": "https://betalist.com/startups/edititall"
+      },
+      {
+        "id": "/startups/orelon-ai",
+        "name": "Orelon AI",
+        "description": "AI video generator for cinematic ideas from text or images",
+        "url": "https://betalist.com/startups/orelon-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/plavtora?post=r3FrSJQlT2naFmg73sQF",
+        "title": "Plavtora: We built a decision system, not another AI wrapper",
+        "url": "https://www.indiehackers.com/product/plavtora?post=r3FrSJQlT2naFmg73sQF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-read-180-reviews-of-a-116m-crm-before-we-built-ours-heres-what-small-teams-actually-complain-about-8c9a42a322",
+        "title": "I read 180 reviews of a $116M CRM before we built ours. Here's what small teams actually complain about.",
+        "url": "https://www.indiehackers.com/post/i-read-180-reviews-of-a-116m-crm-before-we-built-ours-heres-what-small-teams-actually-complain-about-8c9a42a322",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-makes-you-trust-a-new-saas-product-f716fbe2ab",
+        "title": "What Makes You Trust a New SaaS Product?",
+        "url": "https://www.indiehackers.com/post/what-makes-you-trust-a-new-saas-product-f716fbe2ab",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-local-first-content-operator-because-social-ai-tools-wanted-too-much-access-1ef10ecf1c",
+        "title": "I built a local-first content operator because social AI tools wanted too much access",
+        "url": "https://www.indiehackers.com/post/i-built-a-local-first-content-operator-because-social-ai-tools-wanted-too-much-access-1ef10ecf1c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-s-the-hardest-part-of-launching-a-saas-product-8da878fd68",
+        "title": "What’s the Hardest Part of Launching a SaaS Product?",
+        "url": "https://www.indiehackers.com/post/what-s-the-hardest-part-of-launching-a-saas-product-8da878fd68",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
