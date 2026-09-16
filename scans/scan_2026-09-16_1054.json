@@ -1,0 +1,244 @@
+{
+  "scan_time": "2026-09-16T10:53:52.825128+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "tiun-2",
+        "name": "tiun.",
+        "tagline": "Auth, billing, and payments for AI builders",
+        "description": "One system for auth, payments, customer data, and analytics. One command to install. Launch a paid product the same day you start building.",
+        "votes": 534,
+        "ph_url": "https://www.producthunt.com/posts/tiun-2",
+        "website": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Payments",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "voiskey",
+        "name": "Voiskey",
+        "tagline": "AI voice typing that sounds right in every app",
+        "description": "Voiskey starts from what you meant, not just what you said. Speak a rough thought and it comes back shaped for where it's going and who's reading it: casual with a friend, composed with a colleague, technical with an AI. It arrives 5x faster than typing, cleaned up and ready to send, while you still sound like you. Voiskey is now available on iOS, macOS, Android, and Windows, in over 100 languages. It's free to start. Join during launch and get a free month of Pro.",
+        "votes": 488,
+        "ph_url": "https://www.producthunt.com/posts/voiskey",
+        "website": "https://www.producthunt.com/r/QOEFADHWXGZN5X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Audio"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "kilo-code-for-ios-and-android",
+        "name": "Kilo Code for iOS and Android",
+        "tagline": "Start coding agents, control sessions, review PRs. Anywhere.",
+        "description": "Run Cloud Agents, control VS Code and CLI sessions, review Pull Requests, and respond to coding agents from your iPhone, iPad, or Android.",
+        "votes": 473,
+        "ph_url": "https://www.producthunt.com/posts/kilo-code-for-ios-and-android",
+        "website": "https://www.producthunt.com/r/3BV5OZ5E63H3QD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Android",
+          "iOS",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49711544",
+        "name": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "url": "https://github.com/arnegiacomo/fugleramme",
+        "points": 1683,
+        "comments": 209,
+        "hn_url": "https://news.ycombinator.com/item?id=49711544"
+      },
+      {
+        "id": "49712278",
+        "name": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+        "url": "https://withcapsule.app/",
+        "points": 333,
+        "comments": 141,
+        "hn_url": "https://news.ycombinator.com/item?id=49712278"
+      },
+      {
+        "id": "49712102",
+        "name": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+        "url": "https://bkovac.github.io/modem-thing/",
+        "points": 189,
+        "comments": 33,
+        "hn_url": "https://news.ycombinator.com/item?id=49712102"
+      },
+      {
+        "id": "49713037",
+        "name": "Show HN: Check if your IP has appeared in a residential proxy network",
+        "url": "https://haveibeenproxied.com/",
+        "points": 69,
+        "comments": 46,
+        "hn_url": "https://news.ycombinator.com/item?id=49713037"
+      },
+      {
+        "id": "49712621",
+        "name": "Show HN: Panel – A research workspace where the agent can build its own panes",
+        "url": "https://github.com/greentfrapp/panel",
+        "points": 51,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=49712621"
+      },
+      {
+        "id": "49712276",
+        "name": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+        "url": "https://github.com/ordewell/ordewell",
+        "points": 50,
+        "comments": 33,
+        "hn_url": "https://news.ycombinator.com/item?id=49712276"
+      },
+      {
+        "id": "49713894",
+        "name": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+        "url": "https://github.com/pizza-bot-app/pizza-bot",
+        "points": 48,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=49713894"
+      },
+      {
+        "id": "49713953",
+        "name": "Show HN: The bottom 50% of U.S. households are short after essentials (BLS data)",
+        "url": "https://whats-left-over.pages.dev/#s=50_40_10&c=1&u=person&t=0&tm=cbo&b=0&ts=100&k=0&cc=12201&im=nominal&by=2000&ir=2.5&ao=0&ar=20&at=200000&ip=10&rm=sp500&rr=8&pv=portfolio&p=1&iv=left&hp=1&e=food.housing.transport.health.insurance",
+        "points": 37,
+        "comments": 58,
+        "hn_url": "https://news.ycombinator.com/item?id=49713953"
+      },
+      {
+        "id": "49712891",
+        "name": "Show HN: Loss. a tiny satire about AI progress",
+        "url": "https://workatloss.com/",
+        "points": 33,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49712891"
+      },
+      {
+        "id": "49714495",
+        "name": "Show HN: SCIP MIP solver bindings for Go, ported from russcip",
+        "url": "https://github.com/egoisutolabs/scipgo",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49714495"
+      },
+      {
+        "id": "49711939",
+        "name": "Show HN: Bough, the agent I built to replace Claude Code at work",
+        "url": "https://github.com/andreylukin/bough",
+        "points": 10,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49711939"
+      },
+      {
+        "id": "49717936",
+        "name": "Show HN: farseer.space – fly anywhere in the universe in your browser",
+        "url": "https://farseer.space/",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49717936"
+      },
+      {
+        "id": "49715384",
+        "name": "Show HN: TabPFN-3.5, a Tabular Foundation Model for messy real-world tables",
+        "url": "https://priorlabs.ai/technical-reports/tabpfn-3-5",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49715384"
+      },
+      {
+        "id": "49712073",
+        "name": "Show HN: Open-source passive NFC tag that signs with ECDSA, verified on-chain",
+        "url": "https://github.com/mwbpNFTechnology/toluTag/",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49712073"
+      },
+      {
+        "id": "49711267",
+        "name": "Show HN: Linux Doctor – read-only health checks that explain what's wrong",
+        "url": "https://github.com/zShaD0w7x/linux-doctor",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49711267"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/get-u-hired",
+        "name": "Get U Hired",
+        "description": "Find matching tech jobs fast, track applications, and apply first",
+        "url": "https://betalist.com/startups/get-u-hired"
+      },
+      {
+        "id": "/startups/botan",
+        "name": "Botan",
+        "description": "Identify plants from photos and get care and disease guidance",
+        "url": "https://betalist.com/startups/botan"
+      },
+      {
+        "id": "/startups/sparkvid",
+        "name": "SparkVid",
+        "description": "Create AI videos with text and images using top models in one place",
+        "url": "https://betalist.com/startups/sparkvid"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-small-tool-for-getting-code-into-ai-i-abandoned-it-after-3-sales-now-it-has-12-1c2638030f",
+        "title": "I built a small tool for getting code into AI. I abandoned it after 3 sales, now it has 12.",
+        "url": "https://www.indiehackers.com/post/i-built-a-small-tool-for-getting-code-into-ai-i-abandoned-it-after-3-sales-now-it-has-12-1c2638030f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-swept-30-markets-and-kept-93-of-3430-candidates-here-is-what-the-2-7-actually-taught-me-29ac0f5be1",
+        "title": "We swept 30 markets and kept 93 of 3430 candidates. Here is what the 2.7% actually taught me.",
+        "url": "https://www.indiehackers.com/post/we-swept-30-markets-and-kept-93-of-3430-candidates-here-is-what-the-2-7-actually-taught-me-29ac0f5be1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/everyones-adding-llms-txt-almost-nothing-is-reading-it-0af4304280",
+        "title": "Everyone's adding llms.txt. Almost nothing is reading it.",
+        "url": "https://www.indiehackers.com/post/everyones-adding-llms-txt-almost-nothing-is-reading-it-0af4304280",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/inide-need?post=910VTaY7PBJ8lgSBLKdv",
+        "title": "Inide Need: Launched something useful and heard… nothing?",
+        "url": "https://www.indiehackers.com/product/inide-need?post=910VTaY7PBJ8lgSBLKdv",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/services/pivoting-a-saas-into-a-mid-5-figure-mrr-service-company-g66eHSApgPWLDMHo7Ik1",
+        "title": "Pivoting a SaaS into a mid-5-figure MRR service company",
+        "url": "https://www.indiehackers.com/post/services/pivoting-a-saas-into-a-mid-5-figure-mrr-service-company-g66eHSApgPWLDMHo7Ik1",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
