@@ -1,0 +1,220 @@
+{
+  "scan_time": "2026-09-17T11:01:35.857696+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "weave-router-2-0",
+        "name": "Weave Router 2.0",
+        "tagline": "Subscription aware coding agent router",
+        "description": "Use Claude models in Codex and GPT models in Claude Code on your existing plans, routed to whichever has quota left. Weave Router 2.0 routes each coding agent request to the cheapest model that can get it right. On Terminal-Bench 4.0 and SWE-Atlas it matches GPT-6 Astra at half the cost, 2x faster. Powered by a new classifier that scores task complexity and cache-aware switching that only moves when savings beat the rebuild cost.",
+        "votes": 330,
+        "ph_url": "https://www.producthunt.com/posts/weave-router-2-0",
+        "website": "https://www.producthunt.com/r/NDICOBJFOF2ARK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49726343",
+        "name": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+        "url": "https://stale.jock.pl/",
+        "points": 74,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=49726343"
+      },
+      {
+        "id": "49727511",
+        "name": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+        "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+        "points": 29,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49727511"
+      },
+      {
+        "id": "49732259",
+        "name": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
+        "url": "https://runboli.com",
+        "points": 23,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49732259"
+      },
+      {
+        "id": "49728781",
+        "name": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+        "url": "https://seasonmap.app",
+        "points": 15,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49728781"
+      },
+      {
+        "id": "49728159",
+        "name": "Show HN: Give your AI agents access to WhatsApp",
+        "url": "",
+        "points": 14,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=49728159"
+      },
+      {
+        "id": "49730644",
+        "name": "Show HN: I built a router for agent tools",
+        "url": "https://github.com/monid-ai/monid",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49730644"
+      },
+      {
+        "id": "49726451",
+        "name": "Show HN: Airmash – HTML5 Massively Multiplayer Missile Warfare",
+        "url": "https://airma.sh/",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49726451"
+      },
+      {
+        "id": "49731353",
+        "name": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+        "url": "https://github.com/itskie/friday",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49731353"
+      },
+      {
+        "id": "49726662",
+        "name": "Show HN: Legion – AI agents that write sandboxed Lua inside your Elixir app",
+        "url": "https://legion.swmansion.com/",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49726662"
+      },
+      {
+        "id": "49726346",
+        "name": "Show HN: Picxel – Turn reference images into pixel-art game assets",
+        "url": "https://github.com/See-Sol-Lab/Picxel",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49726346"
+      },
+      {
+        "id": "49734742",
+        "name": "Show HN: Nullsec – server-blind encrypted paste",
+        "url": "https://nullsec.pntr.dev",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49734742"
+      },
+      {
+        "id": "49732015",
+        "name": "Show HN: Fail2zig. A single-binary fail2ban replacement written in Zig",
+        "url": "https://fail2zig.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49732015"
+      },
+      {
+        "id": "49727647",
+        "name": "Show HN: ManyBot – Framework to build WhatsApp bots, without the boring part",
+        "url": "https://manybot.org",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49727647"
+      },
+      {
+        "id": "49728477",
+        "name": "Show HN: Docx-to-Markdown – layout-aware Word to Markdown converter",
+        "url": "https://www.docx-editor.dev/solutions/word-to-markdown",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49728477"
+      },
+      {
+        "id": "49729683",
+        "name": "Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint",
+        "url": "https://opendocbot.com/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49729683"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/video-ai-me",
+        "name": "VIDEO AI ME",
+        "description": "Create high-performing ads with realistic AI actors and voices",
+        "url": "https://betalist.com/startups/video-ai-me"
+      },
+      {
+        "id": "/startups/nanopage",
+        "name": "Nanopage",
+        "description": "Spin up a polished AI-built website from your content in minutes",
+        "url": "https://betalist.com/startups/nanopage"
+      },
+      {
+        "id": "/startups/tiny-startups",
+        "name": "Tiny Startups",
+        "description": "Launch your startup and earn a DR 71 backlink",
+        "url": "https://betalist.com/startups/tiny-startups"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-this-for-myself-it-worked-so-im-testing-it-inside-planmoon-cedfbfd82e",
+        "title": "I built this for myself. It worked, so I'm testing it inside PlanMoon.",
+        "url": "https://www.indiehackers.com/post/i-built-this-for-myself-it-worked-so-im-testing-it-inside-planmoon-cedfbfd82e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/excelmatic?post=Xkh016r3vhar9mcFANcm",
+        "title": "We built Excelmatic. Then Microsoft’s legal representatives emailed us.",
+        "url": "https://www.indiehackers.com/product/excelmatic?post=Xkh016r3vhar9mcFANcm",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/you-launched-so-why-is-nobody-finding-your-product-51634c4846",
+        "title": "You Launched. So Why Is Nobody Finding Your Product?",
+        "url": "https://www.indiehackers.com/post/you-launched-so-why-is-nobody-finding-your-product-51634c4846",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/your-product-might-not-need-more-features-it-might-need-more-discovery-fd7a02b338",
+        "title": "Your Product Might Not Need More Features — It Might Need More Discovery",
+        "url": "https://www.indiehackers.com/post/your-product-might-not-need-more-features-it-might-need-more-discovery-fd7a02b338",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-posted-a-boring-intro-in-a-456k-person-community-one-line-got-all-the-reaction-9312f866c7",
+        "title": "I posted a boring intro in a 456k-person community. One line got all the reaction",
+        "url": "https://www.indiehackers.com/post/i-posted-a-boring-intro-in-a-456k-person-community-one-line-got-all-the-reaction-9312f866c7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/stripe-doesnt-issue-merchant-accounts-in-my-country-i-shipped-a-paid-saas-anyway-a74949fb58",
+        "title": "Stripe doesn't issue merchant accounts in my country. I shipped a paid SaaS anyway.",
+        "url": "https://www.indiehackers.com/post/stripe-doesnt-issue-merchant-accounts-in-my-country-i-shipped-a-paid-saas-anyway-a74949fb58",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
