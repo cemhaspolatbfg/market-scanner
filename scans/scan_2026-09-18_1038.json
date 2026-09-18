@@ -1,0 +1,251 @@
+{
+  "scan_time": "2026-09-18T10:38:07.519200+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "creem-2-0",
+        "name": "CREEM 2.0",
+        "tagline": "Sell and grow your AI built products",
+        "description": "- Creem 2.0 is the money platform for the AI building era: sell software and digital products globally, with payments, taxes, payouts, affiliates and usage billing handled for you - The all in one platform for AI builders to turn what they build into a business. Payments, taxes, billing, affiliates, payouts, worldwide. Building a product went from months to a weekend. Getting paid for it did not, with CREEM you can move at the same speed.",
+        "votes": 544,
+        "ph_url": "https://www.producthunt.com/posts/creem-2-0",
+        "website": "https://www.producthunt.com/r/XPEDAC33OVX2ON?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Fintech",
+          "Payments",
+          "Marketing"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "bitrise-remote-dev-environments",
+        "name": "Bitrise Remote Dev Environments",
+        "tagline": "Cloud Macs your coding agents can actually build on",
+        "description": "Bitrise RDE gives you cloud Macs & Linux machines that start in seconds, the same machines, stacks and caches as your CI. Give every agent its machine and run them in parallel via MCP, or attach VS Code, Cursor or Claude Code. Archive when you stop, restore later.",
+        "votes": 319,
+        "ph_url": "https://www.producthunt.com/posts/bitrise-remote-dev-environments",
+        "website": "https://www.producthunt.com/r/667RUK6AWQ3HIZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "cortex-27",
+        "name": "Cortex",
+        "tagline": "Turn API specs into docs, SDKs, and MCP servers",
+        "description": "Cortex is an open source API knowledge layer that turns OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC specs into interactive documentation, typed SDKs in 11 languages, and MCP servers for AI agents.",
+        "votes": 306,
+        "ph_url": "https://www.producthunt.com/posts/cortex-27",
+        "website": "https://www.producthunt.com/r/2YCIFX5SDWGMX6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Open Source",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49740105",
+        "name": "Show HN: Share your AI Setup, Learn from others",
+        "url": "https://mysetup.ai/",
+        "points": 215,
+        "comments": 121,
+        "hn_url": "https://news.ycombinator.com/item?id=49740105"
+      },
+      {
+        "id": "49740047",
+        "name": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+        "url": "https://flat.social",
+        "points": 95,
+        "comments": 52,
+        "hn_url": "https://news.ycombinator.com/item?id=49740047"
+      },
+      {
+        "id": "49746346",
+        "name": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+        "url": "https://snapdrop.me",
+        "points": 75,
+        "comments": 37,
+        "hn_url": "https://news.ycombinator.com/item?id=49746346"
+      },
+      {
+        "id": "49743382",
+        "name": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+        "url": "https://www.aclif.ai/",
+        "points": 32,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=49743382"
+      },
+      {
+        "id": "49743459",
+        "name": "Show HN: Craigslist for agent skills, curated by a human",
+        "url": "https://skillbay.sh/",
+        "points": 23,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49743459"
+      },
+      {
+        "id": "49743478",
+        "name": "Show HN: AutoBot – live voice control for long-running AI work",
+        "url": "https://github.com/demeyer1/Autobot",
+        "points": 18,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49743478"
+      },
+      {
+        "id": "49746713",
+        "name": "Show HN: OJ – A drop-in replacement for Vite in Rust",
+        "url": "https://github.com/lovablelabs/oj",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49746713"
+      },
+      {
+        "id": "49743095",
+        "name": "Show HN: Die With Me – Claude and Codex rate limits as AIM away messages",
+        "url": "https://diewithme.co/join",
+        "points": 11,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49743095"
+      },
+      {
+        "id": "49745351",
+        "name": "Show HN: MCPJam - the first testing & evaluations platform for MCP servers",
+        "url": "https://www.mcpjam.com",
+        "points": 10,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49745351"
+      },
+      {
+        "id": "49739222",
+        "name": "Show HN: Trading on-chain with 0 gas: A <1ms DEX router at 0.50% fees",
+        "url": "https://rhopool.com/",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49739222"
+      },
+      {
+        "id": "49746963",
+        "name": "Show HN: Free game to destroy any web page",
+        "url": "https://page-rage.com/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49746963"
+      },
+      {
+        "id": "49746401",
+        "name": "Show HN: Microsoft Office running with Wine on Linux with no virtualization",
+        "url": "https://github.com/Tombert/office365_flake",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49746401"
+      },
+      {
+        "id": "49742388",
+        "name": "Show HN: Open-source AI teammates with their own computer",
+        "url": "https://runerrand.dev/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49742388"
+      },
+      {
+        "id": "49745627",
+        "name": "Show HN: Multiplayer Mode for AI Agents",
+        "url": "https://gotincan.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49745627"
+      },
+      {
+        "id": "49747752",
+        "name": "Show HN: I made a browser tool that creates newspaper and book text match cuts",
+        "url": "https://papereffects.site",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49747752"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/zagvo",
+        "name": "Zagvo",
+        "description": "Turn ideas into AI-ready build plans your coding agents can execute",
+        "url": "https://betalist.com/startups/zagvo"
+      },
+      {
+        "id": "/startups/sorank",
+        "name": "Sorank",
+        "description": "Grow organic traffic from Google and AI on autopilot",
+        "url": "https://betalist.com/startups/sorank"
+      },
+      {
+        "id": "/startups/manifolds",
+        "name": "Manifolds",
+        "description": "Deanonymizes and researches signups so you know who they are",
+        "url": "https://betalist.com/startups/manifolds"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/excelmatic?post=Xkh016r3vhar9mcFANcm#post-Xkh016r3vhar9mcFANcm",
+        "title": "We built Excelmatic. Then Microsoft’s legal representatives emailed us.",
+        "url": "https://www.indiehackers.com/product/excelmatic?post=Xkh016r3vhar9mcFANcm#post-Xkh016r3vhar9mcFANcm",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-reply-about-email-lists-got-me-thinking-about-what-i-could-actually-offer-b5ef1cc5bd",
+        "title": "A reply about email lists got me thinking about what I could actually offer!",
+        "url": "https://www.indiehackers.com/post/a-reply-about-email-lists-got-me-thinking-about-what-i-could-actually-offer-b5ef1cc5bd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-internet-has-thousands-of-tools-finding-the-right-one-is-the-problem-00cddbc094",
+        "title": "The Internet Has Thousands of Tools. Finding the Right One Is the Problem",
+        "url": "https://www.indiehackers.com/post/the-internet-has-thousands-of-tools-finding-the-right-one-is-the-problem-00cddbc094",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-is-getting-easier-getting-discovered-is-getting-harder-9056e9a37d",
+        "title": "Building Is Getting Easier. Getting Discovered Is Getting Harder.",
+        "url": "https://www.indiehackers.com/post/building-is-getting-easier-getting-discovered-is-getting-harder-9056e9a37d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/upglow-2?post=Ec9L6zB70yQNThUAbEyN#post-Ec9L6zB70yQNThUAbEyN",
+        "title": "Upglow: I built an AI tool to replace the GoogleSheet I've been using for 10+ years",
+        "url": "https://www.indiehackers.com/product/upglow-2?post=Ec9L6zB70yQNThUAbEyN#post-Ec9L6zB70yQNThUAbEyN",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-s-the-best-way-for-indie-hackers-to-get-their-products-discovered-after-launch-f3bb1428de",
+        "title": "What’s the Best Way for Indie Hackers to Get Their Products Discovered After Launch?",
+        "url": "https://www.indiehackers.com/post/what-s-the-best-way-for-indie-hackers-to-get-their-products-discovered-after-launch-f3bb1428de",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
