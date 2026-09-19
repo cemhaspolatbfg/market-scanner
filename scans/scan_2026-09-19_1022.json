@@ -1,0 +1,290 @@
+{
+  "scan_time": "2026-09-19T10:22:30.103597+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "ami-ai",
+        "name": "Ami AI",
+        "tagline": "Lovable for getting customers",
+        "description": "Most outbound dies on one decision: who to write to this week. Ami has already made it 17,707 times and kept score. Built on GPT-6 Astra and every one of those campaigns, it reads your website, picks the buyers who actually convert, and plans backwards from the number you need: leads, senders, weeks. If the list you asked for won't work, it says so before it builds anything. Approve the plan and it runs the outreach, watches every campaign, and fixes what slips. 19,854 booked meetings behind it.",
+        "votes": 503,
+        "ph_url": "https://www.producthunt.com/posts/ami-ai",
+        "website": "https://www.producthunt.com/r/IABJ4YWI3SSSWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Artificial Intelligence",
+          "OpenAI Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "aina",
+        "name": "AINA",
+        "tagline": "Find your job search blind spots with an AI coach",
+        "description": "AINA is an AI career coach that helps you see what's holding your job search back, strengthen your profile, and practice for interviews — through conversations with a video avatar. Talk to AINA and walk away with a personalized action plan for whatever's next in your career.",
+        "votes": 456,
+        "ph_url": "https://www.producthunt.com/posts/aina",
+        "website": "https://www.producthunt.com/r/DPLNID7SCPBE2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Career",
+          "OpenAI Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "productbridge-2",
+        "name": "ProductBridge",
+        "tagline": "AI-native customer support and feedback agent",
+        "description": "Most teams run a helpdesk, a feedback board and a survey tool, then copy between them all week. ProductBridge is one system. An AI agent answers support chats from your help center, calls your APIs via tools, workflows and MCP, and hands off when it should. Every chat, survey and vote is captured, deduplicated and scored by reach and revenue, so your roadmap runs on evidence, not opinions. Ship it and everyone who asked is notified. MCP for Claude, ChatGPT and Cursor. Flat pricing, free plan.",
+        "votes": 429,
+        "ph_url": "https://www.producthunt.com/posts/productbridge-2",
+        "website": "https://www.producthunt.com/r/AMDH6JBWMRKU7M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Customer Success",
+          "Customer Communication",
+          "OpenAI Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "mosmos",
+        "name": "MosMos",
+        "tagline": "Voice writing that works before, during, and after meetings",
+        "description": "MosMos goes beyond voice dictation by turning both individual thoughts and group conversations into usable writing. Speak naturally in any app, get fast and accurate text in the style you choose, or ask MosMos to search the web for current information. Its personal glossary remembers specialized terms after you add them once. In multi-speaker meetings, it tracks precise timestamps, distinguishes speakers, and creates structured notes, summaries, decisions, and action items for easier follow-up.",
+        "votes": 409,
+        "ph_url": "https://www.producthunt.com/posts/mosmos",
+        "website": "https://www.producthunt.com/r/2WNX7F5ABJ77RC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Writing",
+          "Artificial Intelligence",
+          "Audio",
+          "OpenAI Day"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "sider-omni-sidebar",
+        "name": "Sider Omni Sidebar",
+        "tagline": "Give every Mac app an Agent Sidebar",
+        "description": "An AI agent beside any Mac app. Sider Omni sidebar sees what's on your screen and acts on it directly, right where you're working. Watch the result, ask for the next change. Nothing to copy, nothing to upload. Built on GPT-6 Astra, and it can run on your existing ChatGPT or Codex credits.",
+        "votes": 373,
+        "ph_url": "https://www.producthunt.com/posts/sider-omni-sidebar",
+        "website": "https://www.producthunt.com/r/GXEZU22QAYGGP5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Productivity",
+          "Artificial Intelligence",
+          "OpenAI Day"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49762099",
+        "name": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+        "url": "https://liveworld.info/",
+        "points": 33,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=49762099"
+      },
+      {
+        "id": "49755312",
+        "name": "Show HN: Rickub – The Smartest Git in the Universe",
+        "url": "https://rickub.com/",
+        "points": 23,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=49755312"
+      },
+      {
+        "id": "49757757",
+        "name": "Show HN: Jeff – A read-only CLI for semantic code review using Jev",
+        "url": "https://github.com/Alurith/jeff",
+        "points": 23,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49757757"
+      },
+      {
+        "id": "49754516",
+        "name": "Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong",
+        "url": "https://jev-pong.ably.dev/",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49754516"
+      },
+      {
+        "id": "49763311",
+        "name": "Show HN: Seal – Letters and passwords that open for your family after you die",
+        "url": "https://github.com/jasonepage/Seal",
+        "points": 9,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49763311"
+      },
+      {
+        "id": "49761528",
+        "name": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
+        "url": "https://agentgit.co/",
+        "points": 8,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49761528"
+      },
+      {
+        "id": "49756627",
+        "name": "Show HN: Koi Editor Alpha",
+        "url": "https://koieditor.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49756627"
+      },
+      {
+        "id": "49755226",
+        "name": "Show HN: Quokka – a self-hosting, deterministic programming language",
+        "url": "https://quokka.space/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49755226"
+      },
+      {
+        "id": "49758631",
+        "name": "Show HN: A model index from the AI Gateways",
+        "url": "https://www.computesdk.com/benchmarks/ai-gateway/models",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49758631"
+      },
+      {
+        "id": "49760615",
+        "name": "Show HN: Prohibition of Nuclear Launch Automation",
+        "url": "",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49760615"
+      },
+      {
+        "id": "49754951",
+        "name": "Show HN: Using Jev to generate game levels in real time",
+        "url": "https://www.spritefusion.com/blog/generating-game-level-in-real-time-with-jev",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49754951"
+      },
+      {
+        "id": "49759013",
+        "name": "Show HN: OnPanda – Steer LLMs and agents at the token level",
+        "url": "https://onpanda.diyer22.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49759013"
+      },
+      {
+        "id": "49755096",
+        "name": "Show HN: A4 list. Two weeks, folded small",
+        "url": "https://a4list.enzom.dev/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49755096"
+      },
+      {
+        "id": "49762076",
+        "name": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
+        "url": "https://github.com/binuka200/package-doctor",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49762076"
+      },
+      {
+        "id": "49760583",
+        "name": "Show HN: TypeSeer – on-device autocomplete for every text field on macOS",
+        "url": "https://typeseer.com/",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49760583"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/vestra",
+        "name": "Vestra",
+        "description": "Your self-building AI agent office",
+        "url": "https://betalist.com/startups/vestra"
+      },
+      {
+        "id": "/startups/go-ai",
+        "name": "Go.AI",
+        "description": "Deploy on-prem AI with full control, security, and auditability",
+        "url": "https://betalist.com/startups/go-ai"
+      },
+      {
+        "id": "/startups/gb7-meetup",
+        "name": "GB7 Meetup",
+        "description": "Meet locals and travelers, join events, and connect around interests",
+        "url": "https://betalist.com/startups/gb7-meetup"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/did-anyone-actually-pay-you-before-you-built-the-full-product-1a9d71e0c6",
+        "title": "Did anyone actually pay you before you built the full product?",
+        "url": "https://www.indiehackers.com/post/did-anyone-actually-pay-you-before-you-built-the-full-product-1a9d71e0c6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/shipped-a-manual-net-worth-app-no-bank-sync-what-ux-friction-would-you-expect-a0c2afe8e2",
+        "title": "Shipped a manual net-worth app (no bank sync) — what UX friction would you expect?",
+        "url": "https://www.indiehackers.com/post/shipped-a-manual-net-worth-app-no-bank-sync-what-ux-friction-would-you-expect-a0c2afe8e2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-cli-to-catch-stripe-webhook-regressions-using-real-event-fixtures-looking-for-2-3-developers-to-try-it-3b1cb1b53d",
+        "title": "I built a CLI to catch Stripe webhook regressions using real event fixtures — looking for 2–3 developers to try it",
+        "url": "https://www.indiehackers.com/post/i-built-a-cli-to-catch-stripe-webhook-regressions-using-real-event-fixtures-looking-for-2-3-developers-to-try-it-3b1cb1b53d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/which-pricing-model-actually-got-you-your-first-paying-users-83545a1429",
+        "title": "Which pricing model actually got you your first paying users?",
+        "url": "https://www.indiehackers.com/post/which-pricing-model-actually-got-you-your-first-paying-users-83545a1429",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-few-weeks-ago-i-shared-tweak-on-indie-hackers-when-we-launched-the-first-version-5665c4cead",
+        "title": "A few weeks ago, I shared Tweak on Indie Hackers when we launched the first version.",
+        "url": "https://www.indiehackers.com/post/a-few-weeks-ago-i-shared-tweak-on-indie-hackers-when-we-launched-the-first-version-5665c4cead",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-got-tired-of-constantly-checking-square-sales-on-my-iphone-so-i-tried-putting-it-on-apple-watch-2061de577a",
+        "title": "I got tired of constantly checking Square sales on my iPhone, so I tried putting it on Apple Watch",
+        "url": "https://www.indiehackers.com/post/i-got-tired-of-constantly-checking-square-sales-on-my-iphone-so-i-tried-putting-it-on-apple-watch-2061de577a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/this-founder-solved-his-agencys-problem-and-turned-the-solution-into-a-3m-arr-saas-uS8zjhggjKA4eoXFAUZi",
+        "title": "This founder solved his agency's problem and turned the solution into a $3M ARR SaaS",
+        "url": "https://www.indiehackers.com/post/tech/this-founder-solved-his-agencys-problem-and-turned-the-solution-into-a-3m-arr-saas-uS8zjhggjKA4eoXFAUZi",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 5
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
