@@ -1,0 +1,198 @@
+{
+  "scan_time": "2026-09-20T10:41:47.896372+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49767564",
+        "name": "Show HN: CUA-S1 – A System One Model for Computer Use",
+        "url": "https://github.com/trycua/cua",
+        "points": 79,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49767564"
+      },
+      {
+        "id": "49771118",
+        "name": "Show HN: I created an open source locally usable full fledged AI platform",
+        "url": "https://github.com/theguysudo/ENZO",
+        "points": 16,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49771118"
+      },
+      {
+        "id": "49770890",
+        "name": "Show HN: Rubrol – Sub-10ms PDF engine using Typst instead of Headless Chrome",
+        "url": "https://rubrol.com/",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49770890"
+      },
+      {
+        "id": "49770157",
+        "name": "Show HN: Frost – frosted-glass Linux icons where file types say what they are",
+        "url": "https://github.com/thissayantan/frost-icon-theme",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49770157"
+      },
+      {
+        "id": "49769531",
+        "name": "Show HN: KillSwitch – a programming language designed to be difficult for LLMs",
+        "url": "https://killswitch-lang.org",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49769531"
+      },
+      {
+        "id": "49771155",
+        "name": "Show HN: Jev-lint – semantic linter with plain English rules",
+        "url": "https://github.com/zdenham/jev-lint",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49771155"
+      },
+      {
+        "id": "49765740",
+        "name": "Show HN: Gravitype – a terminal typing game where words fall from the sky",
+        "url": "https://github.com/kanakOS01/gravitype",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49765740"
+      },
+      {
+        "id": "49773871",
+        "name": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+        "url": "https://faceanalysisai.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49773871"
+      },
+      {
+        "id": "49771206",
+        "name": "Show HN: Text-me: a personal agent that learns your pace",
+        "url": "https://aiworthusing.com/agent-index/text-me",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49771206"
+      },
+      {
+        "id": "49771053",
+        "name": "Show HN: DH Tools – 40 client-side developer and productivity tools",
+        "url": "https://denizlihub.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49771053"
+      },
+      {
+        "id": "49770603",
+        "name": "Show HN: Set, offline Markdown note-taking app with device-to-device sync",
+        "url": "https://app.writewithset.com",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49770603"
+      },
+      {
+        "id": "49768201",
+        "name": "Show HN: Reader – I made a Mac workspace for books, browser tabs, notes, and AI",
+        "url": "https://github.com/Marvy101/reader-source",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49768201"
+      },
+      {
+        "id": "49774010",
+        "name": "Show HN: I-server: Hide server using ICMP reflection/Destination Unreachable",
+        "url": "https://github.com/hajoon22/i-server",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49774010"
+      },
+      {
+        "id": "49773756",
+        "name": "Show HN: Will Jev pull the lever in the trolley problem?",
+        "url": "https://gpu.studio/trolley",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49773756"
+      },
+      {
+        "id": "49771881",
+        "name": "Show HN: Bastardica – Create bastard web fonts",
+        "url": "https://bastardica.mitpit.com",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49771881"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/seeddance-2",
+        "name": "SeedDance",
+        "description": "Generate cinema-quality AI videos fast using top-tier models",
+        "url": "https://betalist.com/startups/seeddance-2"
+      },
+      {
+        "id": "/startups/jobboardsearch",
+        "name": "JobBoardSearch",
+        "description": "A meta directory of niche job boards",
+        "url": "https://betalist.com/startups/jobboardsearch"
+      },
+      {
+        "id": "/startups/cv-blender",
+        "name": "CV Blender",
+        "description": "Build, restyle and ATS-check your CV in one place, free to start",
+        "url": "https://betalist.com/startups/cv-blender"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/building-is-hard-getting-discovered-is-harder-a5ef23f138",
+        "title": "Building Is Hard. Getting Discovered Is Harder.",
+        "url": "https://www.indiehackers.com/post/building-is-hard-getting-discovered-is-harder-a5ef23f138",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/google-made-me-find-12-strangers-willing-to-test-my-app-for-14-days-nobody-warned-me-how-hard-that-actually-is-de14e6d90e",
+        "title": "Google made me find 12 strangers willing to test my app for 14 days. Nobody warned me how hard that actually is.",
+        "url": "https://www.indiehackers.com/post/google-made-me-find-12-strangers-willing-to-test-my-app-for-14-days-nobody-warned-me-how-hard-that-actually-is-de14e6d90e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-handed-my-content-marketing-to-agents-6-months-later-organic-traffic-is-34x-debec9b890",
+        "title": "I handed my content marketing to agents. 6 months later organic traffic is 34x.",
+        "url": "https://www.indiehackers.com/post/i-handed-my-content-marketing-to-agents-6-months-later-organic-traffic-is-34x-debec9b890",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-let-an-ai-agent-run-my-llm-security-products-whole-sales-loop-for-30-days-here-s-what-actually-broke-e16f092b52",
+        "title": "I let an AI agent run my LLM-security product's whole sales loop for 30 days. Here's what actually broke.",
+        "url": "https://www.indiehackers.com/post/i-let-an-ai-agent-run-my-llm-security-products-whole-sales-loop-for-30-days-here-s-what-actually-broke-e16f092b52",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/stop-letting-great-indie-products-get-buried-8020829ebf",
+        "title": "Stop Letting Great Indie Products Get Buried",
+        "url": "https://www.indiehackers.com/post/stop-letting-great-indie-products-get-buried-8020829ebf",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
