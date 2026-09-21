@@ -1,0 +1,192 @@
+{
+  "scan_time": "2026-09-21T12:05:11.721053+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49777539",
+        "name": "Show HN: Radius – A Meetup.com Alternative",
+        "url": "https://radius.to/",
+        "points": 148,
+        "comments": 64,
+        "hn_url": "https://news.ycombinator.com/item?id=49777539"
+      },
+      {
+        "id": "49783133",
+        "name": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "url": "https://github.com/volotat/mini-AGI/",
+        "points": 141,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=49783133"
+      },
+      {
+        "id": "49776523",
+        "name": "Show HN: A competition for small neural networks that play strategy games",
+        "url": "https://tinybrains.dev",
+        "points": 85,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=49776523"
+      },
+      {
+        "id": "49780849",
+        "name": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
+        "url": "https://github.com/openlayer-ai/jevals",
+        "points": 26,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49780849"
+      },
+      {
+        "id": "49781727",
+        "name": "Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter",
+        "url": "https://github.com/behdad/gdocs-me-up",
+        "points": 15,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49781727"
+      },
+      {
+        "id": "49781032",
+        "name": "Show HN: Lightspeed, build real time apps the Laravel way (+asteroids demo)",
+        "url": "",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49781032"
+      },
+      {
+        "id": "49778008",
+        "name": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+        "url": "https://www.papydeck.eu/",
+        "points": 11,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49778008"
+      },
+      {
+        "id": "49784873",
+        "name": "Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
+        "url": "https://github.com/gosuda/bitcoin-rs",
+        "points": 8,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49784873"
+      },
+      {
+        "id": "49776910",
+        "name": "Show HN: Ifso.io – Personal finance simulator with no sign up required",
+        "url": "https://ifso.io/try",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49776910"
+      },
+      {
+        "id": "49777136",
+        "name": "Show HN: Swarm, an offline family tree app for macOS",
+        "url": "https://github.com/samoilev/swarm",
+        "points": 7,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49777136"
+      },
+      {
+        "id": "49775418",
+        "name": "Show HN: Airmash – HTML5 Multiplayer Missile Warfare",
+        "url": "https://airma.sh/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49775418"
+      },
+      {
+        "id": "49777691",
+        "name": "Show HN: Jev filters large HN discussions",
+        "url": "https://www.hazumi.news/best",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49777691"
+      },
+      {
+        "id": "49780980",
+        "name": "Show HN: Try Omarchy for Windows – Full Omarchy Desktop on Windows",
+        "url": "https://github.com/omacom/try-omarchy-windows",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49780980"
+      },
+      {
+        "id": "49778268",
+        "name": "Show HN: Judge Jev – Can you convince Jev of your innocence?",
+        "url": "https://judge-jev.com/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49778268"
+      },
+      {
+        "id": "49782912",
+        "name": "Show HN: Mahabharata Characters – 307 figures with gunas and decision primitives",
+        "url": "https://huggingface.co/datasets/gnumanth/mahabharata-characters",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49782912"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/inquio",
+        "name": "Inquio",
+        "description": "Audit chatbot conversations and get a graded report with fixes",
+        "url": "https://betalist.com/startups/inquio"
+      },
+      {
+        "id": "/startups/closedcast",
+        "name": "ClosedCast",
+        "description": "Create a private streaming video archive and watch on Roku",
+        "url": "https://betalist.com/startups/closedcast"
+      },
+      {
+        "id": "/startups/gora-academy",
+        "name": "Gora Academy",
+        "description": "Master Serbian, Croatian, Bosnian, and Montenegrin with clear grammar",
+        "url": "https://betalist.com/startups/gora-academy"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-have-one-ai-write-my-code-and-a-second-one-review-it-yesterday-the-reviewer-failed-2-changes-out-of-5-when-do-you-stop-and-drop-a-change-f999d8f908",
+        "title": "I have one AI write my code and a second one review it. Yesterday the reviewer failed 2 changes out of 5. When do you stop and drop a change",
+        "url": "https://www.indiehackers.com/post/i-have-one-ai-write-my-code-and-a-second-one-review-it-yesterday-the-reviewer-failed-2-changes-out-of-5-when-do-you-stop-and-drop-a-change-f999d8f908",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-a-personal-finance-tracker-because-i-was-sick-of-google-sheets-breaking-on-me-cc0667ccdb",
+        "title": "Built a personal finance tracker because I was sick of Google Sheets breaking on me",
+        "url": "https://www.indiehackers.com/post/built-a-personal-finance-tracker-because-i-was-sick-of-google-sheets-breaking-on-me-cc0667ccdb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/more-traffic-isn-t-always-the-answer-2ec2822ef3",
+        "title": "More Traffic Isn’t Always the Answer",
+        "url": "https://www.indiehackers.com/post/more-traffic-isn-t-always-the-answer-2ec2822ef3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/great-products-shouldn-t-disappear-after-launch-616dc794f7",
+        "title": "Great Products Shouldn’t Disappear After Launch",
+        "url": "https://www.indiehackers.com/post/great-products-shouldn-t-disappear-after-launch-616dc794f7",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
