@@ -1,0 +1,276 @@
+{
+  "scan_time": "2026-09-22T11:00:58.906893+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "jev",
+        "name": "Jev",
+        "tagline": "Fast, structured AI decisions for software automation",
+        "description": "Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out. Instead of generating text, Jev returns Choice, Score, and Noul answers with calibrated probabilities your code can act on. Parallel sampling delivers ~70-500ms responses, about 20-200x faster and 40-400x cheaper than comparable LLM workflows, with output tokens free. Now available to everyone at console.typesafe.ai with no waitlist.",
+        "votes": 482,
+        "ph_url": "https://www.producthunt.com/posts/jev",
+        "website": "https://www.producthunt.com/r/XJ7UD64LPY5QDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "superset-mobile-2",
+        "name": "Superset Mobile",
+        "tagline": "Your coding agents, now in your pocket",
+        "description": "Orchestrate coding agents from your iPhone. Pick up the same workspaces from your computer, review diffs, and merge PRs away from your desk. Works with Claude Code, Codex, and other terminal agents. Included with Superset Pro. First month free with code MOBILELAUNCH.",
+        "votes": 480,
+        "ph_url": "https://www.producthunt.com/posts/superset-mobile-2",
+        "website": "https://www.producthunt.com/r/WKWWYZ4NNBTCM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "iOS",
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "sai-5",
+        "name": "Sai",
+        "tagline": "The autonomous computer fleet at your command",
+        "description": "Sai is the world's first robosecretary that works with a fleet of autonomous computers, doing your endless screen work. Each computer navigates software the way you do: reads the screen, clicks the button, types in the form. Trained to interact with the computer interface, Sai automates software even when they lack APIs: legacy desktop apps, internal portals, anything behind a login. Sai supports Windows, macOS and Linux. 73% on OSWorld.",
+        "votes": 405,
+        "ph_url": "https://www.producthunt.com/posts/sai-5",
+        "website": "https://www.producthunt.com/r/EXXMVNBYWQYZ32?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "arcjet",
+        "name": "Arcjet",
+        "tagline": "Secure the AI agents you're building at runtime",
+        "description": "Arcjet is the runtime security platform that ships in your AI code. Detect prompt injection, authorize agent tool calls, redact sensitive data, and block bots and abuse. Real-time security building blocks you call inside your app, before an action happens.",
+        "votes": 384,
+        "ph_url": "https://www.producthunt.com/posts/arcjet",
+        "website": "https://www.producthunt.com/r/7QMMNEZ7CJTVIJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "SDK",
+          "Security"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49786419",
+        "name": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+        "url": "https://github.com/aru-labs/lossless-memory",
+        "points": 62,
+        "comments": 26,
+        "hn_url": "https://news.ycombinator.com/item?id=49786419"
+      },
+      {
+        "id": "49789356",
+        "name": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+        "url": "https://github.com/naw103/foremerge",
+        "points": 42,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=49789356"
+      },
+      {
+        "id": "49792076",
+        "name": "Show HN: A website that tracks US food prices every day",
+        "url": "https://www.kadoa.com/food-prices",
+        "points": 28,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49792076"
+      },
+      {
+        "id": "49789066",
+        "name": "Show HN: Vellum, the best diagram editor you'll ever use",
+        "url": "https://vellum.blueprintr.io",
+        "points": 16,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49789066"
+      },
+      {
+        "id": "49787034",
+        "name": "Show HN: I built a camera that you talk with instead of seeing your own face",
+        "url": "https://www.makiroll.app",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49787034"
+      },
+      {
+        "id": "49786401",
+        "name": "Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL",
+        "url": "https://github.com/Clickin/SQLBraid",
+        "points": 8,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49786401"
+      },
+      {
+        "id": "49793831",
+        "name": "Show HN: Praxos – Multiplayer AI",
+        "url": "https://www.praxos.ai/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49793831"
+      },
+      {
+        "id": "49785853",
+        "name": "Show HN: Local-coder – Build a team of coding agents with local models",
+        "url": "https://github.com/gmarland/local-coder",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49785853"
+      },
+      {
+        "id": "49787404",
+        "name": "Show HN: OpenDecision – a 400M zero-shot model makes local decisions, plays Doom",
+        "url": "https://deepanwadhwa.github.io/OpenDecision/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49787404"
+      },
+      {
+        "id": "49793545",
+        "name": "Show HN: WebGCM – a global climate model running in the browser on WebGPU",
+        "url": "https://gcm.echorelay.net/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49793545"
+      },
+      {
+        "id": "49788754",
+        "name": "Show HN: All of FreeCAD 1.1.3, every workbench and FEM, running in the browser",
+        "url": "https://freecad.virtastic.app/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49788754"
+      },
+      {
+        "id": "49789058",
+        "name": "Show HN: Distributed SQLite on Modal",
+        "url": "https://github.com/modal-projects/sqlite-modal",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49789058"
+      },
+      {
+        "id": "49789538",
+        "name": "Show HN: Agent Chaperone – Screen AI agent tool calls and results with Jev",
+        "url": "https://github.com/agent-chaperone/agent-chaperone",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49789538"
+      },
+      {
+        "id": "49788903",
+        "name": "Show HN: Judge HN Threads with Jev",
+        "url": "https://hnjudge.vercel.app",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49788903"
+      },
+      {
+        "id": "49786945",
+        "name": "Show HN: I analysed 169,123 Chess Olympiad moves and gave out 132 silly awards",
+        "url": "https://www.olympiadstats.fun",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49786945"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/digital-concierge",
+        "name": "Digital Concierge",
+        "description": "Turn Instagram comments into on-brand replies and audience insights",
+        "url": "https://betalist.com/startups/digital-concierge"
+      },
+      {
+        "id": "/startups/nextool-academy",
+        "name": "Nextool Academy",
+        "description": "Master AI tools with 5-minute daily gamified lessons and certificates",
+        "url": "https://betalist.com/startups/nextool-academy"
+      },
+      {
+        "id": "/startups/yo-maas",
+        "name": "Yo MaaS",
+        "description": "Stop guessing and start growing your business with AI",
+        "url": "https://betalist.com/startups/yo-maas"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/reddits-self-promo-rules-are-killing-organic-growth-for-my-legal-niche-tool-what-worked-instead-f33b2b7662",
+        "title": "Reddit's self-promo rules are killing organic growth for my legal-niche tool — what worked instead?",
+        "url": "https://www.indiehackers.com/post/reddits-self-promo-rules-are-killing-organic-growth-for-my-legal-niche-tool-what-worked-instead-f33b2b7662",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ai-made-execution-cheap-did-it-also-make-bad-decisions-cheaper-5f1a31ebff",
+        "title": "AI made execution cheap. Did it also make bad decisions cheaper ?",
+        "url": "https://www.indiehackers.com/post/ai-made-execution-cheap-did-it-also-make-bad-decisions-cheaper-5f1a31ebff",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-a-week-building-my-apps-differentiator-then-found-four-competitors-already-shipping-it-a828496296",
+        "title": "I spent a week building my app's differentiator, then found four competitors already shipping it",
+        "url": "https://www.indiehackers.com/post/i-spent-a-week-building-my-apps-differentiator-then-found-four-competitors-already-shipping-it-a828496296",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-thought-i-had-332-backlinks-i-have-one-also-a-claim-on-my-own-site-was-wrong-for-four-weeks-2ffef2251e",
+        "title": "I thought I had 332 backlinks. I have one. Also a claim on my own site was wrong for four weeks.",
+        "url": "https://www.indiehackers.com/post/i-thought-i-had-332-backlinks-i-have-one-also-a-claim-on-my-own-site-was-wrong-for-four-weeks-2ffef2251e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/hey-how-do-you-distribute-your-products-06a304f34c",
+        "title": "Hey, how do you distribute your products?",
+        "url": "https://www.indiehackers.com/post/hey-how-do-you-distribute-your-products-06a304f34c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/22-users-i-m-testing-what-happens-after-the-first-opportunity-7f39d59332",
+        "title": "22 users — I’m testing what happens after the first opportunity",
+        "url": "https://www.indiehackers.com/post/22-users-i-m-testing-what-happens-after-the-first-opportunity-7f39d59332",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-spent-six-months-turning-a-personal-workaround-into-something-worth-inviting-people-to-try-a59c7a430b",
+        "title": "We spent six months turning a personal workaround into something worth inviting people to try",
+        "url": "https://www.indiehackers.com/post/we-spent-six-months-turning-a-personal-workaround-into-something-worth-inviting-people-to-try-a59c7a430b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/growing-a-side-project-in-a-crowded-market-to-1m-arr-by-playing-the-long-game-eL15KZvm2ax20BtiM5i8",
+        "title": "Growing a side project in a crowded market to $1M ARR by playing the long game",
+        "url": "https://www.indiehackers.com/post/tech/growing-a-side-project-in-a-crowded-market-to-1m-arr-by-playing-the-long-game-eL15KZvm2ax20BtiM5i8",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
