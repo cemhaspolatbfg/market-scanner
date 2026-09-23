@@ -1,0 +1,208 @@
+{
+  "scan_time": "2026-09-23T10:49:54.390385+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "clueso-mcp-2",
+        "name": "Clueso MCP",
+        "tagline": "Create and edit videos by chatting",
+        "description": "Make videos with Claude, ChatGPT, or any AI agent. Give Clueso an idea, deck, reference video, or recording, and it handles the whole video production: storyboard, scenes, voiceover, music, and editing, on-brand. Everything stays editable, by hand or by chat.",
+        "votes": 498,
+        "ph_url": "https://www.producthunt.com/posts/clueso-mcp-2",
+        "website": "https://www.producthunt.com/r/CFUV35KT4ZLPZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Animation",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49801329",
+        "name": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+        "url": "https://droprun.sh/",
+        "points": 173,
+        "comments": 59,
+        "hn_url": "https://news.ycombinator.com/item?id=49801329"
+      },
+      {
+        "id": "49800574",
+        "name": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+        "url": "https://benchmarkheaven.com/jev-models",
+        "points": 110,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=49800574"
+      },
+      {
+        "id": "49800566",
+        "name": "Show HN: Training a model to identify AI web content from structure alone",
+        "url": "https://arxiv.org/abs/2609.15369",
+        "points": 60,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49800566"
+      },
+      {
+        "id": "49803683",
+        "name": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+        "url": "https://ai-rete-rag.com/",
+        "points": 37,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49803683"
+      },
+      {
+        "id": "49800513",
+        "name": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+        "url": "https://github.com/hsfzxjy/npunlock",
+        "points": 28,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49800513"
+      },
+      {
+        "id": "49802789",
+        "name": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
+        "url": "https://github.com/General-Instinct/InstinctFlash",
+        "points": 24,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49802789"
+      },
+      {
+        "id": "49804217",
+        "name": "Show HN: graf (1000x faster graphify in Rust)",
+        "url": "https://github.com/ctxrs/graf",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49804217"
+      },
+      {
+        "id": "49802005",
+        "name": "Show HN: Hack – my Hacker News mobile client now lets you block AI posts",
+        "url": "",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49802005"
+      },
+      {
+        "id": "49802776",
+        "name": "Show HN: OpenMCP – An open, code-first fork of the Model Context Protocol",
+        "url": "https://github.com/enclawed/omcp",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49802776"
+      },
+      {
+        "id": "49802729",
+        "name": "Show HN: Brig – A MicroVM sandbox for AI coding agents on Mac and Linux",
+        "url": "",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49802729"
+      },
+      {
+        "id": "49809095",
+        "name": "Show HN: WavexAI – Unlimited tokens for a fixed cost",
+        "url": "https://wavexai.dev/",
+        "points": 6,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49809095"
+      },
+      {
+        "id": "49799267",
+        "name": "Show HN: Watch all the AI agents on your machine",
+        "url": "https://github.com/markwylde/all-your-agents",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49799267"
+      },
+      {
+        "id": "49800898",
+        "name": "Show HN: EnvSeal-CLI – Git for Secrets, Offline Git-Native Secret Manager",
+        "url": "https://github.com/viswajith275/EnvSeal-CLI",
+        "points": 4,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49800898"
+      },
+      {
+        "id": "49807251",
+        "name": "Show HN: Riftri – copy-on-write Git worktrees for running agents in parallel",
+        "url": "https://twitter.com/KinfishT/status/2102093551601684897",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49807251"
+      },
+      {
+        "id": "49799938",
+        "name": "Show HN: Nimblegate – Git push guardrails for AI agents",
+        "url": "https://github.com/nimblegate/nimblegate",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49799938"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/geo-seo-check",
+        "name": "Geo-SEO-Check",
+        "description": "Check website visibility on Google and AI with one click",
+        "url": "https://betalist.com/startups/geo-seo-check"
+      },
+      {
+        "id": "/startups/subreddit-gallery-viewer",
+        "name": "Subreddit Gallery Viewer",
+        "description": "Browse any subreddit as a scrollable thumbnail gallery",
+        "url": "https://betalist.com/startups/subreddit-gallery-viewer"
+      },
+      {
+        "id": "/startups/edit-everything",
+        "name": "Edit Everything",
+        "description": "Turn screenshots into editable elements, drag, drop, and restyle on mobile",
+        "url": "https://betalist.com/startups/edit-everything"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-much-time-is-a-directory-listing-worth-when-you-re-doing-everything-yourself-875fbc4e54",
+        "title": "How much time is a directory listing worth when you’re doing everything yourself?",
+        "url": "https://www.indiehackers.com/post/how-much-time-is-a-directory-listing-worth-when-you-re-doing-everything-yourself-875fbc4e54",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/10-testers-almost-nobody-came-back-on-day-2-fix-activation-first-or-get-more-testers-first-f43e209684",
+        "title": "10 testers, almost nobody came back on day 2. Fix activation first or get more testers first?",
+        "url": "https://www.indiehackers.com/post/10-testers-almost-nobody-came-back-on-day-2-fix-activation-first-or-get-more-testers-first-f43e209684",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-ai-agent-could-see-the-fact-it-just-never-wrote-it-down-13d2b7a434",
+        "title": "My AI agent could \"see\" the fact — it just never wrote it down",
+        "url": "https://www.indiehackers.com/post/my-ai-agent-could-see-the-fact-it-just-never-wrote-it-down-13d2b7a434",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-a-dating-product-building-it-was-easier-than-getting-the-first-users-ca4284e922",
+        "title": "I launched a dating product. Building it was easier than getting the first users.",
+        "url": "https://www.indiehackers.com/post/i-launched-a-dating-product-building-it-was-easier-than-getting-the-first-users-ca4284e922",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
