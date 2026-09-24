@@ -1,0 +1,235 @@
+{
+  "scan_time": "2026-09-24T11:10:15.682116+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "solid-9",
+        "name": "Solid",
+        "tagline": "Agents with their own computers, accounts, and budgets.",
+        "description": "Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for. They pick and set up their own real machines, create accounts and pay for services. They use your apps through APIs or log in like a person. They build what’s missing and fix problems along the way. Think beyond personal agents like Grok Bot and Muse: Solid is built for complex, long-running work for you and your team. Close your laptop. Solid owns the job from start to finish.",
+        "votes": 448,
+        "ph_url": "https://www.producthunt.com/posts/solid-9",
+        "website": "https://www.producthunt.com/r/IGFJIPCFXEAE6A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "naise-ai",
+        "name": "Naise AI",
+        "tagline": "Autonomous marketing agents that actually execute",
+        "description": "Stop babysitting AI's empty text boxes. Naise AI gives founders and lean teams the output of a full marketing department without the overhead. Lock in your brand guidelines with Persistent Memory, select an Prompt Playbook, and let the platform handle the execution. From vetting real influencers and pitching to journalists, to generating and scheduling social content natively. Go from a cold start to live campaigns in under 24 hours, saving 40+ hours a week and cutting your marketing costs.",
+        "votes": 402,
+        "ph_url": "https://www.producthunt.com/posts/naise-ai",
+        "website": "https://www.producthunt.com/r/I323VH3KBIWT3P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49826059",
+        "name": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
+        "url": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
+        "points": 47,
+        "comments": 61,
+        "hn_url": "https://news.ycombinator.com/item?id=49826059"
+      },
+      {
+        "id": "49824715",
+        "name": "Show HN: An open-source manufacturing ERP/MES/QMS",
+        "url": "https://carbon.ms/self-hosted",
+        "points": 39,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49824715"
+      },
+      {
+        "id": "49821086",
+        "name": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+        "url": "https://www.forensicdbg.com",
+        "points": 34,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49821086"
+      },
+      {
+        "id": "49815095",
+        "name": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+        "url": "https://filmstudio.rxlab.app",
+        "points": 19,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49815095"
+      },
+      {
+        "id": "49815168",
+        "name": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+        "url": "https://ivesentit.com",
+        "points": 18,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=49815168"
+      },
+      {
+        "id": "49815066",
+        "name": "Show HN: Jevper – the Jev interface on top of any OpenAI-compatible model",
+        "url": "https://github.com/zhulinchng/jevper",
+        "points": 10,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49815066"
+      },
+      {
+        "id": "49816680",
+        "name": "Show HN: Karada.ai – CI/CD to turn APIs into MCP servers with 1-click plugins",
+        "url": "https://karada.ai",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49816680"
+      },
+      {
+        "id": "49821438",
+        "name": "Show HN: AgentRun: DSL to turn agents into Workflows",
+        "url": "https://github.com/Parcha-ai/agentrun",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49821438"
+      },
+      {
+        "id": "49821937",
+        "name": "Show HN: QBasic 1.1 in the Browser",
+        "url": "https://www.vahidyousefzadeh.com/qbasic/app",
+        "points": 7,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49821937"
+      },
+      {
+        "id": "49827375",
+        "name": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+        "url": "https://cms-sfx-demo.apeleg.com/",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49827375"
+      },
+      {
+        "id": "49823738",
+        "name": "Show HN: Make cursed fonts like Times New Bastard",
+        "url": "https://bastardica.mitpit.com",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49823738"
+      },
+      {
+        "id": "49819868",
+        "name": "Show HN: Crest – Answer Claude Code approvals from your MacBook's notch",
+        "url": "https://crestnotch.app/claude-code-notch",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49819868"
+      },
+      {
+        "id": "49820112",
+        "name": "Show HN: Open Jev Playground – try all the open source alternatives to Jev",
+        "url": "https://www.beam.cloud/playground",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49820112"
+      },
+      {
+        "id": "49817114",
+        "name": "Show HN: Build a CPU from gates, in TypeScript, in the browser",
+        "url": "https://play.simten.dev/nand",
+        "points": 4,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49817114"
+      },
+      {
+        "id": "49828019",
+        "name": "Show HN: Trader News – Hacker News for Finance",
+        "url": "",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49828019"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/telegram-video-downloader",
+        "name": "Telegram Video Downloader",
+        "description": "for fast and bulk private media downloads",
+        "url": "https://betalist.com/startups/telegram-video-downloader"
+      },
+      {
+        "id": "/startups/tartelo",
+        "name": "Tartelo",
+        "description": "Find and turn personal insights into Meaning",
+        "url": "https://betalist.com/startups/tartelo"
+      },
+      {
+        "id": "/startups/captureagent",
+        "name": "CaptureAgent",
+        "description": "Streamline and automate government contracting with AI",
+        "url": "https://betalist.com/startups/captureagent"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-visibility-tracker-then-stopped-using-it-myself-f981061340",
+        "title": "I built an AI visibility tracker, then stopped using it myself",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-visibility-tracker-then-stopped-using-it-myself-f981061340",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/one-launch-several-visuals-what-i-added-to-brayer-after-sharing-it-here-5f379c1996",
+        "title": "One launch, several visuals: what I added to Brayer after sharing it here",
+        "url": "https://www.indiehackers.com/post/one-launch-several-visuals-what-i-added-to-brayer-after-sharing-it-here-5f379c1996",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/meta-locked-out-all-four-of-my-channels-in-three-days-today-i-launch-what-i-built-from-that-78b2386235",
+        "title": "Meta locked out all four of my channels in three days. Today I launch what I built from that.",
+        "url": "https://www.indiehackers.com/post/meta-locked-out-all-four-of-my-channels-in-three-days-today-i-launch-what-i-built-from-that-78b2386235",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-a-pay-as-you-go-alternative-to-per-seat-business-international-call-phone-systems-currently-at-125-mrr-801bfdd28e",
+        "title": "building a pay-as-you-go alternative to per-seat business international call phone systems (Currently at $125 MRR)",
+        "url": "https://www.indiehackers.com/post/building-a-pay-as-you-go-alternative-to-per-seat-business-international-call-phone-systems-currently-at-125-mrr-801bfdd28e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/cohort-2-i-need-20-of-you-to-install-peeka-this-week-and-try-to-break-the-first-run-316476523f",
+        "title": "Cohort 2: I need 20 of you to install Peeka this week and try to break the first run",
+        "url": "https://www.indiehackers.com/post/cohort-2-i-need-20-of-you-to-install-peeka-this-week-and-try-to-break-the-first-run-316476523f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/from-weekend-project-to-1m-mrr-in-two-years-YRaa1QlGTjaqh0XgzWkc",
+        "title": "From weekend project to $1M MRR in two years",
+        "url": "https://www.indiehackers.com/post/tech/from-weekend-project-to-1m-mrr-in-two-years-YRaa1QlGTjaqh0XgzWkc",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
