@@ -1,0 +1,238 @@
+{
+  "scan_time": "2026-09-25T11:14:19.145103+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "schole-learn-by-building",
+        "name": "Scholé Learn by Building",
+        "tagline": "Learning should be more than \"click next\"",
+        "description": "Learn by building, on any website, with Scholé by your side. You can read about a tool, watch someone walk through it on YouTube, or ask ChatGPT to explain it. But you won’t properly learn until you build with it yourself. Learn Anywhere mode guides you through using any real tool directly on your screen, adapting tasks and giving visual hints. Everything you learn updates your Scholé knowledge graph and counts towards your lessons. Our thesis? Learn it well enough to use it.",
+        "votes": 396,
+        "ph_url": "https://www.producthunt.com/posts/schole-learn-by-building",
+        "website": "https://www.producthunt.com/r/F22BXESSBPZXG7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Education",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "floot-mcp",
+        "name": "Floot MCP",
+        "tagline": "Build and ship web and mobile apps inside Claude or ChatGPT",
+        "description": "Connect Floot to Claude or ChatGPT and build a full-stack app without leaving the chat. Floot gives your AI a ready-to-use workspace with a database, user logins, hosting, and a live URL - nothing to install or configure. Your existing Claude or ChatGPT subscription does the thinking, so Floot doesn’t charge based on AI usage. When you’re ready, publish the same project to the web, iOS, and Android, then keep shipping updates from the same conversation.",
+        "votes": 365,
+        "ph_url": "https://www.producthunt.com/posts/floot-mcp",
+        "website": "https://www.producthunt.com/r/QUJC2M4LRE7CQ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "claude-opus-5-5",
+        "name": "Claude Opus 5.5",
+        "tagline": "Anthropic's first model in their new Claude 5.5 family",
+        "description": "Claude Opus 5.5 is Anthropic’s latest model for agentic coding and knowledge work, delivering major performance gains, clearer communication, stronger safety, and 40% lower cost than Opus 5 on typical workloads.",
+        "votes": 346,
+        "ph_url": "https://www.producthunt.com/posts/claude-opus-5-5",
+        "website": "https://www.producthunt.com/r/HM6M2YVM5UHR65?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49833867",
+        "name": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "url": "https://github.com/devdotfast/whiteboard",
+        "points": 323,
+        "comments": 119,
+        "hn_url": "https://news.ycombinator.com/item?id=49833867"
+      },
+      {
+        "id": "49837006",
+        "name": "Show HN: Koi.rest – watch some fish and regain your balance",
+        "url": "https://koi.rest",
+        "points": 187,
+        "comments": 54,
+        "hn_url": "https://news.ycombinator.com/item?id=49837006"
+      },
+      {
+        "id": "49832080",
+        "name": "Show HN: Most Hated Tools",
+        "url": "https://www.mosthatedtools.app/",
+        "points": 25,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=49832080"
+      },
+      {
+        "id": "49831231",
+        "name": "Show HN: PlaceCall (YC W26) – agentic API to call businesses and get things done",
+        "url": "",
+        "points": 16,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49831231"
+      },
+      {
+        "id": "49834964",
+        "name": "Show HN: Radix – Visual UI for agentic programming",
+        "url": "https://radix-os.com",
+        "points": 15,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49834964"
+      },
+      {
+        "id": "49841912",
+        "name": "Show HN: The last day of the dinosaurs, as an interactive painting",
+        "url": "https://www.echohive.ai/experiments/dinosaurs",
+        "points": 13,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49841912"
+      },
+      {
+        "id": "49839672",
+        "name": "Show HN: Avoid smooth spinners, use low-FPS spinners",
+        "url": "https://nh2.me/low-fps-spinners/low-fps-spinners.html",
+        "points": 11,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49839672"
+      },
+      {
+        "id": "49836593",
+        "name": "Show HN: Kosh – Browser's native bookmark manager ui, done right",
+        "url": "https://chromewebstore.google.com/detail/kosh-bookmark-manager/meldjdfnfgefeoegccphimkmgmeamcce",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49836593"
+      },
+      {
+        "id": "49836576",
+        "name": "Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
+        "url": "https://zephclick.com",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49836576"
+      },
+      {
+        "id": "49834098",
+        "name": "Show HN: Critic – Review code with the agent that wrote it",
+        "url": "https://www.critic.run/",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49834098"
+      },
+      {
+        "id": "49832470",
+        "name": "Show HN: Timebar, a Mac timer shown as a thin line below the menu bar",
+        "url": "https://github.com/velvet-shark/timebar",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49832470"
+      },
+      {
+        "id": "49836632",
+        "name": "Show HN: Canary (YC) – Independent verification for AI code",
+        "url": "https://www.runcanary.ai/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49836632"
+      },
+      {
+        "id": "49834990",
+        "name": "Show HN: Hormuz Signal – Iran war escalation risk from real data",
+        "url": "https://www.HormuzSignal.com",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49834990"
+      },
+      {
+        "id": "49830000",
+        "name": "Show HN: Clue Me – Describe the word you're given, Jev tries to guess it",
+        "url": "https://yorohan.com/clue-me",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49830000"
+      },
+      {
+        "id": "49840469",
+        "name": "Show HN: A benchmark comparison of C++ vs. Node.js performance",
+        "url": "https://vikky2810.github.io/blog/cpp-vs-node/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49840469"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/breakmoves",
+        "name": "BreakMoves",
+        "description": "Turn TV breaks and daily pauses into quick movement bursts",
+        "url": "https://betalist.com/startups/breakmoves"
+      },
+      {
+        "id": "/startups/vizard-agent",
+        "name": "Vizard Agent",
+        "description": "Generate and edit videos from text, links, and assets with AI agents",
+        "url": "https://betalist.com/startups/vizard-agent"
+      },
+      {
+        "id": "/startups/pandaos",
+        "name": "PandaOS",
+        "description": "Run code, tools, and AI agents together in a single local workspace",
+        "url": "https://betalist.com/startups/pandaos"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/what-im-learning-while-building-an-evidence-to-action-workflow-1ed982fb13",
+        "title": "What I'm learning while building an evidence-to-action workflow",
+        "url": "https://www.indiehackers.com/post/what-im-learning-while-building-an-evidence-to-action-workflow-1ed982fb13",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/3-sales-2-countries-the-reality-of-building-a-sell-once-logo-marketplace-solo-80240c570d",
+        "title": "3 sales, 2 countries: The reality of building a \"sell-once\" logo marketplace solo",
+        "url": "https://www.indiehackers.com/post/3-sales-2-countries-the-reality-of-building-a-sell-once-logo-marketplace-solo-80240c570d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-m-trying-to-grow-a-mobile-app-without-relying-on-paid-ads-here-s-my-experiment-6ceb572f66",
+        "title": "I’m trying to grow a mobile app without relying on paid ads. Here’s my experiment.",
+        "url": "https://www.indiehackers.com/post/i-m-trying-to-grow-a-mobile-app-without-relying-on-paid-ads-here-s-my-experiment-6ceb572f66",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/product-hunt-gave-me-almost-no-traffic-so-i-built-a-free-tool-around-the-problem-902ad81ea5",
+        "title": "Product Hunt gave me almost no traffic, so I built a free tool around the problem",
+        "url": "https://www.indiehackers.com/post/product-hunt-gave-me-almost-no-traffic-so-i-built-a-free-tool-around-the-problem-902ad81ea5",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
