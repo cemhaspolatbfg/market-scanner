@@ -1,0 +1,215 @@
+{
+  "scan_time": "2026-09-26T10:52:16.528980+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "pixverse-r2-2",
+        "name": "PixVerse R2",
+        "tagline": "A real-time world model you can explore and change",
+        "description": "PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips. It accepts text, images, audio and actions while generating, remembers what happened earlier in the session, and carries those changes forward in real time. R2 scales to longer, more coherent and controllable experiences — powering everything from interactive stories and characters to playable generative worlds.",
+        "votes": 364,
+        "ph_url": "https://www.producthunt.com/posts/pixverse-r2-2",
+        "website": "https://www.producthunt.com/r/VQZLAZ7ZJU56G3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Games",
+          "Vercel Day"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49845172",
+        "name": "Show HN: Jev Plays Pokémon Red",
+        "url": "https://jev-pokemon.vercel.app/",
+        "points": 207,
+        "comments": 85,
+        "hn_url": "https://news.ycombinator.com/item?id=49845172"
+      },
+      {
+        "id": "49844497",
+        "name": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+        "url": "https://hackeratlas.com/",
+        "points": 63,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=49844497"
+      },
+      {
+        "id": "49846953",
+        "name": "Show HN: Doom or Bloom, map your AI worldview",
+        "url": "https://www.doom-or-bloom.com",
+        "points": 56,
+        "comments": 45,
+        "hn_url": "https://news.ycombinator.com/item?id=49846953"
+      },
+      {
+        "id": "49851776",
+        "name": "Show HN: A game about fake news and memes",
+        "url": "https://unspin.app/",
+        "points": 15,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49851776"
+      },
+      {
+        "id": "49849986",
+        "name": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+        "url": "https://www.gptbeyond.com/try?home=1",
+        "points": 14,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49849986"
+      },
+      {
+        "id": "49846409",
+        "name": "Show HN: I discovered roads in the US across > 1000 themes",
+        "url": "https://road-about-a-theme.pinedesk.biz/",
+        "points": 12,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49846409"
+      },
+      {
+        "id": "49843909",
+        "name": "Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",
+        "url": "https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US",
+        "points": 10,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49843909"
+      },
+      {
+        "id": "49846613",
+        "name": "Show HN: Tui2web – use any TUI on the web",
+        "url": "https://tui2web.com/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49846613"
+      },
+      {
+        "id": "49844804",
+        "name": "Show HN: Vitals – A Mac activity monitor that thinks in apps, not processes",
+        "url": "https://vitalsmac.com/",
+        "points": 6,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49844804"
+      },
+      {
+        "id": "49848598",
+        "name": "Show HN: Paper-docx – agent-native Python-docx fork with 78% fewer DOCX failures",
+        "url": "https://github.com/paper-instruments/paper-docx",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49848598"
+      },
+      {
+        "id": "49843746",
+        "name": "Show HN: Wave – Layered gradient wave backgrounds using Three.js and shaders",
+        "url": "https://wave.subworkflow.ai/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49843746"
+      },
+      {
+        "id": "49842877",
+        "name": "Show HN: Tlx – E2E chat over SSH under 500 lines of code",
+        "url": "https://github.com/achempion/tlx",
+        "points": 5,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49842877"
+      },
+      {
+        "id": "49847157",
+        "name": "Show HN: I made a WWI dogfight game that runs in the browser",
+        "url": "https://www.gamedev.pl/ay/biplane-skirmish",
+        "points": 5,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49847157"
+      },
+      {
+        "id": "49849064",
+        "name": "Show HN: I made a 3D rock climbing analysis tool using iPhone LiDAR [video]",
+        "url": "https://www.youtube.com/watch?v=vjItC11jF0o",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49849064"
+      },
+      {
+        "id": "49846223",
+        "name": "Show HN: Choreoglyphs – our new, invisible writing system",
+        "url": "https://choreoglyphs.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49846223"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/elici",
+        "name": "ELICI",
+        "description": "Talk for 5 minutes and get views, leads, and customers",
+        "url": "https://betalist.com/startups/elici"
+      },
+      {
+        "id": "/startups/3droomdesign-ai",
+        "name": "3DRoomDesign.ai",
+        "description": "Turn floor plans into editable 3D room designs you can share instantly",
+        "url": "https://betalist.com/startups/3droomdesign-ai"
+      },
+      {
+        "id": "/startups/made-with-jev",
+        "name": "Made With Jev",
+        "description": "The number one directory of projects built with Jev",
+        "url": "https://betalist.com/startups/made-with-jev"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/launchnest-ln-15?post=JDd2mfcugAQRrn8vqBvE#post-JDd2mfcugAQRrn8vqBvE",
+        "title": "LaunchNest LN: Where Great Products Get Discovered",
+        "url": "https://www.indiehackers.com/product/launchnest-ln-15?post=JDd2mfcugAQRrn8vqBvE#post-JDd2mfcugAQRrn8vqBvE",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-much-time-do-you-spend-on-your-brand-name-not-only-on-your-product-9f85ecf90d",
+        "title": "How much time do you spend on your brand name, not only on your product?",
+        "url": "https://www.indiehackers.com/post/how-much-time-do-you-spend-on-your-brand-name-not-only-on-your-product-9f85ecf90d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/shared-resumes-were-a-dead-end-so-i-gave-them-a-preview-card-and-a-way-back-f6ed2afec7",
+        "title": "Shared resumes were a dead end, so I gave them a preview card and a way back",
+        "url": "https://www.indiehackers.com/post/shared-resumes-were-a-dead-end-so-i-gave-them-a-preview-card-and-a-way-back-f6ed2afec7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-global-chat-now-i-have-to-solve-the-empty-room-problem-afd99e4349",
+        "title": "I built a global chat. Now I have to solve the empty room problem.",
+        "url": "https://www.indiehackers.com/post/i-built-a-global-chat-now-i-have-to-solve-the-empty-room-problem-afd99e4349",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/creators/buying-chess-com-for-56k-and-growing-it-to-200m-in-annual-revenue-GkkdbA1ibyb3KUxKhFyT",
+        "title": "Buying Chess.com for $56k and growing it to $200M in annual revenue",
+        "url": "https://www.indiehackers.com/post/creators/buying-chess-com-for-56k-and-growing-it-to-200m-in-annual-revenue-GkkdbA1ibyb3KUxKhFyT",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
