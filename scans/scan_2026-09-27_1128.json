@@ -1,0 +1,198 @@
+{
+  "scan_time": "2026-09-27T11:27:54.247438+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "49858513",
+        "name": "Show HN: Reladraw – A diagram language where you decide where to place things",
+        "url": "https://github.com/reladraw/reladraw",
+        "points": 321,
+        "comments": 87,
+        "hn_url": "https://news.ycombinator.com/item?id=49858513"
+      },
+      {
+        "id": "49857528",
+        "name": "Show HN: A Claude Code skill to analyze your chess games",
+        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "points": 73,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=49857528"
+      },
+      {
+        "id": "49858409",
+        "name": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
+        "url": "https://github.com/stormj-UH/spivak-lean",
+        "points": 17,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49858409"
+      },
+      {
+        "id": "49856691",
+        "name": "Show HN: I checked 1M free proxies – 1 in 5 working ones injected scripts",
+        "url": "https://github.com/maximilianfeix/proxy-scraper",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49856691"
+      },
+      {
+        "id": "49860182",
+        "name": "Show HN: Kosh - Stop Your Bookmarks Becoming a Cemetery",
+        "url": "https://chromewebstore.google.com/detail/kosh-bookmark-manager/meldjdfnfgefeoegccphimkmgmeamcce",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49860182"
+      },
+      {
+        "id": "49859013",
+        "name": "Show HN: Blender Copilot",
+        "url": "https://github.com/XEonAX/blender-copilot",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49859013"
+      },
+      {
+        "id": "49855683",
+        "name": "Show HN: Ollaya Web UI",
+        "url": "https://github.com/samarkandiy/ollaya-web-ui",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49855683"
+      },
+      {
+        "id": "49858032",
+        "name": "Show HN: Jev predicting your life choices",
+        "url": "https://quiz.seek.ws/",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49858032"
+      },
+      {
+        "id": "49858875",
+        "name": "Show HN: Tokken – a browser fighting game where AI models fight and HP is tokens",
+        "url": "https://tokken.win/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49858875"
+      },
+      {
+        "id": "49862920",
+        "name": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
+        "url": "https://peertalk.ai",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49862920"
+      },
+      {
+        "id": "49858268",
+        "name": "Show HN: Read while you listen to your Audiobooks",
+        "url": "https://hushbook.app/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49858268"
+      },
+      {
+        "id": "49863641",
+        "name": "Show HN: Shipwithmuse.live – a catalog of things people built with Muse",
+        "url": "https://shipwithmuse.live/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49863641"
+      },
+      {
+        "id": "49858756",
+        "name": "Show HN: Museum of Numbers",
+        "url": "https://numbermuseum.com/2147483647",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49858756"
+      },
+      {
+        "id": "49865067",
+        "name": "Show HN: LightCloud – A cloud console organised like file system",
+        "url": "https://www.light-cloud.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49865067"
+      },
+      {
+        "id": "49864105",
+        "name": "Show HN: Trail – new kind of logic game",
+        "url": "https://trail.franzai.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49864105"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/mira-ai",
+        "name": "Mira AI",
+        "description": "50+ AI models for video, 3D, and games with one prompt",
+        "url": "https://betalist.com/startups/mira-ai"
+      },
+      {
+        "id": "/startups/aivault",
+        "name": "AIVault",
+        "description": "Automate detection and response to stop zero-day attacks fast",
+        "url": "https://betalist.com/startups/aivault"
+      },
+      {
+        "id": "/startups/zentri",
+        "name": "Zentri",
+        "description": "Unify permits, LOTO, and observations to control high-risk work",
+        "url": "https://betalist.com/startups/zentri"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-you-can-save-2-3-of-revenue-on-fx-fees-the-story-behind-my-first-product-713528b1c6",
+        "title": "How you can save 2-3% of revenue on FX fees (the story behind my first product)",
+        "url": "https://www.indiehackers.com/post/how-you-can-save-2-3-of-revenue-on-fx-fees-the-story-behind-my-first-product-713528b1c6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-website-audit-tool-and-learned-that-more-findings-dont-mean-more-fixes-b0142caa3b",
+        "title": "I built a website audit tool and learned that more findings don't mean more fixes.",
+        "url": "https://www.indiehackers.com/post/i-built-a-website-audit-tool-and-learned-that-more-findings-dont-mean-more-fixes-b0142caa3b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/from-0-to-first-paid-unlock-building-an-ai-product-behavior-diagnostic-4cf016be8c",
+        "title": "From 0 to first paid unlock: building an AI-product behavior diagnostic",
+        "url": "https://www.indiehackers.com/post/from-0-to-first-paid-unlock-building-an-ai-product-behavior-diagnostic-4cf016be8c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/one-week-into-a-10-day-1-000-coding-agent-experiment-0-earned-b4d827a982",
+        "title": "One week into a 10-day, $1,000 coding-agent experiment: $0 earned",
+        "url": "https://www.indiehackers.com/post/one-week-into-a-10-day-1-000-coding-agent-experiment-0-earned-b4d827a982",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/are-any-of-you-building-ai-agents-that-need-to-pay-outside-providers-2c74cf86d9",
+        "title": "Are any of you building AI agents that need to pay outside providers?",
+        "url": "https://www.indiehackers.com/post/are-any-of-you-building-ai-agents-that-need-to-pay-outside-providers-2c74cf86d9",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
