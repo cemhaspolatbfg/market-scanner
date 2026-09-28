@@ -1,0 +1,238 @@
+{
+  "scan_time": "2026-09-28T13:00:15.648609+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "hemory",
+        "name": "Hemory",
+        "tagline": "Keep listening. Searchable memory for your AI agents.",
+        "description": "Hemory comes from Hear + Memory. It's not meeting transcription: Hemory listens on the phone or Apple Watch you already own, and keeps every conversation as memory. Your day is auto-split into moments with speaker labels, then settles into a private, searchable memory. Connect it to Claude, Codex, Cursor, or any agent over MCP, and your AI finally has real context to revisit what you heard and build on it.",
+        "votes": 371,
+        "ph_url": "https://www.producthunt.com/posts/hemory",
+        "website": "https://www.producthunt.com/r/DESVXS45MENTRI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Audio"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "humalike-x-gta-rp",
+        "name": "Humalike x GTA RP",
+        "tagline": "AI NPCs that talk, remember & act on their own",
+        "description": "A new roleplay experience. Build characters and entire AI societies with memory, personality and voice that recognize players, form relationships and react to everything around them. Live on Poland's largest roleplay server. Now, add it to yours.",
+        "votes": 333,
+        "ph_url": "https://www.producthunt.com/posts/humalike-x-gta-rp",
+        "website": "https://www.producthunt.com/r/V63RWUYZIRKDTC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Games"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "wzrd-3",
+        "name": "WZRD",
+        "tagline": "AI-native documents, slides, forms and sheets that talk back",
+        "description": "WZRD is for teams and creators working with documents, slides, forms and sheets. Upload existing work or create from a prompt, then turn it into an AI experience users can engage with. Forms collect answers by speaking or typing. Sheets explain numbers out loud. Slides walk people through the story. Documents engage every user. The output stays conversational and responsive.",
+        "votes": 329,
+        "ph_url": "https://www.producthunt.com/posts/wzrd-3",
+        "website": "https://www.producthunt.com/r/6OKF7YXETYBRXV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "No-Code",
+          "Design"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49869574",
+        "name": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+        "url": "https://loficities.com/",
+        "points": 274,
+        "comments": 114,
+        "hn_url": "https://news.ycombinator.com/item?id=49869574"
+      },
+      {
+        "id": "49867775",
+        "name": "Show HN: TinyAIArena watch AI agents battle it out",
+        "url": "https://tinyaiarena.com/",
+        "points": 112,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=49867775"
+      },
+      {
+        "id": "49866597",
+        "name": "Show HN: Building a Markdown editor for Mac, iOS and web",
+        "url": "https://www.markdown.beauty/",
+        "points": 68,
+        "comments": 50,
+        "hn_url": "https://news.ycombinator.com/item?id=49866597"
+      },
+      {
+        "id": "49870394",
+        "name": "Show HN: Cartopolis, interactive globe-sized 3D world",
+        "url": "https://code.garage44.eu/jeroen/cartopolis",
+        "points": 16,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49870394"
+      },
+      {
+        "id": "49876760",
+        "name": "Show HN: Hntui – A TUI for Hacker News",
+        "url": "https://github.com/ahmd-sh/hntui",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49876760"
+      },
+      {
+        "id": "49870654",
+        "name": "Show HN: Jevdit – a social network moderated by Jev",
+        "url": "https://jevdit.com",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49870654"
+      },
+      {
+        "id": "49869904",
+        "name": "Show HN: A bookshelf of rare company documents and out-of-print tech books",
+        "url": "https://rare-books.vercel.app",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49869904"
+      },
+      {
+        "id": "49872550",
+        "name": "Show HN: Panda, the world's first personal AI computer",
+        "url": "https://pandax1.com",
+        "points": 8,
+        "comments": 48,
+        "hn_url": "https://news.ycombinator.com/item?id=49872550"
+      },
+      {
+        "id": "49869662",
+        "name": "Show HN: Kosh – Give your bookmarks a shape worth keeping",
+        "url": "https://addons.mozilla.org/en-US/firefox/addon/kosh/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49869662"
+      },
+      {
+        "id": "49868710",
+        "name": "Show HN: Gat – Version large files with Git, without an LFS server",
+        "url": "https://github.com/getgat-dev/gat",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49868710"
+      },
+      {
+        "id": "49867753",
+        "name": "Show HN: MacUp – keep CLI tools up to date from the menu bar",
+        "url": "https://macup.patriciobcs.com/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49867753"
+      },
+      {
+        "id": "49871569",
+        "name": "Show HN: Fusor – Like Vue, but the logic is Rust",
+        "url": "https://fusor.build",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49871569"
+      },
+      {
+        "id": "49867443",
+        "name": "Show HN: High-performance, zero-dependency charting engine for Svelte",
+        "url": "https://bonguynvan.github.io/tradecanvas/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49867443"
+      },
+      {
+        "id": "49875308",
+        "name": "Show HN: Free alternative to graphics design giants",
+        "url": "https://scissor.studio/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49875308"
+      },
+      {
+        "id": "49874535",
+        "name": "Show HN: Dodosend – a Fast keyboard first Gmail client",
+        "url": "https://dodosend.com",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49874535"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/pombo",
+        "name": "Pombo",
+        "description": "AI-native LCM platform to draft, test, and run email marketing in your tone",
+        "url": "https://betalist.com/startups/pombo"
+      },
+      {
+        "id": "/startups/halv",
+        "name": "Halv",
+        "description": "Make your AI coding plan last twice as long",
+        "url": "https://betalist.com/startups/halv"
+      },
+      {
+        "id": "/startups/dividend-stacker",
+        "name": "Dividend Stacker",
+        "description": "Track high-yield ETF payouts and plan dividend income with real data",
+        "url": "https://betalist.com/startups/dividend-stacker"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/your-ai-is-smart-enough-does-it-know-when-to-stop-f04523df69",
+        "title": "Your AI Is Smart Enough. Does It Know When to Stop?",
+        "url": "https://www.indiehackers.com/post/your-ai-is-smart-enough-does-it-know-when-to-stop-f04523df69",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-got-152-ad-clicks-and-zero-signups-the-bug-wasnt-the-ads-it-was-3-clicks-away-from-the-money-6b51bff45b",
+        "title": "We got 152 ad clicks and zero signups. The bug wasn't the ads — it was 3 clicks away from the money.",
+        "url": "https://www.indiehackers.com/post/we-got-152-ad-clicks-and-zero-signups-the-bug-wasnt-the-ads-it-was-3-clicks-away-from-the-money-6b51bff45b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-tidyledger-to-turn-messy-invoices-into-clean-excel-reports-522b726264",
+        "title": "I built TidyLedger to turn messy invoices into clean Excel reports",
+        "url": "https://www.indiehackers.com/post/i-built-tidyledger-to-turn-messy-invoices-into-clean-excel-reports-522b726264",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-creator-refused-to-endorse-my-product-heres-what-i-fixed-because-of-it-7b68ced7f3",
+        "title": "A creator refused to endorse my product. Here's what I fixed because of it.",
+        "url": "https://www.indiehackers.com/post/a-creator-refused-to-endorse-my-product-heres-what-i-fixed-because-of-it-7b68ced7f3",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
