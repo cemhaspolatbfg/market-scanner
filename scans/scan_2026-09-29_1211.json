@@ -1,0 +1,247 @@
+{
+  "scan_time": "2026-09-29T12:11:43.061032+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "mcp-connectors-by-databox",
+        "name": "MCP Connectors by Databox",
+        "tagline": "Give your AI Analyst context to explain performance and act",
+        "description": "Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.",
+        "votes": 439,
+        "ph_url": "https://www.producthunt.com/posts/mcp-connectors-by-databox",
+        "website": "https://www.producthunt.com/r/G6WOTY7G4NBGJP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Analytics",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "gpt-6-sol-luna",
+        "name": "GPT-6 Sol & Luna",
+        "tagline": "Frontier AI intelligence, now at half the price",
+        "description": "OpenAI expands the GPT-6 family with Sol and Luna with faster, cheaper models trained like Astra. 50% lower API pricing, near-Astra factuality/coding/computer use gains, better prompt caching (90% off cached reads), and alignment improvements. Live in ChatGPT Work, Codex, and via API.",
+        "votes": 338,
+        "ph_url": "https://www.producthunt.com/posts/gpt-6-sol-luna",
+        "website": "https://www.producthunt.com/r/TYGMCTMYJRKMMV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49879401",
+        "name": "Show HN: HN.watch – Videos of all Hacker News posts",
+        "url": "https://hn.watch/",
+        "points": 195,
+        "comments": 96,
+        "hn_url": "https://news.ycombinator.com/item?id=49879401"
+      },
+      {
+        "id": "49880601",
+        "name": "Show HN: Destroy Any Website with Stickman",
+        "url": "https://destroy.spritefusion.com/",
+        "points": 145,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=49880601"
+      },
+      {
+        "id": "49885493",
+        "name": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+        "url": "https://jonclegg.github.io/pacman-bakeoff/",
+        "points": 69,
+        "comments": 42,
+        "hn_url": "https://news.ycombinator.com/item?id=49885493"
+      },
+      {
+        "id": "49877515",
+        "name": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+        "url": "https://www.openappa.com/",
+        "points": 23,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49877515"
+      },
+      {
+        "id": "49877270",
+        "name": "Show HN: Durable Actor Session Protocol",
+        "url": "https://dasp-protocol.github.io/dasp/",
+        "points": 16,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49877270"
+      },
+      {
+        "id": "49877752",
+        "name": "Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents",
+        "url": "https://omnesis.dev/",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49877752"
+      },
+      {
+        "id": "49880129",
+        "name": "Show HN: I built an idle game that rewards you for doomscrolling less",
+        "url": "https://getisland.app/",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49880129"
+      },
+      {
+        "id": "49889817",
+        "name": "Show HN: Lemma.work – Open-source AI coworkers your whole team can share",
+        "url": "https://github.com/lemma-work/lemma-platform",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49889817"
+      },
+      {
+        "id": "49884291",
+        "name": "Show HN: A never-ending chess match between Claude and Codex",
+        "url": "https://claudevcodex.com/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49884291"
+      },
+      {
+        "id": "49880443",
+        "name": "Show HN: Low Poly Earth – The whole planet in 3D, built from OpenStreetMap data",
+        "url": "https://lowpolyearth.pages.dev/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49880443"
+      },
+      {
+        "id": "49879233",
+        "name": "Show HN: Enterprise Postgres for AI and more, from prototype to production",
+        "url": "https://www.pgedge.com/products/starfleet",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49879233"
+      },
+      {
+        "id": "49887154",
+        "name": "Show HN: Talktome - let your AI Agent call you",
+        "url": "https://github.com/rohanprichard/talktome",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49887154"
+      },
+      {
+        "id": "49879629",
+        "name": "Show HN: Agentic Engineered Social Connections and Travel App",
+        "url": "https://www.viamour.app",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49879629"
+      },
+      {
+        "id": "49877953",
+        "name": "Show HN: Geneva – CLI video editor and compositor with a native HTML/CSS engine",
+        "url": "https://github.com/geneva-render/geneva",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49877953"
+      },
+      {
+        "id": "49881201",
+        "name": "Show HN: I'm a dermatologist and I vibe coded a 3D biophysical skin model",
+        "url": "https://www.drmagnuslynch.com/skin",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49881201"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/papaya",
+        "name": "Papaya",
+        "description": "Monitor and auto-optimize your AI agents from trace to fix",
+        "url": "https://betalist.com/startups/papaya"
+      },
+      {
+        "id": "/startups/twinphone",
+        "name": "TwinPhone",
+        "description": "Call without SIM to 145+ countries, no subscription, rent virtual numbers",
+        "url": "https://betalist.com/startups/twinphone"
+      },
+      {
+        "id": "/startups/budgetpixel",
+        "name": "BudgetPixel",
+        "description": "Create images, video, and music with 100+ AI models in one place",
+        "url": "https://betalist.com/startups/budgetpixel"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-generated-100-articles-with-ai-and-got-0-traffic-so-i-built-a-tool-to-fix-seo-hallucinations-01b8078f16",
+        "title": "I generated 100+ articles with AI and got 0 traffic. So I built a tool to fix SEO hallucinations.",
+        "url": "https://www.indiehackers.com/post/i-generated-100-articles-with-ai-and-got-0-traffic-so-i-built-a-tool-to-fix-seo-hallucinations-01b8078f16",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-first-paying-customer-came-from-151-impressions-what-their-first-day-looked-like-afd76d79b8",
+        "title": "My first paying customer came from 151 impressions. What their first day looked like",
+        "url": "https://www.indiehackers.com/post/my-first-paying-customer-came-from-151-impressions-what-their-first-day-looked-like-afd76d79b8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-browser-extension-for-the-thing-that-was-eating-my-day-731143f33c",
+        "title": "I built a browser extension for the thing that was eating my day",
+        "url": "https://www.indiehackers.com/post/i-built-a-browser-extension-for-the-thing-that-was-eating-my-day-731143f33c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/day-1-of-building-a-harness-for-long-running-ai-agents-13d2f95382",
+        "title": "Day 1 of building a harness for long-running AI agents",
+        "url": "https://www.indiehackers.com/post/day-1-of-building-a-harness-for-long-running-ai-agents-13d2f95382",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-subpulse-with-0-users-heres-what-happened-after-90-days-6b3bcbdd66",
+        "title": "I launched SubPulse with 0 users. Here's what happened after 90 days",
+        "url": "https://www.indiehackers.com/post/i-launched-subpulse-with-0-users-heres-what-happened-after-90-days-6b3bcbdd66",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchnest-ln-16?post=rRXFn49kTlM0nFFKqgoG#post-rRXFn49kTlM0nFFKqgoG",
+        "title": "LaunchNest LN: You Don’t Need Another Directory. You Need Discovery",
+        "url": "https://www.indiehackers.com/product/launchnest-ln-16?post=rRXFn49kTlM0nFFKqgoG#post-rRXFn49kTlM0nFFKqgoG",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-turned-off-paid-ads-daily-sign-ups-fell-about-90-within-two-days-heres-what-we-re-trying-instead-ceb81b670e",
+        "title": "We turned off paid ads. Daily sign-ups fell about 90% within two days. Here's what we're trying instead.",
+        "url": "https://www.indiehackers.com/post/we-turned-off-paid-ads-daily-sign-ups-fell-about-90-within-two-days-heres-what-we-re-trying-instead-ceb81b670e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/turning-a-freelance-gig-into-a-150k-yr-product-tDdZGZyiyNTztPfI2wkY",
+        "title": "Turning a freelance gig into a $150k/yr product",
+        "url": "https://www.indiehackers.com/post/tech/turning-a-freelance-gig-into-a-150k-yr-product-tDdZGZyiyNTztPfI2wkY",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
