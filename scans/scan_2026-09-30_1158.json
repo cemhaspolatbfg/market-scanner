@@ -1,0 +1,243 @@
+{
+  "scan_time": "2026-09-30T11:58:37.687954+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "ifixai",
+        "name": "iFixAi",
+        "tagline": "Independent auditing of AI agents to uncover misalignment",
+        "description": "iFixAi is an independent auditor helping companies assess whether they can trust their AI agents. Unlike relying solely on evals and observability tools, its multifaceted audit includes 250 inspections across 69 categories of AI misalignment, combining AI red teaming, operational assurance, and philosophical, ethical, and sociological perspectives. It identifies failures under testing, explains their business implications, and provides evidence engineers can use to investigate and fix them.",
+        "votes": 404,
+        "ph_url": "https://www.producthunt.com/posts/ifixai",
+        "website": "https://www.producthunt.com/r/GH7ZXAZXZF36UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "luci-desktop",
+        "name": "LUCI Desktop",
+        "tagline": "Let your AI agents remember what you've seen",
+        "description": "Luci saves your screen history and meeting transcripts locally, so agents like Claude Code, Cursor and Codex can help you find a page you forgot to bookmark or recall a decision from a call. Capture context across apps without setting up a connector for each one. Includes on-device transcription and daily summaries with Microsoft Foundry Local. Free for Mac and Windows.",
+        "votes": 354,
+        "ph_url": "https://www.producthunt.com/posts/luci-desktop",
+        "website": "https://www.producthunt.com/r/IAYIS7TAFM7O7D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "eclatira",
+        "name": "Eclatira",
+        "tagline": "Conversational Video Agent That Plugs Into Any Stack",
+        "description": "Plug real-time conversational video AI into any application. Eclatira gives developers native voice-to-voice, live vision, and full-stack execution across custom APIs, MCPs, and 3,000+ apps. Ship autonomous multimodal video agents fast.",
+        "votes": 328,
+        "ph_url": "https://www.producthunt.com/posts/eclatira",
+        "website": "https://www.producthunt.com/r/P76YJSQUC3QKHK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49898778",
+        "name": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+        "url": "https://space.bl2.net/",
+        "points": 275,
+        "comments": 67,
+        "hn_url": "https://news.ycombinator.com/item?id=49898778"
+      },
+      {
+        "id": "49894351",
+        "name": "Show HN: NSL – WSL for Linux",
+        "url": "https://frostyard.github.io/nsl/",
+        "points": 140,
+        "comments": 84,
+        "hn_url": "https://news.ycombinator.com/item?id=49894351"
+      },
+      {
+        "id": "49896757",
+        "name": "Show HN: A working 3D model of an Enigma machine",
+        "url": "https://enigma.design",
+        "points": 75,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=49896757"
+      },
+      {
+        "id": "49891769",
+        "name": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+        "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
+        "points": 63,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49891769"
+      },
+      {
+        "id": "49898931",
+        "name": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+        "url": "https://github.com/lostmsu/TurboGPT",
+        "points": 52,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49898931"
+      },
+      {
+        "id": "49894301",
+        "name": "Show HN: Sezwhere – Ask any document \"where does it say that?\" (built on Jev)",
+        "url": "https://sezwhere.com/",
+        "points": 19,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49894301"
+      },
+      {
+        "id": "49898958",
+        "name": "Show HN: Sarala – An open-source WYSIWYG Markdown editor",
+        "url": "https://sarala.solancer.com/",
+        "points": 17,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49898958"
+      },
+      {
+        "id": "49902382",
+        "name": "Show HN: Ledge.sh – Runnable Markdown Notes",
+        "url": "https://ledge.sh",
+        "points": 15,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49902382"
+      },
+      {
+        "id": "49895326",
+        "name": "Show HN: Free browser games designed for 80-year-old eyes and hands",
+        "url": "https://freegamesforseniors.com/",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49895326"
+      },
+      {
+        "id": "49893702",
+        "name": "Show HN: We built a way for web apps to message users' phones without SMS",
+        "url": "https://thenotifier.app/developers/",
+        "points": 7,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49893702"
+      },
+      {
+        "id": "49891989",
+        "name": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
+        "url": "https://github.com/ivankovic/codediff",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49891989"
+      },
+      {
+        "id": "49892613",
+        "name": "Show HN: NetWasm – Independent .NET Compiler/Runtime (82.5 KB Hello World in C#)",
+        "url": "https://playground.netwasm.com/",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49892613"
+      },
+      {
+        "id": "49893427",
+        "name": "Show HN: Misanthropic – an AI that's honest about how it feels about you",
+        "url": "https://misanthropic.chat",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49893427"
+      },
+      {
+        "id": "49893845",
+        "name": "Show HN: Ctxfw – AST context firewall that cuts agent prompt tokens by 67%",
+        "url": "https://github.com/heuristicolab/ctxfw",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49893845"
+      },
+      {
+        "id": "49900760",
+        "name": "Show HN: Phyics-Based Dice Roller",
+        "url": "https://dice.jswidler.com/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49900760"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/astrocarto",
+        "name": "AstroCarto",
+        "description": "Interactive astrocartography maps, deep reports, and AI insights",
+        "url": "https://betalist.com/startups/astrocarto"
+      },
+      {
+        "id": "/startups/gensend",
+        "name": "GenSend",
+        "description": "Launch an AI agent to find, personalize, and win authoritative backlinks",
+        "url": "https://betalist.com/startups/gensend"
+      },
+      {
+        "id": "/startups/tickralert",
+        "name": "TickrAlert",
+        "description": "Set stock alerts and get instant email or SMS notifications",
+        "url": "https://betalist.com/startups/tickralert"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/we-built-a-local-video-workspace-because-our-agent-could-generate-clips-but-could-not-edit-them-ae003438a2",
+        "title": "We built a local video workspace because our agent could generate clips but could not edit them",
+        "url": "https://www.indiehackers.com/post/we-built-a-local-video-workspace-because-our-agent-could-generate-clips-but-could-not-edit-them-ae003438a2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-routeflow-a-saas-for-climbing-gyms-and-route-setters-ca358a50df",
+        "title": "Building RouteFlow — a SaaS for climbing gyms and route setters",
+        "url": "https://www.indiehackers.com/post/building-routeflow-a-saas-for-climbing-gyms-and-route-setters-ca358a50df",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/inide-need?post=sBBwjrpWAzz9uFtlJEnT#post-sBBwjrpWAzz9uFtlJEnT",
+        "title": "Inide Need: If You’ve Built Something Useful, I Want to See It on IndieNeed",
+        "url": "https://www.indiehackers.com/product/inide-need?post=sBBwjrpWAzz9uFtlJEnT#post-sBBwjrpWAzz9uFtlJEnT",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-shipped-recently-of-an-open-source-architecture-guard-for-ai-coding-agents-5a95c0de3a",
+        "title": "I shipped recently of an open-source architecture guard for AI coding agents",
+        "url": "https://www.indiehackers.com/post/i-shipped-recently-of-an-open-source-architecture-guard-for-ai-coding-agents-5a95c0de3a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/hitting-60k-mrr-by-building-an-sdk-instead-of-an-app-0B3bsTvvOG0wqf8cAx1v",
+        "title": "Hitting $60k MRR by building an SDK instead of an app",
+        "url": "https://www.indiehackers.com/post/tech/hitting-60k-mrr-by-building-an-sdk-instead-of-an-app-0B3bsTvvOG0wqf8cAx1v",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
