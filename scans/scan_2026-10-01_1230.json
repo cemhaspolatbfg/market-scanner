@@ -1,0 +1,250 @@
+{
+  "scan_time": "2026-10-01T12:30:39.389450+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "pexo-2",
+        "name": "Pexo",
+        "tagline": "Produce pitch perfect launch videos with precise control",
+        "description": "Pexo makes creating your launch video as simple as having a conversation. Share your product, website, or assets. It plans the story, chooses the right AI model for each task, generates and assembles the scenes, and handles voiceover, music, captions, motion graphics, and editing. Leave a comment or circle what you want changed, and Pexo makes the edit. You direct one agent from idea to a finished, on-brand launch video.",
+        "votes": 406,
+        "ph_url": "https://www.producthunt.com/posts/pexo-2",
+        "website": "https://www.producthunt.com/r/O3T2IT5O2KIEFF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "ferndesk",
+        "name": "Ferndesk",
+        "tagline": "The help center that never goes out of date",
+        "description": "Ferndesk is a complete help center with an agent that checks every article against your product, catches what changed, and drafts the fixes for you.",
+        "votes": 369,
+        "ph_url": "https://www.producthunt.com/posts/ferndesk",
+        "website": "https://www.producthunt.com/r/576PDTHXOH2PTI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Customer Success",
+          "Customer Communication",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "salesmartly",
+        "name": "SaleSmartly",
+        "tagline": "Turn conversations across every channel into customers",
+        "description": "SaleSmartly brings customer conversations from WhatsApp, Instagram, Messenger, TikTok, Telegram, LINE, WeChat and more into one workspace. Manage leads with a built-in CRM, let AI agents answer questions and qualify customers 24/7, translate conversations in real time, and automate follow-ups—all while your team keeps the context needed to turn more conversations into customers.",
+        "votes": 327,
+        "ph_url": "https://www.producthunt.com/posts/salesmartly",
+        "website": "https://www.producthunt.com/r/EZKALQKOCUWIZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Messaging",
+          "Sales",
+          "Social Media"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49909648",
+        "name": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+        "url": "https://lathoa.ai/en",
+        "points": 51,
+        "comments": 45,
+        "hn_url": "https://news.ycombinator.com/item?id=49909648"
+      },
+      {
+        "id": "49910328",
+        "name": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+        "url": "https://openparrot.app",
+        "points": 32,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=49910328"
+      },
+      {
+        "id": "49911931",
+        "name": "Show HN: I built a free Burp/Caido alternative but, zero setup - API Testing",
+        "url": "https://apiaxess.dev",
+        "points": 30,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49911931"
+      },
+      {
+        "id": "49916997",
+        "name": "Show HN: Yantra – an LALR(1) parser generator for C++",
+        "url": "https://github.com/TantrixAuto/yantra",
+        "points": 24,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=49916997"
+      },
+      {
+        "id": "49909913",
+        "name": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+        "url": "https://strata.do/",
+        "points": 19,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49909913"
+      },
+      {
+        "id": "49909980",
+        "name": "Show HN: An old school forum on an open protocol – your identity is a keypair",
+        "url": "https://nostr-proto.org/",
+        "points": 16,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49909980"
+      },
+      {
+        "id": "49914005",
+        "name": "Show HN: Perspica – A semantic diff for reviewing code",
+        "url": "https://github.com/sshah03/perspica",
+        "points": 13,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49914005"
+      },
+      {
+        "id": "49911910",
+        "name": "Show HN: Token compression CLI to save Codex/Astra costs",
+        "url": "",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49911910"
+      },
+      {
+        "id": "49916539",
+        "name": "Show HN: Kanmaps – Product roadmaps like videogame skill trees",
+        "url": "https://kanmaps.com/show",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49916539"
+      },
+      {
+        "id": "49910148",
+        "name": "Show HN: How we made web agents 3x faster by building the missing memory layer",
+        "url": "https://blog.reduck.ai/browser-action-memory-layer-for-faster-agents/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49910148"
+      },
+      {
+        "id": "49909695",
+        "name": "Show HN: Riffle – Switch between windows of the current Mac app with Option-Tab",
+        "url": "https://github.com/voising/riffle",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49909695"
+      },
+      {
+        "id": "49914804",
+        "name": "Show HN: DragomanD – local language translator for Linux",
+        "url": "https://dragomand.l10n-bg.dev/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49914804"
+      },
+      {
+        "id": "49911411",
+        "name": "Show HN: Datastory, Data storytelling with AI and an open knowledge graph",
+        "url": "https://www.datastory.tech",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49911411"
+      },
+      {
+        "id": "49910921",
+        "name": "Show HN: Ctrl+F Finds Words. I Wanted It to Find Answers",
+        "url": "https://blog.tymscar.com/posts/hunchsemanticfind/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49910921"
+      },
+      {
+        "id": "49908132",
+        "name": "Show HN: Wn – find the files a bug touches, trained on 1.1M real fixes",
+        "url": "https://github.com/andreylukin/where-next",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49908132"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/attache",
+        "name": "Attaché",
+        "description": "Get personalized interactive news briefings over the phone",
+        "url": "https://betalist.com/startups/attache"
+      },
+      {
+        "id": "/startups/household-saga",
+        "name": "Household Saga",
+        "description": "Manage personal and shared finances in one clear, connected view",
+        "url": "https://betalist.com/startups/household-saga"
+      },
+      {
+        "id": "/startups/talaforge",
+        "name": "Talaforge",
+        "description": "Create AI characters in Telegram that remember, flirt, and speak",
+        "url": "https://betalist.com/startups/talaforge"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-went-through-290-founders-mrr-posts-the-ones-past-10k-got-their-first-customers-a-different-way-ff0f3e5904",
+        "title": "I went through 290 founders' MRR posts. The ones past $10k got their first customers a different way",
+        "url": "https://www.indiehackers.com/post/i-went-through-290-founders-mrr-posts-the-ones-past-10k-got-their-first-customers-a-different-way-ff0f3e5904",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/28-days-of-seo-data-and-the-number-that-actually-matters-isnt-traffic-761d658325",
+        "title": "28 days of SEO data, and the number that actually matters isn't traffic",
+        "url": "https://www.indiehackers.com/post/28-days-of-seo-data-and-the-number-that-actually-matters-isnt-traffic-761d658325",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/inide-need?post=M88AwEQoes61jSvbWkqH#post-M88AwEQoes61jSvbWkqH",
+        "title": "InideNeed.com: Just Launched Something? Add It to IndieNeed",
+        "url": "https://www.indiehackers.com/product/inide-need?post=M88AwEQoes61jSvbWkqH#post-M88AwEQoes61jSvbWkqH",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=xRymftck4YdiBc4s3tWW#post-xRymftck4YdiBc4s3tWW",
+        "title": "LaunchOnIt: The Wednesday reality check: why shipping messy features beats waiting for perfection every single time",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=xRymftck4YdiBc4s3tWW#post-xRymftck4YdiBc4s3tWW",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-free-tool-that-gives-freelancers-stripe-payment-links-collects-client-testimonials-84cf0585da",
+        "title": "I built a free tool that gives freelancers Stripe payment links + collects client testimonials",
+        "url": "https://www.indiehackers.com/post/i-built-a-free-tool-that-gives-freelancers-stripe-payment-links-collects-client-testimonials-84cf0585da",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-started-with-folders-the-deeper-problem-was-keeping-work-reusable-71d55ee722",
+        "title": "We started with folders. The deeper problem was keeping work reusable",
+        "url": "https://www.indiehackers.com/post/we-started-with-folders-the-deeper-problem-was-keeping-work-reusable-71d55ee722",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 3,
+      "new": 3
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
