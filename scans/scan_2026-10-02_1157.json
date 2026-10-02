@@ -1,0 +1,226 @@
+{
+  "scan_time": "2026-10-02T11:56:50.754754+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "monospace-from-directus",
+        "name": "Monospace from Directus",
+        "tagline": "The governed API layer for every app, person, and agent",
+        "description": "Monospace sits between enterprise data and everyone who builds on it. Connect any data source, and your developers, business teams, and AI agents get live, read-write access to it. All under the same granular permissions model, with no data copied or moved. Your oldest databases weren't built with AI or modern apps in mind. Monospace generates interfaces directly from them, as they are, introspecting the schema and queries in real time, so they don’t need to be rebuilt.",
+        "votes": 437,
+        "ph_url": "https://www.producthunt.com/posts/monospace-from-directus",
+        "website": "https://www.producthunt.com/r/OROVPQZ3Y6HPUR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Data"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49926773",
+        "name": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "url": "https://github.com/Vibra-Ingenn/Janus",
+        "points": 79,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49926773"
+      },
+      {
+        "id": "49926726",
+        "name": "Show HN: Rhun, an open-source code editor written in assembly",
+        "url": "https://rhun.app/",
+        "points": 55,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=49926726"
+      },
+      {
+        "id": "49931031",
+        "name": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+        "url": "https://github.com/kvoltmer/Audionaut",
+        "points": 31,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49931031"
+      },
+      {
+        "id": "49928566",
+        "name": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+        "url": "https://stillwet.art/",
+        "points": 20,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49928566"
+      },
+      {
+        "id": "49924943",
+        "name": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+        "url": "https://innerloop.works/breadcrumb",
+        "points": 20,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49924943"
+      },
+      {
+        "id": "49926185",
+        "name": "Show HN: What 482 hospitals charge vs. what insurers pay, from their own files",
+        "url": "https://www.billmender.com/hospital-prices",
+        "points": 17,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49926185"
+      },
+      {
+        "id": "49923064",
+        "name": "Show HN: Engrams, an open source alternative to Devin",
+        "url": "https://github.com/cortexapps/engrams",
+        "points": 17,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49923064"
+      },
+      {
+        "id": "49921801",
+        "name": "Show HN: Helo – An email API from former Postmark folks",
+        "url": "https://www.helohq.com",
+        "points": 15,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49921801"
+      },
+      {
+        "id": "49926691",
+        "name": "Show HN: Premortem – AI agents that red-team your startup idea",
+        "url": "https://premortem.site",
+        "points": 9,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=49926691"
+      },
+      {
+        "id": "49923223",
+        "name": "Show HN: Gutsy, a 0.8B Jev-compatible decision model that runs on your CPU",
+        "url": "https://github.com/kouhxp/gutsy",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49923223"
+      },
+      {
+        "id": "49922799",
+        "name": "Show HN: Fast browser agent (using Jev) with deep reasoning as needed",
+        "url": "https://github.com/ironbee-ai/ironbee-express",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49922799"
+      },
+      {
+        "id": "49928011",
+        "name": "Show HN: PhreshOS – OS for Web Apps",
+        "url": "https://github.com/PhreshOS/system",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49928011"
+      },
+      {
+        "id": "49927221",
+        "name": "Show HN: A 100% Client-Side HAR Analyzer That Parses Logs in Seconds",
+        "url": "https://har-analyzer.onlinetool.workers.dev/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49927221"
+      },
+      {
+        "id": "49928215",
+        "name": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+        "url": "https://github.com/kitao/pyxel",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49928215"
+      },
+      {
+        "id": "49923102",
+        "name": "Show HN: Benchmark: AI doesn't find bugs unless you tell it what's wrong",
+        "url": "https://swesweep.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49923102"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/demovine",
+        "name": "DemoVine",
+        "description": "Browser extension to capture, share and track interactive web app demos",
+        "url": "https://betalist.com/startups/demovine"
+      },
+      {
+        "id": "/startups/whereon",
+        "name": "Whereon",
+        "description": "Track and improve your local business visibility in AI answers",
+        "url": "https://betalist.com/startups/whereon"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/sudden-3-000-installs-a-gift-from-the-universe-or-a-repeatable-channel-141e3bd463",
+        "title": "Sudden 3,000 installs: a gift from the universe or a repeatable channel?",
+        "url": "https://www.indiehackers.com/post/sudden-3-000-installs-a-gift-from-the-universe-or-a-repeatable-channel-141e3bd463",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/leapd-vs-lovable-what-has-changed-in-2026-5e62ea0286",
+        "title": "Leapd vs Lovable - what has changed in 2026?",
+        "url": "https://www.indiehackers.com/post/leapd-vs-lovable-what-has-changed-in-2026-5e62ea0286",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-to-find-the-trial-users-most-likely-to-convert-c9070f3698",
+        "title": "How to find the trial users most likely to convert",
+        "url": "https://www.indiehackers.com/post/how-to-find-the-trial-users-most-likely-to-convert-c9070f3698",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/can-one-product-replace-five-without-becoming-complicated-88e99f0748",
+        "title": "Can one product replace five without becoming complicated?",
+        "url": "https://www.indiehackers.com/post/can-one-product-replace-five-without-becoming-complicated-88e99f0748",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-building-the-kayak-of-running-shoes-runometry-841-shoes-6-languages-zero-ads-19c2849a20",
+        "title": "I'm building the \"Kayak of running shoes\": Runometry, 841 shoes, 6 languages, zero ads",
+        "url": "https://www.indiehackers.com/post/im-building-the-kayak-of-running-shoes-runometry-841-shoes-6-languages-zero-ads-19c2849a20",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-got-50-paid-users-then-learned-that-building-the-tool-wasn-t-enough-e963a2faf8",
+        "title": "We got 50 paid users, then learned that building the tool wasn’t enough",
+        "url": "https://www.indiehackers.com/post/we-got-50-paid-users-then-learned-that-building-the-tool-wasn-t-enough-e963a2faf8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-gained-100-users-this-month-most-of-them-will-never-pay-us-a-cent-6b6920845d",
+        "title": "We gained 100 users this month. Most of them will never pay us a cent",
+        "url": "https://www.indiehackers.com/post/we-gained-100-users-this-month-most-of-them-will-never-pay-us-a-cent-6b6920845d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/using-custom-infrastructure-as-a-competitive-advantage-and-hitting-31k-mrr-KgfHz813vyyWeszqJMIi",
+        "title": "Using custom infrastructure as a competitive advantage and hitting $31k MRR",
+        "url": "https://www.indiehackers.com/post/tech/using-custom-infrastructure-as-a-competitive-advantage-and-hitting-31k-mrr-KgfHz813vyyWeszqJMIi",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
