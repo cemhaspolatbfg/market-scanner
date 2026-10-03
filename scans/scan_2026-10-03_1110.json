@@ -1,0 +1,229 @@
+{
+  "scan_time": "2026-10-03T11:09:56.495794+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "gauth-unlimited-digital-canvas",
+        "name": "Gauth Unlimited Digital Canvas ",
+        "tagline": "An AI tutor on an infinite whiteboard, not a chat thread",
+        "description": "Gauth AI Course now runs on an Unlimited Digital Canvas: one continuous whiteboard where lessons unfold spatially instead of in a chat thread or slide deck. Chapters expand side by side as narration plays, board notes write out in sync with the AI voice, and you can zoom from the full concept map down to a single formula. Pause anytime to ask the AI Tutor, and it answers right on the board beneath your step. Generate a canvas lesson on any topic, then export it as a PDF or share a link.",
+        "votes": 480,
+        "ph_url": "https://www.producthunt.com/posts/gauth-unlimited-digital-canvas",
+        "website": "https://www.producthunt.com/r/TCMAWBRPUPSDRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Education",
+          "Artificial Intelligence",
+          "Online Learning"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "humalike-ai-npc",
+        "name": "Humalike - AI NPC",
+        "tagline": "AI NPCs that talk, remember & act on their own",
+        "description": "A new roleplay experience. Build characters and entire AI societies with memory, personality and voice that recognize players, form relationships and react to everything around them. Live on Poland's largest roleplay server. Now, add it to yours.",
+        "votes": 357,
+        "ph_url": "https://www.producthunt.com/posts/humalike-ai-npc",
+        "website": "https://www.producthunt.com/r/V63RWUYZIRKDTC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Games"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49937916",
+        "name": "Show HN: Made an open-source Lego AI generator",
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "points": 116,
+        "comments": 45,
+        "hn_url": "https://news.ycombinator.com/item?id=49937916"
+      },
+      {
+        "id": "49940317",
+        "name": "Show HN: Timeline of the Far Future",
+        "url": "https://rivendell.dmitrybrant.com/farfuture/",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49940317"
+      },
+      {
+        "id": "49940653",
+        "name": "Show HN: Google Maps Scraper MCP",
+        "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49940653"
+      },
+      {
+        "id": "49938748",
+        "name": "Show HN: Rank every HN \"Who is hiring?\" post against your resume, locally",
+        "url": "https://github.com/MaxwellVolz/hn_whos_hiring",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49938748"
+      },
+      {
+        "id": "49937352",
+        "name": "Show HN: Enki – Write GPU compute kernels in pure stable Rust",
+        "url": "https://github.com/enkiruntime/enki",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49937352"
+      },
+      {
+        "id": "49937304",
+        "name": "Show HN: Pi pod – run your pi coding agent in sandboxes on your own server",
+        "url": "https://pipod.dev/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49937304"
+      },
+      {
+        "id": "49939817",
+        "name": "Show HN: Television – an open source GUI for your agent harness",
+        "url": "https://television.run/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49939817"
+      },
+      {
+        "id": "49933810",
+        "name": "Show HN: Bise – a multi-agent harness, made for humans",
+        "url": "https://bise.dev/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49933810"
+      },
+      {
+        "id": "49936621",
+        "name": "Show HN: I'm color blind, so I built a way to show people how I see",
+        "url": "https://www.josh.ing/howisee",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49936621"
+      },
+      {
+        "id": "49935328",
+        "name": "Show HN: Sidekins – a Mac companion that visits friends and does your work",
+        "url": "https://www.sidekins.com",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49935328"
+      },
+      {
+        "id": "49937235",
+        "name": "Show HN: Draw from your friends' Claude quota",
+        "url": "https://github.com/jaynlabs/jaynshare",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49937235"
+      },
+      {
+        "id": "49933006",
+        "name": "Show HN: Noite – Enjoy Most of Cloudflare Worker APIs on Your Potato VPS",
+        "url": "https://noite.now/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49933006"
+      },
+      {
+        "id": "49940599",
+        "name": "Show HN: 80s Choplifter game ported to Vision Pro as an agent eval (WIP)",
+        "url": "https://www.bounds.dev/posts/rescue82-making-a-choplifter-style-game-for-apple-vision-pro/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49940599"
+      },
+      {
+        "id": "49936394",
+        "name": "Show HN: Arda – Marketing agents to help brands win Google and AI Search",
+        "url": "https://www.ardainc.com",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49936394"
+      },
+      {
+        "id": "49934766",
+        "name": "Show HN: Ask LM Studio – Use local models directly in the Firefox sidebar",
+        "url": "https://github.com/gocemitevski/ask-lm-studio",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49934766"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/aiveed-io",
+        "name": "AIVEED.IO",
+        "description": "Turn ideas into professional AI videos in minutes with pay-per-use",
+        "url": "https://betalist.com/startups/aiveed-io"
+      },
+      {
+        "id": "/startups/usertold",
+        "name": "UserTold",
+        "description": "Run voice interviews at the exact moment users get stuck",
+        "url": "https://betalist.com/startups/usertold"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-use-my-own-saas-to-market-my-other-app-here-s-what-being-my-first-customer-taught-me-1f960e1340",
+        "title": "I use my own SaaS to market my other app. Here’s what being my first customer taught me.",
+        "url": "https://www.indiehackers.com/post/i-use-my-own-saas-to-market-my-other-app-here-s-what-being-my-first-customer-taught-me-1f960e1340",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-whatsapp-voice-note-translator-for-my-own-family-my-product-hunt-launch-got-1-upvote-what-would-you-do-next-49f20dd42e",
+        "title": "I built a WhatsApp voice-note translator for my own family. My Product Hunt launch got 1 upvote. What would you do next?",
+        "url": "https://www.indiehackers.com/post/i-built-a-whatsapp-voice-note-translator-for-my-own-family-my-product-hunt-launch-got-1-upvote-what-would-you-do-next-49f20dd42e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-tried-to-buy-ai-api-credits-in-india-card-failed-10-times-so-i-built-my-own-gateway-5d9326e046",
+        "title": "I tried to buy AI API credits in India. Card failed 10+ times. So I built my own gateway.",
+        "url": "https://www.indiehackers.com/post/i-tried-to-buy-ai-api-credits-in-india-card-failed-10-times-so-i-built-my-own-gateway-5d9326e046",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=cZWVr4uY6ps02s7BrliG#post-cZWVr4uY6ps02s7BrliG",
+        "title": "LaunchOnIt: The golden rule of building an indie project: solve a painful workflow for yourself first",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=cZWVr4uY6ps02s7BrliG#post-cZWVr4uY6ps02s7BrliG",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-built-a-dashboard-for-our-teams-ai-coding-bill-16-users-0-strangers-what-would-you-change-3eb9aa24fe",
+        "title": "We built a dashboard for our team's AI coding bill. 16 users, 0 strangers. What would you change?",
+        "url": "https://www.indiehackers.com/post/we-built-a-dashboard-for-our-teams-ai-coding-bill-16-users-0-strangers-what-would-you-change-3eb9aa24fe",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-much-time-do-you-spend-figuring-out-what-actually-happened-during-an-incident-58aee32d8e",
+        "title": "How much time do you spend figuring out what actually happened during an incident?",
+        "url": "https://www.indiehackers.com/post/how-much-time-do-you-spend-figuring-out-what-actually-happened-during-an-incident-58aee32d8e",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
