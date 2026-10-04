@@ -1,0 +1,217 @@
+{
+  "scan_time": "2026-10-04T11:49:51.851999+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "zoowork",
+        "name": "ZooWork",
+        "tagline": "The AI agent delivery platform for FDEs and domain experts",
+        "description": "ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API. Turn your expertise into AI solutions built for real business operations.",
+        "votes": 323,
+        "ph_url": "https://www.producthunt.com/posts/zoowork",
+        "website": "https://www.producthunt.com/r/EIW66MPSNX7TY2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "yedric-ai",
+        "name": "Yedric.ai",
+        "tagline": "Let users control your SaaS with natural language",
+        "description": "Your users shouldn't have to learn where every feature lives. Yedric adds an embeddable AI agent to your SaaS that turns natural-language requests into actions your product already knows how to perform. Users simply say what they want done and Yedric handles the interaction. Instead of building and maintaining your own agent experience, developers can make their existing product AI-native in under 30 minutes.",
+        "votes": 319,
+        "ph_url": "https://www.producthunt.com/posts/yedric-ai",
+        "website": "https://www.producthunt.com/r/DCVAH43A532K2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49945058",
+        "name": "Show HN: Factorio but with unreliable components",
+        "url": "https://think-twice.me/public/rely/",
+        "points": 15,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=49945058"
+      },
+      {
+        "id": "49947404",
+        "name": "Show HN: Local pretrained classifiers, GPU not needed",
+        "url": "https://github.com/nicobrenner/jeffy",
+        "points": 8,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49947404"
+      },
+      {
+        "id": "49949172",
+        "name": "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+        "url": "https://getjpm.sh/",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49949172"
+      },
+      {
+        "id": "49945661",
+        "name": "Show HN: I made a Mac app to centralize and monitor my dev tools",
+        "url": "https://coisland.app/",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49945661"
+      },
+      {
+        "id": "49949340",
+        "name": "Show HN: Second Strike, a 200-player world war on a 3D globe in the browser",
+        "url": "https://secondstrike.io/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49949340"
+      },
+      {
+        "id": "49946139",
+        "name": "Show HN: UI for answering agent questions async",
+        "url": "https://docs.plannotator.ai/open-source/workflows/questions",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49946139"
+      },
+      {
+        "id": "49949097",
+        "name": "Show HN: I built a vibe coded website checker for leaked secrets",
+        "url": "https://digitup.dev",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49949097"
+      },
+      {
+        "id": "49947482",
+        "name": "Show HN: Four LLMs play 20 questions for real money, live",
+        "url": "https://aquarium.money/twenty",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49947482"
+      },
+      {
+        "id": "49944196",
+        "name": "Show HN: Photoc – Command-line tools for photographers",
+        "url": "https://github.com/ahmetomerv/photoc",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49944196"
+      },
+      {
+        "id": "49951110",
+        "name": "Show HN: Random Word Generator",
+        "url": "https://arandomword.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49951110"
+      },
+      {
+        "id": "49947816",
+        "name": "Show HN: NetworkX and pyarrow = 6-7x memory savings",
+        "url": "https://github.com/networkx/networkx/discussions/8933",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49947816"
+      },
+      {
+        "id": "49944383",
+        "name": "Show HN: Deterministic security scanner for Model Context Protocol",
+        "url": "https://github.com/zariffromlatif/life-forge",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49944383"
+      },
+      {
+        "id": "49943497",
+        "name": "Show HN: Screen Loupe – a live, pixel-true magnifier for your Mac's screen",
+        "url": "https://github.com/ayenora/screen-loupe",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49943497"
+      },
+      {
+        "id": "49946507",
+        "name": "Show HN: Claude Code Routine Session Cleanup Skill",
+        "url": "https://github.com/naw103/claude-routine-cleanup",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49946507"
+      },
+      {
+        "id": "49946437",
+        "name": "Show HN: Made a Taboo-style game where Jev tries to guess your word",
+        "url": "https://yorohan.com/clue-me",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49946437"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/taskninja",
+        "name": "TaskNinja",
+        "description": "A free task manager for to-dos, meetings, teams, and AI integration",
+        "url": "https://betalist.com/startups/taskninja"
+      },
+      {
+        "id": "/startups/moonship",
+        "name": "Moonship",
+        "description": "Turn analytics into action with intelligent signals and A/B testing",
+        "url": "https://betalist.com/startups/moonship"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-60k-mo-point-of-sale-business-starting-in-high-school-now-im-starting-over-at-0-with-cleaning-companies-06eeded96a",
+        "title": "I built a $60k/mo point of sale business starting in high school. Now I'm starting over at $0 with cleaning companies.",
+        "url": "https://www.indiehackers.com/post/i-built-a-60k-mo-point-of-sale-business-starting-in-high-school-now-im-starting-over-at-0-with-cleaning-companies-06eeded96a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/papertrack?post=Gb3M05hjmgy8uX95GsmI#post-Gb3M05hjmgy8uX95GsmI",
+        "title": "PaperTrack: We crossed 1000 active users and 50+ paying accounts — in one month",
+        "url": "https://www.indiehackers.com/product/papertrack?post=Gb3M05hjmgy8uX95GsmI#post-Gb3M05hjmgy8uX95GsmI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-started-building-ai-that-could-help-run-a-business-the-hard-part-turned-out-not-to-be-the-ai-a89f878469",
+        "title": "I started building AI that could help run a business. The hard part turned out not to be the AI.",
+        "url": "https://www.indiehackers.com/post/i-started-building-ai-that-could-help-run-a-business-the-hard-part-turned-out-not-to-be-the-ai-a89f878469",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launched-my-first-ios-app-10-days-ago-ascend-a-net-worth-tracker-for-people-who-hate-budgeting-heres-the-honest-post-mortem-0201a023a5",
+        "title": "Launched my first iOS app 10 days ago: Ascend, a net-worth tracker for people who hate budgeting. Here's the honest post-mortem.",
+        "url": "https://www.indiehackers.com/post/launched-my-first-ios-app-10-days-ago-ascend-a-net-worth-tracker-for-people-who-hate-budgeting-heres-the-honest-post-mortem-0201a023a5",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
