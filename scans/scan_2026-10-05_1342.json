@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-10-05T13:42:10.119483+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "corespeed",
+        "name": "CoreSpeed",
+        "tagline": "One MCP for everything your agents need: apps, memory, tools",
+        "description": "CoreSpeed is an operating system for agents. Connect apps once and bring your accounts and shared or private memory to Claude Code, Codex, Cursor and other MCP agents. Use multiple accounts per app, including X, with web search, social research and media generation built in. CoreSpeed holds app credentials. Budgets, activity logs and Smart Approval (beta) keep agents in check. Planned: Agent Drive, Mail, Pay, sandboxes, and more. Everything your agents need, through one MCP endpoint.",
+        "votes": 324,
+        "ph_url": "https://www.producthunt.com/posts/corespeed",
+        "website": "https://www.producthunt.com/r/ZNJTNNHC4VT6ET?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Marketing",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "veltrix-ai-for-e-commerce",
+        "name": "Veltrix AI for E-commerce",
+        "tagline": "Find how your e-commerce business could earn more",
+        "description": "Find ways to make your e-commerce business more profitable. Veltrix uses AI to analyze your sales, costs, customers and marketing. Get help deciding what to promote, where to cut spending and how to solve problems holding the business back. Connect your business tools or upload files. Start with a Business Health Check to find improvements you may have missed. Then use Veltrix to work out what to improve. Your first check is free. No card required.",
+        "votes": 309,
+        "ph_url": "https://www.producthunt.com/posts/veltrix-ai-for-e-commerce",
+        "website": "https://www.producthunt.com/r/WLBR6YF7GXE2Z7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "E-Commerce",
+          "Business"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49956771",
+        "name": "Show HN: Build with Python – a beginner course where your code draws",
+        "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+        "points": 39,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49956771"
+      },
+      {
+        "id": "49956183",
+        "name": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
+        "url": "https://awesomedataviz.com/",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49956183"
+      },
+      {
+        "id": "49958131",
+        "name": "Show HN: An eBPF kernel guard for vTPM access",
+        "url": "https://github.com/bschaatsbergen/tpmlsm",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49958131"
+      },
+      {
+        "id": "49957752",
+        "name": "Show HN: MapLibre Compose, Interactive Vector Maps for Compose Multiplatform",
+        "url": "https://github.com/maplibre/maplibre-compose",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49957752"
+      },
+      {
+        "id": "49957724",
+        "name": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
+        "url": "https://recly.dev/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49957724"
+      },
+      {
+        "id": "49961794",
+        "name": "Show HN: StackKit – Open-source and self-hosted alternatives to SaaS tools",
+        "url": "https://stackkit.website/",
+        "points": 4,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49961794"
+      },
+      {
+        "id": "49964102",
+        "name": "Show HN: Steve Jobs died 15 years ago today. I built an interactive tribute",
+        "url": "https://thankyousteve.org/",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49964102"
+      },
+      {
+        "id": "49962022",
+        "name": "Show HN: A live chat on a 3D globe that you can join from any IRC client",
+        "url": "https://bubblerumble.net/?from=hn&irc",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49962022"
+      },
+      {
+        "id": "49964379",
+        "name": "Show HN: Learn to program a modular synthesizer in the browser",
+        "url": "https://ostra.fm/learn",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49964379"
+      },
+      {
+        "id": "49963508",
+        "name": "Show HN: A Walkable O'Neill Cylinder in the Browser",
+        "url": "https://islandthree.world",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49963508"
+      },
+      {
+        "id": "49964478",
+        "name": "Show HN: Let your agents DM and dynamically self-organize",
+        "url": "https://github.com/49-Agents/agent-dms",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49964478"
+      },
+      {
+        "id": "49963394",
+        "name": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+        "url": "https://github.com/project-minigraf/minigraf",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49963394"
+      },
+      {
+        "id": "49960371",
+        "name": "Show HN: Ramen – self-hosted multi-zone MCP server for Kubernetes(Rust & Python)",
+        "url": "https://github.com/bkraad47/ramen",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49960371"
+      },
+      {
+        "id": "49959751",
+        "name": "Show HN: HyperCMD, write CLI applications using plain HTML",
+        "url": "https://github.com/fusor-rs/hypercmd",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49959751"
+      },
+      {
+        "id": "49956179",
+        "name": "Show HN: Open Grind – An unofficial open-source Grindr client",
+        "url": "https://git.opengrind.org/open-grind/open-grind",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49956179"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/loveyournextjob",
+        "name": "LoveYourNextJob",
+        "description": "Real job roles, tailored applications, you approve and we send",
+        "url": "https://betalist.com/startups/loveyournextjob"
+      },
+      {
+        "id": "/startups/read-your-scan",
+        "name": "Read Your Scan",
+        "description": "View your MRI, CT, or X-ray in 3D with AI-powered insights",
+        "url": "https://betalist.com/startups/read-your-scan"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/your-work-has-context-your-handoffs-dont-9278fbe302",
+        "title": "Your work has context. Your handoffs don't.",
+        "url": "https://www.indiehackers.com/post/your-work-has-context-your-handoffs-dont-9278fbe302",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/week-1-building-a-free-app-to-race-your-friends-on-any-goal-6-sign-ups-and-95-of-my-visits-were-me-73b36758f1",
+        "title": "Week 1 building a free app to race your friends on any goal: 6 sign-ups, and 95% of my visits were me",
+        "url": "https://www.indiehackers.com/post/week-1-building-a-free-app-to-race-your-friends-on-any-goal-6-sign-ups-and-95-of-my-visits-were-me-73b36758f1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/5-days-into-marketing-my-product-and-still-at-0-signups-heres-what-the-data-actually-shows-af52618dfc",
+        "title": "5 days into marketing my product and still at 0 signups. Here's what the data actually shows",
+        "url": "https://www.indiehackers.com/post/5-days-into-marketing-my-product-and-still-at-0-signups-heres-what-the-data-actually-shows-af52618dfc",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=8zAu5sZeXzioI7ZsJthL#post-8zAu5sZeXzioI7ZsJthL",
+        "title": "LaunchOnIt: Sunday thought: stop treating your product launch as a single finish line and start treating it as a weekly habit",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=8zAu5sZeXzioI7ZsJthL#post-8zAu5sZeXzioI7ZsJthL",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-sobriety-app-and-monetized-the-crisis-moment-it-flopped-for-the-right-reason-bab90bab1d",
+        "title": "I built a sobriety app and monetized the crisis moment. It flopped for the right reason.",
+        "url": "https://www.indiehackers.com/post/i-built-a-sobriety-app-and-monetized-the-crisis-moment-it-flopped-for-the-right-reason-bab90bab1d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-a-week-recruiting-beta-testers-for-my-running-app-nobody-could-actually-join-heres-what-i-got-wrong-and-what-i-d-love-feedback-o-a925d8d66e",
+        "title": "I spent a week recruiting beta testers for my running app. Nobody could actually join. Here's what I got wrong, and what I'd love feedback o",
+        "url": "https://www.indiehackers.com/post/i-spent-a-week-recruiting-beta-testers-for-my-running-app-nobody-could-actually-join-heres-what-i-got-wrong-and-what-i-d-love-feedback-o-a925d8d66e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-brought-promptbrake-s-free-tools-into-ai-assistants-and-github-ci-c2d0588461",
+        "title": "I brought PromptBrake’s free tools into AI assistants and GitHub CI",
+        "url": "https://www.indiehackers.com/post/i-brought-promptbrake-s-free-tools-into-ai-assistants-and-github-ci-c2d0588461",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/building-a-3m-yr-company-without-launching-publicly-tacryeGIH66SCtD2an4r",
+        "title": "Building a $3M/yr company without launching publicly",
+        "url": "https://www.indiehackers.com/post/tech/building-a-3m-yr-company-without-launching-publicly-tacryeGIH66SCtD2an4r",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
