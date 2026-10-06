@@ -1,0 +1,258 @@
+{
+  "scan_time": "2026-10-06T12:48:29.457888+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "spira-maxima",
+        "name": "Spira Maxima",
+        "tagline": "Video model that turns script into viral social media videos",
+        "description": "Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.",
+        "votes": 433,
+        "ph_url": "https://www.producthunt.com/posts/spira-maxima",
+        "website": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "fastrouter-ai-2",
+        "name": "FastRouter.ai",
+        "tagline": "Route requests to the right LLM for cost, latency & quality",
+        "description": "FastRouter is a unified AI gateway and control plane for developers and enterprise teams building with LLMs. It routes every request to the right model across 200+ LLMs through one OpenAI-compatible API, optimizing for cost, latency, quality, and reliability. With intelligent routing, failover, observability, and governance, teams can scale AI apps without vendor lock-in or code changes.",
+        "votes": 352,
+        "ph_url": "https://www.producthunt.com/posts/fastrouter-ai-2",
+        "website": "https://www.producthunt.com/r/PAFQYYKYJKF7HJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "invofox-self-serve",
+        "name": "Invofox Self Serve",
+        "tagline": "99% accurate document extraction, SLA guaranteed",
+        "description": "Invofox turns any document into clean, structured JSON through one API. Get 99%+ accuracy backed by SLAs. If we make a mistake, you don’t pay for that document. Invofox handles parsing, extraction, validation, edge cases, and monitoring behind one endpoint, then automatically learns from your feedback to keep improving on the documents your business actually processes.",
+        "votes": 336,
+        "ph_url": "https://www.producthunt.com/posts/invofox-self-serve",
+        "website": "https://www.producthunt.com/r/A73IARONEFI6BU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "opengeni",
+        "name": "Opengeni",
+        "tagline": "Ship AI agents within minutes. Infrastructure for Agents",
+        "description": "Ship AI agents to production in hours. Opengeni gives you sessions that recover from failures, isolated sandboxes, 100+ integrations, human approvals, and visibility into every step and dollar spent. Focus on your agents. We handle the infrastructure. Self-host for free, or get started on our cloud. For this launch, the first 100 users get $100 in cloud credit. Promo-code: PRODUCTHUNT100",
+        "votes": 316,
+        "ph_url": "https://www.producthunt.com/posts/opengeni",
+        "website": "https://www.producthunt.com/r/T6GNSAK2RWSRW2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49965227",
+        "name": "Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world",
+        "url": "https://pumpkins.sh/",
+        "points": 24,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49965227"
+      },
+      {
+        "id": "49977385",
+        "name": "Show HN: MailAccess – the true Email OSINT framework",
+        "url": "https://mailaccess.pro",
+        "points": 21,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49977385"
+      },
+      {
+        "id": "49966865",
+        "name": "Show HN: Era – Complete Simulated Companies for Your Agents",
+        "url": "https://console.era.eon.io/",
+        "points": 14,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49966865"
+      },
+      {
+        "id": "49970043",
+        "name": "Show HN: CoIsland – A local Mac app that monitors your dev tools and alerts you",
+        "url": "https://coisland.app/",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49970043"
+      },
+      {
+        "id": "49966745",
+        "name": "Show HN: SoldStack – sold prices API for secondhand clothes",
+        "url": "https://soldstack.fly.dev/",
+        "points": 8,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49966745"
+      },
+      {
+        "id": "49967539",
+        "name": "Show HN: Invofox – Turn any document into structured, validated JSON",
+        "url": "https://www.invofox.com/en/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49967539"
+      },
+      {
+        "id": "49965478",
+        "name": "Show HN: Jurl – curl that reads the page for you",
+        "url": "https://jurl.dev/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49965478"
+      },
+      {
+        "id": "49976376",
+        "name": "Show HN: Acceptodds a prediction market on which ICLR 2027 papers get accepted",
+        "url": "https://acceptodds.com",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49976376"
+      },
+      {
+        "id": "49964837",
+        "name": "Show HN: I wrote a book to help developers to improve their writing",
+        "url": "https://refactoringenglish.com",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49964837"
+      },
+      {
+        "id": "49966238",
+        "name": "Show HN: I finetuned 1.5B Qwen to near GPT-4o level bash generation perf",
+        "url": "https://dirac.run/posts/easycommand",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49966238"
+      },
+      {
+        "id": "49965575",
+        "name": "Show HN: DevBoard – a simpler ClickUp for small dev teams, native apps and MCP",
+        "url": "https://getdevboard.app/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49965575"
+      },
+      {
+        "id": "49965142",
+        "name": "Show HN: EtherPK – an Obsidian and Logseq alternative with prose and blocks",
+        "url": "https://github.com/appsoftwareltd/etherpk-client",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49965142"
+      },
+      {
+        "id": "49976361",
+        "name": "Show HN: Mashy – Nine short holes of pixel golf",
+        "url": "https://playmashy.com/",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49976361"
+      },
+      {
+        "id": "49967176",
+        "name": "Show HN: I stopped reading my agent's diffs, so I made every PR draw itself",
+        "url": "https://github.com/coldteadotai/pr-lens",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49967176"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/playgeko",
+        "name": "Playgeko",
+        "description": "AI-powered software for managing sports clubs end to end",
+        "url": "https://betalist.com/startups/playgeko"
+      },
+      {
+        "id": "/startups/nemonix",
+        "name": "Nemonix",
+        "description": "Track bills, budgets, debt, and business expenses in one place",
+        "url": "https://betalist.com/startups/nemonix"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-moved-my-saas-upstream-because-agency-margin-is-lost-before-the-project-even-starts-7cc69370fe",
+        "title": "I moved my SaaS \"upstream\" because agency margin is lost before the project even starts",
+        "url": "https://www.indiehackers.com/post/i-moved-my-saas-upstream-because-agency-margin-is-lost-before-the-project-even-starts-7cc69370fe",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/mediafast-15?post=xD2EfIOcHMNtDGHp6boC#post-xD2EfIOcHMNtDGHp6boC",
+        "title": "MediaFast: I got banned from Reddit 6 times, so I built an MCP that knows every subreddit's rules",
+        "url": "https://www.indiehackers.com/product/mediafast-15?post=xD2EfIOcHMNtDGHp6boC#post-xD2EfIOcHMNtDGHp6boC",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=iahm243wtVpPCvcmWquw#post-iahm243wtVpPCvcmWquw",
+        "title": "LaunchOnIt: Why we stopped waiting for traditional SEO and started using AI agents to scale our product distribution",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=iahm243wtVpPCvcmWquw#post-iahm243wtVpPCvcmWquw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-users-didnt-complain-they-just-disappeared-67-of-them-at-the-same-step-b4c13a25b3",
+        "title": "My users didn't complain. They just disappeared. 67% of them at the same step.",
+        "url": "https://www.indiehackers.com/post/my-users-didnt-complain-they-just-disappeared-67-of-them-at-the-same-step-b4c13a25b3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-stopped-building-my-product-now-i-need-5-real-people-to-test-it-914dbc3616",
+        "title": "I stopped building my product. Now I need 5 real people to test it.",
+        "url": "https://www.indiehackers.com/post/i-stopped-building-my-product-now-i-need-5-real-people-to-test-it-914dbc3616",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/two-weeks-after-launching-my-steam-game-finder-honest-numbers-e7a91ec522",
+        "title": "Two weeks after launching my Steam game finder, honest numbers",
+        "url": "https://www.indiehackers.com/post/two-weeks-after-launching-my-steam-game-finder-honest-numbers-e7a91ec522",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-an-ai-custom-print-shop-for-the-eu-what-would-you-improve-d5172faf4e",
+        "title": "Built an AI custom-print shop for the EU — what would you improve?",
+        "url": "https://www.indiehackers.com/post/built-an-ai-custom-print-shop-for-the-eu-what-would-you-improve-d5172faf4e",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 14
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
