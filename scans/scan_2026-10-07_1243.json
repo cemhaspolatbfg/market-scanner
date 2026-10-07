@@ -1,0 +1,223 @@
+{
+  "scan_time": "2026-10-07T12:42:53.868371+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "rill-browser",
+        "name": "Rill Browser",
+        "tagline": "The browser where Claude Code and Codex work beside you",
+        "description": "Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.",
+        "votes": 415,
+        "ph_url": "https://www.producthunt.com/posts/rill-browser",
+        "website": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "openbot-4",
+        "name": "OpenBot",
+        "tagline": "Grok Bot alternative: free, local, open-source, multiplayer",
+        "description": "OpenBot is an open-source workspace for AI teammates. Connect Claude, ChatGPT, Grok, OpenCode, or custom agents on Mac, Windows, and iOS. Give agents clear roles, let them delegate work, and invite your team to collaborate live with the same agents.",
+        "votes": 348,
+        "ph_url": "https://www.producthunt.com/posts/openbot-4",
+        "website": "https://www.producthunt.com/r/6MPDE2Q3ZJDJZF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Open Source",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49978171",
+        "name": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+        "url": "https://www.parseable.com",
+        "points": 84,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=49978171"
+      },
+      {
+        "id": "49978595",
+        "name": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+        "url": "https://peterszentkiralyi.eu/darkplug/",
+        "points": 83,
+        "comments": 35,
+        "hn_url": "https://news.ycombinator.com/item?id=49978595"
+      },
+      {
+        "id": "49979793",
+        "name": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
+        "url": "https://github.com/longsurf-ai/openchart",
+        "points": 42,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=49979793"
+      },
+      {
+        "id": "49987765",
+        "name": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+        "url": "https://github.com/nano-muse/nanoMuse",
+        "points": 29,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=49987765"
+      },
+      {
+        "id": "49978401",
+        "name": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
+        "url": "https://jotbus.com/",
+        "points": 27,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=49978401"
+      },
+      {
+        "id": "49984736",
+        "name": "Show HN: An AI agent runs ten web errands a day, every transcript published",
+        "url": "https://agentability.org/",
+        "points": 13,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49984736"
+      },
+      {
+        "id": "49978398",
+        "name": "Show HN: ChatGPT answers calls on a normal SIM. No Twilio, just a $6 ESP32",
+        "url": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
+        "points": 11,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49978398"
+      },
+      {
+        "id": "49986740",
+        "name": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
+        "url": "https://huggingface.co/joe-gibbs/terrainsr",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49986740"
+      },
+      {
+        "id": "49988641",
+        "name": "Show HN: Musql, JIT-compiled SQL, up to 300x faster than SQLite, 1000x vs. Turso",
+        "url": "https://github.com/samyfodil/musql",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49988641"
+      },
+      {
+        "id": "49978267",
+        "name": "Show HN: Kahawai – An open source, modular media system",
+        "url": "https://kahawai.net/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49978267"
+      },
+      {
+        "id": "49980418",
+        "name": "Show HN: AI Circuit Breaker – Reverse proxy to stop agent infinite loops",
+        "url": "https://circuit-breaker-sage.vercel.app/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49980418"
+      },
+      {
+        "id": "49991390",
+        "name": "Show HN: Every number in a tiny GPT, from one forward pass to one step of RLHF",
+        "url": "https://llm.manogya.dev",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49991390"
+      },
+      {
+        "id": "49982997",
+        "name": "Show HN: 0Sql – Semantic Layer as a Service",
+        "url": "https://0sql.io/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49982997"
+      },
+      {
+        "id": "49983573",
+        "name": "Show HN: SecretGate – self-hosted anonymous inbox, E2E encrypted in the browser",
+        "url": "https://personal.secretgate.site",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49983573"
+      },
+      {
+        "id": "49984522",
+        "name": "Show HN: We Westernized Qwen for US enterprise use",
+        "url": "https://huggingface.co/hirundo-io/Qwen3.6-35B-A3B-Westernized",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49984522"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/morgan",
+        "name": "Morgan",
+        "description": "Personal AI that asks before acting on your computer and phone",
+        "url": "https://betalist.com/startups/morgan"
+      },
+      {
+        "id": "/startups/websoftreview",
+        "name": "WebSoftReview",
+        "description": "Explore daily software launches with community-powered reviews",
+        "url": "https://betalist.com/startups/websoftreview"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/3-products-0-revenue-i-think-i-finally-understand-the-problem-6509e1a76a",
+        "title": "3 products. $0 revenue. I think I finally understand the problem.",
+        "url": "https://www.indiehackers.com/post/3-products-0-revenue-i-think-i-finally-understand-the-problem-6509e1a76a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-a-9-one-time-mac-image-compressor-today-heres-why-i-refused-to-make-it-a-subscription-29f34a3109",
+        "title": "I launched a $9 one-time Mac image compressor today — here's why I refused to make it a subscription",
+        "url": "https://www.indiehackers.com/post/i-launched-a-9-one-time-mac-image-compressor-today-heres-why-i-refused-to-make-it-a-subscription-29f34a3109",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=n2DyUi5rLLP4dd3C4KFw#post-n2DyUi5rLLP4dd3C4KFw",
+        "title": "LaunchOnIt: Why shouting on social media is failing early-stage SaaS and why niche curation is making a comeback",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=n2DyUi5rLLP4dd3C4KFw#post-n2DyUi5rLLP4dd3C4KFw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/indieneed?post=VijZfnpjZ6BG3mGH49Vn#post-VijZfnpjZ6BG3mGH49Vn",
+        "title": "What Are You Building Right Now? Add It to IndieNeed",
+        "url": "https://www.indiehackers.com/product/indieneed?post=VijZfnpjZ6BG3mGH49Vn#post-VijZfnpjZ6BG3mGH49Vn",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/starting-from-scratch-and-hitting-9-5k-mrr-in-two-months-j5pMaED5FEbKw8qmeyj9",
+        "title": "Starting from scratch and hitting $9.5k MRR in two months",
+        "url": "https://www.indiehackers.com/post/tech/starting-from-scratch-and-hitting-9-5k-mrr-in-two-months-j5pMaED5FEbKw8qmeyj9",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
