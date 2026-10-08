@@ -1,0 +1,259 @@
+{
+  "scan_time": "2026-10-08T12:52:31.060679+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "irisgo-for-solopreneurs",
+        "name": "IrisGo for Solopreneurs",
+        "tagline": "AI workflow automation: show it once, let it run",
+        "description": "IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch & Learn. Spend less time on admin and more time building your business. Free during beta.",
+        "votes": 514,
+        "ph_url": "https://www.producthunt.com/posts/irisgo-for-solopreneurs",
+        "website": "https://www.producthunt.com/r/I2U7KF4RUGEZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Task Management",
+          "Artificial Intelligence",
+          "Virtual Assistants"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "genpage-3-0",
+        "name": "GenPage 3.0",
+        "tagline": "Build, personalize, and optimize landing pages with AI",
+        "description": "Your marketing campaigns are personalized. Your landing pages should be too. GenPage learns your brand, builds dedicated pages for every ad, keyword, or target account, then continuously A-Z tests them on Autopilot - turning more traffic into pipeline and revenue.",
+        "votes": 508,
+        "ph_url": "https://www.producthunt.com/posts/genpage-3-0",
+        "website": "https://www.producthunt.com/r/45NVHJPQAW44TX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Website Builder"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "velozity-3",
+        "name": "Velozity",
+        "tagline": "The Multiplayer AI Office where your team and agents work.",
+        "description": "Your team chats in one app, meets in another, and every AI works alone. Velozity brings it all into one place. Chat, audio and video calls with transcripts, tasks, calendar and files, plus AI agents (Claude, Codex, etc.) on the subscriptions you already pay for. Every agent shares the same context, so work moves between people and agents without having to re-explain. For startups, teams in dev, product, sales, and ops, or solo users juggling several AIs. No second AI bill. Free to start.",
+        "votes": 441,
+        "ph_url": "https://www.producthunt.com/posts/velozity-3",
+        "website": "https://www.producthunt.com/r/LVDMUE35VIECA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Meetings",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "audr-by-chargebee",
+        "name": "AUDR by Chargebee",
+        "tagline": "Open standard for tracking agent run costs",
+        "description": "AUDR (Agent Usage Detail Record) is an open standard, for capturing who initiated an agent run and what it cost across every system that run touches. Inspired by the telecom industry's Call Detail Record, AUDR defines a common JSON schema that any harness, router, or billing system can emit and ingest. Three core rules make it work: a shared run ID minted by the harness, clear field ownership, and strict merge rules where conflicts are rejected and corrections are new records.",
+        "votes": 341,
+        "ph_url": "https://www.producthunt.com/posts/audr-by-chargebee",
+        "website": "https://www.producthunt.com/r/LKE36PULC3BUKW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "49994443",
+        "name": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+        "url": "https://bigwords.page/",
+        "points": 558,
+        "comments": 143,
+        "hn_url": "https://news.ycombinator.com/item?id=49994443"
+      },
+      {
+        "id": "49995539",
+        "name": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "url": "https://agent.reviews/",
+        "points": 62,
+        "comments": 46,
+        "hn_url": "https://news.ycombinator.com/item?id=49995539"
+      },
+      {
+        "id": "49997971",
+        "name": "Show HN: gtlds.fyi – All the proposed new gTLDs",
+        "url": "https://gtlds.fyi/",
+        "points": 39,
+        "comments": 58,
+        "hn_url": "https://news.ycombinator.com/item?id=49997971"
+      },
+      {
+        "id": "49995778",
+        "name": "Show HN: Pinrail – A desktop inbox where coding agents wait for your review",
+        "url": "https://github.com/forgeplane/pinrail",
+        "points": 22,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49995778"
+      },
+      {
+        "id": "49995809",
+        "name": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
+        "url": "https://github.com/lowenbjer/claude-terse",
+        "points": 20,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49995809"
+      },
+      {
+        "id": "49996495",
+        "name": "Show HN: Pointless but mostly-exact clone of Hacker News",
+        "url": "https://news.ycombinator.lol",
+        "points": 15,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49996495"
+      },
+      {
+        "id": "50001750",
+        "name": "Show HN: Pacer – will your AI coding subscription last until the reset?",
+        "url": "https://github.com/dkremsa/claude-pacer",
+        "points": 9,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50001750"
+      },
+      {
+        "id": "49994446",
+        "name": "Show HN: Trigora – durable execution without history replay",
+        "url": "https://github.com/trigora-dev/trigora",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49994446"
+      },
+      {
+        "id": "49996497",
+        "name": "Show HN: Karotte, a framework for building robust RL envs",
+        "url": "https://github.com/preferencemodel/karotte",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49996497"
+      },
+      {
+        "id": "49995687",
+        "name": "Show HN: A virtual recording studio where you direct session players",
+        "url": "https://labs.daydream.live/studio/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49995687"
+      },
+      {
+        "id": "49997240",
+        "name": "Show HN: Smart Blur – Auto-Blur PII in the Browser, with a OpenAI Local Model",
+        "url": "https://smartbuildlabs.com/apps/smart-blur/",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=49997240"
+      },
+      {
+        "id": "49993256",
+        "name": "Show HN: I made a TV for old cartoons",
+        "url": "https://cartoontv.xyz/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49993256"
+      },
+      {
+        "id": "50000084",
+        "name": "Show HN: StayLeet – keeping skills sharp in AI coding era",
+        "url": "https://stayleet.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50000084"
+      },
+      {
+        "id": "49996408",
+        "name": "Show HN: Convkit – A command line tool for converting images/video/docs offline",
+        "url": "https://github.com/shdwfruit/convkit",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49996408"
+      },
+      {
+        "id": "49995706",
+        "name": "Show HN: Shortfuse – Make macOS permissions expire automatically",
+        "url": "",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=49995706"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/matill",
+        "name": "Matill",
+        "description": "Hire autonomous AI teammates that work in Slack, GitHub, and Linear",
+        "url": "https://betalist.com/startups/matill"
+      },
+      {
+        "id": "/startups/arda",
+        "name": "Arda",
+        "description": "Automate SEO and AI search to acquire more qualified customers",
+        "url": "https://betalist.com/startups/arda"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/people-visit-my-product-but-few-sign-up-how-did-you-find-the-bottleneck-2e712f3435",
+        "title": "People visit my product, but few sign up. How did you find the bottleneck?",
+        "url": "https://www.indiehackers.com/post/people-visit-my-product-but-few-sign-up-how-did-you-find-the-bottleneck-2e712f3435",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchnest-ln-20?post=T9LS2u7GIaDNrX9ycDl5#post-T9LS2u7GIaDNrX9ycDl5",
+        "title": "LaunchNest LN: Your Product Deserves More Than a Launch-Day Spike",
+        "url": "https://www.indiehackers.com/product/launchnest-ln-20?post=T9LS2u7GIaDNrX9ycDl5#post-T9LS2u7GIaDNrX9ycDl5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=C6UW93p3vt02WK1JvnS9#post-C6UW93p3vt02WK1JvnS9",
+        "title": "LaunchOnIt: The hidden cost of building features that users never actually touch",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=C6UW93p3vt02WK1JvnS9#post-C6UW93p3vt02WK1JvnS9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-used-my-logo-as-an-og-image-for-6-months-here-s-what-it-cost-me-and-the-15-minute-fix-i-wish-someone-told-me-on-day-1-702a800097",
+        "title": "I Used My Logo as an OG Image for 6 Months. Here’s What It Cost Me — and the 15-Minute Fix I Wish Someone Told Me on Day 1",
+        "url": "https://www.indiehackers.com/post/i-used-my-logo-as-an-og-image-for-6-months-here-s-what-it-cost-me-and-the-15-minute-fix-i-wish-someone-told-me-on-day-1-702a800097",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/650-cold-emails-2-interested-leads-0-customers-so-far-what-selling-an-ai-brand-visuals-tool-to-skincare-brands-has-taught-me-6666fd386f",
+        "title": "650 cold emails, 2 interested leads, 0 customers (so far): what selling an AI brand-visuals tool to skincare brands has taught me",
+        "url": "https://www.indiehackers.com/post/650-cold-emails-2-interested-leads-0-customers-so-far-what-selling-an-ai-brand-visuals-tool-to-skincare-brands-has-taught-me-6666fd386f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/indieneed?post=msiTv1E9AFvNNsJBWxGn#post-msiTv1E9AFvNNsJBWxGn",
+        "title": "Indie Need: Built Something Good? Don’t Let It Get Buried.",
+        "url": "https://www.indiehackers.com/product/indieneed?post=msiTv1E9AFvNNsJBWxGn#post-msiTv1E9AFvNNsJBWxGn",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
