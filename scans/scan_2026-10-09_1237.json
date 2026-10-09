@@ -1,0 +1,217 @@
+{
+  "scan_time": "2026-10-09T12:37:42.252617+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "openswarm-3",
+        "name": "OpenSwarm",
+        "tagline": "A swarm of agents, in the same place you work",
+        "description": "Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run the whole machine: apps create themselves, browsers control themselves, and swarms of agents work together. Your OS just became an infinite canvas, and your work just transformed from you doing one task at a time, to orchestrating dozens in parallel. Tell it what you want and a swarm of agents does the work with you at the helm.",
+        "votes": 375,
+        "ph_url": "https://www.producthunt.com/posts/openswarm-3",
+        "website": "https://www.producthunt.com/r/Y54VBVRLNCMW2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Task Management",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "openseo-2",
+        "name": "OpenSEO",
+        "tagline": "The open source Semrush alternative",
+        "description": "Without good data, your agent gives generic advice. We provide the data, tools, and integrations your AI agent needs for SEO via MCP. Regular SEO is the foundation of good GEO, but we just released a new set of AI Visibility features as well.",
+        "votes": 354,
+        "ph_url": "https://www.producthunt.com/posts/openseo-2",
+        "website": "https://www.producthunt.com/r/UBW3XPFGNKPZ5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Marketing",
+          "SEO"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50016312",
+        "name": "Show HN: Quake ported to safe Rust, playable in browser",
+        "url": "https://quake-srp.pages.dev/",
+        "points": 184,
+        "comments": 145,
+        "hn_url": "https://news.ycombinator.com/item?id=50016312"
+      },
+      {
+        "id": "50008047",
+        "name": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+        "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+        "points": 184,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=50008047"
+      },
+      {
+        "id": "50009904",
+        "name": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+        "url": "https://github.com/p10node/k10s",
+        "points": 65,
+        "comments": 51,
+        "hn_url": "https://news.ycombinator.com/item?id=50009904"
+      },
+      {
+        "id": "50007993",
+        "name": "Show HN: Jevman – AI decision models play Pac-Man",
+        "url": "https://opper.ai/jevman-benchmark/",
+        "points": 65,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=50007993"
+      },
+      {
+        "id": "50012199",
+        "name": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+        "url": "https://github.com/thesnarkitecht/rembrandt",
+        "points": 47,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=50012199"
+      },
+      {
+        "id": "50013931",
+        "name": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+        "url": "https://svg-spark.vercel.app/",
+        "points": 41,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50013931"
+      },
+      {
+        "id": "50014150",
+        "name": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+        "url": "https://github.com/edrisranjbar/lifeos",
+        "points": 38,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=50014150"
+      },
+      {
+        "id": "50006114",
+        "name": "Show HN: I Put an AI Agent on a Nokia 110",
+        "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+        "points": 29,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=50006114"
+      },
+      {
+        "id": "50009634",
+        "name": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+        "url": "https://pocketty.app/",
+        "points": 28,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=50009634"
+      },
+      {
+        "id": "50008642",
+        "name": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+        "url": "https://github.com/edgedelta/project-arena",
+        "points": 22,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50008642"
+      },
+      {
+        "id": "50005276",
+        "name": "Show HN: Wordminos – Crosswords Meet Dominos",
+        "url": "https://wordminos.com/play-en.html",
+        "points": 19,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50005276"
+      },
+      {
+        "id": "50006760",
+        "name": "Show HN: Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB",
+        "url": "https://pivotlake.io/",
+        "points": 14,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50006760"
+      },
+      {
+        "id": "50016840",
+        "name": "Show HN: OldRoll, a free vintage photo editor for the browser",
+        "url": "https://www.oldroll.io/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50016840"
+      },
+      {
+        "id": "50009313",
+        "name": "Show HN: DocFlare AI – Open-source docs chatbot on Cloudflare's free tier",
+        "url": "https://github.com/p10node/docflare-ai",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50009313"
+      },
+      {
+        "id": "50009580",
+        "name": "Show HN: Artvinto – Vintage posters and fine art prints",
+        "url": "https://www.artvinto.com",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50009580"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/finquest360",
+        "name": "FinQuest360",
+        "description": "Teach kids money skills with adventures, simulators, and mini-games",
+        "url": "https://betalist.com/startups/finquest360"
+      },
+      {
+        "id": "/startups/lyricmv",
+        "name": "LyricMV",
+        "description": "Create AI-synced lyric videos from your song in minutes",
+        "url": "https://betalist.com/startups/lyricmv"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/a-month-in-30-visitors-a-day-2-uploads-a-week-0-customers-7987619814",
+        "title": "A month in: ~30 visitors a day, ~2 uploads a week, 0 customers",
+        "url": "https://www.indiehackers.com/post/a-month-in-30-visitors-a-day-2-uploads-a-week-0-customers-7987619814",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchnest-ln-21?post=HgLzPOUEFAeiPjzTzr4B#post-HgLzPOUEFAeiPjzTzr4B",
+        "title": "LaunchNest LN: Stop Letting Great Products Get Lost After Launch.",
+        "url": "https://www.indiehackers.com/product/launchnest-ln-21?post=HgLzPOUEFAeiPjzTzr4B#post-HgLzPOUEFAeiPjzTzr4B",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=sOk1OncrWdDJ8n5WunG7#post-sOk1OncrWdDJ8n5WunG7",
+        "title": "LaunchOnIt: The single point of failure that kills most indie SaaS startups within six months",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=sOk1OncrWdDJ8n5WunG7#post-sOk1OncrWdDJ8n5WunG7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/aura-7?post=d1iwOnt0EXbRhyZeKBZ9#post-d1iwOnt0EXbRhyZeKBZ9",
+        "title": "Aura++: After launch week I look at the app store my buyers already have open, not at more launch boards",
+        "url": "https://www.indiehackers.com/product/aura-7?post=d1iwOnt0EXbRhyZeKBZ9#post-d1iwOnt0EXbRhyZeKBZ9",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
