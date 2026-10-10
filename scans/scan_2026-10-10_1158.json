@@ -1,0 +1,226 @@
+{
+  "scan_time": "2026-10-10T11:57:57.936006+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "busabase",
+        "name": "Busabase",
+        "tagline": "The general system of record for AI agents",
+        "description": "Different agents. One shared base. Busabase is a general-purpose database and workspace for people and AI agents. Keep business records, docs, skills, and apps in one place so the next task can build on them. Connect Claude Code, Codex, and more. Set access, review changes when needed, and see what changed. Busabase is open source, with Cloud, Personal Desktop, and self-hosting options.",
+        "votes": 347,
+        "ph_url": "https://www.producthunt.com/posts/busabase",
+        "website": "https://www.producthunt.com/r/NCFRPHEHNAHLX7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Database"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50024499",
+        "name": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+        "url": "https://carrierexplode.com/",
+        "points": 338,
+        "comments": 42,
+        "hn_url": "https://news.ycombinator.com/item?id=50024499"
+      },
+      {
+        "id": "50024055",
+        "name": "Show HN: The rarest tech books and docs you've probably never read",
+        "url": "https://readrare.com/",
+        "points": 141,
+        "comments": 51,
+        "hn_url": "https://news.ycombinator.com/item?id=50024055"
+      },
+      {
+        "id": "50029607",
+        "name": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+        "url": "https://ilia.page/writing/introducing-nagare",
+        "points": 13,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=50029607"
+      },
+      {
+        "id": "50026819",
+        "name": "Show HN: Babytalk: Offline speech to text and text to speech on ESP32",
+        "url": "https://github.com/tlack/babytalk",
+        "points": 11,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50026819"
+      },
+      {
+        "id": "50028283",
+        "name": "Show HN: Yeah Nah – a BS score for Australian job ads",
+        "url": "https://yeahnah.lol/",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50028283"
+      },
+      {
+        "id": "50030988",
+        "name": "Show HN: Save photo, video, and audio from websites in one step",
+        "url": "https://menura.download",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50030988"
+      },
+      {
+        "id": "50021521",
+        "name": "Show HN: RcloneView 1.6 – A desktop GUI for rclone with 40 cloud storages",
+        "url": "https://rcloneview.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50021521"
+      },
+      {
+        "id": "50030849",
+        "name": "Show HN: Open Components – UI Components standard for people, devs and AI agents",
+        "url": "https://opencomponents.dev/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50030849"
+      },
+      {
+        "id": "50027337",
+        "name": "Show HN: I made a TV game console inside an antenna plug",
+        "url": "https://raytriangle.com/making-the-worlds-smallest-game-console/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50027337"
+      },
+      {
+        "id": "50030811",
+        "name": "Show HN: Chrome Relay – background tabs in your real Chrome for coding agents",
+        "url": "https://github.com/aindeev/agent-chrome-relay",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50030811"
+      },
+      {
+        "id": "50028461",
+        "name": "Show HN: Faplex – like `Claude agents` but all machines and harnesses",
+        "url": "https://github.com/kkrausse/faplex",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50028461"
+      },
+      {
+        "id": "50030174",
+        "name": "Show HN: The safe-choice tax – what the vendor nobody gets fired for costs",
+        "url": "https://svpremium.dev/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50030174"
+      },
+      {
+        "id": "50029175",
+        "name": "Show HN: tgv: Genome viewer for you and your agents",
+        "url": "https://github.com/zeqianli/tgv",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50029175"
+      },
+      {
+        "id": "50019354",
+        "name": "Show HN: Turning on-chain wallet activity into trading signals",
+        "url": "https://signalhub.trade/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50019354"
+      },
+      {
+        "id": "50026883",
+        "name": "Show HN: HN Jev Sorter – classify HN comments in real time",
+        "url": "https://github.com/ritza-co/hn-jev-sorter",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50026883"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/eventsend",
+        "name": "EventSend",
+        "description": "Event tracking and routing for solo founders and SaaS teams",
+        "url": "https://betalist.com/startups/eventsend"
+      },
+      {
+        "id": "/startups/co-found",
+        "name": "Co-Found",
+        "description": "Find your co-founder and build in a shared workspace",
+        "url": "https://betalist.com/startups/co-found"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/indieneed?post=FOuQSgbTFNs9KoVEbcRU#post-FOuQSgbTFNs9KoVEbcRU",
+        "title": "Indie Need: What’s One Product You Wish More People Knew About?",
+        "url": "https://www.indiehackers.com/product/indieneed?post=FOuQSgbTFNs9KoVEbcRU#post-FOuQSgbTFNs9KoVEbcRU",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=yLOJE1upc5FkvFb5528l#post-yLOJE1upc5FkvFb5528l",
+        "title": "Looking for a few more indie products to fill our upcoming launch cohorts on LaunchOnIt",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=yLOJE1upc5FkvFb5528l#post-yLOJE1upc5FkvFb5528l",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/indieneed?post=uS5l2XXzJcFDCU1PhIzE#post-uS5l2XXzJcFDCU1PhIzE",
+        "title": "Indie Need: You Built It. Now Let People Discover It.",
+        "url": "https://www.indiehackers.com/product/indieneed?post=uS5l2XXzJcFDCU1PhIzE#post-uS5l2XXzJcFDCU1PhIzE",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/best-startup-directories-in-2026-2d28cf0f0d",
+        "title": "Best Startup Directories in 2026",
+        "url": "https://www.indiehackers.com/post/best-startup-directories-in-2026-2d28cf0f0d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-long-did-it-take-to-get-your-first-real-user-after-launching-6078d25828",
+        "title": "How long did it take to get your first real user after launching?",
+        "url": "https://www.indiehackers.com/post/how-long-did-it-take-to-get-your-first-real-user-after-launching-6078d25828",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/people-dont-hate-waiting-they-hate-not-knowing-607741d54d",
+        "title": "People don't hate waiting. They hate not knowing.",
+        "url": "https://www.indiehackers.com/post/people-dont-hate-waiting-they-hate-not-knowing-607741d54d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-much-control-should-early-users-have-over-your-roadmap-48186ecc94",
+        "title": "How much control should early users have over your roadmap?",
+        "url": "https://www.indiehackers.com/post/how-much-control-should-early-users-have-over-your-roadmap-48186ecc94",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/turning-an-agency-into-a-12k-mo-product-portfolio-13QkMY561jAQxsiA0LSg",
+        "title": "Turning an agency into a $12k/mo product portfolio",
+        "url": "https://www.indiehackers.com/post/tech/turning-an-agency-into-a-12k-mo-product-portfolio-13QkMY561jAQxsiA0LSg",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
