@@ -1,0 +1,217 @@
+{
+  "scan_time": "2026-10-11T12:09:52.175683+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "reso-ai-2",
+        "name": "ReSO AI",
+        "tagline": "Get discovered & recommended when customers ask AI",
+        "description": "ReSO is a generative engine optimization platform that helps brands show up in AI search results. It’s built for founders, CMOs, and growth teams who want to turn buyer intent in ChatGPT, Perplexity, and Google AIO into visibility, citations, and traffic. What makes it different is that it doesn’t just track rankings, it analyzes intent, competitors, content gaps, and technical issues, then turns them into priority actions to improve AI recommendations.",
+        "votes": 454,
+        "ph_url": "https://www.producthunt.com/posts/reso-ai-2",
+        "website": "https://www.producthunt.com/r/E6PNMMFOZ76WY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SEO",
+          "Artificial Intelligence",
+          "Marketing automation"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "onepin",
+        "name": "Onepin",
+        "tagline": "AI voiceover with every name, price and date said right",
+        "description": "AI voices sound human now. But they still guess names from the spelling, and nobody has time to listen to every line. Onepin runs on the voices you already use (ElevenLabs, OpenAI, Google, 30+ more), spells out prices and dates, checks names against a 4M-word pronunciation dictionary, scores every line, and fixes the wrong word without re-rendering the take. Built for teams shipping AI voiceover in several languages: product videos, dubbing, courses. Free to start, no credit card required.",
+        "votes": 440,
+        "ph_url": "https://www.producthunt.com/posts/onepin",
+        "website": "https://www.producthunt.com/r/MTK6QP55FPQN3U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Audio"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50038634",
+        "name": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+        "url": "https://wallhop.io/",
+        "points": 255,
+        "comments": 104,
+        "hn_url": "https://news.ycombinator.com/item?id=50038634"
+      },
+      {
+        "id": "50038883",
+        "name": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
+        "url": "https://littleguys.hervalicio.us",
+        "points": 15,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50038883"
+      },
+      {
+        "id": "50035527",
+        "name": "Show HN: A functioning Celery Man computer",
+        "url": "https://celeryman.fun/",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50035527"
+      },
+      {
+        "id": "50032812",
+        "name": "Show HN: AsoBeast – Open-Source ASO Rank Tracker for App Store and Google Play",
+        "url": "https://github.com/AsoBeast/asobeast",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50032812"
+      },
+      {
+        "id": "50032872",
+        "name": "Show HN: World Watcher – a map to seamlessly watch public webcam streams",
+        "url": "https://worldwatcher.live/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50032872"
+      },
+      {
+        "id": "50037852",
+        "name": "Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python",
+        "url": "https://github.com/academa-labs/manimgx",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50037852"
+      },
+      {
+        "id": "50039633",
+        "name": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+        "url": "https://github.com/vscarpenter/gsd-task-manager",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50039633"
+      },
+      {
+        "id": "50032374",
+        "name": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+        "url": "https://maplehill.openwants.com/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50032374"
+      },
+      {
+        "id": "50038380",
+        "name": "Show HN: ISA Workbench – Classify and explore binaries in the browser",
+        "url": "https://zr.ax/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50038380"
+      },
+      {
+        "id": "50038499",
+        "name": "Show HN: Free LED pixel-pitch and display-size calculators (open source)",
+        "url": "https://boardsy.co.uk/free-exhibition-display-tools/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50038499"
+      },
+      {
+        "id": "50039007",
+        "name": "Show HN: An unofficial download picker for the ArtCraft Rust apps",
+        "url": "https://craftsuite.net/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50039007"
+      },
+      {
+        "id": "50037428",
+        "name": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
+        "url": "https://github.com/corbenicai/galahad",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50037428"
+      },
+      {
+        "id": "50038215",
+        "name": "Show HN: Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation",
+        "url": "https://www.aporium.app/explore",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50038215"
+      },
+      {
+        "id": "50033878",
+        "name": "Show HN: Sibuna an open source web application firewall with proof of work",
+        "url": "https://github.com/insanai/sibuna",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50033878"
+      },
+      {
+        "id": "50032641",
+        "name": "Show HN: Academic Ancestry",
+        "url": "https://academicancestry.org/",
+        "points": 3,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50032641"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/image-to-3d",
+        "name": "Image to 3D",
+        "description": "Turn a single image into an editable 3D model you can inspect and export",
+        "url": "https://betalist.com/startups/image-to-3d"
+      },
+      {
+        "id": "/startups/pixfy",
+        "name": "Pixfy",
+        "description": "Generate consistent AI characters for reuse across scenes",
+        "url": "https://betalist.com/startups/pixfy"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=7EmDnVCZu63woqC3M9An#post-7EmDnVCZu63woqC3M9An",
+        "title": "CircleSaaS is open for submissions: a free directory where your startup is always visible",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=7EmDnVCZu63woqC3M9An#post-7EmDnVCZu63woqC3M9An",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/150-cold-emails-0-sales-so-i-checked-where-template-buyers-actually-search-heres-the-data-and-the-pivot-101184cb26",
+        "title": "150 cold emails, 0 sales. So I checked where template buyers actually search. Here's the data and the pivot.",
+        "url": "https://www.indiehackers.com/post/150-cold-emails-0-sales-so-i-checked-where-template-buyers-actually-search-heres-the-data-and-the-pivot-101184cb26",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/when-did-marketing-help-become-worth-paying-for-as-a-bootstrapped-founder-2034e59256",
+        "title": "When did marketing help become worth paying for as a bootstrapped founder?",
+        "url": "https://www.indiehackers.com/post/when-did-marketing-help-become-worth-paying-for-as-a-bootstrapped-founder-2034e59256",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-i-got-my-first-140-users-for-my-chrome-extension-spending-just-9-on-tiktok-ads-5bddc87d43",
+        "title": "How I got my first 140+ users for my Chrome Extension spending just €9 on TikTok Ads 🚀",
+        "url": "https://www.indiehackers.com/post/how-i-got-my-first-140-users-for-my-chrome-extension-spending-just-9-on-tiktok-ads-5bddc87d43",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
