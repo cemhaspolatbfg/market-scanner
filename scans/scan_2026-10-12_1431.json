@@ -1,0 +1,198 @@
+{
+  "scan_time": "2026-10-12T14:30:58.935699+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "50052251",
+        "name": "Show HN: PS2 games statically recompiled to WebAssembly",
+        "url": "https://github.com/snuri00/ps2-web-recomp",
+        "points": 122,
+        "comments": 68,
+        "hn_url": "https://news.ycombinator.com/item?id=50052251"
+      },
+      {
+        "id": "50049588",
+        "name": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+        "url": "https://github.com/SaarthurR/atticus-mac",
+        "points": 33,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50049588"
+      },
+      {
+        "id": "50049132",
+        "name": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+        "url": "https://github.com/swimmingbrain/brainotes",
+        "points": 32,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50049132"
+      },
+      {
+        "id": "50045340",
+        "name": "Show HN: Mira, AI Walking Tours",
+        "url": "https://www.mira.tours/wander",
+        "points": 16,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50045340"
+      },
+      {
+        "id": "50049388",
+        "name": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+        "url": "https://github.com/plimsollmark/plimsoll",
+        "points": 15,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50049388"
+      },
+      {
+        "id": "50050732",
+        "name": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
+        "url": "https://github.com/qufei1993/skills-hub",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50050732"
+      },
+      {
+        "id": "50054379",
+        "name": "Show HN: GeoRadios – Spin a globe, hear what's on the radio there",
+        "url": "https://georadios.com/",
+        "points": 9,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50054379"
+      },
+      {
+        "id": "50049531",
+        "name": "Show HN: Preloop – GitHub Actions locally in microvms and SSH/pause failures",
+        "url": "https://github.com/preloopdev/preloop",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50049531"
+      },
+      {
+        "id": "50048731",
+        "name": "Show HN: Shpyrd – A new type of cloud for AI era",
+        "url": "https://www.shpyrd.io",
+        "points": 8,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=50048731"
+      },
+      {
+        "id": "50047792",
+        "name": "Show HN: Doiter – Language where pointers and stack frames are Docker containers",
+        "url": "https://github.com/simvux/doiter",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50047792"
+      },
+      {
+        "id": "50050469",
+        "name": "Show HN: Homebutler – my server report printed 7 lines for 2 changes, now 2",
+        "url": "https://github.com/Higangssh/homebutler",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50050469"
+      },
+      {
+        "id": "50047905",
+        "name": "Show HN: LLMxRay an open-source observability tool for LLMs",
+        "url": "https://github.com/LogneBudo/llmxray",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50047905"
+      },
+      {
+        "id": "50047627",
+        "name": "Show HN: I Cut my Agent Tokens By 50%",
+        "url": "",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50047627"
+      },
+      {
+        "id": "50045518",
+        "name": "Show HN: Self Hosted System One Decision API for Images",
+        "url": "https://deepanwadhwa.github.io/OpenDecision/image-examples/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50045518"
+      },
+      {
+        "id": "50050047",
+        "name": "Show HN: I made an agent can self-improving while working",
+        "url": "https://yehuitang0316.github.io/gear-site/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50050047"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/emailchaser",
+        "name": "Emailchaser",
+        "description": "All-in-one cold email software with built-in lead finding",
+        "url": "https://betalist.com/startups/emailchaser"
+      },
+      {
+        "id": "/startups/koi-editor",
+        "name": "Koi Editor",
+        "description": "A fast, minimal code editor for macOS",
+        "url": "https://betalist.com/startups/koi-editor"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/im-building-an-ai-admin-system-for-freelancers-here-s-what-i-m-trying-to-validate-702517b21d",
+        "title": "I'm building an AI admin system for freelancers. Here's what I'm trying to validate.",
+        "url": "https://www.indiehackers.com/post/im-building-an-ai-admin-system-for-freelancers-here-s-what-i-m-trying-to-validate-702517b21d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-emailed-135-dating-event-organizers-here-s-what-actually-happened-d4bc4cfe66",
+        "title": "I emailed 135 dating event organizers. Here’s what actually happened.",
+        "url": "https://www.indiehackers.com/post/i-emailed-135-dating-event-organizers-here-s-what-actually-happened-d4bc4cfe66",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-1-thing-blocking-new-users-was-you-need-a-layered-psd-so-we-built-a-picture-cutter-8ffe6bef1f",
+        "title": "The #1 thing blocking new users was \"you need a layered PSD\". So we built a picture cutter",
+        "url": "https://www.indiehackers.com/post/the-1-thing-blocking-new-users-was-you-need-a-layered-psd-so-we-built-a-picture-cutter-8ffe6bef1f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=cAJByH5FuKDbrKODJxKs#post-cAJByH5FuKDbrKODJxKs",
+        "title": "We Made DiscountHub Accessible to AI Agents - Now in the Official MCP Registry",
+        "url": "https://www.indiehackers.com/product/discounthub?post=cAJByH5FuKDbrKODJxKs#post-cAJByH5FuKDbrKODJxKs",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-166-shopify-add-on-apps-charge-and-why-it-matters-if-youre-pricing-a-plugin-into-someone-else-s-platform-daca8fd544",
+        "title": "What 166 Shopify add-on apps charge, and why it matters if you're pricing a plugin into someone else's platform",
+        "url": "https://www.indiehackers.com/post/what-166-shopify-add-on-apps-charge-and-why-it-matters-if-youre-pricing-a-plugin-into-someone-else-s-platform-daca8fd544",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=Qb0RvPE73KVjC1HpkBoi#post-Qb0RvPE73KVjC1HpkBoi",
+        "title": "LaunchOnIt: Why looking for Product Hunt alternatives is becoming the default playbook for bootstrapped SaaS founders",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=Qb0RvPE73KVjC1HpkBoi#post-Qb0RvPE73KVjC1HpkBoi",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
