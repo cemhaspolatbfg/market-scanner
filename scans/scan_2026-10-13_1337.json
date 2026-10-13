@@ -1,0 +1,241 @@
+{
+  "scan_time": "2026-10-13T13:37:44.513203+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "claude-haiku-5-5",
+        "name": "Claude Haiku 5.5",
+        "tagline": "Anthropic's fastest and most capable Haiku yet",
+        "description": "Claude Haiku 5.5 is Anthropic's fastest and most capable small model, built for high-volume, cost-sensitive tasks like summarization, classification, coding subagents, customer support, and browser use.",
+        "votes": 343,
+        "ph_url": "https://www.producthunt.com/posts/claude-haiku-5-5",
+        "website": "https://www.producthunt.com/r/M6JBHNQU6LWQU7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "zernio-2",
+        "name": "Zernio",
+        "tagline": "Marketing infrastructure for products and agents",
+        "description": "Zernio is the marketing infrastructure 200,000 developers build products on. We absorb the integrations, platform approvals and maintenance behind every channel, all on official APIs, so you can start building today. One API covers 16 social platforms, ads on 7 networks, WhatsApp, iMessage, and phone numbers with calls and SMS that you buy inside Zernio. Use the REST API in your code, or let your coding agent do the same through our MCP server and CLI.",
+        "votes": 331,
+        "ph_url": "https://www.producthunt.com/posts/zernio-2",
+        "website": "https://www.producthunt.com/r/2QQY2FLJ5IUZ2E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Marketing",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50064840",
+        "name": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+        "url": "https://github.com/bherbruck/solidcraft",
+        "points": 92,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=50064840"
+      },
+      {
+        "id": "50069337",
+        "name": "Show HN: Use your OpenAI subscription to create audiobooks",
+        "url": "https://pdftomp3.com/connect-ai/",
+        "points": 79,
+        "comments": 45,
+        "hn_url": "https://news.ycombinator.com/item?id=50069337"
+      },
+      {
+        "id": "50064438",
+        "name": "Show HN: An experimental pattern-first DAW that supports MCP",
+        "url": "https://github.com/andrewfader/blokkily",
+        "points": 79,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=50064438"
+      },
+      {
+        "id": "50063042",
+        "name": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+        "url": "https://brickbrag.com/",
+        "points": 68,
+        "comments": 40,
+        "hn_url": "https://news.ycombinator.com/item?id=50063042"
+      },
+      {
+        "id": "50060311",
+        "name": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+        "url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
+        "points": 39,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=50060311"
+      },
+      {
+        "id": "50060268",
+        "name": "Show HN: I rewrote my website in Swift",
+        "url": "https://sindresorhus.com/blog/swift-website",
+        "points": 17,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50060268"
+      },
+      {
+        "id": "50063600",
+        "name": "Show HN: Chkit – Schema, migrations and backfills for ClickHouse (like Drizzle)",
+        "url": "https://github.com/obsessiondb/chkit",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50063600"
+      },
+      {
+        "id": "50058032",
+        "name": "Show HN: E2E – Open-source agentic testing framework for web, iOS and Android",
+        "url": "https://github.com/tester-army/e2e",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50058032"
+      },
+      {
+        "id": "50058903",
+        "name": "Show HN: IHMT – Infinite Hierarchical Memory Tree for AI Agents",
+        "url": "https://github.com/gonzaroman/IHMT-MEMORY",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50058903"
+      },
+      {
+        "id": "50068405",
+        "name": "Show HN: A Playable Architectural Facade Synth",
+        "url": "https://claude.ai/artifact/BF6MjSg1RJBsp1ZZiQX6D2",
+        "points": 6,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50068405"
+      },
+      {
+        "id": "50063385",
+        "name": "Show HN: News.txt – world news by region, from each region's own outlets",
+        "url": "https://news.freestuffsthat.work",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50063385"
+      },
+      {
+        "id": "50069156",
+        "name": "Show HN: Teilifís Seán – A Jellyfin Plugin for Channel Surfing",
+        "url": "https://xn--teilifssen-04a4l.ie/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50069156"
+      },
+      {
+        "id": "50068562",
+        "name": "Show HN: RL agent trained only in synthetic markets got better on real 2020crash",
+        "url": "https://github.com/giack-hack/synthetic-markets-transfer",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50068562"
+      },
+      {
+        "id": "50066372",
+        "name": "Show HN: Askdown – A plain-text format for forms",
+        "url": "https://askdown.dev/",
+        "points": 5,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50066372"
+      },
+      {
+        "id": "50070286",
+        "name": "Show HN: Opensidian",
+        "url": "https://opensidian.org/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50070286"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/tallymark",
+        "name": "Tallymark",
+        "description": "Invoices, subscriptions, and sales pages",
+        "url": "https://betalist.com/startups/tallymark"
+      },
+      {
+        "id": "/startups/goals-and-tasks",
+        "name": "Goals and Tasks",
+        "description": "Map goals into actionable tasks and track progress visually",
+        "url": "https://betalist.com/startups/goals-and-tasks"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/8-signups-3-people-scanned-0-came-back-how-did-you-get-your-first-users-to-stick-69fdb25dd9",
+        "title": "8 signups, 3 people scanned, 0 came back. How did you get your first users to stick?",
+        "url": "https://www.indiehackers.com/post/8-signups-3-people-scanned-0-came-back-how-did-you-get-your-first-users-to-stick-69fdb25dd9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-do-you-grow-your-product-saas-without-paying-for-ads-372c3404ab",
+        "title": "How do you grow your product (SaaS) without paying for ads?",
+        "url": "https://www.indiehackers.com/post/how-do-you-grow-your-product-saas-without-paying-for-ads-372c3404ab",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=EfZV2CwYXHemtHbZ47Is#post-EfZV2CwYXHemtHbZ47Is",
+        "title": "LaunchOnIt: Why relying entirely on social media algorithms for startup distribution is a dead end",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=EfZV2CwYXHemtHbZ47Is#post-EfZV2CwYXHemtHbZ47Is",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/plain-text-beat-ai-images-10x-what-a-week-of-posting-taught-me-about-followers-50d4937ede",
+        "title": "Plain text beat AI images 10x: what a week of posting taught me about followers",
+        "url": "https://www.indiehackers.com/post/plain-text-beat-ai-images-10x-what-a-week-of-posting-taught-me-about-followers-50d4937ede",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=ptbtVI5mdTwTJLe0Yobf#post-ptbtVI5mdTwTJLe0Yobf",
+        "title": "CircleSaaS: Your product is live. Is anyone finding it?",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=ptbtVI5mdTwTJLe0Yobf#post-ptbtVI5mdTwTJLe0Yobf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/indieneed?post=UlOJqgwyn2ux2zpwiYBx#post-UlOJqgwyn2ux2zpwiYBx",
+        "title": "Indie Need: 7 votes was enough to win last week",
+        "url": "https://www.indiehackers.com/product/indieneed?post=UlOJqgwyn2ux2zpwiYBx#post-UlOJqgwyn2ux2zpwiYBx",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-spent-weeks-improving-my-startups-recommendations-now-i-need-to-find-out-if-they-re-actually-useful-f9479215f6",
+        "title": "I spent weeks improving my startup's recommendations. Now I need to find out if they're actually useful.",
+        "url": "https://www.indiehackers.com/post/i-spent-weeks-improving-my-startups-recommendations-now-i-need-to-find-out-if-they-re-actually-useful-f9479215f6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-ceos-ai-agent-posted-his-bank-balance-to-slack-so-i-built-one-that-remembers-nothing-2571ff8311",
+        "title": "A CEO's AI agent posted his bank balance to Slack. So I built one that remembers nothing",
+        "url": "https://www.indiehackers.com/post/a-ceos-ai-agent-posted-his-bank-balance-to-slack-so-i-built-one-that-remembers-nothing-2571ff8311",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
