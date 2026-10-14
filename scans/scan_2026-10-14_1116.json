@@ -1,0 +1,242 @@
+{
+  "scan_time": "2026-10-14T11:15:56.885461+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "articos-mcp",
+        "name": "Articos MCP",
+        "tagline": "See how simulated buyers react, right in your agent",
+        "description": "Most teams ship, then hope it lands. Articos MCP lets you check first. Right inside Claude or ChatGPT, run your headlines, positioning, or pages past simulated buyers based on your actual customers, and see how they respond before it goes out. Validated against human research from Baymard and Nielsen Norman, it agrees 86% of the time.",
+        "votes": 328,
+        "ph_url": "https://www.producthunt.com/posts/articos-mcp",
+        "website": "https://www.producthunt.com/r/KE4OQDDO5PVYVA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "google-embeddinggemma-2",
+        "name": "Google EmbeddingGemma 2",
+        "tagline": "An open, lightweight multimodal embedding model",
+        "description": "EmbeddingGemma 2 is Google DeepMind's open embedding model that maps text, code, images, video and audio into one shared space, so you can search across them from a single query. At 740M parameters it runs on-device, needing about 567MB of RAM on a Pixel 11 Pro for the full multimodal model (191MB for text only). Apache 2.0 licensed, with weights on Hugging Face and Kaggle. MTEB Code score rises from 68.76 to 78.68.",
+        "votes": 307,
+        "ph_url": "https://www.producthunt.com/posts/google-embeddinggemma-2",
+        "website": "https://www.producthunt.com/r/223DSPCXFFRIJF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Audio",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "kodlo-2",
+        "name": "kōdlo",
+        "tagline": "End-to-end sales workspace with unified context",
+        "description": "kōdlo finds prospects that fit your ICP and tells you how to warm each one up. Upload product catalogues and other docs to the Knowledge Hub, and its agent turns them into personalized messages, offers, deep searches and decks. Track client data, collaborate with your team, and manage tasks, all in one place. Connect Claude Desktop/ChatGPT Work or your code agent with kōdlo MCP to scale and orchestrate contexts.",
+        "votes": 300,
+        "ph_url": "https://www.producthunt.com/posts/kodlo-2",
+        "website": "https://www.producthunt.com/r/OZIBM7CMM6TNPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50077020",
+        "name": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "url": "https://guitoro.com/",
+        "points": 453,
+        "comments": 117,
+        "hn_url": "https://news.ycombinator.com/item?id=50077020"
+      },
+      {
+        "id": "50074909",
+        "name": "Show HN: How random are you?",
+        "url": "https://lab.specr.net/rigged-draw/",
+        "points": 159,
+        "comments": 80,
+        "hn_url": "https://news.ycombinator.com/item?id=50074909"
+      },
+      {
+        "id": "50080275",
+        "name": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+        "url": "https://pulseos.finance",
+        "points": 106,
+        "comments": 68,
+        "hn_url": "https://news.ycombinator.com/item?id=50080275"
+      },
+      {
+        "id": "50081151",
+        "name": "Show HN: I built a tool to track what AI leaders say and how their views change",
+        "url": "https://blumify.io/people",
+        "points": 102,
+        "comments": 63,
+        "hn_url": "https://news.ycombinator.com/item?id=50081151"
+      },
+      {
+        "id": "50075665",
+        "name": "Show HN: XY Music Notation",
+        "url": "https://music.xy.dev/",
+        "points": 77,
+        "comments": 67,
+        "hn_url": "https://news.ycombinator.com/item?id=50075665"
+      },
+      {
+        "id": "50070010",
+        "name": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+        "url": "https://github.com/LargeModGames/spotatui",
+        "points": 76,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=50070010"
+      },
+      {
+        "id": "50077619",
+        "name": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+        "url": "https://parsimony.lasu.dev/",
+        "points": 69,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=50077619"
+      },
+      {
+        "id": "50075809",
+        "name": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+        "url": "https://github.com/maharshi365/deslop",
+        "points": 31,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50075809"
+      },
+      {
+        "id": "50073755",
+        "name": "Show HN: Sayso, free open source dictation for Mac, Windows, and Linux",
+        "url": "https://github.com/watzon/sayso",
+        "points": 22,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50073755"
+      },
+      {
+        "id": "50070688",
+        "name": "Show HN: MemorySync – Memory for AI Agents",
+        "url": "https://memorysync.io/try",
+        "points": 22,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50070688"
+      },
+      {
+        "id": "50080836",
+        "name": "Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support",
+        "url": "https://github.com/Arunjay4213/mosh-rs",
+        "points": 18,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50080836"
+      },
+      {
+        "id": "50071200",
+        "name": "Show HN: Stream live open data in two commands",
+        "url": "https://docs.hypermass.io/docs/cli/",
+        "points": 15,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50071200"
+      },
+      {
+        "id": "50081186",
+        "name": "Show HN: Built a Rome City Builder",
+        "url": "https://tiberava.pages.dev/",
+        "points": 15,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50081186"
+      },
+      {
+        "id": "50080450",
+        "name": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+        "url": "https://github.com/RayenMlayeh/jevcrawl",
+        "points": 12,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50080450"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/landscape-design-ai",
+        "name": "Landscape Design AI",
+        "description": "Turn a photo into a pro-grade landscape design in seconds",
+        "url": "https://betalist.com/startups/landscape-design-ai"
+      },
+      {
+        "id": "/startups/cashd",
+        "name": "Cashd",
+        "description": "Snap a photo, get an instant resale value, list it everywhere",
+        "url": "https://betalist.com/startups/cashd"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-listed-my-saas-on-6-software-directories-5-spent-0-real-visits-so-far-c23cf71643",
+        "title": "I listed my SaaS on 6 software directories: $5 spent, 0 real visits so far",
+        "url": "https://www.indiehackers.com/post/i-listed-my-saas-on-6-software-directories-5-spent-0-real-visits-so-far-c23cf71643",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-i-learned-building-a-revenue-leakage-tool-keep-the-ai-out-of-the-matching-3252451330",
+        "title": "What I learned building a revenue leakage tool: keep the AI out of the matching",
+        "url": "https://www.indiehackers.com/post/what-i-learned-building-a-revenue-leakage-tool-keep-the-ai-out-of-the-matching-3252451330",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-are-your-methods-for-staying-disciplined-when-building-your-own-projects-38b1d2e80a",
+        "title": "What are your methods for staying disciplined when building your own projects?",
+        "url": "https://www.indiehackers.com/post/what-are-your-methods-for-staying-disciplined-when-building-your-own-projects-38b1d2e80a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=SY8kGsLJxfTP5qEzZ8SE#post-SY8kGsLJxfTP5qEzZ8SE",
+        "title": "My first SaaS sale just came in - CircleSaaS",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=SY8kGsLJxfTP5qEzZ8SE#post-SY8kGsLJxfTP5qEzZ8SE",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/whats-in-your-first-screenshot-86620e6593",
+        "title": "What's in your first screenshot?",
+        "url": "https://www.indiehackers.com/post/whats-in-your-first-screenshot-86620e6593",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/accountants-spend-weeks-chasing-client-documents-im-trying-to-make-that-boring-d2d95e2d15",
+        "title": "Accountants spend weeks chasing client documents. I'm trying to make that boring",
+        "url": "https://www.indiehackers.com/post/accountants-spend-weeks-chasing-client-documents-im-trying-to-make-that-boring-d2d95e2d15",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/how-rasty-turek-built-vaultaire-in-three-weeks-and-grew-it-to-40k-month-1BjFvs2akwfIVjMGYO54",
+        "title": "How Rasty Turek built Vaultaire in three weeks and grew it to $40K/month",
+        "url": "https://www.indiehackers.com/post/tech/how-rasty-turek-built-vaultaire-in-three-weeks-and-grew-it-to-40k-month-1BjFvs2akwfIVjMGYO54",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 14
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
