@@ -1,0 +1,245 @@
+{
+  "scan_time": "2026-10-15T10:54:38.223166+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "pancake-7",
+        "name": "Pancake",
+        "tagline": "The Vercel for GTM",
+        "description": "Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.",
+        "votes": 557,
+        "ph_url": "https://www.producthunt.com/posts/pancake-7",
+        "website": "https://www.producthunt.com/r/TK5WOCVR7ZG7IU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "inferock",
+        "name": "Inferock",
+        "tagline": "Serverless inference, with credits back for failed calls.",
+        "description": "Get free signup credits to use all available models on Inferock. Bring your own keys: run your OpenAI, Claude or Gemini accounts, see where calls fail and what they cost, and get credits back on eligible failed calls. Serverless: pay-per-token LLM inference. Get signup credits to start using.",
+        "votes": 393,
+        "ph_url": "https://www.producthunt.com/posts/inferock",
+        "website": "https://www.producthunt.com/r/Q5YAUE7WHFYYB4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "Google Cloud Run"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "opencode-2-0",
+        "name": "OpenCode 2.0",
+        "tagline": "The open source AI coding agent",
+        "description": "OpenCode is an open source AI coding agent. It’s available as a terminal-based interface, desktop app, or web app.",
+        "votes": 313,
+        "ph_url": "https://www.producthunt.com/posts/opencode-2-0",
+        "website": "https://www.producthunt.com/r/RIJ2YFQQYD7OOS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "GitHub",
+          "Development"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50092470",
+        "name": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+        "url": "https://petal.live/",
+        "points": 174,
+        "comments": 39,
+        "hn_url": "https://news.ycombinator.com/item?id=50092470"
+      },
+      {
+        "id": "50090932",
+        "name": "Show HN: I wrote an email app that accepts only one sender per inbox",
+        "url": "https://clova.email/",
+        "points": 102,
+        "comments": 83,
+        "hn_url": "https://news.ycombinator.com/item?id=50090932"
+      },
+      {
+        "id": "50099136",
+        "name": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+        "url": "https://github.com/andunieee/flipflop",
+        "points": 45,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=50099136"
+      },
+      {
+        "id": "50088713",
+        "name": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+        "url": "https://github.com/graphicle-ai/graphicle",
+        "points": 45,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=50088713"
+      },
+      {
+        "id": "50096300",
+        "name": "Show HN: Ito – Build Terminal UIs in Lua",
+        "url": "https://uji.sh/ito/",
+        "points": 28,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50096300"
+      },
+      {
+        "id": "50098454",
+        "name": "Show HN: My Terminal Themes Web App",
+        "url": "",
+        "points": 20,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50098454"
+      },
+      {
+        "id": "50089045",
+        "name": "Show HN: The first short movie built using code and AI",
+        "url": "https://fframes.studio/the-why/",
+        "points": 14,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50089045"
+      },
+      {
+        "id": "50088582",
+        "name": "Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model",
+        "url": "https://github.com/theforecastingcompany/tfc-t0",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50088582"
+      },
+      {
+        "id": "50096513",
+        "name": "Show HN: Ask a technical question, get an animated explainer you can interrupt",
+        "url": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50096513"
+      },
+      {
+        "id": "50087641",
+        "name": "Show HN: Every open government tender in the world (Over 250k)",
+        "url": "https://tenderportal.io/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50087641"
+      },
+      {
+        "id": "50090514",
+        "name": "Show HN: AxiomCode Graph, Reducing coding agent rework with formal methods",
+        "url": "https://github.com/AxiomCodeAI/axiomcodegraph",
+        "points": 10,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50090514"
+      },
+      {
+        "id": "50086216",
+        "name": "Show HN: Blobz: generate playful, deterministic SVG avatars from any string",
+        "url": "https://blobz.lirena.in",
+        "points": 7,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50086216"
+      },
+      {
+        "id": "50094005",
+        "name": "Show HN: Dub Anything – Dub videos in each actor's own voice",
+        "url": "https://github.com/swax/dub-anything",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50094005"
+      },
+      {
+        "id": "50098989",
+        "name": "Show HN: How to Use LLMs",
+        "url": "https://github.com/canaanmckenzie/sidelong",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50098989"
+      },
+      {
+        "id": "50086224",
+        "name": "Show HN: Geneva, a Rust FFmpeg CLI alternative with HTML/CSS graphics",
+        "url": "https://genevarender.com",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50086224"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/orgacha",
+        "name": "Orgacha",
+        "description": "The employee comms platform people actually want to open",
+        "url": "https://betalist.com/startups/orgacha"
+      },
+      {
+        "id": "/startups/rinqly",
+        "name": "Rinqly",
+        "description": "Answer calls and chats, book appointments, and follow up 24/7",
+        "url": "https://betalist.com/startups/rinqly"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/66-days-0-then-my-first-customer-skipped-my-cheapest-plan-9526cdfef2",
+        "title": "66 days, €0. Then my first customer skipped my cheapest plan",
+        "url": "https://www.indiehackers.com/post/66-days-0-then-my-first-customer-skipped-my-cheapest-plan-9526cdfef2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=ASik0LHNqcBlRQZYBtNl#post-ASik0LHNqcBlRQZYBtNl",
+        "title": "CircleSaaS: I built a directory where launch day doesn’t matter",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=ASik0LHNqcBlRQZYBtNl#post-ASik0LHNqcBlRQZYBtNl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/leapd?post=dl386DXM5LFp1XoEpJZ5#post-dl386DXM5LFp1XoEpJZ5",
+        "title": "Leapd: Get a Personalized Business Idea With Market Proof — Free",
+        "url": "https://www.indiehackers.com/product/leapd?post=dl386DXM5LFp1XoEpJZ5#post-dl386DXM5LFp1XoEpJZ5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/112-browser-based-pdf-tools-0-paying-customers-what-would-you-do-4ecc43af2a",
+        "title": "112 browser-based PDF tools, 0 paying customers — what would you do?",
+        "url": "https://www.indiehackers.com/post/112-browser-based-pdf-tools-0-paying-customers-what-would-you-do-4ecc43af2a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-tried-submitting-to-91-free-startup-directories-here-is-what-free-actually-means-now-08098dedde",
+        "title": "I tried submitting to 91 free startup directories. Here is what \"free\" actually means now.",
+        "url": "https://www.indiehackers.com/post/i-tried-submitting-to-91-free-startup-directories-here-is-what-free-actually-means-now-08098dedde",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/focusing-on-audience-first-and-hitting-30k-mrr-in-8-months-ootKyp98moigKLdaOON4",
+        "title": "Focusing on audience first and hitting $30k MRR in 8 months",
+        "url": "https://www.indiehackers.com/post/tech/focusing-on-audience-first-and-hitting-30k-mrr-in-8-months-ootKyp98moigKLdaOON4",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
