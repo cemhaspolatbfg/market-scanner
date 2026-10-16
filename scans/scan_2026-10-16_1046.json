@@ -1,0 +1,223 @@
+{
+  "scan_time": "2026-10-16T10:46:10.956340+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "talanoa-2",
+        "name": "Talanoa",
+        "tagline": "Email that feels like chat",
+        "description": "Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quotes, signatures and clutter along the way. Turn emails into actionable todos, manage your calendar without leaving your inbox, and use private, on-device AI to search, summarize and write. Connect Gmail, Outlook, iCloud or any IMAP account in one unified inbox. Everything stays on your computer: no cloud sync, no tracking, no one reading your emails.",
+        "votes": 312,
+        "ph_url": "https://www.producthunt.com/posts/talanoa-2",
+        "website": "https://www.producthunt.com/r/LOUVBI5K3ZIRPE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Email",
+          "Productivity",
+          "Task Management"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "ngram-2-0-2",
+        "name": "ngram 2.0",
+        "tagline": "Create explainers, screencasts, and AI avatar videos",
+        "description": "Turn ideas, documents, and recordings into narrated videos. ngram analyzes uploaded videos and screen recordings to identify key moments and build clear product walkthroughs. Create animated explainers or add an AI avatar presenter, then refine your video in chat.",
+        "votes": 282,
+        "ph_url": "https://www.producthunt.com/posts/ngram-2-0-2",
+        "website": "https://www.producthunt.com/r/B7QZKLCV5HYNON?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Education",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50102247",
+        "name": "Show HN: Unfenced – Land for sale that borders public land",
+        "url": "https://unfenced.land/",
+        "points": 296,
+        "comments": 191,
+        "hn_url": "https://news.ycombinator.com/item?id=50102247"
+      },
+      {
+        "id": "50105467",
+        "name": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+        "url": "https://proa.so/",
+        "points": 101,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=50105467"
+      },
+      {
+        "id": "50106054",
+        "name": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+        "url": "https://sygal.app",
+        "points": 42,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=50106054"
+      },
+      {
+        "id": "50106062",
+        "name": "Show HN: BlastLoop, a structure-first coding method for AI agents",
+        "url": "https://github.com/rlshaw-ml/BlastLoop",
+        "points": 14,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50106062"
+      },
+      {
+        "id": "50102699",
+        "name": "Show HN: deCDN – a peer-to-peer CDN where every piece is BLAKE3-verified",
+        "url": "https://github.com/decdn/decdn",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50102699"
+      },
+      {
+        "id": "50107586",
+        "name": "Show HN: Just gave Claude Code the website and ad budget to see what it would do",
+        "url": "https://snitch.alphaventure.com/gate.php",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50107586"
+      },
+      {
+        "id": "50107729",
+        "name": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+        "url": "https://github.com/readysettech/rdst",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50107729"
+      },
+      {
+        "id": "50110614",
+        "name": "Show HN: Endo – A Higher-Order Harness",
+        "url": "https://github.com/longsurf-ai/endo",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50110614"
+      },
+      {
+        "id": "50102404",
+        "name": "Show HN: BookPress, a WordPress core in C/C++ (Live Demo)",
+        "url": "https://bookpress.io/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50102404"
+      },
+      {
+        "id": "50103048",
+        "name": "Show HN: Pi subagents Lite – keep your system prompt clean",
+        "url": "https://github.com/AlexParamonov/pi-subagents-lite",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50103048"
+      },
+      {
+        "id": "50114512",
+        "name": "Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects",
+        "url": "https://gitsu.app/",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50114512"
+      },
+      {
+        "id": "50106849",
+        "name": "Show HN: Hooked – Swipe through the first lines of classic books Tinder-style",
+        "url": "https://hooked.boondoggle.studio",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50106849"
+      },
+      {
+        "id": "50110695",
+        "name": "Show HN: Drift – Hot air balloon simulator",
+        "url": "https://hakancn.com/drift/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50110695"
+      },
+      {
+        "id": "50111421",
+        "name": "Show HN: My AI induced mania in embedded computer graphics engineering [video]",
+        "url": "https://www.youtube.com/watch?v=Ig2gYmOTuug",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50111421"
+      },
+      {
+        "id": "50112310",
+        "name": "Show HN: Chickadee Bandit – Build private apps for your family",
+        "url": "https://www.chickadeebandit.com/gallery",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50112310"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/dmly",
+        "name": "DMly",
+        "description": "Manage bookings, messages, and payments from WhatsApp and all channels",
+        "url": "https://betalist.com/startups/dmly"
+      },
+      {
+        "id": "/startups/listroster",
+        "name": "ListRoster",
+        "description": "Find local businesses and decision makers with verified phones",
+        "url": "https://betalist.com/startups/listroster"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-my-first-mac-app-today-a-text-expander-with-plain-text-snippets-7ee42de7dd",
+        "title": "I launched my first Mac app today: a text expander with plain text snippets",
+        "url": "https://www.indiehackers.com/post/i-launched-my-first-mac-app-today-a-text-expander-with-plain-text-snippets-7ee42de7dd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/0-77-in-api-bills-to-read-89-000-planning-pdfs-19ce97c6b5",
+        "title": "$0.77 in API bills to read 89,000 planning PDFs",
+        "url": "https://www.indiehackers.com/post/0-77-in-api-bills-to-read-89-000-planning-pdfs-19ce97c6b5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=aagaCFaK0jXf24CKmmbl#post-aagaCFaK0jXf24CKmmbl",
+        "title": "LaunchOnIt: The ultimate guide to AI search optimization: how to get your SaaS cited by ChatGPT, Claude, and Perplexity",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=aagaCFaK0jXf24CKmmbl#post-aagaCFaK0jXf24CKmmbl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=DyIST2FuYGOfKJ2PpLzn#post-DyIST2FuYGOfKJ2PpLzn",
+        "title": "CircleSaaS vs other directories: and why you should list it",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=DyIST2FuYGOfKJ2PpLzn#post-DyIST2FuYGOfKJ2PpLzn",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/you-didn-t-run-out-of-motivation-you-ran-out-of-feedback-ef87a5789c",
+        "title": "You didn’t run out of motivation. You ran out of feedback.",
+        "url": "https://www.indiehackers.com/post/you-didn-t-run-out-of-motivation-you-ran-out-of-feedback-ef87a5789c",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
