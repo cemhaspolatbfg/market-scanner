@@ -1,0 +1,230 @@
+{
+  "scan_time": "2026-10-17T10:11:36.510330+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "jockey-by-twelvelabs-2",
+        "name": "Jockey by TwelveLabs",
+        "tagline": "Your entire video library: organized, searchable, understood",
+        "description": "Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.",
+        "votes": 408,
+        "ph_url": "https://www.producthunt.com/posts/jockey-by-twelvelabs-2",
+        "website": "https://www.producthunt.com/r/H3AVDIX7A2JROL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "harness-by-autonomous-2",
+        "name": "Harness by Autonomous",
+        "tagline": "Every coding agent, every machine, one command center.",
+        "description": "Harness is the open-source command center for coding agents. Claude Code at work, Codex at home, Hermes in the cloud: every agent on every machine, side by side. Use the native desktop app, hn in your terminal, or the iOS and Android app to answer agents by voice. End-to-end encrypted. Then go beyond code with 49 harnesses for CAD, circuits, robots, games and music. Free on Mac and Linux.",
+        "votes": 325,
+        "ph_url": "https://www.producthunt.com/posts/harness-by-autonomous-2",
+        "website": "https://www.producthunt.com/r/DTWJQ55RR225ZD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50118688",
+        "name": "Show HN: Gemini 4 Argon plays StarCraft",
+        "url": "https://starskirmish.com/bench/v0-2/",
+        "points": 222,
+        "comments": 101,
+        "hn_url": "https://news.ycombinator.com/item?id=50118688"
+      },
+      {
+        "id": "50127979",
+        "name": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "points": 74,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=50127979"
+      },
+      {
+        "id": "50118876",
+        "name": "Show HN: rStation – A shared research lab for your AI agents",
+        "url": "https://rstation.ai/",
+        "points": 53,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=50118876"
+      },
+      {
+        "id": "50122776",
+        "name": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+        "url": "https://stoke.money",
+        "points": 29,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=50122776"
+      },
+      {
+        "id": "50126334",
+        "name": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+        "url": "https://fakeipedia.org",
+        "points": 27,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=50126334"
+      },
+      {
+        "id": "50119752",
+        "name": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+        "url": "https://onedeploy.co",
+        "points": 26,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=50119752"
+      },
+      {
+        "id": "50122231",
+        "name": "Show HN: 2026 Midterms Tracker blends polls and Kalshi/Poymarket odds",
+        "url": "https://pressaudit.org/midterms-2026",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50122231"
+      },
+      {
+        "id": "50118950",
+        "name": "Show HN: Grimoire for Biology",
+        "url": "https://grimoire.bio",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50118950"
+      },
+      {
+        "id": "50122767",
+        "name": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
+        "url": "https://github.com/Moshik21/weatherdeck",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50122767"
+      },
+      {
+        "id": "50118153",
+        "name": "Show HN: Capy-flash – a 125B MoE model on two 16 GB consumer GPUs",
+        "url": "https://github.com/ValerioDolci/capy-flash",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50118153"
+      },
+      {
+        "id": "50125746",
+        "name": "Show HN: Fly a Tesla Roadster over parked Teslas before the air runs out",
+        "url": "https://roadster.pavlin.dev",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50125746"
+      },
+      {
+        "id": "50122324",
+        "name": "Show HN: Camera Controls and Motion for AI Video Prompts",
+        "url": "https://www.kapwing.com/ai/prompt-generator/camera",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50122324"
+      },
+      {
+        "id": "50118265",
+        "name": "Show HN: A WebGL hommage to PS1 demo discs",
+        "url": "https://demo-disc.pixelnest.io/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50118265"
+      },
+      {
+        "id": "50126384",
+        "name": "Show HN: Things to Do API",
+        "url": "https://thingstodoapi.com/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50126384"
+      },
+      {
+        "id": "50124893",
+        "name": "Show HN: Play a 5 minutes match of CS 1.6 1v1 while you wait for your agent",
+        "url": "https://csfor.fun/",
+        "points": 5,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50124893"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/jaah",
+        "name": "Jaah",
+        "description": "Delegate engineering work to AI agents with reviews, records, and rules",
+        "url": "https://betalist.com/startups/jaah"
+      },
+      {
+        "id": "/startups/shipfound",
+        "name": "Shipfound",
+        "description": "Get your product named by ChatGPT, Claude Code, or Codex",
+        "url": "https://betalist.com/startups/shipfound"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-do-you-tell-useful-feedback-from-someone-who-might-actually-use-your-app-3ec6e41c26",
+        "title": "How do you tell useful feedback from someone who might actually use your app?",
+        "url": "https://www.indiehackers.com/post/how-do-you-tell-useful-feedback-from-someone-who-might-actually-use-your-app-3ec6e41c26",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/after-submitting-to-launch-directories-how-do-you-know-youre-actually-listed-0ca4076141",
+        "title": "After submitting to launch directories, how do you know you're actually listed?",
+        "url": "https://www.indiehackers.com/post/after-submitting-to-launch-directories-how-do-you-know-youre-actually-listed-0ca4076141",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=xwTdz7M2nqBMMV41zJM4#post-xwTdz7M2nqBMMV41zJM4",
+        "title": "LaunchOnIt: The top product launch platforms and directories for indie hackers and SaaS founders",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=xwTdz7M2nqBMMV41zJM4#post-xwTdz7M2nqBMMV41zJM4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=DtAx0TePFPXzzwDjScvn#post-DtAx0TePFPXzzwDjScvn",
+        "title": "CircleSaaS: Would you pay monthly or once to list your startup on a directory?",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=DtAx0TePFPXzzwDjScvn#post-DtAx0TePFPXzzwDjScvn",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchnestln?post=RP1ao1GT8528JXBpUUZr#post-RP1ao1GT8528JXBpUUZr",
+        "title": "Launch Nest LN Update: Meet LN Finder — Smarter Product Discovery Starts Here",
+        "url": "https://www.indiehackers.com/product/launchnestln?post=RP1ao1GT8528JXBpUUZr#post-RP1ao1GT8528JXBpUUZr",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/seeing-the-context-before-asking-an-ai-agent-to-work-e2f8fbdbf7",
+        "title": "Seeing the context before asking an AI agent to work",
+        "url": "https://www.indiehackers.com/post/seeing-the-context-before-asking-an-ai-agent-to-work-e2f8fbdbf7",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
