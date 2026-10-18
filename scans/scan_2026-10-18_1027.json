@@ -1,0 +1,215 @@
+{
+  "scan_time": "2026-10-18T10:27:44.101351+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "nitrostack",
+        "name": "NitroStack",
+        "tagline": "Build, test, and deploy MCP servers in one place",
+        "description": "NitroStack is the full-stack platform for building production-ready MCP servers and AI apps. Build with open-source TypeScript & Python SDKs, test and debug visually in NitroStack Studio, orchestrate agent workflows with NitroStack Workflow, deploy on NitroStack Cloud, and ship branded experiences with NitroStack Chat. Auth, testing, deployment and frontend stay in one workflow. Connect to ChatGPT, Claude and other AI clients. Powering 80,000+ MCP servers.",
+        "votes": 294,
+        "ph_url": "https://www.producthunt.com/posts/nitrostack",
+        "website": "https://www.producthunt.com/r/NFV7LZ6PHSL5AT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50131189",
+        "name": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+        "url": "https://github.com/mikroverk/esp32sim",
+        "points": 167,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=50131189"
+      },
+      {
+        "id": "50131006",
+        "name": "Show HN: High-quality duck audio synthesizer",
+        "url": "https://celphase.github.io/duck-pond/",
+        "points": 140,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=50131006"
+      },
+      {
+        "id": "50137950",
+        "name": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "points": 133,
+        "comments": 33,
+        "hn_url": "https://news.ycombinator.com/item?id=50137950"
+      },
+      {
+        "id": "50137820",
+        "name": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+        "url": "https://tkgally.github.io/500-clocks/",
+        "points": 51,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=50137820"
+      },
+      {
+        "id": "50133559",
+        "name": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+        "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50133559"
+      },
+      {
+        "id": "50130290",
+        "name": "Show HN: Right-click any log line to see its call stack in VS Code",
+        "url": "https://marketplace.visualstudio.com/items?itemName=Suwapat.logcallstack",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50130290"
+      },
+      {
+        "id": "50138745",
+        "name": "Show HN: Fast, secure JSON Formatter with side-by-side JSON diffing",
+        "url": "https://instantjsonformatter.com",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50138745"
+      },
+      {
+        "id": "50133014",
+        "name": "Show HN: I reverse engineered serum 2 and build an open source alternative",
+        "url": "https://github.com/itsfabioroma/tessera",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50133014"
+      },
+      {
+        "id": "50134324",
+        "name": "Show HN: Photos to Gaussian Splat inside your browser using DA3 Small",
+        "url": "https://antoinemopa.github.io/splatting-rs/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50134324"
+      },
+      {
+        "id": "50133075",
+        "name": "Show HN: Atari Gravitar in VR",
+        "url": "https://gravitar-vr.github.io",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50133075"
+      },
+      {
+        "id": "50138558",
+        "name": "Show HN: JSynth – Visual Programming Editor for Julia",
+        "url": "https://github.com/ozanbora/JSynth",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50138558"
+      },
+      {
+        "id": "50136316",
+        "name": "Show HN: MoroccoAPI: An open source API for Moroccan public data",
+        "url": "https://moroccoapi.dev/",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50136316"
+      },
+      {
+        "id": "50129783",
+        "name": "Show HN: SpawnDroid, Cloud-Provisioned Android Containers via WebRTC and ReDroid",
+        "url": "https://spawndroid.io/",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50129783"
+      },
+      {
+        "id": "50134868",
+        "name": "Show HN: Thoreau's Walden as a 3D browser game with an AI guide",
+        "url": "https://walden.learnmer.com/",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50134868"
+      },
+      {
+        "id": "50133697",
+        "name": "Show HN: ThemesFor.app – a static website builder that doesn't hide the HTML",
+        "url": "https://themesfor.app/",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50133697"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/tirionai",
+        "name": "TirionAI",
+        "description": "AI agents for the security cameras you already own",
+        "url": "https://betalist.com/startups/tirionai"
+      },
+      {
+        "id": "/startups/clean-compute",
+        "name": "Clean Compute",
+        "description": "Turn every subscriber into monthly trees planted and ocean cleanup",
+        "url": "https://betalist.com/startups/clean-compute"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=x7KbDnjKdvzKqh1rqyOP#post-x7KbDnjKdvzKqh1rqyOP",
+        "title": "CircleSaaS: Best underrated subreddits to post your startup in 2027",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=x7KbDnjKdvzKqh1rqyOP#post-x7KbDnjKdvzKqh1rqyOP",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/50-founders-saw-my-proof-screen-only-16-even-tried-98a870b47b",
+        "title": "50 founders saw my proof screen. Only 16 even tried.",
+        "url": "https://www.indiehackers.com/post/50-founders-saw-my-proof-screen-only-16-even-tried-98a870b47b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/before-you-blame-your-product-for-slow-signups-check-whether-strangers-can-find-it-797eb89ec1",
+        "title": "Before you blame your product for slow signups, check whether strangers can find it",
+        "url": "https://www.indiehackers.com/post/before-you-blame-your-product-for-slow-signups-check-whether-strangers-can-find-it-797eb89ec1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/building-an-ai-code-reviewer-that-does-more-than-point-out-bugs-72353b8479",
+        "title": "Building an AI code reviewer that does more than point out bugs",
+        "url": "https://www.indiehackers.com/post/building-an-ai-code-reviewer-that-does-more-than-point-out-bugs-72353b8479",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/everyone-you-ve-shown-your-product-to-wants-you-to-succeed-that-s-the-problem-3d0cbf9e4b",
+        "title": "Everyone you’ve shown your product to wants you to succeed. That’s the problem.",
+        "url": "https://www.indiehackers.com/post/everyone-you-ve-shown-your-product-to-wants-you-to-succeed-that-s-the-problem-3d0cbf9e4b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=QpvuWC99nKsd9QSXi3RE#post-QpvuWC99nKsd9QSXi3RE",
+        "title": "CircleSaaS: Day 7: 100+ startups listed on my directory",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=QpvuWC99nKsd9QSXi3RE#post-QpvuWC99nKsd9QSXi3RE",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
