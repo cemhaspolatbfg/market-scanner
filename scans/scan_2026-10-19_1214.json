@@ -1,0 +1,230 @@
+{
+  "scan_time": "2026-10-19T12:14:01.177651+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "inbox-zero-7",
+        "name": "Inbox Zero",
+        "tagline": "Open-source Superhuman alternative",
+        "description": "Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.",
+        "votes": 338,
+        "ph_url": "https://www.producthunt.com/posts/inbox-zero-7",
+        "website": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Email",
+          "Open Source",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "fina-business",
+        "name": "Fina Business",
+        "tagline": "The flexible $20/mo QuickBooks alternative for founders",
+        "description": "You started a business, not an accounting department. Fina Business gives founders the essentials of business accounting without the complexity of traditional tools. Track business and personal finances your way, automate invoices, accept Stripe payments, manage customers, and get double-entry bookkeeping, P&L, and balance sheets. Start at $20/mo and customize Fina around how your business actually works.",
+        "votes": 271,
+        "ph_url": "https://www.producthunt.com/posts/fina-business",
+        "website": "https://www.producthunt.com/r/5DQUP4N5FLROGS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Business",
+          "Accounting",
+          "Budgeting"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50140769",
+        "name": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+        "url": "https://legendofhyrule.com/",
+        "points": 194,
+        "comments": 115,
+        "hn_url": "https://news.ycombinator.com/item?id=50140769"
+      },
+      {
+        "id": "50145715",
+        "name": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "url": "https://github.com/finereli/whatsapp-mcp",
+        "points": 115,
+        "comments": 66,
+        "hn_url": "https://news.ycombinator.com/item?id=50145715"
+      },
+      {
+        "id": "50141436",
+        "name": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+        "url": "https://ranet3.com/",
+        "points": 30,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50141436"
+      },
+      {
+        "id": "50148396",
+        "name": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
+        "url": "https://github.com/strot-ai/Project-STROT",
+        "points": 23,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=50148396"
+      },
+      {
+        "id": "50145628",
+        "name": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+        "url": "https://github.com/omnipty-terminal/omnipty",
+        "points": 14,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50145628"
+      },
+      {
+        "id": "50140472",
+        "name": "Show HN: CallSitter – bot that answers my calls and wastes scammers' time",
+        "url": "https://github.com/szerintedmi/callsitter",
+        "points": 13,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=50140472"
+      },
+      {
+        "id": "50146075",
+        "name": "Show HN: Vibe coded a city builder set in ancient Rome",
+        "url": "https://tiberava.pages.dev",
+        "points": 10,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=50146075"
+      },
+      {
+        "id": "50148356",
+        "name": "Show HN: Yila – A Codex for Scientific Research",
+        "url": "https://yila.ai",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50148356"
+      },
+      {
+        "id": "50148589",
+        "name": "Show HN: Roadkill – a zombie car game inspired by the original GTA's driving",
+        "url": "https://games.zabaca.com/games/roadkill/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50148589"
+      },
+      {
+        "id": "50142277",
+        "name": "Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
+        "url": "https://github.com/electric-dragon-80000v/pi-cowboy",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50142277"
+      },
+      {
+        "id": "50144805",
+        "name": "Show HN: Bullet Script (bs) – a Lisp(y) VM for shmup bullet patterns",
+        "url": "http://bs.ell.dev/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50144805"
+      },
+      {
+        "id": "50148662",
+        "name": "Show HN: The Lion King (SNES, 1994), running as a native PC program",
+        "url": "https://github.com/kinduff/TLKRecomp",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50148662"
+      },
+      {
+        "id": "50147671",
+        "name": "Show HN: My Personal Weather Station",
+        "url": "https://johnzanussi.com/weather",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50147671"
+      },
+      {
+        "id": "50150221",
+        "name": "Show HN: Free design canvas for your AI (open source)",
+        "url": "https://uidesigneditor.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50150221"
+      },
+      {
+        "id": "50142648",
+        "name": "Show HN: Correct Hooks – Easy webhook auth with asymmetric signatures",
+        "url": "https://github.com/handlewithcarecollective/correct-hooks",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50142648"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/craaft-io",
+        "name": "craaft.io",
+        "description": "Stay organized with a simple, distraction-free Kanban board",
+        "url": "https://betalist.com/startups/craaft-io"
+      },
+      {
+        "id": "/startups/suparelay",
+        "name": "Suparelay",
+        "description": "Call any phone worldwide from web or mobile for cents per minute",
+        "url": "https://betalist.com/startups/suparelay"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/show-ih-i-built-a-ranking-site-for-ai-tools-without-knowing-how-to-code-5-cold-emails-0-replies-what-am-i-missing-3b7700e0df",
+        "title": "Show IH: I built a ranking site for AI tools without knowing how to code. 5 cold emails, 0 replies. What am I missing?",
+        "url": "https://www.indiehackers.com/post/show-ih-i-built-a-ranking-site-for-ai-tools-without-knowing-how-to-code-5-cold-emails-0-replies-what-am-i-missing-3b7700e0df",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-can-build-an-app-in-12-days-with-ai-i-still-cant-get-anyone-to-find-it-0f27759fe4",
+        "title": "I can build an app in 12 days with AI. I still can't get anyone to find it.",
+        "url": "https://www.indiehackers.com/post/i-can-build-an-app-in-12-days-with-ai-i-still-cant-get-anyone-to-find-it-0f27759fe4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-learning-that-building-a-product-and-getting-it-noticed-are-two-different-problems-d08611e2fc",
+        "title": "I'm learning that building a product and getting it noticed are two different problems.",
+        "url": "https://www.indiehackers.com/post/im-learning-that-building-a-product-and-getting-it-noticed-are-two-different-problems-d08611e2fc",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-read-the-pricing-of-1-170-ai-products-63-sell-credits-not-subscriptions-a545f1d1c3",
+        "title": "I read the pricing of 1,170 AI products. 63% sell credits, not subscriptions",
+        "url": "https://www.indiehackers.com/post/i-read-the-pricing-of-1-170-ai-products-63-sell-credits-not-subscriptions-a545f1d1c3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-actually-produced-installs-for-my-small-app-one-kind-of-post-and-what-google-ads-really-cost-per-install-93f734a441",
+        "title": "What actually produced installs for my small app: one kind of post, and what Google Ads really cost per install",
+        "url": "https://www.indiehackers.com/post/what-actually-produced-installs-for-my-small-app-one-kind-of-post-and-what-google-ads-really-cost-per-install-93f734a441",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/she-built-a-250k-month-business-around-an-ai-clone-07hKxdXQ0l7Bu3l2IBFy",
+        "title": "She built a $250K/month business around an AI clone",
+        "url": "https://www.indiehackers.com/post/tech/she-built-a-250k-month-business-around-an-ai-clone-07hKxdXQ0l7Bu3l2IBFy",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
