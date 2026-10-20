@@ -1,0 +1,248 @@
+{
+  "scan_time": "2026-10-20T10:58:10.869152+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "beam-win",
+        "name": "Beam.win",
+        "tagline": "Run AI agents on one Mac and use its windows on another",
+        "description": "Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.",
+        "votes": 354,
+        "ph_url": "https://www.producthunt.com/posts/beam-win",
+        "website": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "tesla-roadster",
+        "name": "Tesla Roadster",
+        "tagline": "The hypercar that flies",
+        "description": "Roadster can perform at levels unlike any other production car. It goes beyond Plaid to unlock an entirely new dimension of driving. It challenges the limits of design, engineering and physics to deliver an expertly crafted extra-terrestrial vehicle.",
+        "votes": 249,
+        "ph_url": "https://www.producthunt.com/posts/tesla-roadster",
+        "website": "https://www.producthunt.com/r/ZPPNXZJWS7FMRU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Electric Cars"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "navige",
+        "name": "Navige",
+        "tagline": "Cut AI agent costs and control runaway spending",
+        "description": "Navige uses Sufficiency Intelligence to cut AI agent costs while work runs. It sends suitable requests to smaller models, caches repeated reads and trims bulky tool results. If unsure, it keeps your chosen model. Set budgets, catch runaway loops and approve sensitive actions. See costs and savings by job, with estimates clearly labelled. Watchtower is free forever. Preview changes before switching controls on.",
+        "votes": 246,
+        "ph_url": "https://www.producthunt.com/posts/navige",
+        "website": "https://www.producthunt.com/r/DWQS7TVW6U7GNA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "SaaS",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50151928",
+        "name": "Show HN: Qwen3-4B with the AI writing tics trained out",
+        "url": "https://100toolkit.com/blog/deslop-model/",
+        "points": 148,
+        "comments": 109,
+        "hn_url": "https://news.ycombinator.com/item?id=50151928"
+      },
+      {
+        "id": "50161408",
+        "name": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+        "url": "https://deathplanswitch.com/",
+        "points": 70,
+        "comments": 50,
+        "hn_url": "https://news.ycombinator.com/item?id=50161408"
+      },
+      {
+        "id": "50152541",
+        "name": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+        "url": "https://github.com/kividbio/kividb",
+        "points": 68,
+        "comments": 40,
+        "hn_url": "https://news.ycombinator.com/item?id=50152541"
+      },
+      {
+        "id": "50151980",
+        "name": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+        "url": "https://3anddoneapp.com/try",
+        "points": 55,
+        "comments": 49,
+        "hn_url": "https://news.ycombinator.com/item?id=50151980"
+      },
+      {
+        "id": "50155647",
+        "name": "Show HN: Open-source early-reading reader with phonics help",
+        "url": "https://github.com/finereli/yarareads",
+        "points": 22,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50155647"
+      },
+      {
+        "id": "50158684",
+        "name": "Show HN: RoadRash ported to Three.js to run in the browser",
+        "url": "https://roadrash.pages.dev",
+        "points": 22,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50158684"
+      },
+      {
+        "id": "50160198",
+        "name": "Show HN: Lights-on software factory boilerplate for Claude Code",
+        "url": "https://github.com/gojko/lights-on-software-factory",
+        "points": 13,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50160198"
+      },
+      {
+        "id": "50163896",
+        "name": "Show HN: Make AI coding agents verify its own work",
+        "url": "https://github.com/reticlehq/reticle",
+        "points": 9,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50163896"
+      },
+      {
+        "id": "50160110",
+        "name": "Show HN: A legal assistant that refuses to cite law it can't verify",
+        "url": "https://ailegal.legal/",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50160110"
+      },
+      {
+        "id": "50153011",
+        "name": "Show HN: Spotnote – Vite plugin for UI feedback to coding agents",
+        "url": "https://github.com/harukikuri/spotnote",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50153011"
+      },
+      {
+        "id": "50155440",
+        "name": "Show HN: MCP for Ordering Assembled PCBs",
+        "url": "https://provenmetal.com/mcp",
+        "points": 7,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50155440"
+      },
+      {
+        "id": "50156825",
+        "name": "Show HN: Maali – Privacy-first personal finance app with a local AI analyst",
+        "url": "https://maali.app/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50156825"
+      },
+      {
+        "id": "50163224",
+        "name": "Show HN: FlexChords – chords for any YouTube song, from a model I trained",
+        "url": "https://www.flexchords.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50163224"
+      },
+      {
+        "id": "50156970",
+        "name": "Show HN: Jev in action – task classifier and auto model router in Keen Code",
+        "url": "https://mochow13.github.io/keen-code/docs/task-classification-using-decision-models.html",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50156970"
+      },
+      {
+        "id": "50163253",
+        "name": "Show HN: Civ 1 period accurate decompilation",
+        "url": "https://github.com/sjmelia/civd",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50163253"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/dawnpulse",
+        "name": "DawnPulse",
+        "description": "Get a 60-second daily marketing briefing explaining what changed and why",
+        "url": "https://betalist.com/startups/dawnpulse"
+      },
+      {
+        "id": "/startups/american-factbook",
+        "name": "American Factbook",
+        "description": "Every public number kept current",
+        "url": "https://betalist.com/startups/american-factbook"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-retirement-planner-150-ad-clicks-2-ctr-zero-signups-what-am-i-missing-679260a6fd",
+        "title": "I built a retirement planner. 150 ad clicks, 2% CTR, zero signups. What am I missing?",
+        "url": "https://www.indiehackers.com/post/i-built-a-retirement-planner-150-ad-clicks-2-ctr-zero-signups-what-am-i-missing-679260a6fd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-ve-built-several-products-now-i-m-spending-30-days-finding-out-what-deserves-more-of-my-time-6b396438e4",
+        "title": "I’ve built several products. Now I’m spending 30 days finding out what deserves more of my time.",
+        "url": "https://www.indiehackers.com/post/i-ve-built-several-products-now-i-m-spending-30-days-finding-out-what-deserves-more-of-my-time-6b396438e4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=nC9vbqAWySwBvsp9Y9lw#post-nC9vbqAWySwBvsp9Y9lw",
+        "title": "LaunchOnIt: The distribution trap: why building a great SaaS is only twenty percent of the battle",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=nC9vbqAWySwBvsp9Y9lw#post-nC9vbqAWySwBvsp9Y9lw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-only-registered-a-domain-why-did-chatgpts-bots-show-up-within-an-hour-b34cb16421",
+        "title": "I only registered a domain. Why did ChatGPT's bots show up within an hour?",
+        "url": "https://www.indiehackers.com/post/i-only-registered-a-domain-why-did-chatgpts-bots-show-up-within-an-hour-b34cb16421",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-product-decision-behind-plant-care-should-not-start-with-a-login-in-growbook-0986b87b1c",
+        "title": "The Product Decision Behind “Plant care should not start with a login” in GrowBook",
+        "url": "https://www.indiehackers.com/post/the-product-decision-behind-plant-care-should-not-start-with-a-login-in-growbook-0986b87b1c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-got-600k-views-on-reddit-without-ever-mentioning-my-startup-a45d721996",
+        "title": "I got 600K+ views on Reddit without ever mentioning my startup.",
+        "url": "https://www.indiehackers.com/post/i-got-600k-views-on-reddit-without-ever-mentioning-my-startup-a45d721996",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=ZHLT2ruBU3SNLgYQQqLo#post-ZHLT2ruBU3SNLgYQQqLo",
+        "title": "CircleSaaS: I built 16 free tools for founders, no sign up, no card",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=ZHLT2ruBU3SNLgYQQqLo#post-ZHLT2ruBU3SNLgYQQqLo",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
