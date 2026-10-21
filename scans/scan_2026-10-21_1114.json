@@ -1,0 +1,242 @@
+{
+  "scan_time": "2026-10-21T11:13:56.837844+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "dev-null",
+        "name": "/dev/null",
+        "tagline": "a social network for devs",
+        "description": "/dev/null started as a live stream from the JetBrains office. On Oct 15, 2026, Nuno Maduro, Brent Roose, Matthieu Napoli, and Pauline Vos built a social network for web developers from scratch in 48 hours, in the open. Sign in with GitHub, share code snippets, like, reply, etc, etc! Hundreds of you sent PRs. Laravel’s Taylor Otwell stopped by mid-stream (“Laravel forever”), and Vercel’s Guillermo Rauch called it “really well done.” Thank you for watching, sharing, and roasting us.",
+        "votes": 464,
+        "ph_url": "https://www.producthunt.com/posts/dev-null",
+        "website": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Social Network",
+          "Software Engineering",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "composio-instant",
+        "name": "Composio Instant",
+        "tagline": "The easiest way for AI agents to pay for their own tools",
+        "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
+        "votes": 320,
+        "ph_url": "https://www.producthunt.com/posts/composio-instant",
+        "website": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "SDK"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50170593",
+        "name": "Show HN: SimCity, but with Permits",
+        "url": "https://permit.petercai.com/",
+        "points": 814,
+        "comments": 382,
+        "hn_url": "https://news.ycombinator.com/item?id=50170593"
+      },
+      {
+        "id": "50167286",
+        "name": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+        "url": "https://github.com/KatrielMoses/voidaccess",
+        "points": 185,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=50167286"
+      },
+      {
+        "id": "50167617",
+        "name": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "url": "https://jevcards.com",
+        "points": 62,
+        "comments": 50,
+        "hn_url": "https://news.ycombinator.com/item?id=50167617"
+      },
+      {
+        "id": "50167604",
+        "name": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+        "url": "https://github.com/AbdullahAlhariri/penmentor",
+        "points": 62,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50167604"
+      },
+      {
+        "id": "50167657",
+        "name": "Show HN: Clerkenwell – A Handwritten Clojure Notebook",
+        "url": "https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html",
+        "points": 24,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50167657"
+      },
+      {
+        "id": "50165146",
+        "name": "Show HN: Snitch – my Mac talked to 347 servers in one idle hour, so I built this",
+        "url": "https://github.com/aixisstudio/Snitch",
+        "points": 12,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50165146"
+      },
+      {
+        "id": "50166987",
+        "name": "Show HN: Another Blog Search Engine",
+        "url": "https://outerweb.org/",
+        "points": 12,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50166987"
+      },
+      {
+        "id": "50165533",
+        "name": "Show HN: Shazam but for AI Slop Music",
+        "url": "https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50165533"
+      },
+      {
+        "id": "50166960",
+        "name": "Show HN: Pug – open-source product analytics",
+        "url": "https://pug.sh/",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50166960"
+      },
+      {
+        "id": "50166699",
+        "name": "Show HN: PatchWave - Add static analysis and automerge to Dependabot",
+        "url": "https://patchwave.ai/",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50166699"
+      },
+      {
+        "id": "50167416",
+        "name": "Show HN: Twig – An Android file manager for NAS, S3, restic and Git",
+        "url": "https://github.com/dev2ex/twig",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50167416"
+      },
+      {
+        "id": "50167456",
+        "name": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
+        "url": "https://github.com/metahumansworld/SIwithin",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50167456"
+      },
+      {
+        "id": "50168474",
+        "name": "Show HN: Worklicant – Lightweight ATS. Pay per Vacancy. AI Enabled",
+        "url": "https://worklicant.com/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50168474"
+      },
+      {
+        "id": "50166358",
+        "name": "Show HN: Tori by TalkJS. AI support that's actually good",
+        "url": "https://asktori.ai",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50166358"
+      },
+      {
+        "id": "50174185",
+        "name": "Show HN: One click flight booking in Claude",
+        "url": "https://mcp.bonbook.co/claude-setup",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50174185"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/takibi",
+        "name": "Takibi Base",
+        "description": "The shared knowledge base for AI agents",
+        "url": "https://betalist.com/startups/takibi"
+      },
+      {
+        "id": "/startups/neural-summary",
+        "name": "Neural Summary",
+        "description": "Turn any meeting into action items, emails, and docs in minutes",
+        "url": "https://betalist.com/startups/neural-summary"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-don-t-need-more-traffic-i-need-to-find-the-right-people-997e26cc20",
+        "title": "I don’t need more traffic. I need to find the right people.",
+        "url": "https://www.indiehackers.com/post/i-don-t-need-more-traffic-i-need-to-find-the-right-people-997e26cc20",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/where-do-you-draw-the-line-between-setup-help-and-doing-the-customer-s-work-5c3a4e8bc7",
+        "title": "Where do you draw the line between setup help and doing the customer’s work?",
+        "url": "https://www.indiehackers.com/post/where-do-you-draw-the-line-between-setup-help-and-doing-the-customer-s-work-5c3a4e8bc7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/first-paying-customer-for-my-mac-app-19-after-6-days-and-40-downloads-f36ad2d0d9",
+        "title": "First paying customer for my Mac app: $19, after 6 days and ~40 downloads",
+        "url": "https://www.indiehackers.com/post/first-paying-customer-for-my-mac-app-19-after-6-days-and-40-downloads-f36ad2d0d9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-my-ai-startup-now-comes-the-hard-part-finding-the-first-paying-customer-201dfb2374",
+        "title": "I built my AI startup. Now comes the hard part: finding the first paying customer.",
+        "url": "https://www.indiehackers.com/post/i-built-my-ai-startup-now-comes-the-hard-part-finding-the-first-paying-customer-201dfb2374",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-product-hunt-launch-got-2-upvotes-the-same-day-10-people-signed-up-and-one-found-a-bug-in-the-first-field-2abcf8f887",
+        "title": "My Product Hunt launch got 2 upvotes. The same day, 10 people signed up and one found a bug in the first field.",
+        "url": "https://www.indiehackers.com/post/my-product-hunt-launch-got-2-upvotes-the-same-day-10-people-signed-up-and-one-found-a-bug-in-the-first-field-2abcf8f887",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-renamed-my-first-product-a-week-before-launch-then-i-found-out-checkout-had-been-broken-for-six-days-bda16b0820",
+        "title": "I renamed my first product a week before launch. Then I found out checkout had been broken for six days.",
+        "url": "https://www.indiehackers.com/post/i-renamed-my-first-product-a-week-before-launch-then-i-found-out-checkout-had-been-broken-for-six-days-bda16b0820",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-to-score-15-customer-interviews-so-you-stop-fooling-yourself-6411cf731e",
+        "title": "How to score 15 customer interviews so you stop fooling yourself",
+        "url": "https://www.indiehackers.com/post/how-to-score-15-customer-interviews-so-you-stop-fooling-yourself-6411cf731e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-factur-x-e-invoicing-api-for-the-eu-2026-mandate-0-revenue-so-far-open-sourcing-the-whole-thing-b8378236dd",
+        "title": "I built a Factur-X e-invoicing API for the EU 2026 mandate — $0 revenue so far, open-sourcing the whole thing",
+        "url": "https://www.indiehackers.com/post/i-built-a-factur-x-e-invoicing-api-for-the-eu-2026-mandate-0-revenue-so-far-open-sourcing-the-whole-thing-b8378236dd",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
