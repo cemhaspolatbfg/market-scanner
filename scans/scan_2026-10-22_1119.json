@@ -1,0 +1,220 @@
+{
+  "scan_time": "2026-10-22T11:19:44.149578+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "useit-studio",
+        "name": "UseIt Studio",
+        "tagline": "Your AI design agent for real, editable project files.",
+        "description": "UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.",
+        "votes": 324,
+        "ph_url": "https://www.producthunt.com/posts/useit-studio",
+        "website": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Art",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "band-for-developers",
+        "name": "BAND for Developers",
+        "tagline": "Coding agents, meet teamwork",
+        "description": "Running multiple coding agents shouldn’t mean becoming their project manager. BAND lets them work together. Connect agents across your existing development tools and give them a shared workspace to coordinate tasks, exchange context, and hand off work without you playing middleman. See what every agent is doing, step in when decisions need your judgment, and scale agentic development across teams. Your agents stay in their existing tools while BAND handles the teamwork.",
+        "votes": 294,
+        "ph_url": "https://www.producthunt.com/posts/band-for-developers",
+        "website": "https://www.producthunt.com/r/LFGJP5O6OXFYLB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "needle-391a6980-1f80-4939-8a6d-535d2f72c156",
+        "name": "Needle",
+        "tagline": "The agent-native outbound engine",
+        "description": "Find your perfect leads and reach out by prompting Claude, ChatGPT, or Grok. Wherever your ICP are, on LinkedIn, Instagram, or email.",
+        "votes": 270,
+        "ph_url": "https://www.producthunt.com/posts/needle-391a6980-1f80-4939-8a6d-535d2f72c156",
+        "website": "https://www.producthunt.com/r/E6AZ74Q5YPL2B5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Artificial Intelligence",
+          "LinkedIn"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50180039",
+        "name": "Show HN: Sumi.css – CSS Framework",
+        "url": "https://github.com/vladocar/Sumi.css",
+        "points": 88,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=50180039"
+      },
+      {
+        "id": "50183892",
+        "name": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+        "url": "https://github.com/omnara-ai/omnara",
+        "points": 84,
+        "comments": 25,
+        "hn_url": "https://news.ycombinator.com/item?id=50183892"
+      },
+      {
+        "id": "50189175",
+        "name": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+        "url": "https://bloffy.co/en",
+        "points": 21,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=50189175"
+      },
+      {
+        "id": "50180190",
+        "name": "Show HN: Computer use on the phone itself: a 2B model that operates Android apps",
+        "url": "https://getopposable.com/blog/computer-use-on-the-phone",
+        "points": 15,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50180190"
+      },
+      {
+        "id": "50192585",
+        "name": "Show HN: The fastest browser for AI agents to run browser automation",
+        "url": "https://ego-lite.apposters.com",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50192585"
+      },
+      {
+        "id": "50184280",
+        "name": "Show HN: I created instruments for people who have no idea how to play one",
+        "url": "https://jamfetti.boondoggle.studio/",
+        "points": 8,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50184280"
+      },
+      {
+        "id": "50179168",
+        "name": "Show HN:Odd Orbit, live 3D globe of quakes, weather, satellites and UFO reports",
+        "url": "https://oddorbit.app/",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50179168"
+      },
+      {
+        "id": "50187380",
+        "name": "Show HN: Overdesigned Simple Solitaire",
+        "url": "https://defaultsolitaire.app/",
+        "points": 5,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50187380"
+      },
+      {
+        "id": "50187531",
+        "name": "Show HN: A shared 3D Zoo in the browser where everyone sees the same animals",
+        "url": "https://zooki.world",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50187531"
+      },
+      {
+        "id": "50193057",
+        "name": "Show HN: The Internet Is on Fire",
+        "url": "https://kuber.studio/internetonfire/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50193057"
+      },
+      {
+        "id": "50189550",
+        "name": "Show HN: Twine is a meta-harness with workflows, cross-agent memories and traces",
+        "url": "https://github.com/standing-desks/twine",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50189550"
+      },
+      {
+        "id": "50182266",
+        "name": "Show HN: Gembop, a block-placement puzzle game in 2D and 3D",
+        "url": "https://gembop.games/play",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50182266"
+      },
+      {
+        "id": "50183591",
+        "name": "Show HN: Riff – An iPhone calendar you zoom instead of switching views",
+        "url": "https://riffcalendar.com",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50183591"
+      },
+      {
+        "id": "50190421",
+        "name": "Show HN: Cathode, a Gtk4 YouTube player based on mpv and yt-dlp",
+        "url": "https://github.com/andunieee/cathode",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50190421"
+      },
+      {
+        "id": "50181149",
+        "name": "Show HN: Jev drives a browser – HN login and search in 8s for half a cent",
+        "url": "https://jev-browser.rovira.sh",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50181149"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/blueveta",
+        "name": "BlueVeta",
+        "description": "Turn one product photo into 25+ ready-to-post marketing assets",
+        "url": "https://betalist.com/startups/blueveta"
+      },
+      {
+        "id": "/startups/pitch",
+        "name": "Pitch",
+        "description": "Turn your product flows into a polished 60-second demo automatically",
+        "url": "https://betalist.com/startups/pitch"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/3-launches-some-traffic-almost-no-leads-are-we-doing-this-right-bbe86bbd84",
+        "title": "3 launches, some traffic, almost no leads. Are we doing this right?",
+        "url": "https://www.indiehackers.com/post/3-launches-some-traffic-almost-no-leads-are-we-doing-this-right-bbe86bbd84",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/software-directories-after-a-month-1-real-visit-1-likely-sign-up-no-sponsored-spot-355ad15fb3",
+        "title": "Software directories after a month: 1 real visit, 1 likely sign-up, no sponsored spot",
+        "url": "https://www.indiehackers.com/post/software-directories-after-a-month-1-real-visit-1-likely-sign-up-no-sponsored-spot-355ad15fb3",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 2
+    }
+  }
+}
