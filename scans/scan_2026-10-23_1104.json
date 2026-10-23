@@ -1,0 +1,243 @@
+{
+  "scan_time": "2026-10-23T11:04:23.766625+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "deepcell",
+        "name": "DeepCell",
+        "tagline": "Your deadline survival kit for office work",
+        "description": "Deepcell can help you with deadline tasks that require narrations, calculation and presentation at the same time, such as modeling, sales review, budget forecast and monthly report. DeepCell (both web app and agent plug-in) can create ready-to-use docs, spreadsheets, and slides—with sources and cheat sheets to help you explain. Furthermore, every edit can update related parts. The product is built on a newly designed document format (.deepcell), which is especially designed for system two tasks.",
+        "votes": 334,
+        "ph_url": "https://www.producthunt.com/posts/deepcell",
+        "website": "https://www.producthunt.com/r/QQW4YFA2J3HRIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Business"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "claude-duet",
+        "name": "Claude Duet",
+        "tagline": "Proactive agent that understands what needs your attention",
+        "description": "Claude Duet is a helpful, proactive agent you hand off work to through messages. Tell it what you need and it works on its own computer in the cloud, using apps you connect. It messages you when it is done or needs a decision from you. While it’s always on, it uses good judgment when it reaches out and knows what can wait.",
+        "votes": 309,
+        "ph_url": "https://www.producthunt.com/posts/claude-duet",
+        "website": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Messaging",
+          "Artificial Intelligence",
+          "Bots"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "doneas",
+        "name": "Doneas",
+        "tagline": "A daily accountability call with other entrepreneurs.",
+        "description": "Doneas helps solo builders stay focused, accountable, and productive. Plan your week every Monday, join a 15-minute daily accountability call with five other builders, and track everything you ship on your public progress page. Plan less. Focus better. Ship more.",
+        "votes": 258,
+        "ph_url": "https://www.producthunt.com/posts/doneas",
+        "website": "https://www.producthunt.com/r/AIRL3T6NP757FV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50199290",
+        "name": "Show HN: UI micro interactions prompts for AI",
+        "url": "https://www.typeui.sh/micro-interactions",
+        "points": 77,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=50199290"
+      },
+      {
+        "id": "50195488",
+        "name": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+        "url": "https://github.com/dsmurrell/onkey",
+        "points": 67,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=50195488"
+      },
+      {
+        "id": "50202865",
+        "name": "Show HN: Making a smart TV dumb and then smart",
+        "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+        "points": 25,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50202865"
+      },
+      {
+        "id": "50198936",
+        "name": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+        "url": "https://github.com/rbartoli/agent-usage-guard",
+        "points": 23,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50198936"
+      },
+      {
+        "id": "50194210",
+        "name": "Show HN: agent-marketplace",
+        "url": "https://www.adyen.com/knowledge-hub/agent-marketplace",
+        "points": 14,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50194210"
+      },
+      {
+        "id": "50199349",
+        "name": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+        "url": "https://3d.camilleworld.com/play/",
+        "points": 13,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50199349"
+      },
+      {
+        "id": "50194762",
+        "name": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
+        "url": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
+        "points": 12,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50194762"
+      },
+      {
+        "id": "50198052",
+        "name": "Show HN: Kino Transcode – Open Red and Blackmagic Raw Files in the Browser",
+        "url": "https://kino.ai/tools/transcode",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50198052"
+      },
+      {
+        "id": "50196969",
+        "name": "Show HN: Stackdome – An open source self-hostable Railway alternative on K8s",
+        "url": "https://github.com/axernel-labs/stackdome",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50196969"
+      },
+      {
+        "id": "50201860",
+        "name": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+        "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50201860"
+      },
+      {
+        "id": "50198250",
+        "name": "Show HN: Halv – open-source agent coding software that reduces your usage",
+        "url": "https://halv.ai/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50198250"
+      },
+      {
+        "id": "50195216",
+        "name": "Show HN: Inillucent – agentic db written in Rust that is 500% faster than SQLite",
+        "url": "https://inillucent.com",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50195216"
+      },
+      {
+        "id": "50200570",
+        "name": "Show HN: My vibecoded game got a glow up",
+        "url": "https://tiberava.online",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50200570"
+      },
+      {
+        "id": "50195133",
+        "name": "Show HN: Skillstore – Expert skills your coding agent fetches as it works",
+        "url": "https://skillstore-jk.fly.dev/developers",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50195133"
+      },
+      {
+        "id": "50197281",
+        "name": "Show HN: XTrace – productivity observability tool for coding agents",
+        "url": "https://github.com/XTraceAI/xtrace-desktop",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50197281"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/space",
+        "name": "Space",
+        "description": "Send files and text instantly using a six-character code",
+        "url": "https://betalist.com/startups/space"
+      },
+      {
+        "id": "/startups/outshot",
+        "name": "Outshot",
+        "description": "Turn your website into daily short videos for TikTok, Reels, and Shorts",
+        "url": "https://betalist.com/startups/outshot"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/what-watching-small-businesses-use-ai-agents-taught-us-about-trust-f02edd8e40",
+        "title": "What watching small businesses use AI agents taught us about trust",
+        "url": "https://www.indiehackers.com/post/what-watching-small-businesses-use-ai-agents-taught-us-about-trust-f02edd8e40",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-an-ai-sales-agent-for-small-shops-with-a-free-plan-instead-of-a-trial-heres-the-math-eccf882aa4",
+        "title": "I launched an AI sales agent for small shops with a Free plan instead of a trial. Here's the math.",
+        "url": "https://www.indiehackers.com/post/i-launched-an-ai-sales-agent-for-small-shops-with-a-free-plan-instead-of-a-trial-heres-the-math-eccf882aa4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launch-day-lasts-24-hours-im-trying-to-make-it-last-longer-d45fab45d8",
+        "title": "Launch day lasts 24 hours. I'm trying to make it last longer.",
+        "url": "https://www.indiehackers.com/post/launch-day-lasts-24-hours-im-trying-to-make-it-last-longer-d45fab45d8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=BPaALmIi1BsDKceOhE5s#post-BPaALmIi1BsDKceOhE5s",
+        "title": "LaunchOnIt: Why are we still filling out manual directory forms in 2026 when we have AI coding agents?",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=BPaALmIi1BsDKceOhE5s#post-BPaALmIi1BsDKceOhE5s",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/did-i-just-spent-6-months-building-a-product-that-no-one-wants-even-there-is-a-need-for-it-2962593c9e",
+        "title": "Did I just spent 6 months building a product that no one wants even there is a need for it",
+        "url": "https://www.indiehackers.com/post/did-i-just-spent-6-months-building-a-product-that-no-one-wants-even-there-is-a-need-for-it-2962593c9e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/someone-pays-10-to-message-you-when-should-they-hear-back-100e9743f2",
+        "title": "Someone pays $10 to message you. When should they hear back?",
+        "url": "https://www.indiehackers.com/post/someone-pays-10-to-message-you-when-should-they-hear-back-100e9743f2",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
