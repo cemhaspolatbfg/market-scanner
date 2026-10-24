@@ -1,0 +1,217 @@
+{
+  "scan_time": "2026-10-24T10:20:41.561817+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "product-hunt-visual-launch-editor",
+        "name": "Product Hunt Visual Launch Editor",
+        "tagline": "See your launch as you build it",
+        "description": "See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.",
+        "votes": 394,
+        "ph_url": "https://www.producthunt.com/posts/product-hunt-visual-launch-editor",
+        "website": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Product Hunt",
+          "Maker Tools",
+          "Community"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "movo-ai",
+        "name": "MOVO AI",
+        "tagline": "The world's first long-form video agent for mobile",
+        "description": "MOVO AI is the world’s first AI video agent for long-form creation that works right from your phone. It also works on the web. Shoot, upload, or start with an idea, then tell MOVO AI what you want. MOVO plans, creates, refines, keeps characters and scenes consistent, and brings the whole video together. Lock your phone and MOVO keeps working. Come back to review or make changes through chat. No prompt gymnastics. No canvas-heavy workflows. No manual clip stitching.",
+        "votes": 295,
+        "ph_url": "https://www.producthunt.com/posts/movo-ai",
+        "website": "https://www.producthunt.com/r/JXYZH5BXNMIBOM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "iOS",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50214373",
+        "name": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+        "url": "https://corgi.computer/",
+        "points": 85,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=50214373"
+      },
+      {
+        "id": "50207620",
+        "name": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+        "url": "https://www.thisandthat.chat/enron/",
+        "points": 63,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=50207620"
+      },
+      {
+        "id": "50212292",
+        "name": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+        "url": "https://drop7.dev",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50212292"
+      },
+      {
+        "id": "50212189",
+        "name": "Show HN: I made a jobs-near-you map",
+        "url": "https://offpeak.fyi/search",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50212189"
+      },
+      {
+        "id": "50209919",
+        "name": "SHOW HN:Free interactive Python and SQL courses that run in the browser",
+        "url": "https://www.runtime.school",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50209919"
+      },
+      {
+        "id": "50213531",
+        "name": "Show HN: WhatsApp MCP – An MCP server for interacting with WhatsApp",
+        "url": "https://github.com/sahilPadmani/whatsapp-mcp",
+        "points": 3,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50213531"
+      },
+      {
+        "id": "50216858",
+        "name": "Show HN: OpenZPL. Render Zebra ZPL Labels to PNG/PDF, Drop-In for Labelary",
+        "url": "https://openzpl.com/",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50216858"
+      },
+      {
+        "id": "50219429",
+        "name": "Show HN: Multipeer, a multiplayer infinite canvas for people and their agents",
+        "url": "https://multipeer.sh",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50219429"
+      },
+      {
+        "id": "50216053",
+        "name": "Show HN: You Can Just Filter YouTube Playlists in the 'Save to Playlist' Dialog",
+        "url": "",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50216053"
+      },
+      {
+        "id": "50211151",
+        "name": "Show HN: Ts-polyglot – Call C/C++ or Rust functions directly from TypeScript",
+        "url": "https://ts-polyglot.dev",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50211151"
+      },
+      {
+        "id": "50206876",
+        "name": "Show HN: Best otaku AI to chat about Anime with",
+        "url": "https://otaku.animearray.site/",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50206876"
+      },
+      {
+        "id": "50218975",
+        "name": "Show HN: Encarta 95 Web",
+        "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50218975"
+      },
+      {
+        "id": "50215599",
+        "name": "Show HN: libfpv - Modding FPV Drone into Any Game",
+        "url": "https://hammerill.com/en/blog/libfpv",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50215599"
+      },
+      {
+        "id": "50207695",
+        "name": "Show HN: HatchZip – extract archives without needing double the disk space",
+        "url": "https://github.com/xevrion/hatchzip",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50207695"
+      },
+      {
+        "id": "50218504",
+        "name": "Show HN: Xet Server – Host your own models anywhere",
+        "url": "https://github.com/guilt/xet-server",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50218504"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/blockposter-ai",
+        "name": "BlockPoster.ai",
+        "description": "Turn any image into wall-sized art printable at home",
+        "url": "https://betalist.com/startups/blockposter-ai"
+      },
+      {
+        "id": "/startups/peakteams",
+        "name": "PEAKTEAMS",
+        "description": "Team assessment tool that delivers actionable next steps, not just a PDF",
+        "url": "https://betalist.com/startups/peakteams"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/founders-which-subreddits-got-you-banned-and-which-ones-worked-44495892ef",
+        "title": "Founders: Which subreddits got you banned, and which ones worked?",
+        "url": "https://www.indiehackers.com/post/founders-which-subreddits-got-you-banned-and-which-ones-worked-44495892ef",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-do-you-make-time-for-maintenance-when-you-re-also-trying-to-get-customers-f3f2e9de4e",
+        "title": "How do you make time for maintenance when you’re also trying to get customers?",
+        "url": "https://www.indiehackers.com/post/how-do-you-make-time-for-maintenance-when-you-re-also-trying-to-get-customers-f3f2e9de4e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=KRVrpVaHSF93qqXqL99h#post-KRVrpVaHSF93qqXqL99h",
+        "title": "Looking for 50 more startups to list on CircleSaaS",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=KRVrpVaHSF93qqXqL99h#post-KRVrpVaHSF93qqXqL99h",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/indieneed?post=0SrAReyrzyd0yXOc5zVh#post-0SrAReyrzyd0yXOc5zVh",
+        "title": "Indie Need: Should you name your competitors on a launch page?",
+        "url": "https://www.indiehackers.com/product/indieneed?post=0SrAReyrzyd0yXOc5zVh#post-0SrAReyrzyd0yXOc5zVh",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
