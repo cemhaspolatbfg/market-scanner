@@ -1,0 +1,202 @@
+{
+  "scan_time": "2026-10-25T10:47:56.370819+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "zcad-ai",
+        "name": "zCAD AI",
+        "tagline": "AI 3D that creates real parts, not just shapes",
+        "description": "zCAD. AI is an AI-native platform for generating parametric 3D models, built for designers, makers and engineers. Describe a part or assembly in plain language, and zCAD. AI generates an editable, dimension-driven 3D model built on real CAD geometry, not a static mesh. • Complete assemblies from a single prompt, with mates between parts • Refine in plain language, or edit dimensions in a browser-based CAD editor • Export to STEP for use in any CAD tool",
+        "votes": 300,
+        "ph_url": "https://www.producthunt.com/posts/zcad-ai",
+        "website": "https://www.producthunt.com/r/VPIBBXXNICLFJA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "SaaS",
+          "3D Modeling"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50224916",
+        "name": "Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com/",
+        "points": 496,
+        "comments": 306,
+        "hn_url": "https://news.ycombinator.com/item?id=50224916"
+      },
+      {
+        "id": "50220042",
+        "name": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+        "points": 55,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=50220042"
+      },
+      {
+        "id": "50221066",
+        "name": "Show HN: Enzyme – a programming language that compiles wikis for agents",
+        "url": "https://github.com/byenzyme/enzyme",
+        "points": 20,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50221066"
+      },
+      {
+        "id": "50223201",
+        "name": "Show HN: Argus- open source security platform to protect against agentic attacks",
+        "url": "https://github.com/thomasunise/argus",
+        "points": 17,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50223201"
+      },
+      {
+        "id": "50222876",
+        "name": "Show HN: Orisuji, a maze you solve by folding your phone",
+        "url": "https://apps.apple.com/us/app/orisuji/id6817092898",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50222876"
+      },
+      {
+        "id": "50224373",
+        "name": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
+        "url": "https://github.com/swrdfish/narro",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50224373"
+      },
+      {
+        "id": "50223759",
+        "name": "Show HN: Agentsh – A Decentralized, Scalable Multiagent Harness",
+        "url": "https://github.com/microsoft/Agensh",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50223759"
+      },
+      {
+        "id": "50220254",
+        "name": "Show HN: AI text detector that never sees your text (runs 100% in-browser)",
+        "url": "https://kouh.me/ai-text-detector",
+        "points": 6,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=50220254"
+      },
+      {
+        "id": "50228115",
+        "name": "Show HN: A Truly Modular Keyboard",
+        "url": "https://github.com/notaroomba/keybytes",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50228115"
+      },
+      {
+        "id": "50221460",
+        "name": "Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)",
+        "url": "https://github.com/Aldyernesto/shotstash",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50221460"
+      },
+      {
+        "id": "50223715",
+        "name": "Show HN: The missing clipboard history for macOS that idles at 16 MB",
+        "url": "https://roush.io/paste-buff",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50223715"
+      },
+      {
+        "id": "50222113",
+        "name": "Show HN: Python script to evaluate your RAG pipeline against a golden set",
+        "url": "https://github.com/infrixo-systems/rag-evaluation-starter",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50222113"
+      },
+      {
+        "id": "50220526",
+        "name": "Show HN: BulkTextKit – 15 free text tools that run entirely in your browser",
+        "url": "https://bulktextkit.gt.tc",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50220526"
+      },
+      {
+        "id": "50225644",
+        "name": "Show HN: WhatsApp Bridge for those with their own VPS",
+        "url": "https://github.com/vid-t/whatsapp-bridge",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50225644"
+      },
+      {
+        "id": "50221604",
+        "name": "Show HN: Firefighter.sh – an insane solution to the current CVE apocalypse",
+        "url": "https://firefighter.sh/",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50221604"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/aserp",
+        "name": "aSERP",
+        "description": "Track how AI engines mention, cite, and recommend your brand",
+        "url": "https://betalist.com/startups/aserp"
+      },
+      {
+        "id": "/startups/engineforge",
+        "name": "EngineForge",
+        "description": "Turn your game ideas into playable games with AI, no coding needed",
+        "url": "https://betalist.com/startups/engineforge"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/circlesaas?post=hefgsLfYKZZGBUnUAlow#post-hefgsLfYKZZGBUnUAlow",
+        "title": "My launch checklist for the CircleSaaS directory launches (tell me what I’m missing)",
+        "url": "https://www.indiehackers.com/product/circlesaas?post=hefgsLfYKZZGBUnUAlow#post-hefgsLfYKZZGBUnUAlow",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/finding-a-bug-is-easy-trusting-the-ai-generated-fix-is-harder-4106af2ad5",
+        "title": "Finding a bug is easy. Trusting the AI-generated fix is harder",
+        "url": "https://www.indiehackers.com/post/finding-a-bug-is-easy-trusting-the-ai-generated-fix-is-harder-4106af2ad5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-got-1-400-linkedin-impressions-for-my-ai-saas-almost-no-real-interest-what-am-i-missing-0d1cd6fce4",
+        "title": "I got 1,400 LinkedIn impressions for my AI SaaS. Almost no real interest. What am I missing?",
+        "url": "https://www.indiehackers.com/post/i-got-1-400-linkedin-impressions-for-my-ai-saas-almost-no-real-interest-what-am-i-missing-0d1cd6fce4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/zero-trials-from-45-cold-messages-what-is-wrong-with-my-free-first-month-offer-b0aa9a0f10",
+        "title": "Zero trials from ~45 cold messages. What is wrong with my free-first-month offer?",
+        "url": "https://www.indiehackers.com/post/zero-trials-from-45-cold-messages-what-is-wrong-with-my-free-first-month-offer-b0aa9a0f10",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
