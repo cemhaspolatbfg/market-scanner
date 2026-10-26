@@ -1,0 +1,192 @@
+{
+  "scan_time": "2026-10-26T12:18:56.617358+00:00",
+  "sources": {
+    "producthunt": [],
+    "hackernews": [
+      {
+        "id": "50238708",
+        "name": "Show HN: TitleArt – Make text like it's 1997",
+        "url": "https://titleart.dvy.io/",
+        "points": 274,
+        "comments": 46,
+        "hn_url": "https://news.ycombinator.com/item?id=50238708"
+      },
+      {
+        "id": "50232312",
+        "name": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+        "url": "https://bigwhalehunting.com/workforce/",
+        "points": 174,
+        "comments": 47,
+        "hn_url": "https://news.ycombinator.com/item?id=50232312"
+      },
+      {
+        "id": "50231349",
+        "name": "Show HN: Farol – A risk map of a pull request for the person who approves it",
+        "url": "https://github.com/winnin/farol",
+        "points": 60,
+        "comments": 37,
+        "hn_url": "https://news.ycombinator.com/item?id=50231349"
+      },
+      {
+        "id": "50237813",
+        "name": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+        "url": "https://freehire.me/",
+        "points": 22,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50237813"
+      },
+      {
+        "id": "50231486",
+        "name": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+        "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
+        "points": 15,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50231486"
+      },
+      {
+        "id": "50239041",
+        "name": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+        "url": "https://proc-cli.com/",
+        "points": 14,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50239041"
+      },
+      {
+        "id": "50235915",
+        "name": "Show HN: CaseCite – Free RAG caselaw research and document analysis for lawyers",
+        "url": "https://github.com/thomasunise/casecite",
+        "points": 14,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50235915"
+      },
+      {
+        "id": "50235909",
+        "name": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+        "url": "https://github.com/SRN0129/Agenttrust",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50235909"
+      },
+      {
+        "id": "50237773",
+        "name": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
+        "url": "https://rainbowsay.ai/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50237773"
+      },
+      {
+        "id": "50231566",
+        "name": "Show HN: Kosh - Give the browser bookmarks a second life",
+        "url": "https://addons.mozilla.org/en-US/firefox/addon/kosh/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50231566"
+      },
+      {
+        "id": "50238943",
+        "name": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
+        "url": "https://uipalooza.ai/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50238943"
+      },
+      {
+        "id": "50235670",
+        "name": "Show HN: MuscleMemory – procedural memory for coding agents, proven by tests",
+        "url": "https://github.com/TheWariend/MuscleMemory",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50235670"
+      },
+      {
+        "id": "50235012",
+        "name": "Show HN: Zubspace.gg – remake of 30yo Subspace game, a space MMO in the browser",
+        "url": "https://zubspace.gg/",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50235012"
+      },
+      {
+        "id": "50231429",
+        "name": "Show HN: macOS window switcher replacement that keeps each Space separate",
+        "url": "https://debutspace.com/",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50231429"
+      },
+      {
+        "id": "50237291",
+        "name": "Show HN: A 3D mesh playground for coding agents (three.js + manifold-3d)",
+        "url": "https://sketchagent.dev/s/yfYU6LhT",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50237291"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/private-ki",
+        "name": "Private.Ki",
+        "description": "Fully encrypted email and messenger in one app",
+        "url": "https://betalist.com/startups/private-ki"
+      },
+      {
+        "id": "/startups/kuva",
+        "name": "Kuva",
+        "description": "Create AI-written, cast, and voiced story videos you control",
+        "url": "https://betalist.com/startups/kuva"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/reddit-vs-indie-hackers-vs-x-for-founder-posts-where-do-you-get-real-replies-d8bcec5ae0",
+        "title": "Reddit vs Indie Hackers vs X for founder posts: where do you get real replies?",
+        "url": "https://www.indiehackers.com/post/reddit-vs-indie-hackers-vs-x-for-founder-posts-where-do-you-get-real-replies-d8bcec5ae0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/an-ai-agent-deleted-a-production-database-in-9-seconds-what-should-have-stopped-it-1fde961ff7",
+        "title": "An AI agent deleted a production database in 9 seconds. What should have stopped it?",
+        "url": "https://www.indiehackers.com/post/an-ai-agent-deleted-a-production-database-in-9-seconds-what-should-have-stopped-it-1fde961ff7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/launchon-it?post=TRNITXBQhj2yv3ckiJmM#post-TRNITXBQhj2yv3ckiJmM",
+        "title": "LaunchOnIt: The Sunday planning ritual: building a software distribution engine that runs while you sleep",
+        "url": "https://www.indiehackers.com/product/launchon-it?post=TRNITXBQhj2yv3ckiJmM#post-TRNITXBQhj2yv3ckiJmM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/500-visitors-in-two-days-but-zero-sign-ups-what-am-i-getting-wrong-27580a4992",
+        "title": "500+ visitors in two days, but zero sign-ups. What am I getting wrong?",
+        "url": "https://www.indiehackers.com/post/500-visitors-in-two-days-but-zero-sign-ups-what-am-i-getting-wrong-27580a4992",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/postmortem-our-product-hunt-launch-got-1-upvote-heres-everything-that-went-wrong-56ee98d76d",
+        "title": "Postmortem: our Product Hunt launch got 1 upvote. Here's everything that went wrong.",
+        "url": "https://www.indiehackers.com/post/postmortem-our-product-hunt-launch-got-1-upvote-heres-everything-that-went-wrong-56ee98d76d",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 0
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
