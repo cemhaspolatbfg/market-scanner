@@ -1,0 +1,240 @@
+{
+  "scan_time": "2026-10-27T11:39:09.016763+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "strawberry-1-0",
+        "name": "Strawberry 1.0",
+        "tagline": "AI Browser that saves your team >100h/week",
+        "description": "Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call \"Companions\", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.",
+        "votes": 334,
+        "ph_url": "https://www.producthunt.com/posts/strawberry-1-0",
+        "website": "https://www.producthunt.com/r/VLEJBVBONXC6FH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "moli-by-lexmount",
+        "name": "Moli by Lexmount",
+        "tagline": "The fastest headless browser for agents and harnesses",
+        "description": "Moli by Lexmount is our browser engine built from scratch for AI agents. It starts faster and uses less memory than Chrome. Use Moli through Lexmount Browser, our cloud browser platform. Run multiple isolated browser sessions with proxy support while we handle the infrastructure. Let your agents browse, fill out forms, and extract data. Try it in our Playground or connect through our SDK.",
+        "votes": 291,
+        "ph_url": "https://www.producthunt.com/posts/moli-by-lexmount",
+        "website": "https://www.producthunt.com/r/RAM2WW7LJWJVNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50246238",
+        "name": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+        "url": "https://github.com/FrigadeHQ/hob",
+        "points": 148,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=50246238"
+      },
+      {
+        "id": "50249293",
+        "name": "Show HN: Wraps – Resend-style email on your own AWS SES, open source",
+        "url": "https://wraps.dev",
+        "points": 22,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50249293"
+      },
+      {
+        "id": "50256725",
+        "name": "Show HN: Hatamoto batteries-included CMS in Go",
+        "url": "https://hatamoto.dev/",
+        "points": 11,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50256725"
+      },
+      {
+        "id": "50248872",
+        "name": "Show HN: Termcraft – 2D terminal survival with multiplayer support",
+        "url": "https://github.com/pagel-s/termcraft/tree/v0.2.0",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50248872"
+      },
+      {
+        "id": "50248841",
+        "name": "Show HN: Font Fam – A directory of 2,181 open-source fonts",
+        "url": "https://fontfam.net/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50248841"
+      },
+      {
+        "id": "50242226",
+        "name": "Show HN: Rostr – Give your agents names, remember who's working on what",
+        "url": "https://getrostr.sh/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50242226"
+      },
+      {
+        "id": "50253944",
+        "name": "Show HN: ESP-Watchtower – $3 ESP8266 Home Network Sentinel and Canary Honeypot",
+        "url": "https://github.com/prasadabhishek/esp-watchtower",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50253944"
+      },
+      {
+        "id": "50252963",
+        "name": "Show HN: Shittyscreenshares.com",
+        "url": "https://shittyscreenshare.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50252963"
+      },
+      {
+        "id": "50244687",
+        "name": "Show HN: ToiletPanic – A static survival guide for bathroom emergencies",
+        "url": "https://toiletpanic-119.netlify.app",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50244687"
+      },
+      {
+        "id": "50255716",
+        "name": "Show HN: I built this ASO tool to help you get more users for your iOS apps",
+        "url": "https://asonix.io",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50255716"
+      },
+      {
+        "id": "50251342",
+        "name": "Show HN: GradientDeck – a design skill for coding agents",
+        "url": "https://github.com/VenoM9078/gradientdeck-skill",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50251342"
+      },
+      {
+        "id": "50249358",
+        "name": "Show HN: UnicornFork a Chess AI That Is Fact Checked by Stockfish",
+        "url": "https://www.unicornfork.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50249358"
+      },
+      {
+        "id": "50249662",
+        "name": "Show HN: Websites designed by 10 AI models, ranked by 4,500 human votes",
+        "url": "https://humansignal.com/taste-index",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50249662"
+      },
+      {
+        "id": "50242942",
+        "name": "Show HN: Printable Calendar Maker",
+        "url": "https://makecalendars.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50242942"
+      },
+      {
+        "id": "50255119",
+        "name": "Show HN: whenever.dev - Vercel and v0 for Workflows",
+        "url": "https://www.whenever.dev/",
+        "points": 3,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50255119"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/avantagpt",
+        "name": "AvantaGPT",
+        "description": "Unrestricted AI built for developers and cybersecurity researchers",
+        "url": "https://betalist.com/startups/avantagpt"
+      },
+      {
+        "id": "/startups/betterbudget",
+        "name": "BetterBudget",
+        "description": "Ask your money anything, answered from your own accounts",
+        "url": "https://betalist.com/startups/betterbudget"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/product/discounthub?post=NvXR2Nwj514ujb0D6Kl0#post-NvXR2Nwj514ujb0D6Kl0",
+        "title": "DiscountHub: I built a discount platform. Now AI agents can use it too.",
+        "url": "https://www.indiehackers.com/product/discounthub?post=NvXR2Nwj514ujb0D6Kl0#post-NvXR2Nwj514ujb0D6Kl0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-distribution-did-you-try-that-flopped-5ee182aad1",
+        "title": "What distribution did you try that flopped?",
+        "url": "https://www.indiehackers.com/post/what-distribution-did-you-try-that-flopped-5ee182aad1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/our-engineers-say-our-ai-product-is-easy-to-use-i-m-not-convinced-9df585c5dd",
+        "title": "Our engineers say our AI product is easy to use. I’m not convinced.",
+        "url": "https://www.indiehackers.com/post/our-engineers-say-our-ai-product-is-easy-to-use-i-m-not-convinced-9df585c5dd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/who-do-you-tell-first-when-you-launch-7bf3ddfe66",
+        "title": "Who do you tell first when you launch?",
+        "url": "https://www.indiehackers.com/post/who-do-you-tell-first-when-you-launch-7bf3ddfe66",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/hearof-public-changelog-in-app-unread-badge-0-free-19-99-pro-208f3c11ce",
+        "title": "Hearof - public changelog + in-app unread badge ($0 free / $19.99 Pro)",
+        "url": "https://www.indiehackers.com/post/hearof-public-changelog-in-app-unread-badge-0-free-19-99-pro-208f3c11ce",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-submitted-a-small-tools-site-to-40-directories-in-2-weeks-heres-what-was-actually-free-76ca1c5d38",
+        "title": "I submitted a small tools site to ~40 directories in 2 weeks. Here's what was actually free.",
+        "url": "https://www.indiehackers.com/post/i-submitted-a-small-tools-site-to-40-directories-in-2-weeks-heres-what-was-actually-free-76ca1c5d38",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-did-you-get-into-indie-hacking-57381fd339",
+        "title": "How did you get into indie hacking?",
+        "url": "https://www.indiehackers.com/post/how-did-you-get-into-indie-hacking-57381fd339",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/how-goguardian-grew-from-a-chrome-extension-to-100m-arr-B1qKroz4HFqqH47eGHTD",
+        "title": "How GoGuardian grew from a Chrome extension to $100M+ ARR",
+        "url": "https://www.indiehackers.com/post/tech/how-goguardian-grew-from-a-chrome-extension-to-100m-arr-B1qKroz4HFqqH47eGHTD",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
