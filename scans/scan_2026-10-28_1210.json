@@ -1,0 +1,232 @@
+{
+  "scan_time": "2026-10-28T12:10:49.433329+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "theysaid-4-0",
+        "name": "TheySaid 4.0",
+        "tagline": "See how users will react, right where you build.",
+        "description": "Put what you’re building in front of real customers or synthetic users trained on them when you need an answer in minutes without leaving Claude, Cursor, or Jira. Nothing ships on a guess.",
+        "votes": 358,
+        "ph_url": "https://www.producthunt.com/posts/theysaid-4-0",
+        "website": "https://www.producthunt.com/r/FIY7DCKNBRL5M2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "User Experience",
+          "Artificial Intelligence",
+          "UX Design"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "overmind-2",
+        "name": "Overmind",
+        "tagline": "Open-source platform for continuous learning",
+        "description": "Overmind is the model training platform for AI teams. Turn your production traces into specialised models you own, trained, benchmarked, and served.",
+        "votes": 293,
+        "ph_url": "https://www.producthunt.com/posts/overmind-2",
+        "website": "https://www.producthunt.com/r/H5DIPWPHSZEZY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "agent-hunt",
+        "name": "Agent Hunt",
+        "tagline": "Live rankings of the tools AI agents use most",
+        "description": "Agent Hunt is a live leaderboard of the tools AI agents actually use. Every place is earned by real calls agents make through Monid.",
+        "votes": 284,
+        "ph_url": "https://www.producthunt.com/posts/agent-hunt",
+        "website": "https://www.producthunt.com/r/VX6RX4U6IBXRW6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50260571",
+        "name": "Show HN: Specification First Agentic Development Plugin and Prove",
+        "url": "https://spec-first.dev/",
+        "points": 31,
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=50260571"
+      },
+      {
+        "id": "50270229",
+        "name": "Show HN: A Lego-like composable Framework for RSI",
+        "url": "https://rsi-gear.github.io/",
+        "points": 15,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50270229"
+      },
+      {
+        "id": "50261093",
+        "name": "Show HN: Cryo – A language whose programs live forever",
+        "url": "https://play.endothermic.ai/",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50261093"
+      },
+      {
+        "id": "50263941",
+        "name": "Show HN: Jog – GitHub runners for 80% less",
+        "url": "https://usejog.com/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50263941"
+      },
+      {
+        "id": "50258875",
+        "name": "Show HN: Markdown is 40× more token-efficient with SQLite",
+        "url": "https://www.withnative.ai/research-and-posts/markdown-context-benchmark",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50258875"
+      },
+      {
+        "id": "50261185",
+        "name": "Show HN: Trama, Meta Vibe Coding Agent 0.1.1 Released",
+        "url": "https://nicchia-code.github.io/trama/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50261185"
+      },
+      {
+        "id": "50268919",
+        "name": "Show HN: The New Way to Make AI UGC Ads in 2026",
+        "url": "https://www.aivideosugc.com/ai-video-generation",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50268919"
+      },
+      {
+        "id": "50262407",
+        "name": "Show HN: Agent-relay for multi-vendor coding sessions",
+        "url": "https://github.com/saranyan/agent-relay",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50262407"
+      },
+      {
+        "id": "50267680",
+        "name": "Show HN: Guess what frontier LLMs do in a repeated prisoner's dilemma",
+        "url": "https://thenunchiproject.com/game/ai-decides",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50267680"
+      },
+      {
+        "id": "50261492",
+        "name": "Show HN: Freightfloor. Have 3 minutes? Drive a forklift vs. AI",
+        "url": "https://freightfloor.com",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50261492"
+      },
+      {
+        "id": "50264623",
+        "name": "Show HN: HackerDome, real time PvP programming duels ft. spectating and sabotage",
+        "url": "https://hackerdo.me/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50264623"
+      },
+      {
+        "id": "50264240",
+        "name": "Show HN: Shop via CLI; for agents and software engineers",
+        "url": "https://storerouter.ai/playground",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50264240"
+      },
+      {
+        "id": "50257997",
+        "name": "Show HN: Tiny Tube – A self hosted video sharing server in a single Go binary",
+        "url": "https://github.com/spapas/tiny-tube",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50257997"
+      },
+      {
+        "id": "50265699",
+        "name": "Show HN: CleanCode – Claude Code and Codex collaborating on one canvas",
+        "url": "https://github.com/chen-985211/cleancode",
+        "points": 4,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50265699"
+      },
+      {
+        "id": "50264374",
+        "name": "Show HN: Tar-minefield shows where tar implementations disagree",
+        "url": "https://stoppels.ch/tar/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50264374"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/ascend",
+        "name": "Ascend",
+        "description": "Net worth tracking for people who hate budgeting",
+        "url": "https://betalist.com/startups/ascend"
+      },
+      {
+        "id": "/startups/chai-ui",
+        "name": "Chai UI",
+        "description": "Open-source AI-native design system for fast app development",
+        "url": "https://betalist.com/startups/chai-ui"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-do-you-handle-founder-fatigue-when-you-re-doing-everything-and-funding-it-yourself-87a059f177",
+        "title": "How do you handle founder fatigue when you’re doing everything and funding it yourself?",
+        "url": "https://www.indiehackers.com/post/how-do-you-handle-founder-fatigue-when-you-re-doing-everything-and-funding-it-yourself-87a059f177",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-game-backlog-tracker-for-myself-100-people-signed-up-and-i-still-dont-know-how-to-reach-the-next-100-38a1547824",
+        "title": "I built a game backlog tracker for myself. 100+ people signed up and I still don't know how to reach the next 100.",
+        "url": "https://www.indiehackers.com/post/i-built-a-game-backlog-tracker-for-myself-100-people-signed-up-and-i-still-dont-know-how-to-reach-the-next-100-38a1547824",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/saas-founders-how-do-you-figure-out-why-users-drop-off-f01b4c37ef",
+        "title": "SaaS founders: How do you figure out why users drop off?",
+        "url": "https://www.indiehackers.com/post/saas-founders-how-do-you-figure-out-why-users-drop-off-f01b4c37ef",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/first-time-founders-what-part-of-starting-cost-you-the-most-time-abcae04a68",
+        "title": "First-time founders: what part of starting cost you the most time?",
+        "url": "https://www.indiehackers.com/post/first-time-founders-what-part-of-starting-cost-you-the-most-time-abcae04a68",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
