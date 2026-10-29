@@ -1,0 +1,222 @@
+{
+  "scan_time": "2026-10-29T12:21:10.445580+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "dedica",
+        "name": "Dedica",
+        "tagline": "Check if AI agents can use your website",
+        "description": "Dedica tests your website the way AI agents use it, then gives your team a fix for every place they fail. Muse, Instinct, GrokBot and other agents now browse, compare and sign up on people's behalf. Dedica runs 125 checks (for free) to see if they can use your site, and gives you a fix for every issue to hand to your coding agent.",
+        "votes": 298,
+        "ph_url": "https://www.producthunt.com/posts/dedica",
+        "website": "https://www.producthunt.com/r/SMFJH4J7K55FL4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Website Builder",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "bytemail",
+        "name": "bytemail",
+        "tagline": "Native Mac email: every inbox, in your notch, no trackers",
+        "description": "bytemail is a native Mac email app built in Swift. Gmail, iCloud, Outlook, Yahoo, Fastmail and any IMAP account in one fast window. New mail and sign-in codes grow out of your MacBook's notch, Undo Send flies a paper plane through it, and desktop widgets show what's unread. Tracking pixels are blocked, look-alike senders flagged, and your mail never touches our servers. Snooze, rules, one-click unsubscribe, and an MCP server for Claude and other AI apps. iPhone beta included. 7-day free trial.",
+        "votes": 289,
+        "ph_url": "https://www.producthunt.com/posts/bytemail",
+        "website": "https://www.producthunt.com/r/KKQJJZQQWWTXZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Email",
+          "Privacy"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50276883",
+        "name": "Show HN: SlideBySide – Present slides without sharing your screen",
+        "url": "https://slidebyside.com/",
+        "points": 75,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=50276883"
+      },
+      {
+        "id": "50274300",
+        "name": "Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days",
+        "url": "https://yavashark.dev/blog/announcing-yavashark/",
+        "points": 34,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50274300"
+      },
+      {
+        "id": "50273201",
+        "name": "Show HN: Nasscad – local-first 3D CAD for browser and Windows",
+        "url": "https://www.nasscad.com/NASSCAD_V4_7_0.htm",
+        "points": 24,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=50273201"
+      },
+      {
+        "id": "50272515",
+        "name": "Show HN: Popkern – open-source CAD kernel with G2 corner blends, browser IDE",
+        "url": "https://popkern.dev/",
+        "points": 13,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50272515"
+      },
+      {
+        "id": "50284996",
+        "name": "Show HN: Uji – Gentoo of Coding Agents",
+        "url": "https://github.com/uji-labs/uji",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50284996"
+      },
+      {
+        "id": "50274587",
+        "name": "Show HN: Studio 3e8: Mesa 1, affordable Metal 3D Printer",
+        "url": "https://www.studio3e8.com/post/studio-3e8-launch",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50274587"
+      },
+      {
+        "id": "50274657",
+        "name": "Show HN: I made an interactive Sakura tree that runs in the browser",
+        "url": "https://nozomi-xi.vercel.app",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50274657"
+      },
+      {
+        "id": "50274416",
+        "name": "Show HN: Achive – 12y/O built commitment app, 95% of failed stakes to hospice",
+        "url": "https://achive-app.vercel.app/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50274416"
+      },
+      {
+        "id": "50286949",
+        "name": "Show HN: I got tired of travel spreadsheets so I made a travel planner app",
+        "url": "https://www.wherewhen.cc",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50286949"
+      },
+      {
+        "id": "50279167",
+        "name": "Show HN: Jotcal, a calendar you glance at and write on",
+        "url": "https://jotcal.app/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50279167"
+      },
+      {
+        "id": "50285197",
+        "name": "Show HN: A malleable and formally verified Web engine",
+        "url": "",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50285197"
+      },
+      {
+        "id": "50281154",
+        "name": "Show HN: Open Source CS2 Skins Marketplace (early stage)",
+        "url": "https://github.com/getopenfloat/openfloat",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50281154"
+      },
+      {
+        "id": "50280650",
+        "name": "Show HN: I built a tool that finds reliability bugs in your code",
+        "url": "",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50280650"
+      },
+      {
+        "id": "50287255",
+        "name": "Show HN: UK Farming Simulator",
+        "url": "https://butterbean.farm/",
+        "points": 5,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50287255"
+      },
+      {
+        "id": "50281226",
+        "name": "Show HN: Full Python 3.15 Implemented in 25k LoC C11",
+        "url": "",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50281226"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/schoolwize",
+        "name": "Schoolwize",
+        "description": "Explore UK school data to compare subjects, trends, and admissions",
+        "url": "https://betalist.com/startups/schoolwize"
+      },
+      {
+        "id": "/startups/the-ai-agent-company-company",
+        "name": "The AI Agent Company Company",
+        "description": "Build an AI-run company that works nonstop to hit your revenue goal",
+        "url": "https://betalist.com/startups/the-ai-agent-company-company"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/how-to-get-high-authority-backlinks-from-saas-directories-640e817da5",
+        "title": "How to Get High-Authority Backlinks from SaaS Directories",
+        "url": "https://www.indiehackers.com/post/how-to-get-high-authority-backlinks-from-saas-directories-640e817da5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/150-outreach-messages-in-a-week-for-our-ai-back-office-heres-what-got-replies-b7c08f33fd",
+        "title": "150+ outreach messages in a week for our AI back office. Here's what got replies",
+        "url": "https://www.indiehackers.com/post/150-outreach-messages-in-a-week-for-our-ai-back-office-heres-what-got-replies-b7c08f33fd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-a-remote-shell-for-linux-devices-470-visitors-17-reached-login-0-signups-f5e8f90c22",
+        "title": "I launched a remote shell for Linux devices. 470 visitors, 17 reached login, 0 signups",
+        "url": "https://www.indiehackers.com/post/i-launched-a-remote-shell-for-linux-devices-470-visitors-17-reached-login-0-signups-f5e8f90c22",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/would-you-start-a-free-trial-on-this-page-roast-it-d9aa215a2f",
+        "title": "Would you start a free trial on this page? Roast it.",
+        "url": "https://www.indiehackers.com/post/would-you-start-a-free-trial-on-this-page-roast-it-d9aa215a2f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-free-no-signup-checks-for-etsy-sellers-0-real-signups-so-far-what-would-you-change-972233c7d5",
+        "title": "I built free no-signup checks for Etsy sellers. 0 real signups so far, what would you change?",
+        "url": "https://www.indiehackers.com/post/i-built-free-no-signup-checks-for-etsy-sellers-0-real-signups-so-far-what-would-you-change-972233c7d5",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
