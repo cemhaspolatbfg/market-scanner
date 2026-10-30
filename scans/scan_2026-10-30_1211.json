@@ -1,0 +1,230 @@
+{
+  "scan_time": "2026-10-30T12:11:37.248252+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "empacer",
+        "name": "Empacer",
+        "tagline": " The voice-first assistant for small business owners",
+        "description": "Most small business owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.",
+        "votes": 426,
+        "ph_url": "https://www.producthunt.com/posts/empacer",
+        "website": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "scape-6",
+        "name": "Scape",
+        "tagline": "An intelligent email inbox that works for you",
+        "description": "Imagine opening your inbox and finding everything already organized, with replies ready to review. Scape is an intelligent email client that prioritizes messages, prepares contextual drafts, and helps track conversations and follow-ups. It understands your work across emails, meetings, calendars, and attachments, so you can spend less time managing communication and more time moving work forward.",
+        "votes": 319,
+        "ph_url": "https://www.producthunt.com/posts/scape-6",
+        "website": "https://www.producthunt.com/r/OG2OR3JKMHZ566?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Email",
+          "Artificial Intelligence",
+          "Design"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "1password-for-agents",
+        "name": "1Password for Agents",
+        "tagline": "Let AI agents sign in for you without seeing your passwords",
+        "description": "1Password for Agents lets supported AI agents sign in to your accounts without ever seeing your passwords. When an agent hits a login, it asks 1Password. You approve or deny on your own device, and 1Password fills the password or one-time code directly. Connecting an agent doesn’t open your whole vault. Included in Individual and Family plans, with Meta Muse and Grok Bot rolling out and a waitlist.",
+        "votes": 277,
+        "ph_url": "https://www.producthunt.com/posts/1password-for-agents",
+        "website": "https://www.producthunt.com/r/QPQLVSCTPHCQGE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50294506",
+        "name": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+        "url": "https://github.com/johncassil/dontallow",
+        "points": 145,
+        "comments": 106,
+        "hn_url": "https://news.ycombinator.com/item?id=50294506"
+      },
+      {
+        "id": "50297697",
+        "name": "Show HN: I Turned DOOM into a Transformer",
+        "url": "https://github.com/mottopanikeiku/doomformer",
+        "points": 99,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=50297697"
+      },
+      {
+        "id": "50300618",
+        "name": "Show HN: Arsaze – Cursor for video editing (Tab-complete and agent edits)",
+        "url": "https://www.arsaze.com",
+        "points": 54,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50300618"
+      },
+      {
+        "id": "50293115",
+        "name": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+        "url": "https://github.com/lonthq/overtone-captions",
+        "points": 40,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50293115"
+      },
+      {
+        "id": "50299004",
+        "name": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+        "url": "https://github.com/Millillion/lasm",
+        "points": 31,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=50299004"
+      },
+      {
+        "id": "50293303",
+        "name": "Show HN: Capo-S3 – a typed, async-first S3 client for Python",
+        "url": "https://pypi.org/project/capo-s3/",
+        "points": 15,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50293303"
+      },
+      {
+        "id": "50294300",
+        "name": "Show HN: GenesisDB – The event sourcing database, is now open source",
+        "url": "https://www.genesisdb.io/blog/posts/2026-10-24/genesisdb-2-is-open-source",
+        "points": 13,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50294300"
+      },
+      {
+        "id": "50293361",
+        "name": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+        "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+        "points": 12,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50293361"
+      },
+      {
+        "id": "50292475",
+        "name": "Show HN: Radix - A WebGPU-powered 3D Gaussian Splat renderer built on Three.js",
+        "url": "https://sparkjs.dev/radix/",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50292475"
+      },
+      {
+        "id": "50288172",
+        "name": "Show HN: Pidgeon – Email inboxes for AI agents",
+        "url": "https://pidgeon.ai",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50288172"
+      },
+      {
+        "id": "50294473",
+        "name": "Show HN: Typebook.lol read books by typing the letters only",
+        "url": "https://typebook.lol/",
+        "points": 9,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=50294473"
+      },
+      {
+        "id": "50298988",
+        "name": "Show HN: Tiberava – My Game is growing",
+        "url": "https://tiberava.online",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50298988"
+      },
+      {
+        "id": "50296436",
+        "name": "Show HN: Artificer by Nua: Frontier robotics task evaluation in 4B parameters",
+        "url": "https://usenua.com/blog/artificer",
+        "points": 8,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50296436"
+      },
+      {
+        "id": "50298738",
+        "name": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
+        "url": "https://github.com/zacharybenson/arken-protocol",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50298738"
+      },
+      {
+        "id": "50295178",
+        "name": "Show HN: Sunlight – the camera-based infinite canvas window manager for Mac",
+        "url": "https://sunlight.software/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50295178"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/milotriplog",
+        "name": "MilO",
+        "description": "Track business mileage on Android automatically via Bluetooth",
+        "url": "https://betalist.com/startups/milotriplog"
+      },
+      {
+        "id": "/startups/alenta-ai",
+        "name": "Alenta AI",
+        "description": "Add a website-trained live agent that answers, qualifies, and books",
+        "url": "https://betalist.com/startups/alenta-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/we-vetted-463-high-dr-directories-for-our-saas-22-were-worth-submitting-to-57f6a0eace",
+        "title": "We vetted 463 \"high-DR\" directories for our SaaS. 22 were worth submitting to.",
+        "url": "https://www.indiehackers.com/post/we-vetted-463-high-dr-directories-for-our-saas-22-were-worth-submitting-to-57f6a0eace",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/do-you-launch-for-free-or-charge-from-day-one-b08d3ae440",
+        "title": "Do you launch for free or charge from day one?",
+        "url": "https://www.indiehackers.com/post/do-you-launch-for-free-or-charge-from-day-one-b08d3ae440",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-to-see-which-of-your-signups-came-from-chatgpt-even-the-ones-ga4-calls-direct-46da4517fb",
+        "title": "How to see which of your signups came from ChatGPT (even the ones GA4 calls \"Direct\")",
+        "url": "https://www.indiehackers.com/post/how-to-see-which-of-your-signups-came-from-chatgpt-even-the-ones-ga4-calls-direct-46da4517fb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/5-comments-from-strangers-changed-my-product-more-than-100-signups-did-c7b2cec8d3",
+        "title": "5 comments from strangers changed my product more than 100 signups did",
+        "url": "https://www.indiehackers.com/post/5-comments-from-strangers-changed-my-product-more-than-100-signups-did-c7b2cec8d3",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
