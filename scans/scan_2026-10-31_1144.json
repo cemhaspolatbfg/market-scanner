@@ -1,0 +1,232 @@
+{
+  "scan_time": "2026-10-31T11:44:10.238714+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "vaani-developer-platform",
+        "name": "Vaani Developer Platform",
+        "tagline": "The only voice AI harness that you'll ever need",
+        "description": "Build a voice agent that sounds and behaves human without writing a single line of code. Design the call flow, handle objections and edge cases, connect your tools and knowledge base, and go live on a real phone number. Every call ends with clean, structured data.",
+        "votes": 361,
+        "ph_url": "https://www.producthunt.com/posts/vaani-developer-platform",
+        "website": "https://www.producthunt.com/r/PLG3DPJZGCJSAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Tech",
+          "Audio"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "knocket-ai",
+        "name": "Knocket AI",
+        "tagline": "Chat with visitors from your website or link",
+        "description": "Give visitors a way to say hello. Add free live chat to your website or app, or turn your bio link into a personal contact page. Visitors can start chatting without signing up. Built for founders, creators, and small teams.",
+        "votes": 336,
+        "ph_url": "https://www.producthunt.com/posts/knocket-ai",
+        "website": "https://www.producthunt.com/r/PZ4KKDP7MANWFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Customer Success",
+          "Customer Communication"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "speakon-agent",
+        "name": "SpeakON Agent",
+        "tagline": "Turn natural speech into real work for an agent to complete",
+        "description": "Turn natural speech into real work with SpeakON Agent. It understands your Notes, connects your tools, and prepares Actions for you to review and confirm.",
+        "votes": 313,
+        "ph_url": "https://www.producthunt.com/posts/speakon-agent",
+        "website": "https://www.producthunt.com/r/GUQI7NTMSNKCWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Hardware",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50306442",
+        "name": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+        "url": "https://github.com/dbreunig/nesformer",
+        "points": 256,
+        "comments": 122,
+        "hn_url": "https://news.ycombinator.com/item?id=50306442"
+      },
+      {
+        "id": "50311686",
+        "name": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "url": "https://tng.episodle.com/",
+        "points": 198,
+        "comments": 55,
+        "hn_url": "https://news.ycombinator.com/item?id=50311686"
+      },
+      {
+        "id": "50305320",
+        "name": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+        "url": "https://catcopter.com",
+        "points": 80,
+        "comments": 42,
+        "hn_url": "https://news.ycombinator.com/item?id=50305320"
+      },
+      {
+        "id": "50305218",
+        "name": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+        "url": "https://sketch.wakeshift.ai/games/q5ucru",
+        "points": 32,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=50305218"
+      },
+      {
+        "id": "50309479",
+        "name": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+        "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+        "points": 25,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50309479"
+      },
+      {
+        "id": "50306815",
+        "name": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+        "url": "https://github.com/spinfinc/spinf-serve",
+        "points": 22,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50306815"
+      },
+      {
+        "id": "50303832",
+        "name": "Show HN: Fraktur, a DJ mixing app in the browser",
+        "url": "https://greenvitriol.com/posts/fraktur",
+        "points": 22,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50303832"
+      },
+      {
+        "id": "50303908",
+        "name": "Show HN: hyperbin – This Halloween, take out your Trash before monsters move in",
+        "url": "https://hypernuclear.com/hyperbin/",
+        "points": 15,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50303908"
+      },
+      {
+        "id": "50303455",
+        "name": "Show HN: PicoPlayer – A tiny, open-source website for playing quality webgames",
+        "url": "https://picoplayer.net/",
+        "points": 11,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50303455"
+      },
+      {
+        "id": "50303291",
+        "name": "Show HN: Apache 2.0 Registry to let agents share skills with each other",
+        "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry",
+        "points": 9,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50303291"
+      },
+      {
+        "id": "50310055",
+        "name": "Show HN: Ultrafast Rust Based Agent Workspace",
+        "url": "https://trypalomino.com/",
+        "points": 7,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=50310055"
+      },
+      {
+        "id": "50308222",
+        "name": "Show HN: Fishoid: an ambient fish tank for your screen",
+        "url": "https://fishoid.net/",
+        "points": 7,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50308222"
+      },
+      {
+        "id": "50303280",
+        "name": "Show HN: Showbuild – Hacker News but only for builders",
+        "url": "https://showbuild.co/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50303280"
+      },
+      {
+        "id": "50303279",
+        "name": "Show HN: What research is your code standing on?",
+        "url": "https://lacuna.tiptreesystems.com/standing-on",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50303279"
+      },
+      {
+        "id": "50307005",
+        "name": "Show HN: Deckdrill – Pimsleur-style audio drills from Anki decks, in your voice",
+        "url": "https://www.deckdrill.app",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50307005"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/rankinai",
+        "name": "RankinAI",
+        "description": "Track AI search visibility and get precise fixes to improve it",
+        "url": "https://betalist.com/startups/rankinai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-newsletter-digest-for-marketers-103-of-reddit-ads-83-visits-0-trial-clicks-what-am-i-missing-a4d78d3985",
+        "title": "I built a newsletter digest for marketers. €103 of Reddit ads, 83 visits, 0 trial clicks. What am I missing?",
+        "url": "https://www.indiehackers.com/post/i-built-a-newsletter-digest-for-marketers-103-of-reddit-ads-83-visits-0-trial-clicks-what-am-i-missing-a4d78d3985",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launched-a-9-meeting-notes-to-action-items-kit-this-week-0-sales-so-far-what-would-stop-you-from-buying-948aba5577",
+        "title": "Launched a $9 meeting-notes-to-action-items kit this week. 0 sales so far. What would stop you from buying?",
+        "url": "https://www.indiehackers.com/post/launched-a-9-meeting-notes-to-action-items-kit-this-week-0-sales-so-far-what-would-stop-you-from-buying-948aba5577",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-103-free-css-tools-and-posted-a-short-every-day-for-26-days-traffic-doubled-sales-are-still-0-fc6f6abf7b",
+        "title": "I built 103 free CSS tools and posted a Short every day for 26 days. Traffic doubled, sales are still $0.",
+        "url": "https://www.indiehackers.com/post/i-built-103-free-css-tools-and-posted-a-short-every-day-for-26-days-traffic-doubled-sales-are-still-0-fc6f6abf7b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/nobody-checks-your-work-and-nobody-expects-your-update-what-keeps-you-going-10e988d998",
+        "title": "Nobody checks your work and nobody expects your update. What keeps you going?",
+        "url": "https://www.indiehackers.com/post/nobody-checks-your-work-and-nobody-expects-your-update-what-keeps-you-going-10e988d998",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/were-a-tiny-utah-team-building-a-free-app-for-group-plans-shipping-was-the-easy-part-9924143043",
+        "title": "We're a tiny Utah team building a free app for group plans. Shipping was the easy part.",
+        "url": "https://www.indiehackers.com/post/were-a-tiny-utah-team-building-a-free-app-for-group-plans-shipping-was-the-easy-part-9924143043",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 1
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
