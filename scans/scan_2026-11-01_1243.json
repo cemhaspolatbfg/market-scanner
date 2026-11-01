@@ -1,0 +1,196 @@
+{
+  "scan_time": "2026-11-01T12:43:17.960637+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "specsight-2",
+        "name": "Specsight",
+        "tagline": "Product observability for teams shipping fast with AI",
+        "description": "Shipping fast with AI? Specsight turns code changes into a living product map, feature knowledge, and clear release updates. Keep Product, Sales, and Support in sync with what your software actually does and what changed.",
+        "votes": 304,
+        "ph_url": "https://www.producthunt.com/posts/specsight-2",
+        "website": "https://www.producthunt.com/r/U5MK5YLVIQ7YIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50315782",
+        "name": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "points": 87,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50315782"
+      },
+      {
+        "id": "50319169",
+        "name": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+        "url": "https://epoyraz.github.io/nes-contra-us/",
+        "points": 83,
+        "comments": 68,
+        "hn_url": "https://news.ycombinator.com/item?id=50319169"
+      },
+      {
+        "id": "50317331",
+        "name": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+        "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+        "points": 58,
+        "comments": 37,
+        "hn_url": "https://news.ycombinator.com/item?id=50317331"
+      },
+      {
+        "id": "50321522",
+        "name": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+        "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+        "points": 37,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50321522"
+      },
+      {
+        "id": "50317153",
+        "name": "Show HN: Quit everything to make one website",
+        "url": "https://hellojomp.com/",
+        "points": 16,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50317153"
+      },
+      {
+        "id": "50317548",
+        "name": "Show HN: Jointter – A daily word puzzle using dots and lines",
+        "url": "https://www.jointter.com/",
+        "points": 14,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=50317548"
+      },
+      {
+        "id": "50321663",
+        "name": "Show HN: Vela, a New Linux Desktop Environment",
+        "url": "https://velade.org/blog/vela-0-1/",
+        "points": 12,
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=50321663"
+      },
+      {
+        "id": "50320501",
+        "name": "Show HN: Winch – App Store optimization run by your own coding agent",
+        "url": "https://getwinch.app/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50320501"
+      },
+      {
+        "id": "50317309",
+        "name": "Show HN: Similarity, a spiritual successor to 2000s-era OkCupid",
+        "url": "https://similarity.com",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50317309"
+      },
+      {
+        "id": "50318471",
+        "name": "Show HN: Haris list jobs board for agents",
+        "url": "https://covenant-common.github.io/covenant-docs/docs/TERMINAL.html",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50318471"
+      },
+      {
+        "id": "50318041",
+        "name": "Show HN: I made a game about the 3k-year evolution of Chinese characters",
+        "url": "https://chinese.vedranb.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50318041"
+      },
+      {
+        "id": "50317580",
+        "name": "Show HN: Maclet – A native macOS container runtime written from scratch in Rust",
+        "url": "https://github.com/sumant1122/maclet",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50317580"
+      },
+      {
+        "id": "50320050",
+        "name": "Show HN: Gitmsg – A messenger where every message is a Git commit",
+        "url": "https://www.gitmsg.fun",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50320050"
+      },
+      {
+        "id": "50316806",
+        "name": "Show HN: CodeConnect: Coding Agents on Your iPhone",
+        "url": "https://codeconnect.sh",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50316806"
+      },
+      {
+        "id": "50316634",
+        "name": "Show HN: I built a crawler that finds personal websites by a /.well-known/josh",
+        "url": "https://joshternet.org/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50316634"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/artvideodl",
+        "name": "ArtVideoDL",
+        "description": "Download DeviantArt videos as MP4 quickly and for free",
+        "url": "https://betalist.com/startups/artvideodl"
+      },
+      {
+        "id": "/startups/userdemos",
+        "name": "UserDemos",
+        "description": "Turn your website into an animated product demo with AI",
+        "url": "https://betalist.com/startups/userdemos"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/10-days-after-launching-my-side-project-what-each-channel-actually-brought-in-2065963871",
+        "title": "10 days after launching my side project: what each channel actually brought in",
+        "url": "https://www.indiehackers.com/post/10-days-after-launching-my-side-project-what-each-channel-actually-brought-in-2065963871",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-two-shopify-apps-got-zero-installs-and-built-two-free-calculators-instead-b62b4a2c54",
+        "title": "I launched two Shopify apps, got zero installs, and built two free calculators instead",
+        "url": "https://www.indiehackers.com/post/i-launched-two-shopify-apps-got-zero-installs-and-built-two-free-calculators-instead-b62b4a2c54",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-do-you-actually-do-in-the-first-hour-after-you-launch-6c113a0b19",
+        "title": "What do you actually do in the first hour after you launch?",
+        "url": "https://www.indiehackers.com/post/what-do-you-actually-do-in-the-first-hour-after-you-launch-6c113a0b19",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 3
+    }
+  }
+}
