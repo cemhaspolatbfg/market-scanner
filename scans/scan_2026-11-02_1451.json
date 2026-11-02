@@ -1,0 +1,220 @@
+{
+  "scan_time": "2026-11-02T14:50:59.837629+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "screen-studio-4-0",
+        "name": "Screen Studio 4.0",
+        "tagline": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
+        "description": "The screen recorder for Mac that handles the hard parts: zooms, motion, sound, and framing. Every demo and tutorial comes out polished. What's new in 4.0: - Glass Loupe, a zoom that magnifies one detail - Split screen, also for vertical video - Edit your video like you edit text - Camera cutout: you, without your background - Hide sensitive data and faces automatically - Sharper zooms, ProRes, up to 4x faster exports, and more",
+        "votes": 413,
+        "ph_url": "https://www.producthunt.com/posts/screen-studio-4-0",
+        "website": "https://www.producthunt.com/r/MXBY2KB22GHVHB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Marketing",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50326821",
+        "name": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "url": "https://hackerbooks.org",
+        "points": 1673,
+        "comments": 278,
+        "hn_url": "https://news.ycombinator.com/item?id=50326821"
+      },
+      {
+        "id": "50333339",
+        "name": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+        "url": "https://wikihack.netlify.app",
+        "points": 320,
+        "comments": 95,
+        "hn_url": "https://news.ycombinator.com/item?id=50333339"
+      },
+      {
+        "id": "50333877",
+        "name": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
+        "url": "https://news.ycombinator.com/",
+        "points": 169,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=50333877"
+      },
+      {
+        "id": "50334704",
+        "name": "Show HN: I've updated my Linux System Call website and API",
+        "url": "https://syscall.sh/",
+        "points": 107,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=50334704"
+      },
+      {
+        "id": "50333280",
+        "name": "Show HN: 13M opinions on 48k products extracted from Reddit and HN",
+        "url": "https://www.trustmebro.reviews/r/hackernews",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50333280"
+      },
+      {
+        "id": "50336025",
+        "name": "Show HN: Hacker News but for comments posted on HN",
+        "url": "https://news.ycombinator.com/newcomments",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50336025"
+      },
+      {
+        "id": "50329086",
+        "name": "Show HN: Jik – a self-hosted language using region-based memory management",
+        "url": "https://github.com/jik-lang/jik",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50329086"
+      },
+      {
+        "id": "50335401",
+        "name": "Show HN: HackerTube for Apple TV. Videos HN Recommends, on Your TV",
+        "url": "",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50335401"
+      },
+      {
+        "id": "50332869",
+        "name": "Show HN: Diwali in threejs – find crackers and send wishes into a shared sky",
+        "url": "https://virtualdiwali.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50332869"
+      },
+      {
+        "id": "50327582",
+        "name": "Show HN: A browser game where you navigate home to Earth using pulsars",
+        "url": "https://lightyears-home.pages.dev/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50327582"
+      },
+      {
+        "id": "50333825",
+        "name": "Show HN: Northstar web browser engine 1.0.40 released",
+        "url": "",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50333825"
+      },
+      {
+        "id": "50329627",
+        "name": "Show HN: Quarter – A TUI launcher to browse, search and launch your games",
+        "url": "https://github.com/stronxyo/quarter",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50329627"
+      },
+      {
+        "id": "50331415",
+        "name": "Show HN: Better Together – AI agents team up against spam calls and texts",
+        "url": "https://better-together.fun/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50331415"
+      },
+      {
+        "id": "50334185",
+        "name": "Show HN: HNMovies – 2,280 films and docs distilled from 20 years of HN",
+        "url": "https://www.hnmovies.org/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50334185"
+      },
+      {
+        "id": "50326850",
+        "name": "Show HN: PewPewPew – Multiplayer Asteroids with deterministic rollback at 60hz",
+        "url": "https://pewpewpew.io/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50326850"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/aishorts",
+        "name": "AI Shorts",
+        "description": "Create AI short videos and editable storyboards from prompts",
+        "url": "https://betalist.com/startups/aishorts"
+      },
+      {
+        "id": "/startups/openseo",
+        "name": "OpenSEO",
+        "description": "Open-source Ahrefs and SEMrush alternative you can self-host",
+        "url": "https://betalist.com/startups/openseo"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/438-signups-1-paying-customer-here-is-exactly-where-people-drop-off-in-my-telegram-bot-builder-22a6e4908a",
+        "title": "438 signups, 1 paying customer: here is exactly where people drop off in my Telegram bot builder",
+        "url": "https://www.indiehackers.com/post/438-signups-1-paying-customer-here-is-exactly-where-people-drop-off-in-my-telegram-bot-builder-22a6e4908a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-month-without-a-launch-110-users-52-came-back-this-week-3534fc481c",
+        "title": "A month without a launch: 110 users, 52% came back this week",
+        "url": "https://www.indiehackers.com/post/a-month-without-a-launch-110-users-52-came-back-this-week-3534fc481c",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/im-really-stuck-with-my-app-can-someone-help-me-figure-out-what-to-do-f1c3d2feac",
+        "title": "I'm really stuck with my app. Can someone help me figure out what to do?",
+        "url": "https://www.indiehackers.com/post/im-really-stuck-with-my-app-can-someone-help-me-figure-out-what-to-do-f1c3d2feac",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-actually-happened-when-your-first-users-signed-up-3e3bb887be",
+        "title": "What actually happened when your first users signed up?",
+        "url": "https://www.indiehackers.com/post/what-actually-happened-when-your-first-users-signed-up-3e3bb887be",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/10-years-building-software-8-months-building-a-saas-i-learned-theyre-two-different-jobs-i-got-stuff-wrong-right-f58f02e0a8",
+        "title": "10 years building software. 8 months building a SaaS. I learned they're two different jobs. ( & i got stuff wrong & right)",
+        "url": "https://www.indiehackers.com/post/10-years-building-software-8-months-building-a-saas-i-learned-theyre-two-different-jobs-i-got-stuff-wrong-right-f58f02e0a8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-offline-planner-for-my-freelance-work-then-turned-it-into-a-product-79f0a4d946",
+        "title": "I built an offline planner for my freelance work, then turned it into a product",
+        "url": "https://www.indiehackers.com/post/i-built-an-offline-planner-for-my-freelance-work-then-turned-it-into-a-product-79f0a4d946",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/do-you-follow-up-with-launch-visitors-later-46f3923546",
+        "title": "Do you follow up with launch visitors later?",
+        "url": "https://www.indiehackers.com/post/do-you-follow-up-with-launch-visitors-later-46f3923546",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
