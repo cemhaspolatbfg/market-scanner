@@ -1,0 +1,216 @@
+{
+  "scan_time": "2026-11-03T13:40:45.055989+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "beacon-sh",
+        "name": "beacon.sh",
+        "tagline": "Open-source self-improving memory for AI coding agents",
+        "description": "Beacon turns agent sessions across Claude Code, Cursor, Codex, OpenCode, and 20+ other harnesses into a compounding knowledge layer, so every agent starts smarter than the last. It captures every agent trace across your environment and turns activity into clear operational visibility. Get started for free at beacon.sh",
+        "votes": 419,
+        "ph_url": "https://www.producthunt.com/posts/beacon-sh",
+        "website": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "GitHub",
+          "SDK"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "unleashx",
+        "name": "UnleashX",
+        "tagline": "The AI workforce that turns conversations into outcomes. ",
+        "description": "UnleashX lets you hire AI employees like people - pick a role, connect your CRM and tools, set your rules, and hand over the work. Execute workflows end-to-end, with humans stepping in only when needed.",
+        "votes": 342,
+        "ph_url": "https://www.producthunt.com/posts/unleashx",
+        "website": "https://www.producthunt.com/r/LF5W4HZMDHS2VV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50340088",
+        "name": "Show HN: Subvocal – Talk to your computer without making noise",
+        "url": "",
+        "points": 748,
+        "comments": 351,
+        "hn_url": "https://news.ycombinator.com/item?id=50340088"
+      },
+      {
+        "id": "50346981",
+        "name": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+        "url": "https://hackertimes.ca/",
+        "points": 348,
+        "comments": 109,
+        "hn_url": "https://news.ycombinator.com/item?id=50346981"
+      },
+      {
+        "id": "50339221",
+        "name": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+        "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+        "points": 297,
+        "comments": 48,
+        "hn_url": "https://news.ycombinator.com/item?id=50339221"
+      },
+      {
+        "id": "50347552",
+        "name": "Show HN: I built a little browser game to practice Vim commands",
+        "url": "https://hjkl.duy.run",
+        "points": 49,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=50347552"
+      },
+      {
+        "id": "50338891",
+        "name": "Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python",
+        "url": "https://github.com/atifcodesalot/pyWolf3D",
+        "points": 25,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50338891"
+      },
+      {
+        "id": "50347524",
+        "name": "Show HN: Rustable is an open source database client built in Rust",
+        "url": "https://rustable.app",
+        "points": 24,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=50347524"
+      },
+      {
+        "id": "50338871",
+        "name": "Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal",
+        "url": "https://fotojockovic.com/vhs",
+        "points": 20,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=50338871"
+      },
+      {
+        "id": "50348740",
+        "name": "Show HN: ReBirth 338 in Browser",
+        "url": "https://margeux.com/rb338.html",
+        "points": 20,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50348740"
+      },
+      {
+        "id": "50348361",
+        "name": "Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server",
+        "url": "https://github.com/p10node/office-engine",
+        "points": 16,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50348361"
+      },
+      {
+        "id": "50348456",
+        "name": "Show HN: Bitcoin-rs – An independent Bitcoin full node in Rust",
+        "url": "https://github.com/gosuda/bitcoin-rs",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50348456"
+      },
+      {
+        "id": "50342630",
+        "name": "Show HN: I used Jev to build an off-topic detector for meetings",
+        "url": "https://maxharrison.me/posts/offtrackometer/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50342630"
+      },
+      {
+        "id": "50337363",
+        "name": "Show HN: The Public Eye – Agentic search for congressional bill legibility",
+        "url": "https://the-public-eye.com",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50337363"
+      },
+      {
+        "id": "50350400",
+        "name": "Show HN: I made a portals physics engine to prove my point",
+        "url": "https://portalphysics.xyz/up-down",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50350400"
+      },
+      {
+        "id": "50337410",
+        "name": "Show HN: Aulico, my free tradingview alternative",
+        "url": "https://www.aulico.com",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50337410"
+      },
+      {
+        "id": "50351465",
+        "name": "Show HN: I built an interactive visual playground for interaction nets",
+        "url": "https://netties.adler.dev/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50351465"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/subsplithq",
+        "name": "SubSplitHQ",
+        "description": "Split shared bills fairly and automate reminders and payouts",
+        "url": "https://betalist.com/startups/subsplithq"
+      },
+      {
+        "id": "/startups/seedance-2-5-2",
+        "name": "Seedance 2.5",
+        "description": "Create 30-second cinematic videos with synced audio",
+        "url": "https://betalist.com/startups/seedance-2-5-2"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-met-my-co-founder-because-i-got-punished-in-school-years-later-we-built-a-yc-startup-together-d2c4d59346",
+        "title": "I met my co-founder because I got punished in school. Years later, we built a YC startup together.",
+        "url": "https://www.indiehackers.com/post/i-met-my-co-founder-because-i-got-punished-in-school-years-later-we-built-a-yc-startup-together-d2c4d59346",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/out-of-beta-after-7-months-solo-what-200-testers-taught-me-d01009bddb",
+        "title": "Out of beta after 7 months solo: what 200+ testers taught me",
+        "url": "https://www.indiehackers.com/post/out-of-beta-after-7-months-solo-what-200-testers-taught-me-d01009bddb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/63-of-my-users-looked-financially-stressed-then-i-filtered-out-my-own-test-builds-and-it-was-6-034b61bbfd",
+        "title": "63% of my users looked financially stressed. Then I filtered out my own test builds and it was 6%.",
+        "url": "https://www.indiehackers.com/post/63-of-my-users-looked-financially-stressed-then-i-filtered-out-my-own-test-builds-and-it-was-6-034b61bbfd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-mums-frozen-dumplings-are-beating-my-ai-visibility-company-at-ai-visibility-377760d206",
+        "title": "My mum's frozen dumplings are beating my AI visibility company at AI visibility",
+        "url": "https://www.indiehackers.com/post/my-mums-frozen-dumplings-are-beating-my-ai-visibility-company-at-ai-visibility-377760d206",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
