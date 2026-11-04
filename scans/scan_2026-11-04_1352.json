@@ -1,0 +1,228 @@
+{
+  "scan_time": "2026-11-04T13:51:45.567436+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "agentkit-by-scalekit",
+        "name": "AgentKit by Scalekit",
+        "tagline": "MCP gateway for production agents that acts on your behalf",
+        "description": "Let your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.",
+        "votes": 408,
+        "ph_url": "https://www.producthunt.com/posts/agentkit-by-scalekit",
+        "website": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "teamily-ai",
+        "name": "Teamily AI",
+        "tagline": "Your personal agent, agent teams & people in one messenger",
+        "description": "The human-agent platform where people and always-on agents get work done together in one unified, context-aware space. Unlike single-user personal agents, Teamily AI enables multi-user, multi-agent teamwork. Built on an AI-native messenger, it connects people, agents, docs, meetings, calls, workflows, and business systems to automate office work and customer service. Agents become real teammates with persistent memory, proactive intelligence, and continuous self-improvement. Free to get started.",
+        "votes": 347,
+        "ph_url": "https://www.producthunt.com/posts/teamily-ai",
+        "website": "https://www.producthunt.com/r/EKZU365TJG62XT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Social Networking"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50358314",
+        "name": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+        "url": "https://github.com/finic-ai/kairos",
+        "points": 98,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=50358314"
+      },
+      {
+        "id": "50358352",
+        "name": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "url": "https://uncracked.city",
+        "points": 88,
+        "comments": 42,
+        "hn_url": "https://news.ycombinator.com/item?id=50358352"
+      },
+      {
+        "id": "50353386",
+        "name": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
+        "url": "https://hissingkitty.com/hacker-churn",
+        "points": 71,
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=50353386"
+      },
+      {
+        "id": "50353468",
+        "name": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+        "url": "https://concepts.laxmena.com/",
+        "points": 41,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50353468"
+      },
+      {
+        "id": "50354777",
+        "name": "Show HN: SIE Serverless – managed inference powered by self-hostable stack",
+        "url": "https://superlinked.com/",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50354777"
+      },
+      {
+        "id": "50353127",
+        "name": "Show HN: Election.run – election night in one window",
+        "url": "https://election.run/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50353127"
+      },
+      {
+        "id": "50357042",
+        "name": "Show HN: Recto: A desktop app where you can design with AI, edit with your mouse",
+        "url": "https://recto.design",
+        "points": 7,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50357042"
+      },
+      {
+        "id": "50359936",
+        "name": "Show HN: Spooler – a simple, managed message queue",
+        "url": "https://spooler.sh/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50359936"
+      },
+      {
+        "id": "50355827",
+        "name": "Show HN: Scroll from your own skeleton to the edge of the observable universe",
+        "url": "https://vatsaltanna.com/traveltoinfinity/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50355827"
+      },
+      {
+        "id": "50362676",
+        "name": "Show HN: A privacy-first career toolkit (PDF manipulation runs in Browser/WASM)",
+        "url": "https://www.onestoplinkedin.com",
+        "points": 5,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50362676"
+      },
+      {
+        "id": "50357326",
+        "name": "Show HN: ZapFast, Native WhatsApp for Linux, macOS, and Windows with Calls",
+        "url": "https://zapfast.rocks/",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50357326"
+      },
+      {
+        "id": "50359283",
+        "name": "Show HN: Google Trends for Reddit",
+        "url": "https://slashtrends.com/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50359283"
+      },
+      {
+        "id": "50355761",
+        "name": "Show HN: DrawDB – turn any live database into an ER diagram with one query",
+        "url": "https://github.com/drawdb-io/drawdb",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50355761"
+      },
+      {
+        "id": "50360658",
+        "name": "Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser",
+        "url": "https://tahaygun.github.io/pauseless/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50360658"
+      },
+      {
+        "id": "50360259",
+        "name": "Show HN: HackerReels - Short Videos for viral HN posts",
+        "url": "https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50360259"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/pana",
+        "name": "Pana",
+        "description": "Hand off tasks to an AI agent running on your private computer",
+        "url": "https://betalist.com/startups/pana"
+      },
+      {
+        "id": "/startups/momflexapp",
+        "name": "MomFlexApp",
+        "description": "Simplify single parenting with an all-in-one support platform",
+        "url": "https://betalist.com/startups/momflexapp"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-looked-at-20-launch-directories-for-my-free-tool-most-wanted-a-link-back-or-money-WD6I8dKia2ilR1Swup8t",
+        "title": "I looked at 20+ launch directories for my free tool. Most wanted a link back or money.",
+        "url": "https://www.indiehackers.com/post/i-looked-at-20-launch-directories-for-my-free-tool-most-wanted-a-link-back-or-money-WD6I8dKia2ilR1Swup8t",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-day-7-target-was-10-outside-sign-ups-i-had-2-d1QB38TKZpc9yvBuGQHl",
+        "title": "My day-7 target was 10 outside sign-ups. I had 2.",
+        "url": "https://www.indiehackers.com/post/my-day-7-target-was-10-outside-sign-ups-i-had-2-d1QB38TKZpc9yvBuGQHl",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/are-you-everywhere-or-do-you-go-all-in-on-one-growth-channel-430c7aa76b",
+        "title": "Are you everywhere, or do you go all-in on one growth channel?",
+        "url": "https://www.indiehackers.com/post/are-you-everywhere-or-do-you-go-all-in-on-one-growth-channel-430c7aa76b",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/which-currency-do-you-price-your-product-in-a24b64f3f4",
+        "title": "Which currency do you price your product in?",
+        "url": "https://www.indiehackers.com/post/which-currency-do-you-price-your-product-in-a24b64f3f4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-much-should-an-ai-agent-ask-before-actually-doing-the-work-c156f8d897",
+        "title": "How much should an AI agent ask before actually doing the work?",
+        "url": "https://www.indiehackers.com/post/how-much-should-an-ai-agent-ask-before-actually-doing-the-work-c156f8d897",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/capterra-and-getapp-described-my-google-maps-tool-as-a-pinterest-app-493684eacf",
+        "title": "Capterra and GetApp described my Google Maps tool as a Pinterest app",
+        "url": "https://www.indiehackers.com/post/capterra-and-getapp-described-my-google-maps-tool-as-a-pinterest-app-493684eacf",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
