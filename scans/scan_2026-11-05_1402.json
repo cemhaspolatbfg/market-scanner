@@ -1,0 +1,203 @@
+{
+  "scan_time": "2026-11-05T14:01:56.442316+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "wanaka-studio",
+        "name": "Wanaka Studio",
+        "tagline": "Make and publish 3D games with the first AI game engine",
+        "description": "The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.",
+        "votes": 434,
+        "ph_url": "https://www.producthunt.com/posts/wanaka-studio",
+        "website": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Games",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "scalekit",
+        "name": "Scalekit",
+        "tagline": "MCP gateway for production agents that acts on your behalf",
+        "description": "Let your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.",
+        "votes": 420,
+        "ph_url": "https://www.producthunt.com/posts/scalekit",
+        "website": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50369895",
+        "name": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+        "url": "https://fireflyk64.github.io/wcmulti/",
+        "points": 226,
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=50369895"
+      },
+      {
+        "id": "50366929",
+        "name": "Show HN: I built a tool that prices a pre-built PC part by part",
+        "url": "https://pcdealcheck.com/",
+        "points": 107,
+        "comments": 73,
+        "hn_url": "https://news.ycombinator.com/item?id=50366929"
+      },
+      {
+        "id": "50366811",
+        "name": "Show HN: Codemap – one-page interactive map of any Go repository",
+        "url": "https://github.com/peterretief/codemap",
+        "points": 43,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=50366811"
+      },
+      {
+        "id": "50371090",
+        "name": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "url": "https://github.com/gauge-sh/gauge-cli",
+        "points": 35,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50371090"
+      },
+      {
+        "id": "50367630",
+        "name": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
+        "url": "https://github.com/flitai-io/gpuworks",
+        "points": 25,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50367630"
+      },
+      {
+        "id": "50369277",
+        "name": "Show HN: Unclickbait – Replace clickbait YouTube thumbnails",
+        "url": "https://unclickbait.app/",
+        "points": 12,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50369277"
+      },
+      {
+        "id": "50367367",
+        "name": "Show HN: I built a Bible verse feed to replace doomscrolling",
+        "url": "https://scrollhope.com/",
+        "points": 7,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50367367"
+      },
+      {
+        "id": "50369269",
+        "name": "Show HN: ChannelVault, browse and search your Slack exports",
+        "url": "https://github.com/mestr-io/channelvault",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50369269"
+      },
+      {
+        "id": "50366425",
+        "name": "Show HN: AI Gude – my feeds as a daily podcast, revived with AI",
+        "url": "https://github.com/alex0ptr/aigude",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50366425"
+      },
+      {
+        "id": "50365678",
+        "name": "Show HN: Chinese sentence checker with pinyin and English explanations",
+        "url": "https://sentencecoach.com/chinese-grammar-checker",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50365678"
+      },
+      {
+        "id": "50371859",
+        "name": "Show HN: Diorama – Draw a world, play it with point and click",
+        "url": "https://grzegorz.tanczyk.pl/diorama/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50371859"
+      },
+      {
+        "id": "50366448",
+        "name": "Show HN: Hyperbutler – Docker on Windows without WSL, 320 MB at idle",
+        "url": "https://hyperbutler.dev/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50366448"
+      },
+      {
+        "id": "50373795",
+        "name": "Show HN: I turned 18 Agatha Christie novels into SQL murder cases",
+        "url": "https://querythemurder.com/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50373795"
+      },
+      {
+        "id": "50365692",
+        "name": "Show HN: Scan-to-vector – rebuild scanned pages as vector PDFs with an AI agent",
+        "url": "https://github.com/3351666087/scan-to-vector-skill",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50365692"
+      },
+      {
+        "id": "50377469",
+        "name": "Show HN: Distill anyone's writing style into a skill",
+        "url": "https://github.com/xatuke/mimic",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50377469"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/what-are-you-currently-building-and-why-kt1qRMt6kH94CCm0df5g",
+        "title": "What are you currently building, and why?",
+        "url": "https://www.indiehackers.com/post/what-are-you-currently-building-and-why-kt1qRMt6kH94CCm0df5g",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-companion-app-with-no-coding-background-here-s-the-honest-version-ZIa8VTr8sgtFHk6gnTc3",
+        "title": "I built an AI companion app with no coding background — here’s the honest version",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-companion-app-with-no-coding-background-here-s-the-honest-version-ZIa8VTr8sgtFHk6gnTc3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/three-weeks-in-vibestack-has-175-pages-and-about-80-visits-a-week-what-were-learning-about-getting-found-vE3a9k54tRleTZnlAVlv",
+        "title": "Three weeks in: VibeStack has 175 pages and about 80 visits a week. What we're learning about getting found",
+        "url": "https://www.indiehackers.com/post/three-weeks-in-vibestack-has-175-pages-and-about-80-visits-a-week-what-were-learning-about-getting-found-vE3a9k54tRleTZnlAVlv",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-marketing-workspace-your-ai-agent-operates-with-you-approving-the-decisions-K8z8rdbGeKavL5zWYJJG",
+        "title": "A marketing workspace your AI agent operates, with you approving the decisions",
+        "url": "https://www.indiehackers.com/post/a-marketing-workspace-your-ai-agent-operates-with-you-approving-the-decisions-K8z8rdbGeKavL5zWYJJG",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
