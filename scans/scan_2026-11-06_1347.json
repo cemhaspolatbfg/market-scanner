@@ -1,0 +1,250 @@
+{
+  "scan_time": "2026-11-06T13:46:56.558618+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "glasshand",
+        "name": "Glasshand",
+        "tagline": "Give your agent a real iPhone and Mac",
+        "description": "Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any other agent, and it can rent a device with a single prompt. The hardware sits in our data center, and your agent uses it the way you would: posting on TikTok, booking an Uber, or building and testing iOS apps. Each device is yours alone for as long as you rent it. When you’re done, we erase your data and factory-reset it.",
+        "votes": 370,
+        "ph_url": "https://www.producthunt.com/posts/glasshand",
+        "website": "https://www.producthunt.com/r/4HPTGSLZ23MFLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Apple"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "floot-payments",
+        "name": "Floot Payments ",
+        "tagline": "Take payments in apps you build in ChatGPT and Claude",
+        "description": "Floot apps can now take real money. Ask your AI in ChatGPT, Claude or Cursor for \"a $9/month plan\", \"a checkout for this course\" or \"shipping labels for my orders\", and Floot sets it up: subscriptions with a billing page, one-time payments, tickets and deposits, coupons and refunds, plus shipping with live rates, labels and tracking. Runs on Stripe, no API keys or webhooks. Test free in preview, go live when you publish.",
+        "votes": 328,
+        "ph_url": "https://www.producthunt.com/posts/floot-payments",
+        "website": "https://www.producthunt.com/r/DP7N4LLA6MSIQI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Payments",
+          "Artificial Intelligence",
+          "Vibe coding"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "xmind-2027",
+        "name": "Xmind 2027",
+        "tagline": "Your mind map is now an AI thinking partner",
+        "description": "As information becomes easier to access, understanding and judgment matter more than ever. Xmind 2027 gives you and AI a shared visual space to work through ideas. With Xmind Agent, use your local documents and maps to research, develop ideas, and weigh possibilities through conversation. Your map evolves with your thinking. With MCP, bring that same context into ChatGPT, Claude, and your existing AI workflow, while you stay in control of the direction.",
+        "votes": 316,
+        "ph_url": "https://www.producthunt.com/posts/xmind-2027",
+        "website": "https://www.producthunt.com/r/ITN3N4YT7NIKXS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Notes",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50380704",
+        "name": "Show HN: Stroq – a local audit of what your coding agent did and why",
+        "url": "https://github.com/AGGIB/Stroq",
+        "points": 88,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=50380704"
+      },
+      {
+        "id": "50379073",
+        "name": "Show HN: TubeHaus – an open-source YouTube client with no Google account",
+        "url": "https://github.com/biolend83/tubehaus",
+        "points": 21,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50379073"
+      },
+      {
+        "id": "50385952",
+        "name": "Show HN: HackerRepos – HackerTube for repos mentioned on HN",
+        "url": "https://HackerRepos.fyi/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50385952"
+      },
+      {
+        "id": "50385087",
+        "name": "Show HN: Inference business simulator – don't go broke, rent GPUs, serve tokens",
+        "url": "https://makermaker.ai/breakthroughs/inference/simulation/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50385087"
+      },
+      {
+        "id": "50384668",
+        "name": "Show HN: HackerGit – Every GitHub repo shared on HN",
+        "url": "https://hackergit.org/",
+        "points": 7,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50384668"
+      },
+      {
+        "id": "50381741",
+        "name": "Show HN: A C++ Compiler That Is Faster Than GCC and Clang",
+        "url": "https://github.com/vishvananda/cppgm-extended",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50381741"
+      },
+      {
+        "id": "50380277",
+        "name": "Show HN: K8sman – A Native Kubernetes IDE",
+        "url": "https://github.com/matty234/k8sman",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50380277"
+      },
+      {
+        "id": "50380505",
+        "name": "Show HN: Zenith, a developer platform for shipping and selling your app",
+        "url": "https://zenith.hosting/developers",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50380505"
+      },
+      {
+        "id": "50380433",
+        "name": "Show HN: Kids Shelf, your kids' own little internet",
+        "url": "https://kidsshelf.org/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50380433"
+      },
+      {
+        "id": "50380154",
+        "name": "Show HN: I built Postraid to help founders create social media content with AI",
+        "url": "https://www.postraid.com",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50380154"
+      },
+      {
+        "id": "50386559",
+        "name": "Show HN: Cabinet of Distilled Pixels",
+        "url": "https://cjauvin.github.io/pixel-cabinet/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50386559"
+      },
+      {
+        "id": "50380882",
+        "name": "Show HN: An aquarium game with a real nitrogen cycle",
+        "url": "https://fishtankatlas.com/play/aquarium/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50380882"
+      },
+      {
+        "id": "50379021",
+        "name": "Show HN: Strive and Seek – original merch for builders, hackers and founders",
+        "url": "https://shopstriveandseek.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50379021"
+      },
+      {
+        "id": "50379504",
+        "name": "Show HN: Spaceguesser – GeoGuessr for the Solar System",
+        "url": "https://spaceguesser.com/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50379504"
+      },
+      {
+        "id": "50391185",
+        "name": "Show HN: Ueddit.com – Reddit Without Logging In",
+        "url": "https://ueddit.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50391185"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/startupspotting",
+        "name": "StartupSpotting",
+        "description": "Discover promising startups before they hit the mainstream",
+        "url": "https://betalist.com/startups/startupspotting"
+      },
+      {
+        "id": "/startups/morse-private-messenger",
+        "name": "Morse Private Messenger",
+        "description": "Message privately without a phone number, ads, or tracking",
+        "url": "https://betalist.com/startups/morse-private-messenger"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/ive-shipped-four-small-products-and-sold-nothing-where-would-you-put-the-next-10-hours-9T3UwGtc8RHaR2m6UihM",
+        "title": "I've shipped four small products and sold nothing. Where would you put the next 10 hours?",
+        "url": "https://www.indiehackers.com/post/ive-shipped-four-small-products-and-sold-nothing-where-would-you-put-the-next-10-hours-9T3UwGtc8RHaR2m6UihM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-did-you-find-your-first-paying-customers-were-struggling-with-this-aUTkZW6IzB5qkjrHqVlA",
+        "title": "How did you find your first paying customers? We're struggling with this.",
+        "url": "https://www.indiehackers.com/post/how-did-you-find-your-first-paying-customers-were-struggling-with-this-aUTkZW6IzB5qkjrHqVlA",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/guessing-keywords-is-the-easiest-way-to-write-posts-nobody-searches-for-vzwGpbrvarW2fDtNl3kX",
+        "title": "Guessing keywords is the easiest way to write posts nobody searches for.",
+        "url": "https://www.indiehackers.com/post/guessing-keywords-is-the-easiest-way-to-write-posts-nobody-searches-for-vzwGpbrvarW2fDtNl3kX",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-tool-that-finds-people-already-asking-for-your-product-3-weeks-in-what-actually-worked-real-numbers-3ASc9YIYwbHLB54XjPeA",
+        "title": "I built a tool that finds people already asking for your product. 3 weeks in: what actually worked (real numbers)",
+        "url": "https://www.indiehackers.com/post/i-built-a-tool-that-finds-people-already-asking-for-your-product-3-weeks-in-what-actually-worked-real-numbers-3ASc9YIYwbHLB54XjPeA",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-workaround-folder-is-better-research-than-any-interview-tZWkHqgO1cbw2JvVLxUu",
+        "title": "The workaround folder is better research than any interview",
+        "url": "https://www.indiehackers.com/post/the-workaround-folder-is-better-research-than-any-interview-tZWkHqgO1cbw2JvVLxUu",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/pieter-levels-says-claude-code-found-almost-34-000-a-month-in-cost-cuts-Rtcn8vcsKPHV7ZuMQUM8",
+        "title": "Pieter Levels says Claude Code found almost $34,000 a month in cost cuts",
+        "url": "https://www.indiehackers.com/post/tech/pieter-levels-says-claude-code-found-almost-34-000-a-month-in-cost-cuts-Rtcn8vcsKPHV7ZuMQUM8",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/beehiivs-third-1m-in-mrr-took-9-months-its-first-took-36-AfyfAW3nLIaUPTpr856T",
+        "title": "beehiiv's third $1M in MRR took 9 months. Its first took 36.",
+        "url": "https://www.indiehackers.com/post/tech/beehiivs-third-1m-in-mrr-took-9-months-its-first-took-36-AfyfAW3nLIaUPTpr856T",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
