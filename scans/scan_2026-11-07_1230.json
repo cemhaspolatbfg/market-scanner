@@ -1,0 +1,202 @@
+{
+  "scan_time": "2026-11-07T12:30:26.621422+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "tobira-site-agent",
+        "name": "Tobira Site Agent",
+        "tagline": "Turn your website into an AI agent that sells to AI agents",
+        "description": "People already find you through AI. Tobira turns that AI traffic into real leads and customers. Paste your URL and in 10 minutes your website becomes an AI agent. It answers people and their AI, negotiates, books calls and takes orders right in customers' ChatGPT, Claude, Grok and other AI chats. Leads go to your Telegram or email. Also, AI agents read your site 2x faster and take action without navigating its interface. Free with your own AI key.",
+        "votes": 363,
+        "ph_url": "https://www.producthunt.com/posts/tobira-site-agent",
+        "website": "https://www.producthunt.com/r/LMNUHW4VUH6RGV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Customer Communication",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50401451",
+        "name": "Show HN: Did prediction markets do any predicting this midterms?",
+        "url": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
+        "points": 29,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=50401451"
+      },
+      {
+        "id": "50397435",
+        "name": "Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs",
+        "url": "https://github.com/tharun208/cloneguard",
+        "points": 29,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50397435"
+      },
+      {
+        "id": "50397325",
+        "name": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+        "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+        "points": 28,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50397325"
+      },
+      {
+        "id": "50393235",
+        "name": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+        "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+        "points": 22,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50393235"
+      },
+      {
+        "id": "50392219",
+        "name": "Show HN: An open source webbluetooth and NFC browser for iOS",
+        "url": "https://github.com/hito-dev/wand-browser",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50392219"
+      },
+      {
+        "id": "50394991",
+        "name": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
+        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+        "points": 12,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50394991"
+      },
+      {
+        "id": "50401409",
+        "name": "Show HN: Backwords – Let AI teach you how to speak in reverse",
+        "url": "https://backwords.greg.technology/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50401409"
+      },
+      {
+        "id": "50400374",
+        "name": "Show HN: Goethe – The infrastructure for self-hosted AI",
+        "url": "https://github.com/meshapplied/Goethe",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50400374"
+      },
+      {
+        "id": "50397874",
+        "name": "Show HN: An NLP based word game for users to play against Astra, Opus, and more",
+        "url": "https://wordspies.com/",
+        "points": 5,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50397874"
+      },
+      {
+        "id": "50396969",
+        "name": "Show HN: IMDb for YouTube (Long-Form Videos Only)",
+        "url": "https://vidtier.eamag.me/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50396969"
+      },
+      {
+        "id": "50399637",
+        "name": "Show HN: I asked HN about AI agentic setups, here are 750 of the comments mapped",
+        "url": "",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50399637"
+      },
+      {
+        "id": "50395242",
+        "name": "Show HN: Ru-Jev – an open model that scores caller-supplied options on CPU (MIT)",
+        "url": "https://huggingface.co/besktech/ru-jev",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50395242"
+      },
+      {
+        "id": "50393793",
+        "name": "Show HN: Botel – always reachable agents you pay for only while they're working",
+        "url": "https://botel.dev",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50393793"
+      },
+      {
+        "id": "50392347",
+        "name": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
+        "url": "https://penguinbase.com/game-install?game=192471728&ref=hn",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50392347"
+      },
+      {
+        "id": "50402421",
+        "name": "Show HN: Ryph – Self-Hosted, Open-Source Coding Agents for Incident Response",
+        "url": "https://github.com/ryph-hq/ryph",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50402421"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/reemo",
+        "name": "Reemo",
+        "description": "Discover and search curated AI tools and indie websites",
+        "url": "https://betalist.com/startups/reemo"
+      },
+      {
+        "id": "/startups/revenue-scout",
+        "name": "Revenue Scout",
+        "description": "Find people who need what you sell on social media",
+        "url": "https://betalist.com/startups/revenue-scout"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/both-language-files-had-six-keys-the-checkout-button-was-blank-0J3Y7envr1JleaFF7N6a",
+        "title": "Both language files had six keys. The checkout button was blank.",
+        "url": "https://www.indiehackers.com/post/both-language-files-had-six-keys-the-checkout-button-was-blank-0J3Y7envr1JleaFF7N6a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/if-an-ai-agent-did-one-job-for-your-startup-tomorrow-which-one-would-you-trust-it-with-23LP4mt48MlW7KxAcH5T",
+        "title": "if an ai agent did one job for your startup tomorrow, which one would you trust it with",
+        "url": "https://www.indiehackers.com/post/if-an-ai-agent-did-one-job-for-your-startup-tomorrow-which-one-would-you-trust-it-with-23LP4mt48MlW7KxAcH5T",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/openai-to-buy-pierre-which-says-lovable-and-bolt-rely-on-its-git-service-WJg3ZfajMaPx5WJ9vLiP",
+        "title": "OpenAI to buy Pierre, which says Lovable and Bolt rely on its Git service",
+        "url": "https://www.indiehackers.com/post/tech/openai-to-buy-pierre-which-says-lovable-and-bolt-rely-on-its-git-service-WJg3ZfajMaPx5WJ9vLiP",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/marc-lou-says-he-rejected-2-5m-for-trustmrr-Gd2Vs2WSq9PlQdu8TtJK",
+        "title": "Marc Lou says he rejected $2.5M for TrustMRR",
+        "url": "https://www.indiehackers.com/post/tech/marc-lou-says-he-rejected-2-5m-for-trustmrr-Gd2Vs2WSq9PlQdu8TtJK",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 4
+    }
+  }
+}
