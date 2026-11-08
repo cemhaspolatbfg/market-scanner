@@ -1,0 +1,195 @@
+{
+  "scan_time": "2026-11-08T12:48:50.216005+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "chatgpt-images-2-6-8",
+        "name": "ChatGPT Images 2.6",
+        "tagline": "Create, edit, and animate images with AI",
+        "description": "Images 2.6 brings faster image generation, more precise editing, and native GIF creation to ChatGPT, Codex, and the API. Create looping animations, maintain character and product consistency across edits, export SVGs, and control generation complexity.",
+        "votes": 279,
+        "ph_url": "https://www.producthunt.com/posts/chatgpt-images-2-6-8",
+        "website": "https://www.producthunt.com/r/ZYSSWGXHU4P32K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Artificial Intelligence",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50406292",
+        "name": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+        "url": "https://github.com/hedgerow-dev/coldframe",
+        "points": 252,
+        "comments": 61,
+        "hn_url": "https://news.ycombinator.com/item?id=50406292"
+      },
+      {
+        "id": "50405263",
+        "name": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+        "points": 69,
+        "comments": 14,
+        "hn_url": "https://news.ycombinator.com/item?id=50405263"
+      },
+      {
+        "id": "50408082",
+        "name": "Show HN: Where Were We",
+        "url": "https://wherewerewe.app/",
+        "points": 46,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=50408082"
+      },
+      {
+        "id": "50408350",
+        "name": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+        "url": "https://eyesrhythm.com/",
+        "points": 32,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=50408350"
+      },
+      {
+        "id": "50410253",
+        "name": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+        "url": "https://github.com/AmSach/maple",
+        "points": 12,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50410253"
+      },
+      {
+        "id": "50409986",
+        "name": "Show HN: LLM weight editing tool made by a 15-year-old",
+        "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50409986"
+      },
+      {
+        "id": "50404321",
+        "name": "Show HN: Logo Deal – Logos anyone can edit with text",
+        "url": "https://logo.deal/",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50404321"
+      },
+      {
+        "id": "50406700",
+        "name": "Show HN: We made a new theme to increase engagement on our website",
+        "url": "https://zenmemes.com/threads/thread-20261107173646-27caa60f/",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50406700"
+      },
+      {
+        "id": "50404494",
+        "name": "Show HN: I made a guardrail against AI outreach slop (API/MCP)",
+        "url": "https://maildignity.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50404494"
+      },
+      {
+        "id": "50410056",
+        "name": "Show HN: I'm 15 and my personal website looks like iMessage",
+        "url": "https://apanda.dev/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50410056"
+      },
+      {
+        "id": "50407523",
+        "name": "Show HN: Good First Token – Spend your spare tokens on open source",
+        "url": "https://goodfirsttoken.org/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50407523"
+      },
+      {
+        "id": "50404406",
+        "name": "Show HN: Hosted dashboard for small VPS fleets, outbound-only agent",
+        "url": "https://vpsmon.cloud/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50404406"
+      },
+      {
+        "id": "50405227",
+        "name": "Show HN: Fels – a systems language with compile-time code execution",
+        "url": "https://github.com/fels-lang/fels",
+        "points": 3,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50405227"
+      },
+      {
+        "id": "50406797",
+        "name": "Show HN: Enmetu – Git auto-commit that holds conflicts",
+        "url": "https://codefloe.com/fluado/enmetu",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50406797"
+      },
+      {
+        "id": "50406532",
+        "name": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
+        "url": "https://github.com/ImpossibleComputing/jacq",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50406532"
+      }
+    ],
+    "betalist": [],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/ill-tell-you-my-product-you-tell-me-yours-BUThfNYcLQDH9VVIDGld",
+        "title": "I'll tell you my product. You tell me yours.",
+        "url": "https://www.indiehackers.com/post/ill-tell-you-my-product-you-tell-me-yours-BUThfNYcLQDH9VVIDGld",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/28-downloads-in-two-weeks-0-sales-and-i-couldnt-see-where-people-dropped-off-vTUWsSLhBDm4EH2pZGOa",
+        "title": "28 downloads in two weeks, 0 sales, and I couldn't see where people dropped off",
+        "url": "https://www.indiehackers.com/post/28-downloads-in-two-weeks-0-sales-and-i-couldnt-see-where-people-dropped-off-vTUWsSLhBDm4EH2pZGOa",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/wick-is-an-ai-agent-that-has-to-earn-enough-to-pay-its-own-compute-costs-day-5-update-lVjYYAFoNsRFY8rKs5gZ",
+        "title": "Wick is an AI agent that has to earn enough to pay its own compute costs — Day 5 update",
+        "url": "https://www.indiehackers.com/post/wick-is-an-ai-agent-that-has-to-earn-enough-to-pay-its-own-compute-costs-day-5-update-lVjYYAFoNsRFY8rKs5gZ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/built-your-saas-but-struggling-to-get-customers-bsJK9C9ytbWvTETGBLj9",
+        "title": "Built your SaaS but struggling to get customers?",
+        "url": "https://www.indiehackers.com/post/built-your-saas-but-struggling-to-get-customers-bsJK9C9ytbWvTETGBLj9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/ahrefs-new-domain-rating-is-worse-at-predicting-how-your-domain-ranks-on-google-wuMETmw9YkOACYjkO3cW",
+        "title": "Ahrefs' new Domain Rating is worse at predicting how your domain ranks on Google",
+        "url": "https://www.indiehackers.com/post/tech/ahrefs-new-domain-rating-is-worse-at-predicting-how-your-domain-ranks-on-google-wuMETmw9YkOACYjkO3cW",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 0
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 5
+    }
+  }
+}
