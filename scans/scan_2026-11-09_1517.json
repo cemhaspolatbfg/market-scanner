@@ -1,0 +1,257 @@
+{
+  "scan_time": "2026-11-09T15:16:56.373029+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "prelulu",
+        "name": "Prelulu",
+        "tagline": "Be the main character: chat & video roleplay any story",
+        "description": "Immersive stories with AI characters you can text or video roleplay with. It's our first time bringing real-time avatar technology to consumer scale. You can create your own characters with live avatar capability.",
+        "votes": 279,
+        "ph_url": "https://www.producthunt.com/posts/prelulu",
+        "website": "https://www.producthunt.com/r/AS3PV7P3375YRL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Games",
+          "Entertainment"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "rerun-4",
+        "name": "Rerun",
+        "tagline": "Turn your AI subscriptions into a team of coworkers",
+        "description": "Rerun turns your ChatGPT or Claude subscription into a team of AI coworkers. Each one has tools, a computer and a shared workspace, runs on a schedule or a trigger, and asks before risky actions. Now open-source (AGPL v3) and self-hostable.",
+        "votes": 276,
+        "ph_url": "https://www.producthunt.com/posts/rerun-4",
+        "website": "https://www.producthunt.com/r/RMMH5HQHCIQO64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Open Source",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "turnstone",
+        "name": "Turnstone",
+        "tagline": "Grok Bot alternative that runs on your AI, completely free",
+        "description": "Turnstone is a Grok Bot alternative that runs on the AI you already have. Connect your own AI subscriptions, an API key, or your self-hosted model. When one hits its usage limit, your Agent switches to another and keeps going. Works on your Mac and iPhone. Completely free.",
+        "votes": 272,
+        "ph_url": "https://www.producthunt.com/posts/turnstone",
+        "website": "https://www.producthunt.com/r/ELRJVLJUXTAYTL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Mac",
+          "Productivity",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50421155",
+        "name": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+        "url": "https://github.com/OmniJev/Flide",
+        "points": 83,
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=50421155"
+      },
+      {
+        "id": "50417478",
+        "name": "Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
+        "url": "https://github.com/SafeScript/safescript",
+        "points": 12,
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=50417478"
+      },
+      {
+        "id": "50420069",
+        "name": "Show HN: Jot – Select text anywhere on macOS, tap Shift twice, get Markdown",
+        "url": "https://sayjot.xyz/",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50420069"
+      },
+      {
+        "id": "50415638",
+        "name": "Show HN: Recto – A tool that lets you visually edit what coding agents create",
+        "url": "https://recto.design/",
+        "points": 8,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50415638"
+      },
+      {
+        "id": "50414117",
+        "name": "Show HN: Ghanaian street games you can play in the browser",
+        "url": "https://www.ghanastreetgames.com/",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50414117"
+      },
+      {
+        "id": "50415476",
+        "name": "Show HN: Email-like interface to review, decide, and annotate agent work",
+        "url": "https://plannotator.ai/inbox/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50415476"
+      },
+      {
+        "id": "50415581",
+        "name": "Show HN: Notekpr – An open-source, E2EE alternative to Notion and Obsidian",
+        "url": "https://notekpr.md",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50415581"
+      },
+      {
+        "id": "50424580",
+        "name": "Show HN: Harness Resource Bench – CPU, memory and disk of coding agents",
+        "url": "https://leonardcser.github.io/harness-resource-bench",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50424580"
+      },
+      {
+        "id": "50423912",
+        "name": "Show HN: AI boom or bust, US war footing or not (four scenarios to 2029)",
+        "url": "https://elviovicosa.com/war/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50423912"
+      },
+      {
+        "id": "50425203",
+        "name": "Show HN: Pgxio – a tiny PostgreSQL layer inside Nginx",
+        "url": "https://github.com/mishabunte/pgxio",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50425203"
+      },
+      {
+        "id": "50415740",
+        "name": "Show HN: Is your product AI slop?",
+        "url": "https://slopcalculator.com/",
+        "points": 4,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50415740"
+      },
+      {
+        "id": "50415219",
+        "name": "Show HN: FELF – AppImage-like single binaries without FUSE, root, or a runtime",
+        "url": "https://github.com/Rucadi/FELF",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50415219"
+      },
+      {
+        "id": "50423525",
+        "name": "SHOW HN: GerGit - A Free Open-Source Git GUI Client for Linux Inspired by Fork",
+        "url": "https://github.com/IcaruzSoftware/GerGit",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50423525"
+      },
+      {
+        "id": "50423154",
+        "name": "Show HN: Glassbrain – Read your agent's brain, know what your agent knows",
+        "url": "https://github.com/voidixyn/glassbrain",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50423154"
+      },
+      {
+        "id": "50417974",
+        "name": "Show HN: Remedy – Prompt stuff out of your feeds",
+        "url": "https://getremedyapp.com",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50417974"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/eventrise",
+        "name": "Eventrise",
+        "description": "Sell tickets and manage events with transparent, fan-friendly checkout",
+        "url": "https://betalist.com/startups/eventrise"
+      },
+      {
+        "id": "/startups/searcherries",
+        "name": "Searcherries",
+        "description": "AI SEO platform integrating AI visibility and SEO data into your AI agent",
+        "url": "https://betalist.com/startups/searcherries"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/monday-again-what-are-you-building-this-week-15ncpkuk3dbtkDNS0woJ",
+        "title": "Monday again! What are you building this week?",
+        "url": "https://www.indiehackers.com/post/monday-again-what-are-you-building-this-week-15ncpkuk3dbtkDNS0woJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/solo-founders-are-you-paying-for-too-many-separate-ai-tools-UNNbswFLcsxl7FbeY6zH",
+        "title": "Solo founders: are you paying for too many separate AI tools?",
+        "url": "https://www.indiehackers.com/post/solo-founders-are-you-paying-for-too-many-separate-ai-tools-UNNbswFLcsxl7FbeY6zH",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-make-a-study-tool-78-signups-0-paying-customers-here-is-what-ive-seen-so-far-wTG4Fq31YNxjG7qcLKzr",
+        "title": "I make a study tool. 78 signups, 0 paying customers. Here is what I've seen so far.",
+        "url": "https://www.indiehackers.com/post/i-make-a-study-tool-78-signups-0-paying-customers-here-is-what-ive-seen-so-far-wTG4Fq31YNxjG7qcLKzr",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-answisp-to-see-if-chatgpt-recommends-my-products-TvYJzepOCaFhaFgnl9PO",
+        "title": "I built Answisp to see if ChatGPT recommends my products",
+        "url": "https://www.indiehackers.com/post/i-built-answisp-to-see-if-chatgpt-recommends-my-products-TvYJzepOCaFhaFgnl9PO",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/4-people-uploaded-screenshots-to-my-app-none-of-them-clicked-render-here-s-what-i-changed-5Uv5Iv8Iw0WtA7LngyMk",
+        "title": "4 people uploaded screenshots to my app. None of them clicked \"Render\". Here's what I changed.",
+        "url": "https://www.indiehackers.com/post/4-people-uploaded-screenshots-to-my-app-none-of-them-clicked-render-here-s-what-i-changed-5Uv5Iv8Iw0WtA7LngyMk",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/product-hunt-alternatives-i-read-the-pricing-pages-of-19-of-them-lSh8tKGNc9uKRW5HUf5f",
+        "title": "Product Hunt alternatives: I read the pricing pages of 19 of them",
+        "url": "https://www.indiehackers.com/post/product-hunt-alternatives-i-read-the-pricing-pages-of-19-of-them-lSh8tKGNc9uKRW5HUf5f",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-many-unbilled-hours-do-silent-api-webhook-breaking-changes-cost-your-client-projects-4WGLCi8ZZweBQe7F6Jm9",
+        "title": "How many unbilled hours do silent API / Webhook breaking changes cost your client projects?",
+        "url": "https://www.indiehackers.com/post/how-many-unbilled-hours-do-silent-api-webhook-breaking-changes-cost-your-client-projects-4WGLCi8ZZweBQe7F6Jm9",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/pieter-levels-shuts-down-infinite-slop-tv-after-17-8m-clip-views-Ql8zS8Nv5IXmtVo3D9nf",
+        "title": "Pieter Levels shuts down Infinite Slop TV after 17.8M clip views",
+        "url": "https://www.indiehackers.com/post/tech/pieter-levels-shuts-down-infinite-slop-tv-after-17-8m-clip-views-Ql8zS8Nv5IXmtVo3D9nf",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 2,
+      "new": 2
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
