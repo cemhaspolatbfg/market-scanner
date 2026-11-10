@@ -1,0 +1,338 @@
+{
+  "scan_time": "2026-11-10T14:23:53.235020+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "product-hunt-mcp-2",
+        "name": "Product Hunt MCP",
+        "tagline": "The community you trust in the assistant you use",
+        "description": "Ask your AI assistant to find your next favorite product. Explore new launches, compare alternatives, and see what the Product Hunt community thinks. Building something yourself? Turn your README and website into a launch draft, add images, and check what's missing before you submit. Sign in with Product Hunt to connect. No API key needed.",
+        "votes": 428,
+        "ph_url": "https://www.producthunt.com/posts/product-hunt-mcp-2",
+        "website": "https://www.producthunt.com/r/ERQDTXX2HLG67G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "dageno-ai-2-0",
+        "name": "Dageno AI 2.0",
+        "tagline": "See why AI recommends your competitors instead of you",
+        "description": "AI is now choosing brands for your customers. Dageno AI is an AEO/GEO platform that shows whether ChatGPT, Gemini, Perplexity and 7 more AI models recommend you or your competitors, and which sources drive those answers. Look up any market for free, forever: see top brands, buyer questions and cited sources across 12,000+ niche markets and 3M+ brands. Upgrade only when you need to track your own prompts. Built for brands and agencies.",
+        "votes": 370,
+        "ph_url": "https://www.producthunt.com/posts/dageno-ai-2-0",
+        "website": "https://www.producthunt.com/r/ZUTLEQZYV5KE47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "SEO",
+          "Search"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "databox-cli",
+        "name": "Databox CLI",
+        "tagline": "Your agentic analytics platform in the terminal",
+        "description": "Create data sources, load data, build metrics, and automate workflows directly from your terminal. Use 90+ commands yourself, or let AI coding agents like Claude Code, Cursor, and Codex do the work with 10 ready-to-use agent skills.",
+        "votes": 296,
+        "ph_url": "https://www.producthunt.com/posts/databox-cli",
+        "website": "https://www.producthunt.com/r/BTKDEK3DQ7EK3M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "axl-27e6ef30-42b0-46a6-a379-a3fcb659e6dd",
+        "name": "AXL",
+        "tagline": "GTM copilot for AI product founders: 1,200+ actions via MCP",
+        "description": "Capture leads, close sales & onboard customers in one system: pages, quizzes, webinars, courses, video hosting & streaming, email, chat, CRM, telephony & AI calls. No integrations to build & maintain. Every interaction enriches each lead's history. Our AI model, trained on 1M deals from AXL users, scores leads using 300+ signals to help your AI & sales team decide who to follow up with, when & how. Give ChatGPT, Claude or Cursor access to lead context & 1,200+ sales & marketing actions via MCP.",
+        "votes": 287,
+        "ph_url": "https://www.producthunt.com/posts/axl-27e6ef30-42b0-46a6-a379-a3fcb659e6dd",
+        "website": "https://www.producthunt.com/r/I2M2MPP6UQVT6W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50428907",
+        "name": "Show HN: Every satellite that passed over any place this week, and its photos",
+        "url": "https://www.watched.earth",
+        "points": 410,
+        "comments": 77,
+        "hn_url": "https://news.ycombinator.com/item?id=50428907"
+      },
+      {
+        "id": "50427934",
+        "name": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+        "url": "",
+        "points": 115,
+        "comments": 43,
+        "hn_url": "https://news.ycombinator.com/item?id=50427934"
+      },
+      {
+        "id": "50429636",
+        "name": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+        "url": "https://meowdisplay.app/",
+        "points": 111,
+        "comments": 42,
+        "hn_url": "https://news.ycombinator.com/item?id=50429636"
+      },
+      {
+        "id": "50429812",
+        "name": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+        "url": "https://someonewashere.app/",
+        "points": 102,
+        "comments": 36,
+        "hn_url": "https://news.ycombinator.com/item?id=50429812"
+      },
+      {
+        "id": "50429144",
+        "name": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+        "url": "https://github.com/Dodaios/ste80-humanizer",
+        "points": 99,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=50429144"
+      },
+      {
+        "id": "50439000",
+        "name": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+        "url": "https://github.com/HolyArrs/HolyArrs",
+        "points": 64,
+        "comments": 42,
+        "hn_url": "https://news.ycombinator.com/item?id=50439000"
+      },
+      {
+        "id": "50429031",
+        "name": "Show HN: Write GitHub Actions in any language: Loopt",
+        "url": "https://github.com/preloopdev/loopt",
+        "points": 13,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50429031"
+      },
+      {
+        "id": "50431705",
+        "name": "Show HN: Airgap-check – find what your AI app silently downloads offline",
+        "url": "https://github.com/humanethq/airgap-check",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50431705"
+      },
+      {
+        "id": "50426593",
+        "name": "Show HN: My daily word puzzle Jointter revisited",
+        "url": "",
+        "points": 9,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50426593"
+      },
+      {
+        "id": "50432589",
+        "name": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+        "url": "https://app.nuancelabs.ai/try",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50432589"
+      },
+      {
+        "id": "50426990",
+        "name": "Show HN: One TUI to Manage MCP Servers for Claude Code and Codex",
+        "url": "https://toolshed.run",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50426990"
+      },
+      {
+        "id": "50426559",
+        "name": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
+        "url": "https://thrum.team/",
+        "points": 6,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50426559"
+      },
+      {
+        "id": "50432998",
+        "name": "Show HN: Vork – headless 3D and VFX engine for agents",
+        "url": "https://github.com/voyager-so/vork",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50432998"
+      },
+      {
+        "id": "50433154",
+        "name": "Show HN: Totle, daily math puzzle game; Saturday puzzles have the fewest answers",
+        "url": "https://playtotle.com/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50433154"
+      },
+      {
+        "id": "50429266",
+        "name": "Show HN: Rollare – Bracket maker with registration and live scoring",
+        "url": "https://rollare.com/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50429266"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/shapeweld",
+        "name": "Shapeweld",
+        "description": "Convert and view 3D files in the browser for free without an account",
+        "url": "https://betalist.com/startups/shapeweld"
+      },
+      {
+        "id": "/startups/structura",
+        "name": "Structura",
+        "description": "Publish 3 SEO-optimized blog posts a day, hands-off",
+        "url": "https://betalist.com/startups/structura"
+      },
+      {
+        "id": "/startups/demo-swap",
+        "name": "Demo Swap",
+        "description": "Swap demos with other companies to book more qualified meetings",
+        "url": "https://betalist.com/startups/demo-swap"
+      },
+      {
+        "id": "/startups/ai-concierge",
+        "name": "AI Concierge",
+        "description": "Book and manage your entire trip with better rates and more savings",
+        "url": "https://betalist.com/startups/ai-concierge"
+      },
+      {
+        "id": "/startups/neuraltrust",
+        "name": "NeuralTrust",
+        "description": "Secure and govern enterprise AI agents with real-time identity-aware guard",
+        "url": "https://betalist.com/startups/neuraltrust"
+      },
+      {
+        "id": "/startups/formsbystate",
+        "name": "FormsByState",
+        "description": "State-specific legal documents with prices shown before you start",
+        "url": "https://betalist.com/startups/formsbystate"
+      },
+      {
+        "id": "/startups/lora-video-ai",
+        "name": "Lora video AI",
+        "description": "Create consistent AI images and videos with custom LoRA workflows",
+        "url": "https://betalist.com/startups/lora-video-ai"
+      },
+      {
+        "id": "/startups/atomic-vpn",
+        "name": "Atomic VPN",
+        "description": "Browse privately with a fast, audited no-logs VPN in 88+ countries",
+        "url": "https://betalist.com/startups/atomic-vpn"
+      },
+      {
+        "id": "/startups/dogesms",
+        "name": "DogeSMS",
+        "description": "Receive SMS verification codes with numbers from 180+ countries",
+        "url": "https://betalist.com/startups/dogesms"
+      },
+      {
+        "id": "/startups/prettyup",
+        "name": "PrettyUp",
+        "description": "Edit face and body in photos and videos with AI-powered controls",
+        "url": "https://betalist.com/startups/prettyup"
+      },
+      {
+        "id": "/startups/cantia",
+        "name": "cantia",
+        "description": "A social home for music lovers to rate and review albums",
+        "url": "https://betalist.com/startups/cantia"
+      },
+      {
+        "id": "/startups/parroli",
+        "name": "Parroli",
+        "description": "Own physical gold, borrow without selling, and earn gold as you spend",
+        "url": "https://betalist.com/startups/parroli"
+      },
+      {
+        "id": "/startups/autovox",
+        "name": "Autovox",
+        "description": "TestFlight",
+        "url": "https://betalist.com/startups/autovox"
+      },
+      {
+        "id": "/startups/pitchmonster",
+        "name": "PitchMonster",
+        "description": "Practice sales calls with AI buyers and get instant coaching",
+        "url": "https://betalist.com/startups/pitchmonster"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/your-first-20-sign-ups-might-not-tell-you-whether-people-actually-want-your-product-1RUqDO4IHCS3mgO22ozK",
+        "title": "Your first 20 sign-ups might not tell you whether people actually want your product.",
+        "url": "https://www.indiehackers.com/post/your-first-20-sign-ups-might-not-tell-you-whether-people-actually-want-your-product-1RUqDO4IHCS3mgO22ozK",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/an-seo-audit-said-we-rank-for-0-keywords-search-console-said-thousands-of-impressions-turns-out-google-is-poisoning-rank-trackers-0qSq1Eqw8hzDLkAzhDlU",
+        "title": "An SEO audit said we rank for 0 keywords. Search Console said thousands of impressions. Turns out Google is poisoning rank trackers.",
+        "url": "https://www.indiehackers.com/post/an-seo-audit-said-we-rank-for-0-keywords-search-console-said-thousands-of-impressions-turns-out-google-is-poisoning-rank-trackers-0qSq1Eqw8hzDLkAzhDlU",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/adding-a-part-can-repaint-its-neighbour-preview-before-applying-or-apply-with-undo-dpX9UNiF2Vdyb9NdQIA0",
+        "title": "Adding a part can repaint its neighbour. Preview before applying, or apply with undo?",
+        "url": "https://www.indiehackers.com/post/adding-a-part-can-repaint-its-neighbour-preview-before-applying-or-apply-with-undo-dpX9UNiF2Vdyb9NdQIA0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/a-user-wrote-i-did-every-step-and-nothing-sends-my-dashboard-said-it-was-her-fault-my-logs-said-7-of-7-failed-because-of-me-zj80W5ufcNJfjIRZX7Y4",
+        "title": "A user wrote “I did every step and nothing sends.” My dashboard said it was her fault. My logs said 7 of 7 failed because of me.",
+        "url": "https://www.indiehackers.com/post/a-user-wrote-i-did-every-step-and-nothing-sends-my-dashboard-said-it-was-her-fault-my-logs-said-7-of-7-failed-because-of-me-zj80W5ufcNJfjIRZX7Y4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/a-gtm-startup-just-over-a-year-old-became-trustmrrs-first-1m-sale-UoBr2KJLNKSXL6Nqrg3Q",
+        "title": "A GTM startup just over a year old became TrustMRR's first $1M sale",
+        "url": "https://www.indiehackers.com/post/tech/a-gtm-startup-just-over-a-year-old-became-trustmrrs-first-1m-sale-UoBr2KJLNKSXL6Nqrg3Q",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/loom-bill-jumps-from-about-125-to-800-after-free-seats-go-paid-founder-says-mJZbdiM0Z3HbpJcq5iGu",
+        "title": "Loom bill jumps from about $125 to $800 after free seats go paid, founder says",
+        "url": "https://www.indiehackers.com/post/tech/loom-bill-jumps-from-about-125-to-800-after-free-seats-go-paid-founder-says-mJZbdiM0Z3HbpJcq5iGu",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/marc-lou-says-he-now-rejects-about-30-of-customers-at-mailcheap-kitDfWDG4RYWk0pz9fjt",
+        "title": "Marc Lou says he now rejects about 30% of customers at MailCheap",
+        "url": "https://www.indiehackers.com/post/tech/marc-lou-says-he-now-rejects-about-30-of-customers-at-mailcheap-kitDfWDG4RYWk0pz9fjt",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 4
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 14
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
