@@ -1,0 +1,295 @@
+{
+  "scan_time": "2026-11-11T13:37:24.126758+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "alsona",
+        "name": "Alsona",
+        "tagline": "AI agents that turn buying signals into booked sales calls",
+        "description": "95% of prospects aren't ready to buy when you reach out. Alsona finds the ones showing buying intent right now. It tracks 32+ signals across hiring, funding, tech changes, reviews, ad spend, and more, then scores companies against your ICP and explains why they're worth contacting. AI agents turn those signals into personalized LinkedIn and email outreach, helping you start conversations while the buying window is open. Alsona helps you book calls directly with the 5% who is ready to buy today.",
+        "votes": 471,
+        "ph_url": "https://www.producthunt.com/posts/alsona",
+        "website": "https://www.producthunt.com/r/6777NBXG6GHZDS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Sales",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "maxma-2",
+        "name": "Maxma",
+        "tagline": "The 24/7 AI teammate that scales your paid ad performance",
+        "description": "Maxma is the AI platform that 10Xs your human marketers. It does the end-to-end work of paid advertising, from analyzing performance, creating ads and landing pages, and launching and optimizing campaigns across channels, to managing tracking and reporting. Working like a teammate in Slack, on demand or proactively 24/7, it proposes changes for approval and drives measurable, incremental growth across Google, Meta, TikTok, LinkedIn, ChatGPT Ads, and more. So lean teams can grow without limits.",
+        "votes": 314,
+        "ph_url": "https://www.producthunt.com/posts/maxma-2",
+        "website": "https://www.producthunt.com/r/GQHET4C6E2F2ZS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Advertising",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50443812",
+        "name": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance",
+        "points": 396,
+        "comments": 129,
+        "hn_url": "https://news.ycombinator.com/item?id=50443812"
+      },
+      {
+        "id": "50441518",
+        "name": "Show HN: Valencia, Spain in Sim City/Isometric View",
+        "url": "https://tinyvalencia.com/",
+        "points": 235,
+        "comments": 56,
+        "hn_url": "https://news.ycombinator.com/item?id=50441518"
+      },
+      {
+        "id": "50449891",
+        "name": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+        "url": "https://github.com/adrbn/bo2-mac",
+        "points": 59,
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=50449891"
+      },
+      {
+        "id": "50441350",
+        "name": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+        "url": "https://aircad.com",
+        "points": 38,
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=50441350"
+      },
+      {
+        "id": "50444761",
+        "name": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+        "url": "https://github.com/0xdeadf1sh/T1DMAI",
+        "points": 19,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50444761"
+      },
+      {
+        "id": "50442257",
+        "name": "Show HN: Y Recombinator – The HN threads HN keeps recommending",
+        "url": "https://yrecombinator.org/",
+        "points": 11,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50442257"
+      },
+      {
+        "id": "50443596",
+        "name": "Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint",
+        "url": "https://github.com/wolveflake/wolvekafka",
+        "points": 11,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50443596"
+      },
+      {
+        "id": "50449232",
+        "name": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+        "url": "https://taipeiledger.com/gpu/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50449232"
+      },
+      {
+        "id": "50444276",
+        "name": "Show HN: TheoremSmith: Mass-Producing Hard Proof Problems to Train LLMs",
+        "url": "https://charleshuang.me/2026/09/27/theoremsmith/",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50444276"
+      },
+      {
+        "id": "50446649",
+        "name": "Show HN: AI agents that barter your stuff for things you want",
+        "url": "https://barterpilot.com/",
+        "points": 7,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50446649"
+      },
+      {
+        "id": "50444909",
+        "name": "Show HN: WallHang – Plan a gallery wall and get exact nail positions (iOS)",
+        "url": "https://wallhang.app",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50444909"
+      },
+      {
+        "id": "50442255",
+        "name": "Show HN: We built a way to remove inherited biases from decision models",
+        "url": "https://www.hirundo.io/blog/decision-models-inherit-their-base-models-risks-hirundo-fixes-them",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50442255"
+      },
+      {
+        "id": "50448283",
+        "name": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+        "url": "https://mimzie.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50448283"
+      },
+      {
+        "id": "50444913",
+        "name": "Show HN: Umless, open-source on-device dictation that writes what you meant",
+        "url": "https://github.com/jatinbishla/Umless",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50444913"
+      },
+      {
+        "id": "50441765",
+        "name": "Show HN: Mantis – Faster browser interaction than Playwright MCP",
+        "url": "https://github.com/perzianhq/mantis/blob/main/README.md",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50441765"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/sheets-bootcamp",
+        "name": "Sheets Bootcamp",
+        "description": "Master Google Sheets with interactive lessons that check your formulas",
+        "url": "https://betalist.com/startups/sheets-bootcamp"
+      },
+      {
+        "id": "/startups/domiq",
+        "name": "Domiq",
+        "description": "Tasks, shifts and expenses for families who employ household staff",
+        "url": "https://betalist.com/startups/domiq"
+      },
+      {
+        "id": "/startups/kilter",
+        "name": "Kilter",
+        "description": "News grouped by story with AI summaries and counterpoints",
+        "url": "https://betalist.com/startups/kilter"
+      },
+      {
+        "id": "/startups/bfriendz",
+        "name": "Bfriendz",
+        "description": "Meet nearby friends by posting plans",
+        "url": "https://betalist.com/startups/bfriendz"
+      },
+      {
+        "id": "/startups/zlogin-antidetect-browser",
+        "name": "ZLogin Antidetect Browser",
+        "description": "Antidetect browser for safe multi-account management",
+        "url": "https://betalist.com/startups/zlogin-antidetect-browser"
+      },
+      {
+        "id": "/startups/each-place",
+        "name": "each.place",
+        "description": "Explore any U.S. neighborhood on schools, safety, and more",
+        "url": "https://betalist.com/startups/each-place"
+      },
+      {
+        "id": "/startups/muzos",
+        "name": "Muzos",
+        "description": "Track albums, discover new music, and support artists you love",
+        "url": "https://betalist.com/startups/muzos"
+      },
+      {
+        "id": "/startups/meeteta",
+        "name": "MeetETA",
+        "description": "Plan across time zones without the mental math",
+        "url": "https://betalist.com/startups/meeteta"
+      },
+      {
+        "id": "/startups/bharat-software-solutions",
+        "name": "Bharat Software Solutions",
+        "description": "Run transport and logistics operations end-to-end with AI-powered TMS",
+        "url": "https://betalist.com/startups/bharat-software-solutions"
+      },
+      {
+        "id": "/startups/remotesup",
+        "name": "RemoteSup",
+        "description": "Secure remote support for PCs, phones, and smart glasses",
+        "url": "https://betalist.com/startups/remotesup"
+      },
+      {
+        "id": "/startups/auromone-curve",
+        "name": "Auromone Curve",
+        "description": "A wristband designed to read your cortisol from sweat all day",
+        "url": "https://betalist.com/startups/auromone-curve"
+      },
+      {
+        "id": "/startups/whacka",
+        "name": "Whacka",
+        "description": "AI app builder: describe your app in any language, get a real working app",
+        "url": "https://betalist.com/startups/whacka"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-posted-every-weekday-since-august-heres-what-actually-drove-installs-SI1OvVb3Kkf6vBuBcXg5",
+        "title": "I posted every weekday since August. Here's what actually drove installs.",
+        "url": "https://www.indiehackers.com/post/i-posted-every-weekday-since-august-heres-what-actually-drove-installs-SI1OvVb3Kkf6vBuBcXg5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-reddit-chart-got-153k-views-and-sent-about-5-visitors-what-i-learned-in-month-one-of-a-data-site-P710WeoMTtA2pEiINKtu",
+        "title": "My Reddit chart got 153k views and sent about 5 visitors. What I learned in month one of a data site",
+        "url": "https://www.indiehackers.com/post/my-reddit-chart-got-153k-views-and-sent-about-5-visitors-what-i-learned-in-month-one-of-a-data-site-P710WeoMTtA2pEiINKtu",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/you-built-it-but-how-do-you-get-people-to-use-it-eiVUxm8sscxSgiPBLUwy",
+        "title": "You built it... but how do you get people to use it?",
+        "url": "https://www.indiehackers.com/post/you-built-it-but-how-do-you-get-people-to-use-it-eiVUxm8sscxSgiPBLUwy",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/openai-now-shows-businesses-how-often-chatgpt-mentions-them-ZRZuldm8fdNvkBFfyfLT",
+        "title": "OpenAI now shows businesses how often ChatGPT mentions them",
+        "url": "https://www.indiehackers.com/post/tech/openai-now-shows-businesses-how-often-chatgpt-mentions-them-ZRZuldm8fdNvkBFfyfLT",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/marc-lous-hackathon-will-pay-100k-to-one-new-startup-on-the-basis-of-profit-02lnfVSCuMAeTt6jkv2d",
+        "title": "Marc Lou's hackathon will pay $100K to the startup with the most profit after 30 days",
+        "url": "https://www.indiehackers.com/post/tech/marc-lous-hackathon-will-pay-100k-to-one-new-startup-on-the-basis-of-profit-02lnfVSCuMAeTt6jkv2d",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/anthropic-says-fable-5-2-nears-opus-on-a-coding-test-for-about-half-the-cost-dP0IUrTAlVN3t6iy1sMV",
+        "title": "Anthropic says Fable 5.2 nears Opus on a coding test for about half the cost",
+        "url": "https://www.indiehackers.com/post/tech/anthropic-says-fable-5-2-nears-opus-on-a-coding-test-for-about-half-the-cost-dP0IUrTAlVN3t6iy1sMV",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/boat-jumped-from-200k-to-1m-arr-in-a-month-after-16-months-to-reach-10k-yrV29F3ZpaBm5uvOAE3T",
+        "title": "Boat jumped from $200k to $1M ARR in a month, after 16 months to reach $10k",
+        "url": "https://www.indiehackers.com/post/tech/boat-jumped-from-200k-to-1m-arr-in-a-month-after-16-months-to-reach-10k-yrV29F3ZpaBm5uvOAE3T",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 12
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
