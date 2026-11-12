@@ -1,0 +1,307 @@
+{
+  "scan_time": "2026-11-12T14:41:08.177141+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "scroogefrog-ai",
+        "name": "ScroogeFrog AI ",
+        "tagline": "AI ad fraud detection that protects your marketing budget ",
+        "description": "ScroogeFrog AI helps advertisers find out where their ad budget is going to waste. It audits website traffic and Google Ads campaigns to uncover suspicious clicks, bot activity, and underperforming spend, then turns complex data into clear recommendations on what to fix. For agencies and larger advertisers, it also offers custom AI fraud detection models trained on their own traffic data. Less guesswork, more control over every advertising dollar.",
+        "votes": 300,
+        "ph_url": "https://www.producthunt.com/posts/scroogefrog-ai",
+        "website": "https://www.producthunt.com/r/XOB5A3DWYCGOGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Advertising",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "nod-by-n8n",
+        "name": "Nod by n8n",
+        "tagline": "Open source personal agent with its own computer",
+        "description": "Nod does the work around your work, in your apps and on real websites, using a private computer of its own on your Mac or PC. It takes orders only from you, asks before anything you didn't ask for, and runs on the AI provider you choose. Free, Apache 2.0.",
+        "votes": 292,
+        "ph_url": "https://www.producthunt.com/posts/nod-by-n8n",
+        "website": "https://www.producthunt.com/r/BVJTK5BATUSE7H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Artificial Intelligence",
+          "Virtual Assistants"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50454625",
+        "name": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+        "url": "https://github.com/FrigadeHQ/yogurt",
+        "points": 269,
+        "comments": 100,
+        "hn_url": "https://news.ycombinator.com/item?id=50454625"
+      },
+      {
+        "id": "50457230",
+        "name": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+        "url": "https://termsheetplease.com/",
+        "points": 231,
+        "comments": 90,
+        "hn_url": "https://news.ycombinator.com/item?id=50457230"
+      },
+      {
+        "id": "50454951",
+        "name": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+        "url": "https://github.com/klad-app/klad",
+        "points": 80,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=50454951"
+      },
+      {
+        "id": "50461743",
+        "name": "Show HN: Litek8s – Kubernetes API in one Rust binary, 23 MiB idle",
+        "url": "https://litek8s.dev/",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50461743"
+      },
+      {
+        "id": "50462469",
+        "name": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+        "url": "https://github.com/DaleFranks/ramasite",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50462469"
+      },
+      {
+        "id": "50463281",
+        "name": "Show HN: DeepSeek-Coder-V2-Lite Under 5GB: 65 TPS 100% In-VRAM on 6GB GPU",
+        "url": "https://huggingface.co/AmSach/DeepSeek-Coder-V2-Lite-Instruct-MAPLE-Sub5GB-GGUF",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50463281"
+      },
+      {
+        "id": "50455680",
+        "name": "Show HN: Web Crawl Platformer Game",
+        "url": "https://game.commoncrawl.org/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50455680"
+      },
+      {
+        "id": "50454221",
+        "name": "Show HN: Perch by mxRaven, a self-hosted mailbox and CLI in 1 file",
+        "url": "https://perch.mxraven.com",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50454221"
+      },
+      {
+        "id": "50465987",
+        "name": "Show HN: Hijacking Samsung TV SmartHub Ads",
+        "url": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50465987"
+      },
+      {
+        "id": "50464583",
+        "name": "Show HN: Taster – Plain-English rules your agent can't forget or ignore",
+        "url": "https://github.com/rinkesh2010rpp/taster-ai",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50464583"
+      },
+      {
+        "id": "50457264",
+        "name": "Show HN: Thread Police eliminates stray replies in Slack channels with Jev",
+        "url": "https://github.com/seanparkross/slack-thread-police",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50457264"
+      },
+      {
+        "id": "50457024",
+        "name": "Show HN: Spared – self-hosted Workers and Durable Objects for Rust apps",
+        "url": "https://github.com/michaelmagan/spared",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50457024"
+      },
+      {
+        "id": "50464501",
+        "name": "Show HN: Tmv – File sorting utility written in Bash",
+        "url": "https://github.com/SamerKolasevic29/tmv",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50464501"
+      },
+      {
+        "id": "50464616",
+        "name": "Show HN: MFlare – Cloudflare usage and deploy status in the macOS menu bar",
+        "url": "https://mflare.yuy1n.io/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50464616"
+      },
+      {
+        "id": "50463688",
+        "name": "Show HN: Open-Source Audit of 1.58M Harvard Orbits and Vera Rubin Predictions",
+        "url": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50463688"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/promu",
+        "name": "Promu",
+        "description": "AI lead generation and cold email outreach for B2B teams",
+        "url": "https://betalist.com/startups/promu"
+      },
+      {
+        "id": "/startups/retentiongap",
+        "name": "RetentionGap",
+        "description": "Free Klaviyo audit showing DTC brands revenue their flows miss",
+        "url": "https://betalist.com/startups/retentiongap"
+      },
+      {
+        "id": "/startups/tabtotaler",
+        "name": "TabTotaler",
+        "description": "Track real pours with ABV, calories, sessions, and BAC estimates",
+        "url": "https://betalist.com/startups/tabtotaler"
+      },
+      {
+        "id": "/startups/starty",
+        "name": "Starty",
+        "description": "Everything after the idea",
+        "url": "https://betalist.com/startups/starty"
+      },
+      {
+        "id": "/startups/competly",
+        "name": "Competly",
+        "description": "Track competitor prices across storefronts with precise product matching",
+        "url": "https://betalist.com/startups/competly"
+      },
+      {
+        "id": "/startups/auspex-terminal",
+        "name": "Auspex Terminal",
+        "description": "Advanced trading terminal for prediction market traders and institutions",
+        "url": "https://betalist.com/startups/auspex-terminal"
+      },
+      {
+        "id": "/startups/dove",
+        "name": "Dove",
+        "description": "AI email app that sorts your inbox and shows what you need each day",
+        "url": "https://betalist.com/startups/dove"
+      },
+      {
+        "id": "/startups/vironix-ai",
+        "name": "Vironix AI",
+        "description": "Score your video, fix weaknesses, and auto-schedule posts",
+        "url": "https://betalist.com/startups/vironix-ai"
+      },
+      {
+        "id": "/startups/pixelwright",
+        "name": "Pixelwright",
+        "description": "A pixel-art studio for game art where your own AI can draw with you",
+        "url": "https://betalist.com/startups/pixelwright"
+      },
+      {
+        "id": "/startups/christian-jobs-list",
+        "name": "Christian Jobs List",
+        "description": "Fresh Christian job openings at churches, schools, and nonprofits daily",
+        "url": "https://betalist.com/startups/christian-jobs-list"
+      },
+      {
+        "id": "/startups/foliopress",
+        "name": "FolioPress",
+        "description": "A website and blog builder with separate URLs for each language",
+        "url": "https://betalist.com/startups/foliopress"
+      },
+      {
+        "id": "/startups/intrawebix-crm",
+        "name": "Intrawebix CRM",
+        "description": "One inbox for WhatsApp, Telegram, Instagram, email, and sales CRM",
+        "url": "https://betalist.com/startups/intrawebix-crm"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/my-small-tool-site-went-from-48-to-166-google-clicks-in-28-days-heres-what-i-actually-changed-AEh4kTIZ4D5zwAt9XYPC",
+        "title": "My small tool site went from 48 to 166 Google clicks in 28 days. Here's what I actually changed",
+        "url": "https://www.indiehackers.com/post/my-small-tool-site-went-from-48-to-166-google-clicks-in-28-days-heres-what-i-actually-changed-AEh4kTIZ4D5zwAt9XYPC",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/which-launch-sites-have-you-actually-combined-and-in-what-order-dKN2sB0JikUlgP679kAg",
+        "title": "Which launch sites have you actually combined, and in what order?",
+        "url": "https://www.indiehackers.com/post/which-launch-sites-have-you-actually-combined-and-in-what-order-dKN2sB0JikUlgP679kAg",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-are-you-hard-capping-ai-agent-spend-before-a-retry-loop-burns-your-budget-nW8IMnEYXWQfi3YPO4l6",
+        "title": "How are you hard-capping AI agent spend before a retry loop burns your budget?",
+        "url": "https://www.indiehackers.com/post/how-are-you-hard-capping-ai-agent-spend-before-a-retry-loop-burns-your-budget-nW8IMnEYXWQfi3YPO4l6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/nobody-switches-tools-on-a-calm-tuesday-zNS64apmuO3WK5eBgVlg",
+        "title": "Nobody switches tools on a calm Tuesday",
+        "url": "https://www.indiehackers.com/post/nobody-switches-tools-on-a-calm-tuesday-zNS64apmuO3WK5eBgVlg",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/3-months-3-000-spent-400-earned-what-our-aliexpress-price-checker-taught-us-LJ1UUld8zZ2tzcmodY8t",
+        "title": "3 months, $3,000+ spent, $400 earned: what our AliExpress price checker taught us",
+        "url": "https://www.indiehackers.com/post/3-months-3-000-spent-400-earned-what-our-aliexpress-price-checker-taught-us-LJ1UUld8zZ2tzcmodY8t",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/google-will-double-gemini-4-carbon-and-argon-api-prices-on-december-1-VxfhC3TfBvf80kKrf5dI",
+        "title": "Google will double Gemini 4 Carbon and Argon API prices on December 1",
+        "url": "https://www.indiehackers.com/post/tech/google-will-double-gemini-4-carbon-and-argon-api-prices-on-december-1-VxfhC3TfBvf80kKrf5dI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/marc-lou-makes-his-100k-hackathon-free-and-hours-later-700-have-signed-up-mhRFHWV3mepKbUa8Cex2",
+        "title": "Marc Lou makes his $100K hackathon free, and hours later 700 have signed up",
+        "url": "https://www.indiehackers.com/post/tech/marc-lou-makes-his-100k-hackathon-free-and-hours-later-700-have-signed-up-mhRFHWV3mepKbUa8Cex2",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/anthropic-gives-claude-subscribers-a-full-usage-reset-after-limit-issues-SEySXdRlLVK6y9tdIJHt",
+        "title": "Anthropic gives Claude subscribers a full usage reset after limit issues",
+        "url": "https://www.indiehackers.com/post/tech/anthropic-gives-claude-subscribers-a-full-usage-reset-after-limit-issues-SEySXdRlLVK6y9tdIJHt",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/stripe-now-owns-openrouter-whose-token-volume-is-up-about-125-since-august-NS7l20uqMBg2qt6D4Khg",
+        "title": "Stripe now owns OpenRouter, whose token volume is up about 125% since August",
+        "url": "https://www.indiehackers.com/post/tech/stripe-now-owns-openrouter-whose-token-volume-is-up-about-125-since-august-NS7l20uqMBg2qt6D4Khg",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 12
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 9
+    }
+  }
+}
