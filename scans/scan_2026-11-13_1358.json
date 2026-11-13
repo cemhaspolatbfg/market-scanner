@@ -1,0 +1,313 @@
+{
+  "scan_time": "2026-11-13T13:58:23.263074+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "plurai-simulation",
+        "name": "Plurai Simulation",
+        "tagline": "A simulated world that makes your agent improve on every run",
+        "description": "Find your agent’s worst bugs before your users do. One command in Claude Code, Codex or GitHub Copilot builds a digital twin of your agent’s world: synthetic personas and documents, plus mocked tools, APIs and databases, in sandboxes that never touch production.",
+        "votes": 399,
+        "ph_url": "https://www.producthunt.com/posts/plurai-simulation",
+        "website": "https://www.producthunt.com/r/ZBKQ4BKXEJCORU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "youart-desktop-app",
+        "name": "YouArt Desktop App",
+        "tagline": "Codex for creative team",
+        "description": "Meet YouArt Desktop App: AI creative teammate that lives on your computer. Agent-first video production is here. Pull your local files and context from Slack, Gmail and GitHub onto one canvas, and with computer use it operates After Effects, CapCut and Blender directly. From feature launch videos to viral remakes and clips from your long videos, it takes the whole job end to end. Bring your own API keys, and smart routing sends every shot to the cheapest provider.",
+        "votes": 343,
+        "ph_url": "https://www.producthunt.com/posts/youart-desktop-app",
+        "website": "https://www.producthunt.com/r/5TX6YWUYYRHQUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50470488",
+        "name": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+        "url": "https://github.com/simpsoka/zigzag",
+        "points": 603,
+        "comments": 203,
+        "hn_url": "https://news.ycombinator.com/item?id=50470488"
+      },
+      {
+        "id": "50471650",
+        "name": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+        "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+        "points": 120,
+        "comments": 29,
+        "hn_url": "https://news.ycombinator.com/item?id=50471650"
+      },
+      {
+        "id": "50469007",
+        "name": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+        "url": "https://fable52.games",
+        "points": 69,
+        "comments": 58,
+        "hn_url": "https://news.ycombinator.com/item?id=50469007"
+      },
+      {
+        "id": "50471281",
+        "name": "Show HN: Kapso – Iterative learning from enterprise data",
+        "url": "",
+        "points": 51,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=50471281"
+      },
+      {
+        "id": "50470343",
+        "name": "Show HN: Apron Chat Protocol",
+        "url": "https://apron.chat/",
+        "points": 48,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50470343"
+      },
+      {
+        "id": "50467880",
+        "name": "Show HN: AI Red Lines – write down what would make you act on AI",
+        "url": "https://yourairedlines.com",
+        "points": 37,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=50467880"
+      },
+      {
+        "id": "50474586",
+        "name": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+        "url": "https://github.com/KoljaB/RealtimeVAD",
+        "points": 27,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50474586"
+      },
+      {
+        "id": "50469123",
+        "name": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
+        "url": "https://getvale.org",
+        "points": 13,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50469123"
+      },
+      {
+        "id": "50468901",
+        "name": "Show HN: I built a calendar app that gives each event its own to-do list",
+        "url": "https://apps.apple.com/ph/app/daily-planner-tasks-zesfy/id6479947874",
+        "points": 13,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50468901"
+      },
+      {
+        "id": "50477993",
+        "name": "Show HN: I built a Rick and Morty explainer video generator",
+        "url": "https://usediorama.com/rick-and-morty",
+        "points": 12,
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=50477993"
+      },
+      {
+        "id": "50474106",
+        "name": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+        "url": "https://github.com/cerulion-inc/cerulion",
+        "points": 12,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50474106"
+      },
+      {
+        "id": "50478543",
+        "name": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+        "url": "https://github.com/pharma2a/pharma2a",
+        "points": 11,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50478543"
+      },
+      {
+        "id": "50468121",
+        "name": "Show HN: Turri – a coding agent with the power of regenerative software",
+        "url": "https://github.com/turri-oss/turri",
+        "points": 9,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=50468121"
+      },
+      {
+        "id": "50472560",
+        "name": "Show HN: DRS-VPT. Localize a photo in a 3D point cloud without an initial pose",
+        "url": "https://github.com/ori-drs/drs-vpt",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50472560"
+      },
+      {
+        "id": "50471267",
+        "name": "Show HN: Jigwise, free jigsaw puzzles in the browser",
+        "url": "https://jigwise.com",
+        "points": 8,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50471267"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/dataminimal",
+        "name": "DataMinimal",
+        "description": "Data broker removal and privacy cleanup in one place",
+        "url": "https://betalist.com/startups/dataminimal"
+      },
+      {
+        "id": "/startups/verity-nhd",
+        "name": "Verity NHD",
+        "description": "Generate compliant California NHD reports in 60 seconds with eSign",
+        "url": "https://betalist.com/startups/verity-nhd"
+      },
+      {
+        "id": "/startups/clipzy",
+        "name": "Clipzy",
+        "description": "Turn an idea into a ready-to-edit vertical video in about a minute",
+        "url": "https://betalist.com/startups/clipzy"
+      },
+      {
+        "id": "/startups/comik-ai",
+        "name": "Comik AI",
+        "description": "Create anime images, comics, and motion comics with reusable characters",
+        "url": "https://betalist.com/startups/comik-ai"
+      },
+      {
+        "id": "/startups/refract",
+        "name": "Refract",
+        "description": "Social media scheduler that writes a native version of a post per network",
+        "url": "https://betalist.com/startups/refract"
+      },
+      {
+        "id": "/startups/linkedembed",
+        "name": "LinkedInEmbed",
+        "description": "Embed LinkedIn feeds, profiles, pages, and jobs on your website",
+        "url": "https://betalist.com/startups/linkedembed"
+      },
+      {
+        "id": "/startups/musicraft-ai",
+        "name": "MusiCraft AI",
+        "description": "All-in-one music and audio tools in one workspace",
+        "url": "https://betalist.com/startups/musicraft-ai"
+      },
+      {
+        "id": "/startups/helvejobs",
+        "name": "HelveJobs",
+        "description": "Swiss job listings collected daily from employers' career pages",
+        "url": "https://betalist.com/startups/helvejobs"
+      },
+      {
+        "id": "/startups/tapestry-prm",
+        "name": "Tapestry PRM",
+        "description": "Remember the people you know and reconnect with useful context",
+        "url": "https://betalist.com/startups/tapestry-prm"
+      },
+      {
+        "id": "/startups/canopyastro",
+        "name": "Canopy",
+        "description": "Read your day and chart with classical Arabian astrology",
+        "url": "https://betalist.com/startups/canopyastro"
+      },
+      {
+        "id": "/startups/wilo",
+        "name": "Wilo",
+        "description": "AI clerk that helps shoppers find, compare, and choose products",
+        "url": "https://betalist.com/startups/wilo"
+      },
+      {
+        "id": "/startups/taupia",
+        "name": "Taupia",
+        "description": "Track, compare, and switch UK household bills from one app",
+        "url": "https://betalist.com/startups/taupia"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/we-just-launched-cardboard-for-mac-and-you-can-edit-videos-on-it-for-free-ZLNXcvg09B6JyBfqln6X",
+        "title": "We just launched Cardboard for Mac (and you can edit videos on it for free)",
+        "url": "https://www.indiehackers.com/post/we-just-launched-cardboard-for-mac-and-you-can-edit-videos-on-it-for-free-ZLNXcvg09B6JyBfqln6X",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/when-a-waitlist-signup-asks-how-much-will-it-cost-i-d-answer-with-a-real-number-the-same-day-even-if-it-changes-later-IwbKVqo6y8J7AnUZUzom",
+        "title": "When a waitlist signup asks \"how much will it cost?\", I'd answer with a real number the same day, even if it changes later",
+        "url": "https://www.indiehackers.com/post/when-a-waitlist-signup-asks-how-much-will-it-cost-i-d-answer-with-a-real-number-the-same-day-even-if-it-changes-later-IwbKVqo6y8J7AnUZUzom",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-hardest-part-of-building-wasnt-building-it-was-stopping-qSJSH5Xx7MVDMNfPQcnY",
+        "title": "The hardest part of building wasn't building. It was stopping.",
+        "url": "https://www.indiehackers.com/post/the-hardest-part-of-building-wasnt-building-it-was-stopping-qSJSH5Xx7MVDMNfPQcnY",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/two-prelaunch-products-one-week-0-sign-ups-mAtzfhbBkIK1YLF1e9X3",
+        "title": "Two prelaunch products, one week, 0 sign-ups",
+        "url": "https://www.indiehackers.com/post/two-prelaunch-products-one-week-0-sign-ups-mAtzfhbBkIK1YLF1e9X3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-small-invoice-follow-up-app-for-solo-freelancers-looking-for-honest-feedback-not-a-victory-lap-oP4UssvBCJEqsDllev1H",
+        "title": "I built a small invoice follow-up app for solo freelancers. Looking for honest feedback, not a victory lap",
+        "url": "https://www.indiehackers.com/post/i-built-a-small-invoice-follow-up-app-for-solo-freelancers-looking-for-honest-feedback-not-a-victory-lap-oP4UssvBCJEqsDllev1H",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-welcome-dms-went-from-88-delivered-to-98-in-a-week-then-i-checked-who-was-sending-them-mxgklGKY3etDKF29SuE1",
+        "title": "My welcome DMs went from 88% delivered to 98% in a week. Then I checked who was sending them.",
+        "url": "https://www.indiehackers.com/post/my-welcome-dms-went-from-88-delivered-to-98-in-a-week-then-i-checked-who-was-sending-them-mxgklGKY3etDKF29SuE1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/tyler-denk-says-an-ai-agent-helped-him-make-500k-from-his-newsletter-this-year-aY3yZCTDt71GzGdbgmro",
+        "title": "Tyler Denk says an AI agent helped him make $500K from his newsletter this year",
+        "url": "https://www.indiehackers.com/post/tech/tyler-denk-says-an-ai-agent-helped-him-make-500k-from-his-newsletter-this-year-aY3yZCTDt71GzGdbgmro",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/marc-lous-agent-built-an-iphone-app-in-4-hours-apple-s-review-took-336-hours-Qmc7bI6d5b3zdRuopvQ3",
+        "title": "Marc Lou's agent built an iPhone app in 4 hours. Apple's review took 336 hours",
+        "url": "https://www.indiehackers.com/post/tech/marc-lous-agent-built-an-iphone-app-in-4-hours-apple-s-review-took-336-hours-Qmc7bI6d5b3zdRuopvQ3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/pieter-levels-ships-video-to-3d-in-interior-ai-three-hours-after-his-demo-EQSz8p9a14J6SiCtLP5k",
+        "title": "Pieter Levels ships video-to-3D in Interior AI three hours after his demo",
+        "url": "https://www.indiehackers.com/post/tech/pieter-levels-ships-video-to-3d-in-interior-ai-three-hours-after-his-demo-EQSz8p9a14J6SiCtLP5k",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/anthropics-ipo-filing-shows-17-billion-in-quarterly-revenue-up-over-12x-ZbwGoAzkYaBPSsuOj7F0",
+        "title": "Anthropic's IPO filing shows $17 billion in quarterly revenue, up over 12x",
+        "url": "https://www.indiehackers.com/post/tech/anthropics-ipo-filing-shows-17-billion-in-quarterly-revenue-up-over-12x-ZbwGoAzkYaBPSsuOj7F0",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 12
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 10
+    }
+  }
+}
