@@ -1,0 +1,292 @@
+{
+  "scan_time": "2026-11-14T12:59:58.468800+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "templify-ai-2",
+        "name": "Templify AI",
+        "tagline": "Powerful content editor for people who aren’t editors",
+        "description": "Templify is an all-in-one video, photo, and carousel editor for iPhone. With 1,200+ designer templates, it turns clips and photos into Reels, TikToks, YouTube Shorts, and collages in minutes, no timeline needed. Features include AI video editing, beat-synced transitions, auto captions, background removal, filters, and an AI Studio. Free to use, with an optional Pro subscription.",
+        "votes": 374,
+        "ph_url": "https://www.producthunt.com/posts/templify-ai-2",
+        "website": "https://www.producthunt.com/r/T53GXHFXDGAANJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Photography",
+          "Photo & Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50487228",
+        "name": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+        "url": "https://isometricsf.com/",
+        "points": 222,
+        "comments": 71,
+        "hn_url": "https://news.ycombinator.com/item?id=50487228"
+      },
+      {
+        "id": "50491545",
+        "name": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+        "url": "https://grounds.top/",
+        "points": 165,
+        "comments": 22,
+        "hn_url": "https://news.ycombinator.com/item?id=50491545"
+      },
+      {
+        "id": "50484579",
+        "name": "Show HN: Hexalexagons, a daily word game on a hexagonal grid",
+        "url": "https://hexalexagons.com/",
+        "points": 19,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=50484579"
+      },
+      {
+        "id": "50492269",
+        "name": "Show HN: Light control for MacBook charger status light (open-source)",
+        "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
+        "points": 16,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=50492269"
+      },
+      {
+        "id": "50484682",
+        "name": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+        "url": "https://github.com/langfuse/langfuse/tree/main/ai-gateway",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50484682"
+      },
+      {
+        "id": "50484737",
+        "name": "Show HN: Cal.flare – cal.diy ported to Cloudflare Workers",
+        "url": "https://github.com/ralphbibera/cal.flare",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50484737"
+      },
+      {
+        "id": "50493213",
+        "name": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+        "url": "https://opencyclone.vercel.app/",
+        "points": 7,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50493213"
+      },
+      {
+        "id": "50491021",
+        "name": "Show HN: NETWAR – hacker MMO with 15-second card duels on a shared hex map",
+        "url": "https://play-netwar.com/?from=hn",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50491021"
+      },
+      {
+        "id": "50495073",
+        "name": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+        "url": "https://gammapdf.com/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50495073"
+      },
+      {
+        "id": "50492268",
+        "name": "Show HN: Xdoc – High-fidelity Offline PPTX viewer and pdf converter",
+        "url": "https://structurify.io/en/playground/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50492268"
+      },
+      {
+        "id": "50484443",
+        "name": "Show HN: Harness Tuner – eval-driven tuning loop for agent tools, prompts, model",
+        "url": "https://github.com/Kiln-AI/harness-tuner",
+        "points": 5,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50484443"
+      },
+      {
+        "id": "50488733",
+        "name": "Show HN: College Basketball Stats and Predictions",
+        "url": "https://fijimf.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50488733"
+      },
+      {
+        "id": "50494144",
+        "name": "Show HN: EDNA – 100% on-device human sensing so AI can perceive the user",
+        "url": "https://openos.space",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50494144"
+      },
+      {
+        "id": "50492532",
+        "name": "Show HN: RemoteKu – Desktop Roku remote and live ECP keyboard deck for Mac/PC",
+        "url": "https://github.com/KevinOBytes/remoteku",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50492532"
+      },
+      {
+        "id": "50494578",
+        "name": "Show HN: Free Dictionary API – Wiktionary data, no API key required",
+        "url": "https://api.suvankar.cc/docs/dictionary",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50494578"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/onpath",
+        "name": "onpath",
+        "description": "Design, align, and track your strategy on one living canvas",
+        "url": "https://betalist.com/startups/onpath"
+      },
+      {
+        "id": "/startups/albertcode-swe",
+        "name": "AlbertCode SWE",
+        "description": "AI coding agent that builds and tests code with your chosen model",
+        "url": "https://betalist.com/startups/albertcode-swe"
+      },
+      {
+        "id": "/startups/tutaris",
+        "name": "Tutaris",
+        "description": "Connects agenda, finances, and routines to suggest your next step",
+        "url": "https://betalist.com/startups/tutaris"
+      },
+      {
+        "id": "/startups/overduenudge",
+        "name": "OverdueNudge",
+        "description": "Writes polite-to-firm reminder emails for overdue freelance invoices",
+        "url": "https://betalist.com/startups/overduenudge"
+      },
+      {
+        "id": "/startups/timedora",
+        "name": "Timedora",
+        "description": "Turn class notes into quizzes, flashcards, guides, and podcasts",
+        "url": "https://betalist.com/startups/timedora"
+      },
+      {
+        "id": "/startups/linehq",
+        "name": "LineHQ",
+        "description": "TestFlight",
+        "url": "https://betalist.com/startups/linehq"
+      },
+      {
+        "id": "/startups/business-ai-finder",
+        "name": "Business AI Finder",
+        "description": "Track AI tool prices for small businesses with sourced price histories",
+        "url": "https://betalist.com/startups/business-ai-finder"
+      },
+      {
+        "id": "/startups/gpt-plus-recharge",
+        "name": "GPT Plus Recharge",
+        "description": "ChatGPT Plus and Pro top-up on your account with 30-day warranty",
+        "url": "https://betalist.com/startups/gpt-plus-recharge"
+      },
+      {
+        "id": "/startups/approved-life-coach",
+        "name": "Approved Life Coach",
+        "description": "Manage your coaching practice in one calm, professional workspace",
+        "url": "https://betalist.com/startups/approved-life-coach"
+      },
+      {
+        "id": "/startups/commune-2",
+        "name": "Commune",
+        "description": "A shared home for builders to launch, connect, and grow",
+        "url": "https://betalist.com/startups/commune-2"
+      },
+      {
+        "id": "/startups/tryterrapin",
+        "name": "Terrapin",
+        "description": "Turn receipts, email & photos into clean, tax-ready insights, automatically",
+        "url": "https://betalist.com/startups/tryterrapin"
+      },
+      {
+        "id": "/startups/rivocard",
+        "name": "Rivocard",
+        "description": "Create crypto-funded virtual Visa and Mastercard cards for online payments",
+        "url": "https://betalist.com/startups/rivocard"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/a-waitlist-is-not-demand-XPDPQ9nDH7z4hET4QPbQ",
+        "title": "A waitlist is not demand",
+        "url": "https://www.indiehackers.com/post/a-waitlist-is-not-demand-XPDPQ9nDH7z4hET4QPbQ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-published-6-500-pages-in-2-weeks-google-sent-my-impressions-to-zero-heres-what-i-built-instead-x1p6zpGSAD6KLkDrZJfU",
+        "title": "I published 6,500 pages in 2 weeks. Google sent my impressions to zero. Here's what I built instead.",
+        "url": "https://www.indiehackers.com/post/i-published-6-500-pages-in-2-weeks-google-sent-my-impressions-to-zero-heres-what-i-built-instead-x1p6zpGSAD6KLkDrZJfU",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-88-browser-tools-and-my-traffic-is-281-direct-8-organic-heres-what-i-got-wrong-pXWwBN52r3Xu1SK6WiVv",
+        "title": "I built 88 browser tools and my traffic is 281 Direct / 8 Organic. Here's what I got wrong.",
+        "url": "https://www.indiehackers.com/post/i-built-88-browser-tools-and-my-traffic-is-281-direct-8-organic-heres-what-i-got-wrong-pXWwBN52r3Xu1SK6WiVv",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/founding-member-price-for-your-first-10-customers-id-lock-it-for-12-months-not-forever-qPxFMmo2sykpHdci7SH5",
+        "title": "Founding-member price for your first 10 customers: I'd lock it for 12 months, not forever",
+        "url": "https://www.indiehackers.com/post/founding-member-price-for-your-first-10-customers-id-lock-it-for-12-months-not-forever-qPxFMmo2sykpHdci7SH5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/when-an-ai-edit-changes-saved-records-what-should-undo-restore-TkRLaHawnXWTu60HRsPD",
+        "title": "When an AI edit changes saved records, what should “undo” restore?",
+        "url": "https://www.indiehackers.com/post/when-an-ai-edit-changes-saved-records-what-should-undo-restore-TkRLaHawnXWTu60HRsPD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/conductor-will-keep-developing-its-app-8-days-after-saying-its-joining-meta-bekp3irOaANkQaNpOGzY",
+        "title": "Conductor will keep developing its app, 8 days after saying it's joining Meta",
+        "url": "https://www.indiehackers.com/post/tech/conductor-will-keep-developing-its-app-8-days-after-saying-its-joining-meta-bekp3irOaANkQaNpOGzY",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/simon-h-iberg-is-replacing-openai-with-open-models-he-trains-himself-task-by-task-nJdf3O006kU3LpXz0Xt6",
+        "title": "Simon Høiberg is replacing OpenAI with open models he trains himself, task by task",
+        "url": "https://www.indiehackers.com/post/tech/simon-h-iberg-is-replacing-openai-with-open-models-he-trains-himself-task-by-task-nJdf3O006kU3LpXz0Xt6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/replits-agent-now-runs-google-ads-and-the-spend-can-come-from-replit-credits-El2Ud9HaNtLRzUEeXvVr",
+        "title": "Replit's agent now runs Google Ads, and the spend can come from Replit credits",
+        "url": "https://www.indiehackers.com/post/tech/replits-agent-now-runs-google-ads-and-the-spend-can-come-from-replit-credits-El2Ud9HaNtLRzUEeXvVr",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/wordpress-shop-on-acquire-com-support-clients-have-stayed-a-median-18-8-years-6tzVzUfTj9AWwrrWOy7O",
+        "title": "WordPress shop on Acquire.com: support clients have stayed a median 18.8 years",
+        "url": "https://www.indiehackers.com/post/tech/wordpress-shop-on-acquire-com-support-clients-have-stayed-a-median-18-8-years-6tzVzUfTj9AWwrrWOy7O",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 12
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 9
+    }
+  }
+}
