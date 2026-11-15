@@ -1,0 +1,274 @@
+{
+  "scan_time": "2026-11-15T13:28:57.226989+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "filament-by-galaxy",
+        "name": "Filament by Galaxy",
+        "tagline": "Move data using your terminal or agent. Fast & open source.",
+        "description": "Filament is a data replication engine written in Go. It supports full loads, incremental replication, and change data capture (CDC). As data moves through the engine, Filament verifies Arrow batches at the sink handoff and, where the sink supports it, checks the exact serialized payload. You can run Filament as a standalone binary or embed it in a Go application.",
+        "votes": 309,
+        "ph_url": "https://www.producthunt.com/posts/filament-by-galaxy",
+        "website": "https://www.producthunt.com/r/2VIY3N6BRL2YSZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Data"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50497589",
+        "name": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+        "points": 248,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=50497589"
+      },
+      {
+        "id": "50497132",
+        "name": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+        "url": "https://gitlab.com/snipedbywifi/terminactory",
+        "points": 159,
+        "comments": 39,
+        "hn_url": "https://news.ycombinator.com/item?id=50497132"
+      },
+      {
+        "id": "50497147",
+        "name": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "points": 103,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=50497147"
+      },
+      {
+        "id": "50497137",
+        "name": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+        "url": "https://github.com/FURSOY/fursoy-cpu",
+        "points": 81,
+        "comments": 26,
+        "hn_url": "https://news.ycombinator.com/item?id=50497137"
+      },
+      {
+        "id": "50504072",
+        "name": "Show HN: Gawain – Require type hints on all Python variables",
+        "url": "https://github.com/matheuzgomes/gawain",
+        "points": 60,
+        "comments": 42,
+        "hn_url": "https://news.ycombinator.com/item?id=50504072"
+      },
+      {
+        "id": "50502839",
+        "name": "Show HN: A custom font based on the Jamaican flag alphabet",
+        "url": "https://bobbiec.github.io/jamaican-font.html",
+        "points": 46,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50502839"
+      },
+      {
+        "id": "50503930",
+        "name": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "points": 40,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50503930"
+      },
+      {
+        "id": "50503097",
+        "name": "Show HN: Umbrella – macOS app to capture audio from any app",
+        "url": "https://umbrella.pixelegg.me/",
+        "points": 17,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50503097"
+      },
+      {
+        "id": "50497141",
+        "name": "Show HN: Lampka – a Windows PDF reader whose dark mode keeps figures in colour",
+        "url": "https://lampka.app/",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50497141"
+      },
+      {
+        "id": "50501503",
+        "name": "Show HN: Infinite Shaders",
+        "url": "https://shaderfrog.com/infinite",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50501503"
+      },
+      {
+        "id": "50499062",
+        "name": "Show HN: Whiteboard – Open-source alternative to Miro",
+        "url": "https://whiteboard.puter.com/",
+        "points": 7,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50499062"
+      },
+      {
+        "id": "50502423",
+        "name": "Show HN: I made a tiny HN-style forum for small communities",
+        "url": "https://github.com/skorokithakis/soliloquy",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50502423"
+      },
+      {
+        "id": "50505492",
+        "name": "Show HN: Can a VPN be decentralised.. I think it's the best for homelabs",
+        "url": "https://github.com/CLoaKY233/kith",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50505492"
+      },
+      {
+        "id": "50505178",
+        "name": "Show HN: New In browser URL verification tool",
+        "url": "",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50505178"
+      },
+      {
+        "id": "50497071",
+        "name": "Show HN: Aris – an open-source agent that lives in the MacBook notch",
+        "url": "https://github.com/LumenJSN/Aris",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50497071"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/atriumkit",
+        "name": "AtriumKit",
+        "description": "Create interactive demos and guides from one recording",
+        "url": "https://betalist.com/startups/atriumkit"
+      },
+      {
+        "id": "/startups/prohoster",
+        "name": "ProHoster",
+        "description": "Fast, secure web hosting with free domain, SSL, and DDoS protection",
+        "url": "https://betalist.com/startups/prohoster"
+      },
+      {
+        "id": "/startups/tripmo",
+        "name": "Tripmo",
+        "description": "A shared group trip plan that each friend fills with their own AI",
+        "url": "https://betalist.com/startups/tripmo"
+      },
+      {
+        "id": "/startups/crestlinesocial-free-creator-tools",
+        "name": "CrestlineSocial Free Creator Tools",
+        "description": "Free YouTube rank checks, live sub counts, and real hashtag data with no登录",
+        "url": "https://betalist.com/startups/crestlinesocial-free-creator-tools"
+      },
+      {
+        "id": "/startups/knowmad",
+        "name": "Knowmad",
+        "description": "A personalized wiki that learns your knowledge and learning style",
+        "url": "https://betalist.com/startups/knowmad"
+      },
+      {
+        "id": "/startups/whale-tail-launch",
+        "name": "Whale Tail Launch",
+        "description": "Solana memecoin launchpad with whale copy trading and auto market making",
+        "url": "https://betalist.com/startups/whale-tail-launch"
+      },
+      {
+        "id": "/startups/comcent",
+        "name": "Comcent",
+        "description": "Calls, SMS, web chat, and email in one inbox with AI and humans",
+        "url": "https://betalist.com/startups/comcent"
+      },
+      {
+        "id": "/startups/huggerhustle",
+        "name": "HuggerHustle",
+        "description": "Get warm third-party introductions that book real buyer meetings",
+        "url": "https://betalist.com/startups/huggerhustle"
+      },
+      {
+        "id": "/startups/dupe",
+        "name": "#dupe",
+        "description": "Compare designer items with honest dupes and save money",
+        "url": "https://betalist.com/startups/dupe"
+      },
+      {
+        "id": "/startups/statelicense",
+        "name": "StateLicense",
+        "description": "Contractor license verification API for platforms",
+        "url": "https://betalist.com/startups/statelicense"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/ai-makes-building-software-easier-but-does-it-make-building-a-business-easier-4t7wHCEkO7NyEnq1I5WT",
+        "title": "AI Makes Building Software Easier, But Does It Make Building a Business Easier?",
+        "url": "https://www.indiehackers.com/post/ai-makes-building-software-easier-but-does-it-make-building-a-business-easier-4t7wHCEkO7NyEnq1I5WT",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-saas-for-six-months-my-paying-customer-found-another-way-with-claude-and-google-sheets-pgxVdxvdwnsIAoNDubhW",
+        "title": "I built a SaaS for six months. My paying customer found another way - with Claude and Google Sheets",
+        "url": "https://www.indiehackers.com/post/i-built-a-saas-for-six-months-my-paying-customer-found-another-way-with-claude-and-google-sheets-pgxVdxvdwnsIAoNDubhW",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-tool-that-finds-people-already-asking-for-your-product-5-weeks-in-i-rebuilt-it-real-numbers-6of0L9IadkSso5cGpJqA",
+        "title": "I built a tool that finds people already asking for your product. 5 weeks in, I rebuilt it (real numbers)",
+        "url": "https://www.indiehackers.com/post/i-built-a-tool-that-finds-people-already-asking-for-your-product-5-weeks-in-i-rebuilt-it-real-numbers-6of0L9IadkSso5cGpJqA",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/pricing/apps-on-anthropics-sdk-hit-the-5-hour-cap-up-to-2-9x-faster-than-claude-code-SD6K7klik5yOKVZyhe5x",
+        "title": "Apps on Anthropic's SDK hit the 5-hour cap up to 2.9x faster than Claude Code",
+        "url": "https://www.indiehackers.com/post/pricing/apps-on-anthropics-sdk-hit-the-5-hour-cap-up-to-2-9x-faster-than-claude-code-SD6K7klik5yOKVZyhe5x",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/exits/stripe-now-owns-parafin-which-powers-financing-at-doordash-amazon-and-gusto-I8pkEnsGWmU7J8obJ5DM",
+        "title": "Stripe now owns Parafin, which powers financing at DoorDash, Amazon and Gusto",
+        "url": "https://www.indiehackers.com/post/exits/stripe-now-owns-parafin-which-powers-financing-at-doordash-amazon-and-gusto-I8pkEnsGWmU7J8obJ5DM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/google-says-gemini-4-hydrogen-edges-its-pricier-argon-model-on-one-index-SWemvsQa17Wvt4LsfW4O",
+        "title": "Google says Gemini 4 Hydrogen edges its pricier Argon model on one index",
+        "url": "https://www.indiehackers.com/post/launches/google-says-gemini-4-hydrogen-edges-its-pricier-argon-model-on-one-index-SWemvsQa17Wvt4LsfW4O",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/marc-lou-says-about-4-000-in-ai-made-mailcheap-his-first-unprofitable-product-irCgb7dhykbqxOik9U2j",
+        "title": "Marc Lou says about $4,000 in AI made MailCheap his first unprofitable product",
+        "url": "https://www.indiehackers.com/post/tech/marc-lou-says-about-4-000-in-ai-made-mailcheap-his-first-unprofitable-product-irCgb7dhykbqxOik9U2j",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/tech/nevo-davids-postiz-holds-back-a-beehiiv-integration-most-people-couldn-t-use-cFUHseGGMpn508Pzgsdd",
+        "title": "Nevo David's Postiz holds back a beehiiv integration 'most people' couldn't use",
+        "url": "https://www.indiehackers.com/post/tech/nevo-davids-postiz-holds-back-a-beehiiv-integration-most-people-couldn-t-use-cFUHseGGMpn508Pzgsdd",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 10
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
