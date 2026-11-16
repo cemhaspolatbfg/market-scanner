@@ -1,0 +1,297 @@
+{
+  "scan_time": "2026-11-16T14:53:06.245940+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "rakazo-2",
+        "name": "Rakazo",
+        "tagline": "The open source Grok Bot alternative you actually own",
+        "description": "Rakazo gives you AI teammates that keep working after you close the chat. Each bot has its own memory, routines and computer, with a browser you can watch and take over. Open source and self-hosted: any model, your keys, your machine. Web, desktop and mobile.",
+        "votes": 386,
+        "ph_url": "https://www.producthunt.com/posts/rakazo-2",
+        "website": "https://www.producthunt.com/r/JJD4SYA4D3EAB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Android",
+          "Productivity",
+          "Open Source",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "hiringnow-3",
+        "name": "HiringNow",
+        "tagline": "AI job agent that finds & apply for jobs before anyone else.",
+        "description": "HiringNow checks 247,000+ company career sites every 5 minutes, so you see new jobs before they hit the big boards. It matches each job to your profile, tailors your resume and cover letter, and applies on the employer's own site, only with your approval. Every application gets a receipt in your job tracker. Also: resume builder and mock interviews. Free plan with 10 auto-applies.",
+        "votes": 323,
+        "ph_url": "https://www.producthunt.com/posts/hiringnow-3",
+        "website": "https://www.producthunt.com/r/WSO7S2YHKPGAXY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Career"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50511718",
+        "name": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+        "url": "https://lastcomplication.com/",
+        "points": 75,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=50511718"
+      },
+      {
+        "id": "50517803",
+        "name": "Show HN: Coral – Open-source gateway where agents write their own tools",
+        "url": "https://github.com/withcoral/coral",
+        "points": 22,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50517803"
+      },
+      {
+        "id": "50511238",
+        "name": "Show HN: Rbit – Self Hosted Git Forge in Rust",
+        "url": "https://rbit.sh/",
+        "points": 18,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50511238"
+      },
+      {
+        "id": "50508535",
+        "name": "Show HN: Canban – Kanban and Workflow and Herdr Workbench for CLI Agents",
+        "url": "https://github.com/jjyr/canban",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50508535"
+      },
+      {
+        "id": "50510760",
+        "name": "Show HN: Minute – An Offline Meeting Notetaker Using Local LLMs",
+        "url": "https://minutenotes.app/",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50510760"
+      },
+      {
+        "id": "50507722",
+        "name": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
+        "url": "https://blackoutapp.io/",
+        "points": 9,
+        "comments": 29,
+        "hn_url": "https://news.ycombinator.com/item?id=50507722"
+      },
+      {
+        "id": "50514822",
+        "name": "Show HN: Figma Like AI Landing Page Builder",
+        "url": "https://codecainehq.com/",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50514822"
+      },
+      {
+        "id": "50509107",
+        "name": "Show HN: Attest – Test what AI agents do, not just what they say",
+        "url": "https://attest-framework.github.io/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50509107"
+      },
+      {
+        "id": "50511761",
+        "name": "Show HN: Skillset: Easily curate and install agent skills collection",
+        "url": "https://github.com/itsmeyaw/skillset",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50511761"
+      },
+      {
+        "id": "50511628",
+        "name": "Show HN: Anarchy Chess",
+        "url": "https://dawnofthe.dad/anarchy-chess",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50511628"
+      },
+      {
+        "id": "50512078",
+        "name": "Show HN: Wipeout-style mini racer written in C++ compiled to WASM for browser",
+        "url": "https://gamedevpl.github.io/silnik3d-od-zera/demko/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50512078"
+      },
+      {
+        "id": "50509606",
+        "name": "Show HN: Widefleet Cloud - Deploy agent-built internal apps with SSO and storage",
+        "url": "https://widefleet.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50509606"
+      },
+      {
+        "id": "50512991",
+        "name": "Show HN: Agency – give your agents the computer you own",
+        "url": "https://agency.makors.xyz/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50512991"
+      },
+      {
+        "id": "50507971",
+        "name": "Show HN: Pizza – An event-driven AI agent, no while true",
+        "url": "https://pizza.hertzbeat.com/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50507971"
+      },
+      {
+        "id": "50515362",
+        "name": "Show HN: A Postgres read-replica, but 10-50x faster for analytical queries",
+        "url": "https://github.com/embeddable-hq/mason-data",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50515362"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/dojoto",
+        "name": "Dojoto",
+        "description": "Track attendance and fees for your martial arts club from your phone",
+        "url": "https://betalist.com/startups/dojoto"
+      },
+      {
+        "id": "/startups/cribzv",
+        "name": "Cribzv",
+        "description": "Verify deliveries with GPS-backed proof and reduce disputes",
+        "url": "https://betalist.com/startups/cribzv"
+      },
+      {
+        "id": "/startups/kistrl",
+        "name": "Kistrl",
+        "description": "Email where new senders wait until you decide who gets in",
+        "url": "https://betalist.com/startups/kistrl"
+      },
+      {
+        "id": "/startups/runcandor",
+        "name": "Candor",
+        "description": "Interview evidence-based synthetic users to test ideas before recruiting",
+        "url": "https://betalist.com/startups/runcandor"
+      },
+      {
+        "id": "/startups/cibi",
+        "name": "CIBI",
+        "description": "Understand spending, budget smart, and plan with 71 money tools",
+        "url": "https://betalist.com/startups/cibi"
+      },
+      {
+        "id": "/startups/tidylist",
+        "name": "TidyList",
+        "description": "Filter, search, curate, and manage YouTube playlists with ease",
+        "url": "https://betalist.com/startups/tidylist"
+      },
+      {
+        "id": "/startups/panelalpha-engine",
+        "name": "PanelAlpha Engine",
+        "description": "Self-host any project on your VPS with your favorite AI agent",
+        "url": "https://betalist.com/startups/panelalpha-engine"
+      },
+      {
+        "id": "/startups/code4-space",
+        "name": "Code4 Space",
+        "description": "One workspace for issues, git, CI/CD, and calls with AI agents included",
+        "url": "https://betalist.com/startups/code4-space"
+      },
+      {
+        "id": "/startups/vesquill",
+        "name": "Vesquill",
+        "description": "Sleep and family stories ad-free, offline, with a sleep timer",
+        "url": "https://betalist.com/startups/vesquill"
+      },
+      {
+        "id": "/startups/citation-rocket",
+        "name": "Citation Rocket",
+        "description": "Shows if AI search engines mention your brand and how to improve it",
+        "url": "https://betalist.com/startups/citation-rocket"
+      },
+      {
+        "id": "/startups/scrape-ly",
+        "name": "Scrape.ly",
+        "description": "Ready-made web scrapers and API for Google Maps, Amazon, LinkedIn",
+        "url": "https://betalist.com/startups/scrape-ly"
+      },
+      {
+        "id": "/startups/open-atelier",
+        "name": "Open Atelier",
+        "description": "Get chapter-specific feedback that teaches you to revise better",
+        "url": "https://betalist.com/startups/open-atelier"
+      },
+      {
+        "id": "/startups/flowmrr",
+        "name": "FlowMRR",
+        "description": "Turn your Stripe subscription data into clear, actionable revenue insights",
+        "url": "https://betalist.com/startups/flowmrr"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/my-first-customer-left-and-the-backlinks-were-probably-not-the-villain-month-4-of-the-kinetixseo-bet-miqH19uDerZqLj7qJjid",
+        "title": "My first customer left, and the backlinks were probably not the villain. Month 4 of the KinetixSEO bet",
+        "url": "https://www.indiehackers.com/post/my-first-customer-left-and-the-backlinks-were-probably-not-the-villain-month-4-of-the-kinetixseo-bet-miqH19uDerZqLj7qJjid",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/12-years-building-mobile-apps-6-weeks-of-marketing-here-are-my-embarrassing-numbers-g7XT2YE97EUiysRkddQA",
+        "title": "12 years building mobile apps. 6 weeks of marketing. Here are my embarrassing numbers.",
+        "url": "https://www.indiehackers.com/post/12-years-building-mobile-apps-6-weeks-of-marketing-here-are-my-embarrassing-numbers-g7XT2YE97EUiysRkddQA",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ai-can-build-your-saas-but-who-makes-sure-it-actually-works-vu9Uj8zuGvL77gUktvnu",
+        "title": "AI can build your SaaS. But who makes sure it actually works?",
+        "url": "https://www.indiehackers.com/post/ai-can-build-your-saas-but-who-makes-sure-it-actually-works-vu9Uj8zuGvL77gUktvnu",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/tony-dinh-gives-his-offline-hacker-news-app-a-500-a-month-claude-code-budget-tPULYVYwMurKRXio1g7Y",
+        "title": "Tony Dinh gives his offline Hacker News app a $500-a-month Claude Code budget",
+        "url": "https://www.indiehackers.com/post/launches/tony-dinh-gives-his-offline-hacker-news-app-a-500-a-month-claude-code-budget-tPULYVYwMurKRXio1g7Y",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/theo-says-his-free-coding-app-t3-code-has-cost-him-more-than-800k-B5gUi7PXRWZdp7DqjkYn",
+        "title": "Theo says his free coding app T3 Code has cost him more than $800K",
+        "url": "https://www.indiehackers.com/post/numbers/theo-says-his-free-coding-app-t3-code-has-cost-him-more-than-800k-B5gUi7PXRWZdp7DqjkYn",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/ilias-isms-homemade-click-fraud-check-caught-206-of-bot-clicks-in-a-morning-32jmuiBgVPYqH8epuGRc",
+        "title": "Ilias Ism's homemade click-fraud check caught $206 of bot clicks in a morning",
+        "url": "https://www.indiehackers.com/post/numbers/ilias-isms-homemade-click-fraud-check-caught-206-of-bot-clicks-in-a-morning-32jmuiBgVPYqH8epuGRc",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 13
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
