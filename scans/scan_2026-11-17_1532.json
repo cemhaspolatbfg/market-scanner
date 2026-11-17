@@ -1,0 +1,307 @@
+{
+  "scan_time": "2026-11-17T15:31:54.720011+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "frevana-multiplayer",
+        "name": "Frevana Multiplayer",
+        "tagline": "AI that grows your business alongside your team",
+        "description": "Frevana runs AI agent apps that find customers, create content, and automate busywork. Now it's multiplayer: invite your team with a link, share agents and skills, and build on each other's work. Your best workflow becomes everyone's.",
+        "votes": 306,
+        "ph_url": "https://www.producthunt.com/posts/frevana-multiplayer",
+        "website": "https://www.producthunt.com/r/FT7MX33UAAVCZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "claude-meetings",
+        "name": "Claude Meetings",
+        "tagline": "Add Claude to your call and get work started as you talk",
+        "description": "Claude Meetings lets you add Claude to a Google Meet call as a visible participant. The team can ask questions out loud or in chat, and Claude writes the notes and action items so no one on the call has to. It builds docs, whiteboards, and other artifacts during the call, and teammates on the invite can edit them as you talk. After the call, the notes, transcript, and anything Claude made are on the meeting page in Claude. It is in beta on Team and Enterprise plans, starting with Google Meet.",
+        "votes": 301,
+        "ph_url": "https://www.producthunt.com/posts/claude-meetings",
+        "website": "https://www.producthunt.com/r/BBCWQILYWRBAP6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Meetings",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50525052",
+        "name": "Show HN: Sutra-OS – A self-hosted ontology platform",
+        "url": "https://github.com/0nelight/sutra-os",
+        "points": 64,
+        "comments": 32,
+        "hn_url": "https://news.ycombinator.com/item?id=50525052"
+      },
+      {
+        "id": "50520741",
+        "name": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+        "url": "https://fakemetrics.com/",
+        "points": 47,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=50520741"
+      },
+      {
+        "id": "50523377",
+        "name": "Show HN: Open-source, real-time object tracking for live video feeds",
+        "url": "https://github.com/aryamandarda/tamserve",
+        "points": 34,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50523377"
+      },
+      {
+        "id": "50526380",
+        "name": "Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones",
+        "url": "https://wine-assembly.berrry.app/",
+        "points": 20,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50526380"
+      },
+      {
+        "id": "50526967",
+        "name": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+        "url": "https://github.com/yocontra/pulsar",
+        "points": 19,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50526967"
+      },
+      {
+        "id": "50521287",
+        "name": "Show HN: Birds as Code",
+        "url": "https://erl-j.github.io/fun-zone/birds.html",
+        "points": 17,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=50521287"
+      },
+      {
+        "id": "50526244",
+        "name": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
+        "url": "https://cwtractors.com",
+        "points": 13,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50526244"
+      },
+      {
+        "id": "50526527",
+        "name": "Show HN: A free interactive course on AI agent governance",
+        "url": "https://studio.sinapsdata.com.br",
+        "points": 12,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50526527"
+      },
+      {
+        "id": "50526110",
+        "name": "Show HN: Free weekly backups for Supabase Free projects (pg_dump to R2)",
+        "url": "https://github.com/liulewis/supabase-free-backup-lite",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50526110"
+      },
+      {
+        "id": "50531481",
+        "name": "Show HN: An open virtual office to cowork with humans while your agents work",
+        "url": "https://flat.social/virtual-office-platform",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50531481"
+      },
+      {
+        "id": "50519664",
+        "name": "Show HN: Near-Realtime LLM Steering",
+        "url": "https://github.com/chuanqisun/spaceship",
+        "points": 9,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50519664"
+      },
+      {
+        "id": "50532385",
+        "name": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+        "url": "https://alloyhtml.com/example.html",
+        "points": 8,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50532385"
+      },
+      {
+        "id": "50520341",
+        "name": "Show HN: Netrix",
+        "url": "https://netrix-console.com/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50520341"
+      },
+      {
+        "id": "50521717",
+        "name": "Show HN: CutCraft – an MIT library for making and editing videos in TSX",
+        "url": "https://github.com/prefix-tree/cutcraft",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50521717"
+      },
+      {
+        "id": "50521074",
+        "name": "Show HN: Cppgm compiles C++ to WASM 4x faster than Clang",
+        "url": "https://incpption.com/",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50521074"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/tryspool",
+        "name": "Spool",
+        "description": "Handle calls and hold times while you keep living your life",
+        "url": "https://betalist.com/startups/tryspool"
+      },
+      {
+        "id": "/startups/the-frosteam",
+        "name": "The Frosteam",
+        "description": "Device combining hot steam, facial cold plunge, and aromatherapy",
+        "url": "https://betalist.com/startups/the-frosteam"
+      },
+      {
+        "id": "/startups/kooko",
+        "name": "Kooko",
+        "description": "All-in-one AI workspace for smarter creation",
+        "url": "https://betalist.com/startups/kooko"
+      },
+      {
+        "id": "/startups/buyancy",
+        "name": "Buyancy",
+        "description": "Check purchases against your real bills and paydays before buying",
+        "url": "https://betalist.com/startups/buyancy"
+      },
+      {
+        "id": "/startups/stable-health",
+        "name": "Stable Health",
+        "description": "Automate behavioral health intake, messaging, and billing",
+        "url": "https://betalist.com/startups/stable-health"
+      },
+      {
+        "id": "/startups/video-cutter-ai",
+        "name": "Video Cutter AI",
+        "description": "Turn long videos into viral, captioned clips for every platform",
+        "url": "https://betalist.com/startups/video-cutter-ai"
+      },
+      {
+        "id": "/startups/flux-3-ai",
+        "name": "Flux 3 AI",
+        "description": "Generate images, edit visuals, and create video with native audio",
+        "url": "https://betalist.com/startups/flux-3-ai"
+      },
+      {
+        "id": "/startups/tassi",
+        "name": "TASSI",
+        "description": "Shipping API for e-commerce with multi-carrier support",
+        "url": "https://betalist.com/startups/tassi"
+      },
+      {
+        "id": "/startups/spotby",
+        "name": "Spotby",
+        "description": "Google Analytics for AI reads",
+        "url": "https://betalist.com/startups/spotby"
+      },
+      {
+        "id": "/startups/remoqa",
+        "name": "Remoqa",
+        "description": "Access your computer remotely with end-to-end encrypted sessions",
+        "url": "https://betalist.com/startups/remoqa"
+      },
+      {
+        "id": "/startups/pulserion",
+        "name": "Pulserion",
+        "description": "Tells your Amazon team daily what needs attention and what to do",
+        "url": "https://betalist.com/startups/pulserion"
+      },
+      {
+        "id": "/startups/mopskit",
+        "name": "MOPsKit",
+        "description": "Branded email templates with one-click integration to your email platform",
+        "url": "https://betalist.com/startups/mopskit"
+      },
+      {
+        "id": "/startups/fn2",
+        "name": "FN2",
+        "description": "Analyze stocks with AI-driven research and real-time market signals",
+        "url": "https://betalist.com/startups/fn2"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/what-would-make-you-trust-a-tiny-ai-built-app-with-something-you-need-tomorrow-VRpw3NVp8PTUGfI1kHgw",
+        "title": "What would make you trust a tiny AI-built app with something you need tomorrow?",
+        "url": "https://www.indiehackers.com/post/what-would-make-you-trust-a-tiny-ai-built-app-with-something-you-need-tomorrow-VRpw3NVp8PTUGfI1kHgw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/5-months-2-13-and-its-the-best-money-i-ve-ever-made-eEZbXSAkylxNPEYH1Jms",
+        "title": "5 months, $2.13, and it's the best money I've ever made",
+        "url": "https://www.indiehackers.com/post/5-months-2-13-and-its-the-best-money-i-ve-ever-made-eEZbXSAkylxNPEYH1Jms",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-first-indie-product-got-its-first-sale-but-it-s-still-losing-money-PM9gacXp30ns4LOQiHpd",
+        "title": "My first indie product got its first sale, but it’s still losing money",
+        "url": "https://www.indiehackers.com/post/my-first-indie-product-got-its-first-sale-but-it-s-still-losing-money-PM9gacXp30ns4LOQiHpd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-do-you-deal-with-doubts-as-a-founder-2mSKMLj2TxbXehlcERPE",
+        "title": "How Do You Deal With Doubts as a Founder?",
+        "url": "https://www.indiehackers.com/post/how-do-you-deal-with-doubts-as-a-founder-2mSKMLj2TxbXehlcERPE",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-launched-relay-today-it-races-claude-code-vs-codex-and-keeps-only-the-diff-your-tests-pass-looking-for-10-users-plYSXgX7ibWgi290PSsg",
+        "title": "I launched Relay today. It races Claude Code vs Codex and keeps only the diff your tests pass. Looking for 10 users",
+        "url": "https://www.indiehackers.com/post/i-launched-relay-today-it-races-claude-code-vs-codex-and-keeps-only-the-diff-your-tests-pass-looking-for-10-users-plYSXgX7ibWgi290PSsg",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/my-launch-on-hn-failed-0-upvote-0-comments-2-days-later-a-random-real-estate-newsletter-mentioned-me-on-page-8-2k-visitors-bp0CBqdGFsaQKBKLbkHF",
+        "title": "My launch on HN failed (0 upvote, 0 comments). 2 days later, a random real estate newsletter mentioned me on page 8 -> 2K+ visitors",
+        "url": "https://www.indiehackers.com/post/my-launch-on-hn-failed-0-upvote-0-comments-2-days-later-a-random-real-estate-newsletter-mentioned-me-on-page-8-2k-visitors-bp0CBqdGFsaQKBKLbkHF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/postizs-founder-says-his-code-is-no-moat-his-54-trial-conversion-comes-from-marketing-content-nDoXJg32FL8Uuq6wJ5GI",
+        "title": "Postiz's founder says his code is no moat. His 54% trial conversion comes from marketing content.",
+        "url": "https://www.indiehackers.com/post/launches/postizs-founder-says-his-code-is-no-moat-his-54-trial-conversion-comes-from-marketing-content-nDoXJg32FL8Uuq6wJ5GI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/marc-lou-54-9-of-10-646-trustmrr-startups-made-0-in-30-days-OkTfo4k1PYD8IEm97yC8",
+        "title": "Marc Lou: 54.9% of 10,646 TrustMRR startups made $0 in 30 days",
+        "url": "https://www.indiehackers.com/post/numbers/marc-lou-54-9-of-10-646-trustmrr-startups-made-0-in-30-days-OkTfo4k1PYD8IEm97yC8",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 13
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
