@@ -1,0 +1,334 @@
+{
+  "scan_time": "2026-11-18T15:09:45.288857+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "rankspot-2",
+        "name": "RankSpot",
+        "tagline": "Pay-as-you-go SEO and AI Search execution layer for agents",
+        "description": "RankSpot is the SEO and AI Search execution layer for agents. Connect the MCP to Claude or ChatGPT in 2 minutes and your agent does the work: it writes articles from what already ranks on Google in 100+ languages, publishes them, and pitches ranking sites from your mailbox for backlinks. Run every client or business from one chat. No subscription: $3 an article, $0.004 a prompt check, reading your data free. Start with $1 of credit and a free article.",
+        "votes": 428,
+        "ph_url": "https://www.producthunt.com/posts/rankspot-2",
+        "website": "https://www.producthunt.com/r/ZXC3TLTUHNL3JP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Marketing",
+          "SEO"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "creatify-max",
+        "name": "Creatify Max",
+        "tagline": "Your ad teammate, from strategy to creation to launch",
+        "description": "Max is your teammate for paid ads. Share a product URL or brief and Max makes video ads, sets up campaigns on Meta and TikTok, and watches results 24/7, flagging what to fix next. You make the calls: nothing goes live without your approval.",
+        "votes": 421,
+        "ph_url": "https://www.producthunt.com/posts/creatify-max",
+        "website": "https://www.producthunt.com/r/NWW6YNL6LTJ6TX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Social Media",
+          "Marketing",
+          "Advertising"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "thebold",
+        "name": "TheBold",
+        "tagline": "Turn execution into meetings with investors",
+        "description": "TheBold turns startup execution into direct investor access. 🎉 Launch Fast Track (Nov 17–27): pass one AI investor-readiness interview, land in the deal flow of investors who match your startup, and unlock direct meeting access. TheBold helps founders understand investor criteria, track and verify execution and traction, practice investor-specific AI simulations, and book meetings once qualified.",
+        "votes": 414,
+        "ph_url": "https://www.producthunt.com/posts/thebold",
+        "website": "https://www.producthunt.com/r/C7KPFSSB5AHOYX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Venture Capital",
+          "Social Networking",
+          "Fundraising"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50533270",
+        "name": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+        "url": "https://github.com/RunanywhereAI/trnrt",
+        "points": 52,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50533270"
+      },
+      {
+        "id": "50544821",
+        "name": "Show HN: Type Fighter 2",
+        "url": "https://typefighter2.com/",
+        "points": 47,
+        "comments": 21,
+        "hn_url": "https://news.ycombinator.com/item?id=50544821"
+      },
+      {
+        "id": "50536648",
+        "name": "Show HN: SSH into DOS: I wrote an x86 (IBM PC) emulator",
+        "url": "https://www.dialup.net/farcall/",
+        "points": 19,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50536648"
+      },
+      {
+        "id": "50543432",
+        "name": "Show HN: Math 2.0",
+        "url": "https://math2.tamnd.com/areas/",
+        "points": 11,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50543432"
+      },
+      {
+        "id": "50541835",
+        "name": "Show HN: Motif, a tracker thin enough to be a sticker",
+        "url": "https://motif.blog",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50541835"
+      },
+      {
+        "id": "50534338",
+        "name": "Show HN: Soccer-Bench – Watch teams of LLM agents play 5v5 soccer",
+        "url": "https://darksinian.github.io/soccer-bench/",
+        "points": 9,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50534338"
+      },
+      {
+        "id": "50538906",
+        "name": "Show HN: I Cannot Let You In",
+        "url": "https://i-cannot-let-you-in.nodolabs.co.uk/",
+        "points": 6,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50538906"
+      },
+      {
+        "id": "50534542",
+        "name": "Show HN: Solarian – Open-source Python framework for AI robots",
+        "url": "https://solarian.dev",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50534542"
+      },
+      {
+        "id": "50538636",
+        "name": "Show HN: Code walkthroughs, maps, and quizzes for pull requests",
+        "url": "https://codeunpacked.san.cx/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50538636"
+      },
+      {
+        "id": "50532519",
+        "name": "Show HN: Atli – MCP server that lets AI agents buy and install travel eSIMs",
+        "url": "https://heyatli.com/mcp",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50532519"
+      },
+      {
+        "id": "50544891",
+        "name": "Show HN: JSON Processing Library – Benchmarked Against simdjson and Glaze",
+        "url": "https://nihilai-collective.net/jsonifier",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50544891"
+      },
+      {
+        "id": "50541568",
+        "name": "Show HN: Tinnitus frequency finder and audio notch tool",
+        "url": "https://trynotched.com/find",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50541568"
+      },
+      {
+        "id": "50533647",
+        "name": "Show HN: Moonswing – a Linux desktop environment built with Flutter",
+        "url": "https://github.com/miracle-wm-org/moonswing",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50533647"
+      },
+      {
+        "id": "50534630",
+        "name": "Show HN: Hue MD – Markdown that shows status at a glance and stays plain text",
+        "url": "https://spingras.github.io/hue-md/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50534630"
+      },
+      {
+        "id": "50546443",
+        "name": "Show HN: Margeux, an indentation based Lisp with WASM runtime",
+        "url": "https://margeux.com/studio.html",
+        "points": 4,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50546443"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/festidy",
+        "name": "Festidy",
+        "description": "A free party planner that turns RSVPs into a plan and shopping list",
+        "url": "https://betalist.com/startups/festidy"
+      },
+      {
+        "id": "/startups/pingoru",
+        "name": "Pingoru",
+        "description": "Get alerts when your cloud and SaaS vendors experience outages",
+        "url": "https://betalist.com/startups/pingoru"
+      },
+      {
+        "id": "/startups/blablaprice",
+        "name": "BlaBlaPrice",
+        "description": "Let buyers' and sellers' AI agents agree on local prices",
+        "url": "https://betalist.com/startups/blablaprice"
+      },
+      {
+        "id": "/startups/monmo",
+        "name": "Monmo",
+        "description": "24/7 AI coworkers with their own cloud computers",
+        "url": "https://betalist.com/startups/monmo"
+      },
+      {
+        "id": "/startups/harry-potter-house-quiz",
+        "name": "Harry Potter House Quiz",
+        "description": "Discover your true Hogwarts house with a fast, accurate quiz",
+        "url": "https://betalist.com/startups/harry-potter-house-quiz"
+      },
+      {
+        "id": "/startups/invitejam",
+        "name": "InviteJam",
+        "description": "Create beautiful invites and track RSVPs with a simple link",
+        "url": "https://betalist.com/startups/invitejam"
+      },
+      {
+        "id": "/startups/field",
+        "name": "Field",
+        "description": "Schedule teams, track hours, and invoice jobs in one app",
+        "url": "https://betalist.com/startups/field"
+      },
+      {
+        "id": "/startups/blackfridaydeals-dev",
+        "name": "BLACKFRIDAYDEALS.DEV",
+        "description": "Discover curated Black Friday deals for developers and designers",
+        "url": "https://betalist.com/startups/blackfridaydeals-dev"
+      },
+      {
+        "id": "/startups/modellix-ai",
+        "name": "Modellix.ai",
+        "description": "All leading AI models in one API with transparent pricing",
+        "url": "https://betalist.com/startups/modellix-ai"
+      },
+      {
+        "id": "/startups/ai-photo-edit",
+        "name": "AI Photo Edit",
+        "description": "Change anything in a photo with one sentence",
+        "url": "https://betalist.com/startups/ai-photo-edit"
+      },
+      {
+        "id": "/startups/myzucoins",
+        "name": "MyZucoins",
+        "description": "Tools and services for Zucoin's Splitchain layer 1 network",
+        "url": "https://betalist.com/startups/myzucoins"
+      },
+      {
+        "id": "/startups/secretpass",
+        "name": "SecretPass",
+        "description": "Find great online shopping deals, coupon codes, vouchers, and discounts",
+        "url": "https://betalist.com/startups/secretpass"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-built-12-apps-in-10-months-and-made-10k-here-are-10-things-i-wish-i-knew-when-i-started-XHPgZpvwWhpVf0PeKY3P",
+        "title": "I built 12 apps in 10 months and made $10k. Here are 10 things I wish I knew when I started",
+        "url": "https://www.indiehackers.com/post/i-built-12-apps-in-10-months-and-made-10k-here-are-10-things-i-wish-i-knew-when-i-started-XHPgZpvwWhpVf0PeKY3P",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-asked-chatgpt-about-my-3-week-old-saas-twice-11-days-apart-heres-what-changed-and-what-didn-t-M0jK65xyh5WC7mHOuO2e",
+        "title": "I asked ChatGPT about my 3-week-old SaaS twice, 11 days apart. Here's what changed and what didn't",
+        "url": "https://www.indiehackers.com/post/i-asked-chatgpt-about-my-3-week-old-saas-twice-11-days-apart-heres-what-changed-and-what-didn-t-M0jK65xyh5WC7mHOuO2e",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/8-days-3-reels-a-day-for-my-browser-startup-here-are-the-honest-numbers-zU4ggFyyKTkMONXeVo6v",
+        "title": "8 days, 3 reels a day, for my browser startup. Here are the honest numbers.",
+        "url": "https://www.indiehackers.com/post/8-days-3-reels-a-day-for-my-browser-startup-here-are-the-honest-numbers-zU4ggFyyKTkMONXeVo6v",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-public-tracker-for-did-they-just-nerf-the-limits-again-claude-code-codex-7URtVmM5JLPhEUE2Qflp",
+        "title": "I built a public tracker for \"did they just nerf the limits again?\" (Claude Code + Codex)",
+        "url": "https://www.indiehackers.com/post/i-built-a-public-tracker-for-did-they-just-nerf-the-limits-again-claude-code-codex-7URtVmM5JLPhEUE2Qflp",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/every-directory-you-submit-to-is-one-more-page-with-your-old-pricing-on-it-jt97Jr6711RaVMgHPKpI",
+        "title": "Every directory you submit to is one more page with your old pricing on it",
+        "url": "https://www.indiehackers.com/post/every-directory-you-submit-to-is-one-more-page-with-your-old-pricing-on-it-jt97Jr6711RaVMgHPKpI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/shutdowns/lemon-squeezy-is-closing-its-stripe-replacement-doesnt-deliver-files-tro66hRkWRwuH0PwycFI",
+        "title": "Lemon Squeezy is closing. Its Stripe replacement doesn't deliver files.",
+        "url": "https://www.indiehackers.com/post/shutdowns/lemon-squeezy-is-closing-its-stripe-replacement-doesnt-deliver-files-tro66hRkWRwuH0PwycFI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/apples-newest-mac-beta-warns-users-before-an-app-like-claude-gets-full-control-sVo0cl6GXaOe6LPy5MrX",
+        "title": "Apple's newest Mac beta warns users before an app like Claude gets full control",
+        "url": "https://www.indiehackers.com/post/news/apples-newest-mac-beta-warns-users-before-an-app-like-claude-gets-full-control-sVo0cl6GXaOe6LPy5MrX",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/a-coding-app-asked-users-for-github-stars-its-daily-stars-went-up-10x-9ZvGYwqO6wYL8kSCruTM",
+        "title": "A coding app asked users for GitHub stars. Its daily stars went up 10x.",
+        "url": "https://www.indiehackers.com/post/numbers/a-coding-app-asked-users-for-github-stars-its-daily-stars-went-up-10x-9ZvGYwqO6wYL8kSCruTM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/a-founder-with-two-bankrupt-startups-behind-him-says-he-now-makes-1m-a-month-D6mkgMPxKnkYXudFzsvq",
+        "title": "A founder with two bankrupt startups behind him says he now makes $1M a month",
+        "url": "https://www.indiehackers.com/post/numbers/a-founder-with-two-bankrupt-startups-behind-him-says-he-now-makes-1m-a-month-D6mkgMPxKnkYXudFzsvq",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/a-social-media-tools-founder-invited-competitors-to-copy-his-app-he-argued-his-moat-was-marketing-not-code-nDoXJg32FL8Uuq6wJ5GI",
+        "title": "A social media tool's founder invited competitors to copy his app. He argued his moat was marketing, not code.",
+        "url": "https://www.indiehackers.com/post/launches/a-social-media-tools-founder-invited-competitors-to-copy-his-app-he-argued-his-moat-was-marketing-not-code-nDoXJg32FL8Uuq6wJ5GI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/over-half-the-startups-marc-lou-checked-made-no-revenue-in-the-last-30-days-OkTfo4k1PYD8IEm97yC8",
+        "title": "Over half the startups Marc Lou checked made no revenue in the last 30 days",
+        "url": "https://www.indiehackers.com/post/numbers/over-half-the-startups-marc-lou-checked-made-no-revenue-in-the-last-30-days-OkTfo4k1PYD8IEm97yC8",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 12
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 11
+    }
+  }
+}
