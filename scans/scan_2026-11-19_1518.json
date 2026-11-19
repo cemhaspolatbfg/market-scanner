@@ -1,0 +1,313 @@
+{
+  "scan_time": "2026-11-19T15:18:16.471999+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "s-space",
+        "name": "S.Space",
+        "tagline": "Your team and everyone's AI agents, in one workspace",
+        "description": "Everyone on your team has an AI agent, and none of them work together, so you copy, paste and re-explain all day. S.Space is one workspace for your team and everyone's agents. Bring the ones you already use, like Claude Code and Codex, from any vendor. Agents reach out, hand work to each other and bring you finished results, with shared memory so you explain things once. Agents act, you approve what matters. Free to start. Built by the team behind AutoGen.",
+        "votes": 374,
+        "ph_url": "https://www.producthunt.com/posts/s-space",
+        "website": "https://www.producthunt.com/r/3NGQFAYB2FLK2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "bluedot-phone-calls",
+        "name": "Bluedot Phone Calls",
+        "tagline": "AI note taker for phone calls",
+        "description": "Bluedot now covers phone calls, not just meetings. Dial from the web or mobile app, keep your own caller ID, and get a transcript, summary and action items automatically.",
+        "votes": 311,
+        "ph_url": "https://www.producthunt.com/posts/bluedot-phone-calls",
+        "website": "https://www.producthunt.com/r/ULWYTTAYG5XTLI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Android",
+          "iOS",
+          "Productivity"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50547980",
+        "name": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+        "url": "https://exitpath-ruddy.vercel.app/",
+        "points": 238,
+        "comments": 84,
+        "hn_url": "https://news.ycombinator.com/item?id=50547980"
+      },
+      {
+        "id": "50548161",
+        "name": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+        "url": "https://rshekhar.com/voyager/",
+        "points": 223,
+        "comments": 54,
+        "hn_url": "https://news.ycombinator.com/item?id=50548161"
+      },
+      {
+        "id": "50548660",
+        "name": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+        "url": "",
+        "points": 117,
+        "comments": 37,
+        "hn_url": "https://news.ycombinator.com/item?id=50548660"
+      },
+      {
+        "id": "50559749",
+        "name": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+        "url": "https://foolscap.works/",
+        "points": 55,
+        "comments": 26,
+        "hn_url": "https://news.ycombinator.com/item?id=50559749"
+      },
+      {
+        "id": "50552140",
+        "name": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+        "url": "https://springcraft-ai.github.io/springrep/",
+        "points": 32,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50552140"
+      },
+      {
+        "id": "50554973",
+        "name": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
+        "url": "https://adeindex.com",
+        "points": 23,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50554973"
+      },
+      {
+        "id": "50551356",
+        "name": "Show HN: Beat – a to-do list that completes its own tasks",
+        "url": "https://gobeat.ai/auth/login",
+        "points": 15,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50551356"
+      },
+      {
+        "id": "50556534",
+        "name": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+        "url": "https://github.com/rxolve/zpup",
+        "points": 14,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50556534"
+      },
+      {
+        "id": "50549718",
+        "name": "Show HN: BPM – Baby Plus Music Visualizer",
+        "url": "https://hberg.com/bpm/",
+        "points": 12,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50549718"
+      },
+      {
+        "id": "50553913",
+        "name": "Show HN: Try Vibe Robotics! (IRL or MuJoCo SIM)",
+        "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50553913"
+      },
+      {
+        "id": "50555456",
+        "name": "Show HN: Vercel Board – a shared, secure message board for agents (public beta)",
+        "url": "https://vercel.com/blog/introducing-vercel-board",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50555456"
+      },
+      {
+        "id": "50551614",
+        "name": "Show HN: PocketOps for SigNoz: The Open Source Datadog Alternative",
+        "url": "https://github.com/avens19/pocketops",
+        "points": 10,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50551614"
+      },
+      {
+        "id": "50550700",
+        "name": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+        "url": "https://www.kradle.ai?1",
+        "points": 9,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50550700"
+      },
+      {
+        "id": "50550737",
+        "name": "Show HN: Poptato – App launcher, command runner, and fuzzy menu for Linux",
+        "url": "https://github.com/skorotkiewicz/poptato",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50550737"
+      },
+      {
+        "id": "50548480",
+        "name": "Show HN: Can an AI Agent Bypass Your Website Security?",
+        "url": "https://assess.poh.org/",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50548480"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/snovi",
+        "name": "Snovi",
+        "description": "Convert your voice into writing, translation, and memory with context",
+        "url": "https://betalist.com/startups/snovi"
+      },
+      {
+        "id": "/startups/amora",
+        "name": "Amora",
+        "description": "Chat with lifelike AI companions in playful, flirty conversations",
+        "url": "https://betalist.com/startups/amora"
+      },
+      {
+        "id": "/startups/powergoodies",
+        "name": "PowerGoodies",
+        "description": "Free app that pays EV drivers in gift vouchers for every charge",
+        "url": "https://betalist.com/startups/powergoodies"
+      },
+      {
+        "id": "/startups/seedance-3-0",
+        "name": "Seedance 3.0",
+        "description": "Generate 30-second cinematic videos with synced dialogue and sound",
+        "url": "https://betalist.com/startups/seedance-3-0"
+      },
+      {
+        "id": "/startups/meshynet",
+        "name": "MeshyNet",
+        "description": "Combine nine networks into one clean, algorithm-free feed",
+        "url": "https://betalist.com/startups/meshynet"
+      },
+      {
+        "id": "/startups/highseat",
+        "name": "Highseat",
+        "description": "Cookieless web analytics showing revenue by traffic source",
+        "url": "https://betalist.com/startups/highseat"
+      },
+      {
+        "id": "/startups/insucargo",
+        "name": "InsuCargo",
+        "description": "Insure shipments in minutes by uploading your invoice",
+        "url": "https://betalist.com/startups/insucargo"
+      },
+      {
+        "id": "/startups/translatebuff",
+        "name": "TranslateBuff",
+        "description": "Translate webpages with side-by-side AI results from 20+ models",
+        "url": "https://betalist.com/startups/translatebuff"
+      },
+      {
+        "id": "/startups/dizy",
+        "name": "Dizy",
+        "description": "Weekly AI music charts ranked by listener votes",
+        "url": "https://betalist.com/startups/dizy"
+      },
+      {
+        "id": "/startups/heardloom",
+        "name": "Heardloom",
+        "description": "Record family oral histories with a multilingual AI interviewer",
+        "url": "https://betalist.com/startups/heardloom"
+      },
+      {
+        "id": "/startups/flipr",
+        "name": "Flipr",
+        "description": "Turn your team's photos into a who's-who flipbook game",
+        "url": "https://betalist.com/startups/flipr"
+      },
+      {
+        "id": "/startups/wp-octo",
+        "name": "WP Octo",
+        "description": "Maintain all your clients' WordPress sites from one overview",
+        "url": "https://betalist.com/startups/wp-octo"
+      },
+      {
+        "id": "/startups/vibetwin",
+        "name": "VibeTwin",
+        "description": "Autonomous AI career twin screens, applies, and schedules for you",
+        "url": "https://betalist.com/startups/vibetwin"
+      },
+      {
+        "id": "/startups/vcxplore",
+        "name": "VCXplore",
+        "description": "Find investors whose portfolios look like your company",
+        "url": "https://betalist.com/startups/vcxplore"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-shipped-an-android-app-for-electricians-what-google-plays-12-tester-rule-was-actually-like-uYA5QFOKmnCfrXGDWQew",
+        "title": "I shipped an Android app for electricians: what Google Play's 12-tester rule was actually like",
+        "url": "https://www.indiehackers.com/post/i-shipped-an-android-app-for-electricians-what-google-plays-12-tester-rule-was-actually-like-uYA5QFOKmnCfrXGDWQew",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/three-weeks-in-53-downloads-0-sales-and-what-i-changed-after-your-advice-ge3umQnGZU0BxnFJ2Yoz",
+        "title": "Three weeks in: 53 downloads, 0 sales, and what I changed after your advice",
+        "url": "https://www.indiehackers.com/post/three-weeks-in-53-downloads-0-sales-and-what-i-changed-after-your-advice-ge3umQnGZU0BxnFJ2Yoz",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/googles-new-gemini-ties-claude-opus-5-5-on-a-coding-test-at-about-half-the-cost-RAIcAVLjvmyfJVMbG4PM",
+        "title": "Google's new Gemini ties Claude Opus 5.5 on a coding test at about half the cost",
+        "url": "https://www.indiehackers.com/post/launches/googles-new-gemini-ties-claude-opus-5-5-on-a-coding-test-at-about-half-the-cost-RAIcAVLjvmyfJVMbG4PM",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/takes/did-claude-opus-5-5-get-worse-a-coding-app-ceo-sees-no-sign-of-it-BQwm4QaX7cUZykFYvo1j",
+        "title": "Did Claude Opus 5.5 get worse? A coding-app CEO sees no sign of it.",
+        "url": "https://www.indiehackers.com/post/takes/did-claude-opus-5-5-get-worse-a-coding-app-ceo-sees-no-sign-of-it-BQwm4QaX7cUZykFYvo1j",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/exits/this-founder-sold-his-directory-of-stripe-alternatives-for-10k-then-he-built-the-same-product-again-FJqZRRP80BGuAMGtlcBm",
+        "title": "This founder sold his directory of Stripe alternatives for $10K. Then he built the same product again.",
+        "url": "https://www.indiehackers.com/post/exits/this-founder-sold-his-directory-of-stripe-alternatives-for-10k-then-he-built-the-same-product-again-FJqZRRP80BGuAMGtlcBm",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/perplexity-passes-1b-in-arr-its-ceo-says-BRMMQUR6ysPNgTFbvsbJ",
+        "title": "Perplexity passes $1B in ARR, its CEO says",
+        "url": "https://www.indiehackers.com/post/numbers/perplexity-passes-1b-in-arr-its-ceo-says-BRMMQUR6ysPNgTFbvsbJ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/the-top-entrant-in-marc-lous-hackathon-has-7-777-in-revenue-second-place-has-52-K9xamS8jUwz5GtN1AnHI",
+        "title": "The top entrant in Marc Lou's hackathon has $7,777 in revenue. Second place has $52.",
+        "url": "https://www.indiehackers.com/post/numbers/the-top-entrant-in-marc-lous-hackathon-has-7-777-in-revenue-second-place-has-52-K9xamS8jUwz5GtN1AnHI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/a-founder-doing-500k-arr-is-raising-his-pay-to-qualify-for-a-mortgage-GRFX7BSt5WklMnzMvJ83",
+        "title": "A founder doing $500K ARR is raising his pay to qualify for a mortgage",
+        "url": "https://www.indiehackers.com/post/numbers/a-founder-doing-500k-arr-is-raising-his-pay-to-qualify-for-a-mortgage-GRFX7BSt5WklMnzMvJ83",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 14
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 8
+    }
+  }
+}
