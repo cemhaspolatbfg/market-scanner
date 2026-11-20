@@ -1,0 +1,308 @@
+{
+  "scan_time": "2026-11-20T14:56:02.842130+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "testsprite-4-0",
+        "name": "TestSprite 4.0",
+        "tagline": "Fix one thing, break another? This agent checks it all",
+        "description": "Your coding agent fixes one thing and breaks another. TestSprite 4.0 is a brand-new testing agent that remembers what your app should do and checks all of it, every time. Tell it in plain words what to test. It explores your running app, writes and runs the end-to-end tests, tells you which failures are real bugs, and keeps checking every change from the web, your terminal or your pull requests.",
+        "votes": 362,
+        "ph_url": "https://www.producthunt.com/posts/testsprite-4-0",
+        "website": "https://www.producthunt.com/r/7TKIXW445YMK2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Software Engineering",
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "verse-engine-by-ctruh",
+        "name": "Verse Engine by Ctruh",
+        "tagline": "Blender, Unity or Unreal to a live 3D link in one click",
+        "description": "Verse Engine by Ctruh is a browser-native 3D and XR engine that turns any 3D into one link. Bring files, scans and floor plans, or publish straight from Blender, Unity and Unreal. The link opens in any browser with no app and no download. Built for developers, 3D artists, game studios, architects, real estate teams and e-commerce brands. A scene streams only what the viewer sees, so a 10.3 billion triangle city opens from a link on a laptop. Embeds, API and SDK included. Free 14-day Pro trial.",
+        "votes": 318,
+        "ph_url": "https://www.producthunt.com/posts/verse-engine-by-ctruh",
+        "website": "https://www.producthunt.com/r/CBNSNOACCLEF75?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Developer Tools",
+          "Augmented Reality",
+          "3D Modeling"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50561515",
+        "name": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+        "url": "https://cornholenews.news",
+        "points": 231,
+        "comments": 109,
+        "hn_url": "https://news.ycombinator.com/item?id=50561515"
+      },
+      {
+        "id": "50561199",
+        "name": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+        "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+        "points": 60,
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=50561199"
+      },
+      {
+        "id": "50561436",
+        "name": "Show HN: Watch weight-space programming in action with WebGPU",
+        "url": "https://tabbyml.github.io/weight-space-playground/",
+        "points": 38,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50561436"
+      },
+      {
+        "id": "50562508",
+        "name": "Show HN: AgentMall – Let your AI agent buy groceries",
+        "url": "https://getagentmall.com",
+        "points": 19,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50562508"
+      },
+      {
+        "id": "50565099",
+        "name": "Show HN: IT Thinks – Build a GPU from a Single NAND Gate",
+        "url": "https://store.steampowered.com/app/5196330/IT_THINKS_Build_Your_Own_GPU/",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50565099"
+      },
+      {
+        "id": "50562541",
+        "name": "Show HN: Maglev – OpenRouter for Agent Tools",
+        "url": "https://maglev.sh/",
+        "points": 10,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50562541"
+      },
+      {
+        "id": "50568169",
+        "name": "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas",
+        "url": "https://stass.github.io/erXos/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50568169"
+      },
+      {
+        "id": "50567436",
+        "name": "Show HN: 15MB transcription model that runs in the browser/device",
+        "url": "https://starbright.quickthoughts.ca/",
+        "points": 6,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50567436"
+      },
+      {
+        "id": "50572351",
+        "name": "Show HN: Reaktiv Workbook – A spreadsheet where every cell is Python",
+        "url": "https://workbook.bui.app/",
+        "points": 6,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50572351"
+      },
+      {
+        "id": "50570766",
+        "name": "Show HN: BSWorld – AI agents can now test Bluetooth code without hardware",
+        "url": "https://github.com/XiaoMi/bsworld",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50570766"
+      },
+      {
+        "id": "50564471",
+        "name": "Show HN: Relic – An AI that only answers from what you've saved",
+        "url": "https://relic-app.com",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50564471"
+      },
+      {
+        "id": "50561824",
+        "name": "Show HN: Dayfile.app – Append-only log for your scripts and agents",
+        "url": "https://github.com/dayfile/dayfile",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50561824"
+      },
+      {
+        "id": "50561948",
+        "name": "Show HN: Any agent, in any chat app",
+        "url": "https://mingle.build/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50561948"
+      },
+      {
+        "id": "50561546",
+        "name": "Show HN: PadSpan – Room-level Bluetooth tracking for Home Assistant",
+        "url": "https://padspan.traks.ca/demo/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50561546"
+      },
+      {
+        "id": "50574412",
+        "name": "Show HN: Drive around my village in 3D",
+        "url": "https://cherwellvalleymotorclub.app",
+        "points": 3,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50574412"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/liddie",
+        "name": "Liddie",
+        "description": "Accept 23 cryptocurrencies across 13 networks with one flat 0.4% fee",
+        "url": "https://betalist.com/startups/liddie"
+      },
+      {
+        "id": "/startups/spritix",
+        "name": "Spritix",
+        "description": "AI sprite sheet generator for animating single character images",
+        "url": "https://betalist.com/startups/spritix"
+      },
+      {
+        "id": "/startups/serveus-ai",
+        "name": "ServeUs Ai",
+        "description": "Run your service business and grow through referrals",
+        "url": "https://betalist.com/startups/serveus-ai"
+      },
+      {
+        "id": "/startups/loyaltygo",
+        "name": "Loyaltygo",
+        "description": "Stamp and points loyalty cards for Apple Wallet and Google Wallet",
+        "url": "https://betalist.com/startups/loyaltygo"
+      },
+      {
+        "id": "/startups/helvetly",
+        "name": "Helvetly",
+        "description": "Manage quotes, invoices with Swiss QR bills, expenses, and books for smalls",
+        "url": "https://betalist.com/startups/helvetly"
+      },
+      {
+        "id": "/startups/figmee",
+        "name": "Figmee",
+        "description": "Turn a single photo into a custom 3D-printed figurine you can hold",
+        "url": "https://betalist.com/startups/figmee"
+      },
+      {
+        "id": "/startups/nwsppr",
+        "name": "nwsppr",
+        "description": "Get a daily brief on industry news with actions tailored to your team",
+        "url": "https://betalist.com/startups/nwsppr"
+      },
+      {
+        "id": "/startups/exenro",
+        "name": "Exenro",
+        "description": "Track secondary-market prices and valuations for pre-IPO companies",
+        "url": "https://betalist.com/startups/exenro"
+      },
+      {
+        "id": "/startups/izba-vpn",
+        "name": "Izba VPN",
+        "description": "Get a Russian IP address to access Russian sites abroad",
+        "url": "https://betalist.com/startups/izba-vpn"
+      },
+      {
+        "id": "/startups/ai2rapvideo",
+        "name": "AI2RapVideo",
+        "description": "Turn photos into AI rap videos that roast friends or pets",
+        "url": "https://betalist.com/startups/ai2rapvideo"
+      },
+      {
+        "id": "/startups/openmapp",
+        "name": "OpenMapp",
+        "description": "Find BJJ gyms, classes, and open mats near you with real prices",
+        "url": "https://betalist.com/startups/openmapp"
+      },
+      {
+        "id": "/startups/quantumlayers",
+        "name": "QuantumLayers",
+        "description": "Turn scattered data into clear, plain-language insights fast",
+        "url": "https://betalist.com/startups/quantumlayers"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/169-verified-products-30-founders-who-come-back-every-day-and-a-ceiling-i-cant-break-oH3eZIeKjGLIPsbAAACU",
+        "title": "169 verified products, 30 founders who come back every day, and a ceiling I can't break",
+        "url": "https://www.indiehackers.com/post/169-verified-products-30-founders-who-come-back-every-day-and-a-ceiling-i-cant-break-oH3eZIeKjGLIPsbAAACU",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/three-workspace-add-ons-191-installs-on-the-free-one-7-on-the-paid-one-and-5-lessons-3KMWOJMTOgmztYRcQbN6",
+        "title": "Three Workspace add-ons: 191 installs on the free one, 7 on the paid one, and 5 lessons",
+        "url": "https://www.indiehackers.com/post/three-workspace-add-ons-191-installs-on-the-free-one-7-on-the-paid-one-and-5-lessons-3KMWOJMTOgmztYRcQbN6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/why-we-gave-unlimited-sites-for-49-when-competitors-charge-that-for-one-E4aU2qaDQ42HtLRxio9h",
+        "title": "Why we gave unlimited sites for $49 when competitors charge that for one",
+        "url": "https://www.indiehackers.com/post/why-we-gave-unlimited-sites-for-49-when-competitors-charge-that-for-one-E4aU2qaDQ42HtLRxio9h",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/three-people-asked-whether-being-honest-about-my-tools-limits-cost-me-sales-i-cannot-answer-yet-here-is-what-answering-would-take-Xa1VNsxhv4K5GLyXLEHi",
+        "title": "Three people asked whether being honest about my tool's limits cost me sales. I cannot answer yet. Here is what answering would take.",
+        "url": "https://www.indiehackers.com/post/three-people-asked-whether-being-honest-about-my-tools-limits-cost-me-sales-i-cannot-answer-yet-here-is-what-answering-would-take-Xa1VNsxhv4K5GLyXLEHi",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/takes/a-founder-says-he-pushes-back-on-claudes-new-fable-far-more-often-than-on-opus-rG6rQE0vJ4RgD4dDfI9S",
+        "title": "A founder says he pushes back on Claude's new Fable far more often than on Opus",
+        "url": "https://www.indiehackers.com/post/takes/a-founder-says-he-pushes-back-on-claudes-new-fable-far-more-often-than-on-opus-rG6rQE0vJ4RgD4dDfI9S",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
+        "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts he says post AI replies",
+        "url": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/anthropic-can-now-bill-your-apps-users-directly-for-their-claude-usage-vf3PePdJJMVf272QMZ3l",
+        "title": "Anthropic can now bill your app's users directly for their Claude usage",
+        "url": "https://www.indiehackers.com/post/launches/anthropic-can-now-bill-your-apps-users-directly-for-their-claude-usage-vf3PePdJJMVf272QMZ3l",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/a-saas-founder-self-hosted-and-cut-his-aws-bill-from-7-800-to-68-a-month-5J7ENJrF8RHqJYp4jqTD",
+        "title": "A SaaS founder self-hosted and cut his AWS bill from $7,800 to $68 a month",
+        "url": "https://www.indiehackers.com/post/numbers/a-saas-founder-self-hosted-and-cut-his-aws-bill-from-7-800-to-68-a-month-5J7ENJrF8RHqJYp4jqTD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/replit-says-its-new-agent-swarm-product-rebuilt-an-83-700-a-year-monitoring-tool-on-a-3-000-budget-48qLp6xI0k8We8iRxLVE",
+        "title": "Replit says its new agent swarm product rebuilt an $83,700-a-year monitoring tool on a $3,000 budget",
+        "url": "https://www.indiehackers.com/post/launches/replit-says-its-new-agent-swarm-product-rebuilt-an-83-700-a-year-monitoring-tool-on-a-3-000-budget-48qLp6xI0k8We8iRxLVE",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 12
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 9
+    }
+  }
+}
