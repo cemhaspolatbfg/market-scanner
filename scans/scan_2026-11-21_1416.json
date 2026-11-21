@@ -1,0 +1,292 @@
+{
+  "scan_time": "2026-11-21T14:16:23.721232+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "saparo-2",
+        "name": "Saparo",
+        "tagline": "Muse for shopping with deals stacks",
+        "description": "Saparo is a personal shopping agent that stacks every deal. Tell it what you want, and it searches U.S. stores for the same item in your size, combining promo codes, cash back, and eligible card offers that work together. It ranks options by estimated total cost, including shipping and tax, so you skip the legwork. With your approval, Saparo applies selected offers and gets checkout ready. You review the order and make the final payment yourself.",
+        "votes": 333,
+        "ph_url": "https://www.producthunt.com/posts/saparo-2",
+        "website": "https://www.producthunt.com/r/CGUN3ORBJWPLHU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "E-Commerce",
+          "Tech"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50581403",
+        "name": "Show HN: OpenComputer – an open source alternative to Devin",
+        "url": "https://github.com/diggerhq/opencomputer",
+        "points": 107,
+        "comments": 34,
+        "hn_url": "https://news.ycombinator.com/item?id=50581403"
+      },
+      {
+        "id": "50582329",
+        "name": "Show HN: How deep is the Riemann hypothesis? An interactive explainer",
+        "url": "https://shayon.work/riemann",
+        "points": 9,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50582329"
+      },
+      {
+        "id": "50581030",
+        "name": "Show HN: A browser game about trying to join a meeting",
+        "url": "https://a.drien.com/games/ceci-nest-pas-du-travail/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50581030"
+      },
+      {
+        "id": "50587571",
+        "name": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+        "url": "https://clawvet.vercel.app/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50587571"
+      },
+      {
+        "id": "50586323",
+        "name": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+        "url": "https://github.com/Musset-App/musset",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50586323"
+      },
+      {
+        "id": "50581862",
+        "name": "Show HN: Katamaran - Open-source Docker and Linux runtime for Apple Silicon",
+        "url": "https://katamaran.rs/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50581862"
+      },
+      {
+        "id": "50582578",
+        "name": "Show HN: Trichroma, a Platformer of Light",
+        "url": "https://trichroma.namirsab.dev/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50582578"
+      },
+      {
+        "id": "50576620",
+        "name": "Show HN: Pug.sh – open-source product analytics",
+        "url": "https://github.com/pug-sh/pug",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50576620"
+      },
+      {
+        "id": "50583988",
+        "name": "Show HN: Park – save and recall work context across repos and machines",
+        "url": "https://svandragt.github.io/park/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50583988"
+      },
+      {
+        "id": "50588072",
+        "name": "Show HN: Open-source shared memory, rules and Git blame plugin for agents",
+        "url": "https://github.com/keepplain/keepplain-plugin",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50588072"
+      },
+      {
+        "id": "50582844",
+        "name": "Show HN: XSquads– Set a mission, agents work on it autonomously in your harness",
+        "url": "https://xsquads.ai",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50582844"
+      },
+      {
+        "id": "50588088",
+        "name": "Show HN: ILoveNotch 2.0 – an open-source Mac notch app with a teleprompter",
+        "url": "https://github.com/niyamvora/ILoveNotch",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50588088"
+      },
+      {
+        "id": "50586748",
+        "name": "Show HN: Pantry an open source scanner that checks what your coding agents run",
+        "url": "https://waffuru.ai/products/pantry",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50586748"
+      },
+      {
+        "id": "50585601",
+        "name": "Show HN: Tab – a browser engine from scratch in Rust, with a demo to install",
+        "url": "https://gettab.dev/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50585601"
+      },
+      {
+        "id": "50581718",
+        "name": "Show HN: Bellripple – a quiet Korean temple garden in the browser",
+        "url": "https://bellripple.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50581718"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/all-my-ducks",
+        "name": "All My Ducks",
+        "description": "Keep todos and shared promises organized across home and work",
+        "url": "https://betalist.com/startups/all-my-ducks"
+      },
+      {
+        "id": "/startups/fino3d",
+        "name": "Fino3D",
+        "description": "Turn a photo or sketch into a downloadable textured 3D model",
+        "url": "https://betalist.com/startups/fino3d"
+      },
+      {
+        "id": "/startups/past-the-hedge",
+        "name": "Past the Hedge",
+        "description": "Turn forwarded booking emails into trips and a private travel archive",
+        "url": "https://betalist.com/startups/past-the-hedge"
+      },
+      {
+        "id": "/startups/costcodle",
+        "name": "Costcodle",
+        "description": "Guess today's Costco price in six tries and land within 5%",
+        "url": "https://betalist.com/startups/costcodle"
+      },
+      {
+        "id": "/startups/mailyard-2",
+        "name": "Mailyard",
+        "description": "Scale your outbound with B2B direct mail",
+        "url": "https://betalist.com/startups/mailyard-2"
+      },
+      {
+        "id": "/startups/hydromancer",
+        "name": "Hydromancer",
+        "description": "provides Hyperliquid APIs with real-time and historical data",
+        "url": "https://betalist.com/startups/hydromancer"
+      },
+      {
+        "id": "/startups/mova",
+        "name": "Mova",
+        "description": "AI job search that finds daily matching roles and tailors applications",
+        "url": "https://betalist.com/startups/mova"
+      },
+      {
+        "id": "/startups/triremes",
+        "name": "Triremes",
+        "description": "Discover real software problems and businesses that need your fix",
+        "url": "https://betalist.com/startups/triremes"
+      },
+      {
+        "id": "/startups/ziv-live",
+        "name": "ZIV Live",
+        "description": "Collect every guest's photos and videos from your event in real time",
+        "url": "https://betalist.com/startups/ziv-live"
+      },
+      {
+        "id": "/startups/kae-king-studio",
+        "name": "KAE KING Studio",
+        "description": "Turn a 30s phone vocal into a radio-ready song and music video",
+        "url": "https://betalist.com/startups/kae-king-studio"
+      },
+      {
+        "id": "/startups/brickalike",
+        "name": "Brickalike",
+        "description": "Turn any building-set number into print-ready 3D brick files",
+        "url": "https://betalist.com/startups/brickalike"
+      },
+      {
+        "id": "/startups/brandpush-co",
+        "name": "BrandPush.co",
+        "description": "Get your startup published on news sites trusted by Google and ChatGPT",
+        "url": "https://betalist.com/startups/brandpush-co"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/what-worked-and-what-didnt-in-the-first-stretch-after-launching-a-tool-for-freelancers-uw7Bz7aEhPfuh9mZXmHe",
+        "title": "What worked and what didn't in the first stretch after launching a tool for freelancers",
+        "url": "https://www.indiehackers.com/post/what-worked-and-what-didnt-in-the-first-stretch-after-launching-a-tool-for-freelancers-uw7Bz7aEhPfuh9mZXmHe",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/dinoctor?post=cU9Kk4bxFhEar2kxgrCa#post-cU9Kk4bxFhEar2kxgrCa",
+        "title": "Dinoctor: I wanted an app between After Effects and CapCut, so I built it. Here's my first month.",
+        "url": "https://www.indiehackers.com/product/dinoctor?post=cU9Kk4bxFhEar2kxgrCa#post-cU9Kk4bxFhEar2kxgrCa",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/week-4-of-a-solo-mac-studio-with-no-ad-budget-133-to-198-on-the-list-and-not-one-sign-up-from-a-social-link-Y7LVMx2sWdrjGqZISdNg",
+        "title": "Week 4 of a solo Mac studio with no ad budget: 133 to 198 on the list, and not one sign-up from a social link",
+        "url": "https://www.indiehackers.com/post/week-4-of-a-solo-mac-studio-with-no-ad-budget-133-to-198-on-the-list-and-not-one-sign-up-from-a-social-link-Y7LVMx2sWdrjGqZISdNg",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/how-are-you-adapting-your-skills-as-ai-gets-better-fdjKUYXn3kaH7wy2EWww",
+        "title": "How are you adapting your skills as AI gets better?",
+        "url": "https://www.indiehackers.com/post/how-are-you-adapting-your-skills-as-ai-gets-better-fdjKUYXn3kaH7wy2EWww",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/show-ih-i-shipped-a-stretching-app-with-no-backend-no-accounts-and-no-subscription-xD0dmEXsazICC7p9Ln1u",
+        "title": "Show IH: I shipped a stretching app with no backend, no accounts, and no subscription",
+        "url": "https://www.indiehackers.com/post/show-ih-i-shipped-a-stretching-app-with-no-backend-no-accounts-and-no-subscription-xD0dmEXsazICC7p9Ln1u",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/if-a-new-user-doesnt-use-your-product-on-day-one-do-they-ever-come-back-EXz6mW20QBE8fyRVk581",
+        "title": "If a new user doesn't use your product on day one, do they ever come back?",
+        "url": "https://www.indiehackers.com/post/if-a-new-user-doesnt-use-your-product-on-day-one-do-they-ever-come-back-EXz6mW20QBE8fyRVk581",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/google-opens-its-world-building-ai-to-developers-2SoTZgUgP5eSJclgBuag",
+        "title": "Google opens its world-building AI to developers",
+        "url": "https://www.indiehackers.com/post/launches/google-opens-its-world-building-ai-to-developers-2SoTZgUgP5eSJclgBuag",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/trends/ai-agents-now-merge-over-half-the-code-changes-to-vercels-app-builder-hBNMbmuzNvxrXWeb6gZ7",
+        "title": "AI agents now merge over half the code changes to Vercel's app builder",
+        "url": "https://www.indiehackers.com/post/trends/ai-agents-now-merge-over-half-the-code-changes-to-vercels-app-builder-hBNMbmuzNvxrXWeb6gZ7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/marc-lou-disqualifies-the-entry-leading-his-100k-hackathon-Q3pysV6F4F7SgWiVSCpU",
+        "title": "Marc Lou disqualifies the entry leading his $100K hackathon",
+        "url": "https://www.indiehackers.com/post/news/marc-lou-disqualifies-the-entry-leading-his-100k-hackathon-Q3pysV6F4F7SgWiVSCpU",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 12
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 9
+    }
+  }
+}
