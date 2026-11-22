@@ -1,0 +1,282 @@
+{
+  "scan_time": "2026-11-22T14:06:05.494229+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "tripmojo-3",
+        "name": "Tripmojo",
+        "tagline": "Agentic travel app that helps plan, book and run your trip",
+        "description": "Tripmojo syncs your booking emails into one shared trip, then Mojo, your AI travel agent, helps run it. Plan in a group chat where Mojo answers, runs polls and finds places. On travel day Mojo tries to check you in, saves your boarding pass, flags delays and gate changes, and tells you when to leave. On the trip it keeps today's plan current and splits expenses. Free on iOS and Android.",
+        "votes": 313,
+        "ph_url": "https://www.producthunt.com/posts/tripmojo-3",
+        "website": "https://www.producthunt.com/r/MGYYGRQ2OTZNMZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Travel",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "zoom-slides",
+        "name": "Zoom Slides",
+        "tagline": "Turn your Zoom meetings into ready-to-present slides",
+        "description": "Zoom Slides is an AI-powered presentation maker that turns your meetings, documents, and ideas into polished, editable decks. Instead of starting from a blank slide, let Zoom AI turn meeting transcripts and summaries into structured presentations with professional layouts, visuals, and speaker notes. Refine content with AI, collaborate with teammates, and export to PowerPoint. Your meeting ends, and your presentation is already taking shape.",
+        "votes": 305,
+        "ph_url": "https://www.producthunt.com/posts/zoom-slides",
+        "website": "https://www.producthunt.com/r/EZUGWR53JD3PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Meetings",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50590279",
+        "name": "Show HN: Zero C# – C# without a runtime or GC",
+        "url": "https://onurgumus.github.io/zero-csharp/index.html",
+        "points": 163,
+        "comments": 113,
+        "hn_url": "https://news.ycombinator.com/item?id=50590279"
+      },
+      {
+        "id": "50596664",
+        "name": "Show HN: The Riemann Proof Handbook",
+        "url": "https://github.com/tamnd/riemann-handbook",
+        "points": 72,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=50596664"
+      },
+      {
+        "id": "50593848",
+        "name": "Show HN: Open-Source Vulnerability Scanner",
+        "url": "https://waffuru.ai/products/pantry",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50593848"
+      },
+      {
+        "id": "50590838",
+        "name": "Show HN: Direct weight edits turn a 0.5B model into an expert species classifier",
+        "url": "https://andrewxhill.com/frontier-model-weight-edits/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50590838"
+      },
+      {
+        "id": "50593862",
+        "name": "Show HN: It's now easy to install Linux on an Android Phone – Android2linux",
+        "url": "https://github.com/android2linux/android2linux",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50593862"
+      },
+      {
+        "id": "50598402",
+        "name": "Show HN: HomeBrain – Your private cloud box, local agent. Data stays on Device",
+        "url": "https://www.homebrain.house",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50598402"
+      },
+      {
+        "id": "50598709",
+        "name": "Show HN: A Lichess client for playing chess and puzzles on Kobo e-readers",
+        "url": "https://github.com/BandarLabs/Cobalt/tree/main/apps/lichess",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50598709"
+      },
+      {
+        "id": "50598580",
+        "name": "Show HN: The Yang–Mills Mass Gap on Pure R^4 as a Zugzwang (Lean 4, 224 Checks)",
+        "url": "https://github.com/Dr-Logvinovich/round-square",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50598580"
+      },
+      {
+        "id": "50598128",
+        "name": "Show HN: Agent Doctor – let domain experts tune your agent without code changes",
+        "url": "https://theagentdoctor.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50598128"
+      },
+      {
+        "id": "50599108",
+        "name": "Show HN: NestDaddy Memory, one memory shared by ChatGPT, Claude and Cursor",
+        "url": "https://nestdaddy.com/memory",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50599108"
+      },
+      {
+        "id": "50594546",
+        "name": "Show HN: Hearthen, an app for building and keeping strong relationships",
+        "url": "https://hearthenapp.com",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50594546"
+      },
+      {
+        "id": "50594311",
+        "name": "Show HN: AGI: Robots Awake – a browser maze shooter",
+        "url": "https://marcvscouto.itch.io/agi-robots-awake",
+        "points": 3,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50594311"
+      },
+      {
+        "id": "50597315",
+        "name": "Show HN: RealEditPDF – 100% client-side PDF editor with zero server uploads",
+        "url": "https://realeditpdf.com/",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50597315"
+      },
+      {
+        "id": "50595995",
+        "name": "Show HN: GitHub Plays Linux",
+        "url": "https://github.com/seg6",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50595995"
+      },
+      {
+        "id": "50595931",
+        "name": "Show HN: System 1.5 Model – Inkling-2-Mini Decision",
+        "url": "https://huggingface.co/eltokh7/inkling-2-mini-decision",
+        "points": 3,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50595931"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/pdfreflow",
+        "name": "PDFreflow",
+        "description": "Read any PDF on your phone in a reflowed, single-column layout",
+        "url": "https://betalist.com/startups/pdfreflow"
+      },
+      {
+        "id": "/startups/buildmolecules",
+        "name": "BuildMolecules",
+        "description": "Create molecules atom by atom and master chemical bonding",
+        "url": "https://betalist.com/startups/buildmolecules"
+      },
+      {
+        "id": "/startups/tvpilot",
+        "name": "TVpilot",
+        "description": "Manage and schedule digital signage across all your screens fast",
+        "url": "https://betalist.com/startups/tvpilot"
+      },
+      {
+        "id": "/startups/multistream",
+        "name": "Multistream",
+        "description": "Stream to many platforms at once and read all chats in one window",
+        "url": "https://betalist.com/startups/multistream"
+      },
+      {
+        "id": "/startups/north-metric",
+        "name": "North Metric",
+        "description": "Spot Stripe customers likely to churn and act to keep the revenue",
+        "url": "https://betalist.com/startups/north-metric"
+      },
+      {
+        "id": "/startups/geefah",
+        "name": "Geefah",
+        "description": "Furnished resort-style homes leased monthly near hospitals and business",
+        "url": "https://betalist.com/startups/geefah"
+      },
+      {
+        "id": "/startups/thewijn-org",
+        "name": "TheWijn.org",
+        "description": "Living wine hub: producers, areas, events, practice, services. Open to use",
+        "url": "https://betalist.com/startups/thewijn-org"
+      },
+      {
+        "id": "/startups/fimvory",
+        "name": "Fimvory",
+        "description": "A cozy planner that turns your daily tasks and routines into quests",
+        "url": "https://betalist.com/startups/fimvory"
+      },
+      {
+        "id": "/startups/arceris",
+        "name": "Arceris",
+        "description": "Secure AI interactions across browser, API, and developer tools",
+        "url": "https://betalist.com/startups/arceris"
+      },
+      {
+        "id": "/startups/tiquiz",
+        "name": "Tiquiz",
+        "description": "Build AI quizzes that qualify leads and automate personalized follow-ups",
+        "url": "https://betalist.com/startups/tiquiz"
+      },
+      {
+        "id": "/startups/1stcontact-ai",
+        "name": "1stContact.ai",
+        "description": "Turn more leads into booked meetings with AI-powered CRM",
+        "url": "https://betalist.com/startups/1stcontact-ai"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/4-months-3-advanced-llms-and-0-mrr-my-brutal-reality-check-on-building-with-ai-o8bpjcSAdpqZLu2BUbLF",
+        "title": "4 Months, 3 Advanced LLMs, and $0 MRR: My Brutal Reality Check on \"Building with AI\"",
+        "url": "https://www.indiehackers.com/post/4-months-3-advanced-llms-and-0-mrr-my-brutal-reality-check-on-building-with-ai-o8bpjcSAdpqZLu2BUbLF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/tabtool?post=CrbVTl3XzHUEtTOi0bx4#post-CrbVTl3XzHUEtTOi0bx4",
+        "title": "TabTool: I launched a free, MIT-licensed CSV editor for Mac and iPhone. Distribution is the hard part.",
+        "url": "https://www.indiehackers.com/product/tabtool?post=CrbVTl3XzHUEtTOi0bx4#post-CrbVTl3XzHUEtTOi0bx4",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/marc-lous-hackathon-disqualified-its-top-product-its-maker-leads-again-EaLZfaWVATQD96kYnSXq",
+        "title": "Marc Lou's hackathon disqualified its top product. Its maker leads again.",
+        "url": "https://www.indiehackers.com/post/numbers/marc-lous-hackathon-disqualified-its-top-product-its-maker-leads-again-EaLZfaWVATQD96kYnSXq",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/three-entrants-pass-1-000-on-marc-lous-hackathon-revenue-board-TAkfI4Z0e2JCpblmMqpZ",
+        "title": "Three entrants pass $1,000 on Marc Lou's hackathon revenue board",
+        "url": "https://www.indiehackers.com/post/numbers/three-entrants-pass-1-000-on-marc-lous-hackathon-revenue-board-TAkfI4Z0e2JCpblmMqpZ",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/a-global-hackathon-gives-builders-90-minutes-to-ship-TdPeW18ECVgg0Fcf1adv",
+        "title": "A global hackathon gives builders 90 minutes to ship",
+        "url": "https://www.indiehackers.com/post/launches/a-global-hackathon-gives-builders-90-minutes-to-ship-TdPeW18ECVgg0Fcf1adv",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/gemini-can-now-click-through-your-mac-apps-for-you-SgjSnSdXW8UTxIrPDTKA",
+        "title": "Gemini can now click through your Mac apps for you",
+        "url": "https://www.indiehackers.com/post/launches/gemini-can-now-click-through-your-mac-apps-for-you-SgjSnSdXW8UTxIrPDTKA",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 11
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
