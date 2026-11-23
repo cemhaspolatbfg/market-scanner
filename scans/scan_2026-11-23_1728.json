@@ -1,0 +1,307 @@
+{
+  "scan_time": "2026-11-23T17:28:38.891867+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "yoroll",
+        "name": "Yoroll",
+        "tagline": "Build playable stories without a game engine",
+        "description": "Yoroll lets anyone turn stories into playable, cinematic games without coding or a game engine. Start with a script, image, or video clip, then direct the scenes, add player choices, and create branching storylines with different outcomes. AI helps bring everything together into an interactive experience you can share. It's more like directing your own interactive movie than programming a game.",
+        "votes": 357,
+        "ph_url": "https://www.producthunt.com/posts/yoroll",
+        "website": "https://www.producthunt.com/r/XKLWN5SDJ5RSLW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Games",
+          "No-Code"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "rankhog",
+        "name": "Rankhog",
+        "tagline": "Get customers from Reddit on autopilot",
+        "description": "Rankhog finds people on Reddit asking for what you sell. It reads each subreddit's rules, writes a reply that helps, and posts it from your own account at a human pace. Say yes to each reply, or turn on autopilot. No Reddit account? Rankhog warms up a new one, and you own it. Run it from the app, or from Claude, ChatGPT, Cursor and any MCP client. 7 days free.",
+        "votes": 343,
+        "ph_url": "https://www.producthunt.com/posts/rankhog",
+        "website": "https://www.producthunt.com/r/HVFQNHONLRBAJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Artificial Intelligence",
+          "reddit"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50611026",
+        "name": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
+        "url": "https://github.com/ruairidhflint/news-blocklist",
+        "points": 20,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=50611026"
+      },
+      {
+        "id": "50606513",
+        "name": "Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware",
+        "url": "https://github.com/njgreb/n64fireplace",
+        "points": 12,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50606513"
+      },
+      {
+        "id": "50606209",
+        "name": "Show HN: I used Fable to make an open source 80s-style Skyrim browser game",
+        "url": "https://thanes-quest.daventry.io/",
+        "points": 10,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50606209"
+      },
+      {
+        "id": "50605218",
+        "name": "Show HN: Trix - A terminal workspace that shows which coding agent needs you",
+        "url": "https://trixapp.ai/",
+        "points": 7,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50605218"
+      },
+      {
+        "id": "50604195",
+        "name": "Show HN: Gall – Inkling 2 Mini on 24GB M2, frees RAM between messages",
+        "url": "https://github.com/ltrgoddard/gall",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50604195"
+      },
+      {
+        "id": "50603815",
+        "name": "Show HN: You Are Hilbert",
+        "url": "https://you-are-hilbert.koenvangilst.nl/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50603815"
+      },
+      {
+        "id": "50603421",
+        "name": "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+        "url": "https://www.taskless.io/",
+        "points": 7,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50603421"
+      },
+      {
+        "id": "50611274",
+        "name": "Show HN: Zean Transpiles Zig to Lean",
+        "url": "https://github.com/okcontract/zean",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50611274"
+      },
+      {
+        "id": "50602111",
+        "name": "Show HN: I built a command center to assess your personal security posture",
+        "url": "https://installplango.com",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50602111"
+      },
+      {
+        "id": "50614327",
+        "name": "Show HN: A free creative suite, built in Rust, for AI collaboration",
+        "url": "https://codeyam.com/apps/cadyam",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50614327"
+      },
+      {
+        "id": "50606408",
+        "name": "Show HN: Hammerspoon 2 Beta 1 is released",
+        "url": "https://www.hammerspoon.org/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50606408"
+      },
+      {
+        "id": "50602388",
+        "name": "Show HN: OpenNotebook – Self-hosted NotebookLM alternative with video overviews",
+        "url": "https://github.com/mahmoud-emad/opennotebook",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50602388"
+      },
+      {
+        "id": "50610687",
+        "name": "Show HN: How 80s C64 games made 3 voices sound like a band – now with a tracker",
+        "url": "https://ddecoene.github.io/WebSidTracker/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50610687"
+      },
+      {
+        "id": "50601881",
+        "name": "Show HN: Gitfold – every Git branch as a folder, ready in a second",
+        "url": "https://github.com/pkukielka/gitfold",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50601881"
+      },
+      {
+        "id": "50610486",
+        "name": "Show HN: First Trillion $ per month Startup is here (parody)",
+        "url": "https://tusharsrivastava.github.io/infiverse/",
+        "points": 4,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50610486"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/punchtape",
+        "name": "punchtape",
+        "description": "An external state machine that ensures AI coding agents complete tasks",
+        "url": "https://betalist.com/startups/punchtape"
+      },
+      {
+        "id": "/startups/kinsle",
+        "name": "KinsLe",
+        "description": "Pet profiles with QR ID tags, lost-pet alerts, vet records, and memorials",
+        "url": "https://betalist.com/startups/kinsle"
+      },
+      {
+        "id": "/startups/geowatt",
+        "name": "geowatt",
+        "description": "AI-driven optimization and search visibility for hotels",
+        "url": "https://betalist.com/startups/geowatt"
+      },
+      {
+        "id": "/startups/hirescoot",
+        "name": "Hirescoot",
+        "description": "AI agents apply to jobs on employers' sites with recorded submissions",
+        "url": "https://betalist.com/startups/hirescoot"
+      },
+      {
+        "id": "/startups/videofn",
+        "name": "videoFn",
+        "description": "A Mac video editor driven by chat with Claude or ChatGPT",
+        "url": "https://betalist.com/startups/videofn"
+      },
+      {
+        "id": "/startups/pointgpt",
+        "name": "POINT",
+        "description": "100+ AI models for video, photo, music, and text on one balance",
+        "url": "https://betalist.com/startups/pointgpt"
+      },
+      {
+        "id": "/startups/karadesk",
+        "name": "KaraDesk",
+        "description": "AI customer support that saves your team time and helps customers",
+        "url": "https://betalist.com/startups/karadesk"
+      },
+      {
+        "id": "/startups/squish-2",
+        "name": "Squish",
+        "description": "Hosting, Microsoft 365 email, and domains with fixed renewal prices",
+        "url": "https://betalist.com/startups/squish-2"
+      },
+      {
+        "id": "/startups/rae",
+        "name": "Rae",
+        "description": "Boosted",
+        "url": "https://betalist.com/startups/rae"
+      },
+      {
+        "id": "/startups/billable-hub",
+        "name": "Billable Hub",
+        "description": "Track work, invoice clients, and accept Stripe payments with ease",
+        "url": "https://betalist.com/startups/billable-hub"
+      },
+      {
+        "id": "/startups/clipreel",
+        "name": "ClipReel",
+        "description": "Edit videos by describing changes in chat with instant previews",
+        "url": "https://betalist.com/startups/clipreel"
+      },
+      {
+        "id": "/startups/ai-tool-hunt",
+        "name": "AI Tool Hunt",
+        "description": "Discover and compare the best AI tools and models",
+        "url": "https://betalist.com/startups/ai-tool-hunt"
+      },
+      {
+        "id": "/startups/branchnote",
+        "name": "branchnote",
+        "description": "Markdown notes organized into branches",
+        "url": "https://betalist.com/startups/branchnote"
+      },
+      {
+        "id": "/startups/adwiseri",
+        "name": "adwiseri",
+        "description": "Manage visa and immigration cases with secure workflows",
+        "url": "https://betalist.com/startups/adwiseri"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/we-kept-hearing-the-same-thing-from-users-so-we-built-templates-we-call-them-recipes-zMUiWZGjbhQMjQlakJRn",
+        "title": "We kept hearing the same thing from users, so we built templates - we call them recipes :)",
+        "url": "https://www.indiehackers.com/post/we-kept-hearing-the-same-thing-from-users-so-we-built-templates-we-call-them-recipes-zMUiWZGjbhQMjQlakJRn",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/day-17-no-go-785-on-youtube-ads-24-trials-0-sales-YpJxicdqxrXfZVb6xEcs",
+        "title": "Day 17, no-go. $785 on YouTube ads, 24 trials, 0 sales",
+        "url": "https://www.indiehackers.com/post/day-17-no-go-785-on-youtube-ads-24-trials-0-sales-YpJxicdqxrXfZVb6xEcs",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-an-ai-support-bot-for-9-channels-no-customers-yet-heres-what-i-ve-learned-OZMjGhZPTBRugO3PMt8i",
+        "title": "I built an AI support bot for 9 channels. No customers yet, here's what I've learned",
+        "url": "https://www.indiehackers.com/post/i-built-an-ai-support-bot-for-9-channels-no-customers-yet-heres-what-i-ve-learned-OZMjGhZPTBRugO3PMt8i",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-cut-our-free-trial-from-7-days-to-3-every-paying-customer-had-paid-within-3-days-anyway-XTUjvKXVEbzA5OPXcQWH",
+        "title": "We cut our free trial from 7 days to 3. Every paying customer had paid within 3 days anyway",
+        "url": "https://www.indiehackers.com/post/we-cut-our-free-trial-from-7-days-to-3-every-paying-customer-had-paid-within-3-days-anyway-XTUjvKXVEbzA5OPXcQWH",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/after-an-ai-agent-run-how-do-you-know-what-it-actually-did-zAcGU57wUl2GnIf2QwSa",
+        "title": "After an AI agent run, how do you know what it actually did?",
+        "url": "https://www.indiehackers.com/post/after-an-ai-agent-run-how-do-you-know-what-it-actually-did-zAcGU57wUl2GnIf2QwSa",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/awss-status-page-was-quiet-for-93-minutes-as-some-aws-sign-ins-failed-PVOLbJD6gwepoIeit1zH",
+        "title": "AWS's status page was quiet for 93 minutes as some AWS sign-ins failed",
+        "url": "https://www.indiehackers.com/post/news/awss-status-page-was-quiet-for-93-minutes-as-some-aws-sign-ins-failed-PVOLbJD6gwepoIeit1zH",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/takes/a-founder-is-rebuilding-his-core-tools-with-ai-critics-warn-of-upkeep-BqRrzb1G6D1tjMuaIJM4",
+        "title": "A founder is rebuilding his core tools with AI. Critics warn of upkeep.",
+        "url": "https://www.indiehackers.com/post/takes/a-founder-is-rebuilding-his-core-tools-with-ai-critics-warn-of-upkeep-BqRrzb1G6D1tjMuaIJM4",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 14
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 7
+    }
+  }
+}
