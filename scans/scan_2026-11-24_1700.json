@@ -1,0 +1,327 @@
+{
+  "scan_time": "2026-11-24T17:00:04.204195+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "letter-visitors",
+        "name": "Letter Visitors",
+        "tagline": "See website visitors on your website itself",
+        "description": "Know who’s on your website: the people, their companies, and the AI agents reading your pages. See them on your own site, and replay their sessions.",
+        "votes": 401,
+        "ph_url": "https://www.producthunt.com/posts/letter-visitors",
+        "website": "https://www.producthunt.com/r/D6BRBNLRH7WD47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "motionflare",
+        "name": "Motionflare",
+        "tagline": "Turn your website into a stunning launch video in minutes",
+        "description": "Motionflare turns your website into a ready-to-share marketing video and brand film in minutes. Paste a URL and it uses your real product screenshots, logo, colors, and copy to create branded motion graphics with music and optional narration. Or switch to Film mode to generate a live-action commercial. Refine the result by chat and export in up to 4K.",
+        "votes": 338,
+        "ph_url": "https://www.producthunt.com/posts/motionflare",
+        "website": "https://www.producthunt.com/r/AM4QLKUSKUV34E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "altercontacts",
+        "name": "AlterContacts",
+        "tagline": "AI client relationship assistant that thinks and does ahead",
+        "description": "AlterContacts is a voice-first AI assistant that helps you remember every client and never miss an important follow-up. Just talk about your meeting, and Alter organizes the details, updates the client's profile, and remembers what you promised. It notices upcoming renewals, personal milestones, and relationships that need attention, then prepares your next message for approval. Built for financial advisors, brokers, and consultants who care about relationships, not CRM data entry.",
+        "votes": 327,
+        "ph_url": "https://www.producthunt.com/posts/altercontacts",
+        "website": "https://www.producthunt.com/r/P3PTYNAORNS7UV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Artificial Intelligence",
+          "Virtual Assistants",
+          "CRM"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50624596",
+        "name": "Show HN: Ant – A scripting language with goroutines and static types",
+        "url": "https://ant-lang.org/",
+        "points": 15,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50624596"
+      },
+      {
+        "id": "50623038",
+        "name": "Show HN: FireVoice, free open-source voice studio on your own GPU",
+        "url": "https://firevoice.fabwaseem.com",
+        "points": 14,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50623038"
+      },
+      {
+        "id": "50623965",
+        "name": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+        "url": "https://github.com/GenesisAgentInfra/genesis",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50623965"
+      },
+      {
+        "id": "50628421",
+        "name": "Show HN: 3D story maps in JupyterLab, written in Python, run in the browser",
+        "url": "https://notebook.link/@arjxn-py/3d-nepal-flood",
+        "points": 10,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50628421"
+      },
+      {
+        "id": "50615375",
+        "name": "Show HN: OCRia-nano-1, OCR at 8.1M parameters",
+        "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+        "points": 9,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50615375"
+      },
+      {
+        "id": "50623175",
+        "name": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+        "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+        "points": 9,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50623175"
+      },
+      {
+        "id": "50628121",
+        "name": "Show HN: Open-Interpretability Explain",
+        "url": "https://open-interpretability.com/posts/explain/index.html",
+        "points": 8,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50628121"
+      },
+      {
+        "id": "50622623",
+        "name": "Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
+        "url": "https://github.com/SandeepAi369/Agent-first-browse",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50622623"
+      },
+      {
+        "id": "50620519",
+        "name": "Show HN: Amni-CAD – parametric CAD with stress and flow simulation in a browser",
+        "url": "https://amni-scient.com/amni-cad",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50620519"
+      },
+      {
+        "id": "50618858",
+        "name": "Show HN: Console.tty – terminal emulator in browser console",
+        "url": "https://github.com/cpendery/console.tty",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50618858"
+      },
+      {
+        "id": "50618581",
+        "name": "Show HN: Narayanastra – agentless Linux rootkit scanner (eBPF, io_uring) in Rust",
+        "url": "https://github.com/Tekush1/narayanastra",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50618581"
+      },
+      {
+        "id": "50615312",
+        "name": "Show HN: Second Brain – One Memory Shared by Claude, ChatGPT and Cursor via MCP",
+        "url": "https://github.com/bhushan/getsecondbrain.io",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50615312"
+      },
+      {
+        "id": "50626606",
+        "name": "Show HN: BongBong – A tank shooter and world builder",
+        "url": "https://bongbong.io/",
+        "points": 5,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50626606"
+      },
+      {
+        "id": "50627186",
+        "name": "Show HN: Horus – Turn an old Android phone into a box for coding agents",
+        "url": "https://github.com/scarif-labs/horus",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50627186"
+      },
+      {
+        "id": "50622072",
+        "name": "Show HN: Lightweight Agentic CMS on Cloudflare – API, MCP, CLI, Web",
+        "url": "https://docs.microfeed.org/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50622072"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/cartograph-ai",
+        "name": "Cartograph.ai",
+        "description": "See which AI agents visit your online store and track their sessions",
+        "url": "https://betalist.com/startups/cartograph-ai"
+      },
+      {
+        "id": "/startups/apreet",
+        "name": "apreet",
+        "description": "TestFlight",
+        "url": "https://betalist.com/startups/apreet"
+      },
+      {
+        "id": "/startups/speedyindex-rank-tracker",
+        "name": "SpeedyIndex Rank Tracker",
+        "description": "Google rank tracking with AI overview checks and saved SERPs",
+        "url": "https://betalist.com/startups/speedyindex-rank-tracker"
+      },
+      {
+        "id": "/startups/smartfarmertech",
+        "name": "SmartFarmerTech",
+        "description": "Keep field records and costs per hectare directly from work completed",
+        "url": "https://betalist.com/startups/smartfarmertech"
+      },
+      {
+        "id": "/startups/ariadne",
+        "name": "Ariadne",
+        "description": "Weekly Google, Nextdoor, and social posts for local trades in your voice",
+        "url": "https://betalist.com/startups/ariadne"
+      },
+      {
+        "id": "/startups/pingplayers",
+        "name": "PingPlayers",
+        "description": "Premium game server hosting with fast setup and global locations",
+        "url": "https://betalist.com/startups/pingplayers"
+      },
+      {
+        "id": "/startups/finstatly",
+        "name": "Finstatly",
+        "description": "Convert PDF bank statements to Excel, CSV, QBO, OFX, or QIF fast",
+        "url": "https://betalist.com/startups/finstatly"
+      },
+      {
+        "id": "/startups/haruok",
+        "name": "HaruOK",
+        "description": "Daily check-ins, reminders, and scam protection for aging parents",
+        "url": "https://betalist.com/startups/haruok"
+      },
+      {
+        "id": "/startups/w9finder",
+        "name": "W9Finder",
+        "description": "W-9 collection and vendor readiness software for accounting firms",
+        "url": "https://betalist.com/startups/w9finder"
+      },
+      {
+        "id": "/startups/omni-1-2",
+        "name": "Omni 1.2",
+        "description": "Create 15-second AI videos from text or images with 4K delivery",
+        "url": "https://betalist.com/startups/omni-1-2"
+      },
+      {
+        "id": "/startups/mishmar",
+        "name": "Mishmar",
+        "description": "Control which AI agents can view or trade your trading account",
+        "url": "https://betalist.com/startups/mishmar"
+      },
+      {
+        "id": "/startups/gamemancer",
+        "name": "Gamemancer",
+        "description": "Turn a prompt into a playable 2D or 3D game for web and mobile",
+        "url": "https://betalist.com/startups/gamemancer"
+      },
+      {
+        "id": "/startups/bezio",
+        "name": "Bezio",
+        "description": "Direct AI images and video with 3D poses, camera control, and precise edits",
+        "url": "https://betalist.com/startups/bezio"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/from-4-countries-to-11-plus-a-direct-api-still-0-revenue-XlMfmFGriJs1vrOGyLD0",
+        "title": "From 4 countries to 11, plus a direct API. Still $0 revenue.",
+        "url": "https://www.indiehackers.com/post/from-4-countries-to-11-plus-a-direct-api-still-0-revenue-XlMfmFGriJs1vrOGyLD0",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/monday-what-are-you-building-and-shipping-this-week-Td4zLiywb26MCTQbgjEg",
+        "title": "Monday! What are you building and shipping this week?",
+        "url": "https://www.indiehackers.com/post/monday-what-are-you-building-and-shipping-this-week-Td4zLiywb26MCTQbgjEg",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/product/lume-iq?post=0BvPXQLNnR9F7g3F92Xy#post-0BvPXQLNnR9F7g3F92Xy",
+        "title": "Lume IQ: ChatGPT sends my side project 4x more users than Google, and I didn't plan for it",
+        "url": "https://www.indiehackers.com/product/lume-iq?post=0BvPXQLNnR9F7g3F92Xy#post-0BvPXQLNnR9F7g3F92Xy",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/831-signups-58-paying-4-160-mrr-we-ran-the-cut-we-promised-and-the-second-platform-story-didnt-survive-it-pwkmA2P52udXMBf5Yf0S",
+        "title": "831 signups, 58 paying, $4,160 MRR. We ran the cut we promised, and the second-platform story didn't survive it.",
+        "url": "https://www.indiehackers.com/post/831-signups-58-paying-4-160-mrr-we-ran-the-cut-we-promised-and-the-second-platform-story-didnt-survive-it-pwkmA2P52udXMBf5Yf0S",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/shutdowns/anthropics-api-stops-serving-claude-opus-4-5-on-january-22-ucalsQyPCphD4zwqJABb",
+        "title": "Anthropic's API stops serving Claude Opus 4.5 on January 22",
+        "url": "https://www.indiehackers.com/post/shutdowns/anthropics-api-stops-serving-claude-opus-4-5-on-january-22-ucalsQyPCphD4zwqJABb",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/marc-lous-hackathon-leader-shows-more-revenue-than-the-next-four-combined-6TxsArkSEHr8WDbqEKeI",
+        "title": "Marc Lou's hackathon leader shows more revenue than the next four combined",
+        "url": "https://www.indiehackers.com/post/numbers/marc-lous-hackathon-leader-shows-more-revenue-than-the-next-four-combined-6TxsArkSEHr8WDbqEKeI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/googles-gemini-api-now-bills-only-for-the-parts-of-a-file-you-pick-sy3tBSoqoHo8rYgVUQGp",
+        "title": "Google's Gemini API now bills only for the parts of a file you pick",
+        "url": "https://www.indiehackers.com/post/launches/googles-gemini-api-now-bills-only-for-the-parts-of-a-file-you-pick-sy3tBSoqoHo8rYgVUQGp",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/anthropic-now-lets-claude-approve-pull-requests-your-teams-policy-allows-HebbTKZ8EHobyprvmgz3",
+        "title": "Anthropic now lets Claude approve pull requests your team's policy allows",
+        "url": "https://www.indiehackers.com/post/launches/anthropic-now-lets-claude-approve-pull-requests-your-teams-policy-allows-HebbTKZ8EHobyprvmgz3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/aws-had-an-outage-its-status-page-stayed-quiet-for-93-minutes-PVOLbJD6gwepoIeit1zH",
+        "title": "AWS had a major outage. Its status page stayed quiet for 93 minutes.",
+        "url": "https://www.indiehackers.com/post/news/aws-had-an-outage-its-status-page-stayed-quiet-for-93-minutes-PVOLbJD6gwepoIeit1zH",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 3
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 13
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 9
+    }
+  }
+}
