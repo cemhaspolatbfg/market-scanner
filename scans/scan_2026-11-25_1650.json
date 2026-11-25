@@ -1,0 +1,311 @@
+{
+  "scan_time": "2026-11-25T16:50:34.824851+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "gauth-personal-study-agent",
+        "name": "Gauth Personal Study Agent",
+        "tagline": "An AI study agent that remembers where you struggle",
+        "description": "Gauth Personal Study Agent connects the questions you snap, the quizzes you take, and the topics you study into one ongoing picture of how you learn. Instead of starting from scratch each session, it spots the gap behind a mistake, builds a short daily plan around it, and adjusts that plan when you miss a review or master a topic early. Practice comes as flashcards, guided step-by-step walkthroughs, and quizzes, with topic mastery and streaks to show progress. Built into the Gauth app.",
+        "votes": 316,
+        "ph_url": "https://www.producthunt.com/posts/gauth-personal-study-agent",
+        "website": "https://www.producthunt.com/r/UYCH2W5E56E2XN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Android",
+          "Education",
+          "Artificial Intelligence",
+          "Online Learning"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50638503",
+        "name": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "url": "https://gpu-demo-gallery.pages.dev/",
+        "points": 268,
+        "comments": 60,
+        "hn_url": "https://news.ycombinator.com/item?id=50638503"
+      },
+      {
+        "id": "50637936",
+        "name": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
+        "url": "https://vcarl.com/sashay/",
+        "points": 34,
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50637936"
+      },
+      {
+        "id": "50638523",
+        "name": "Show HN: U.S. Interstate Weather",
+        "url": "https://www.interstateweather.com/",
+        "points": 26,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50638523"
+      },
+      {
+        "id": "50637995",
+        "name": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+        "url": "https://carry.md/",
+        "points": 25,
+        "comments": 16,
+        "hn_url": "https://news.ycombinator.com/item?id=50637995"
+      },
+      {
+        "id": "50637887",
+        "name": "Show HN: Mergeon – A native desktop Git client written in Rust with GPUI",
+        "url": "https://github.com/Spilveru/mergeon",
+        "points": 14,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50637887"
+      },
+      {
+        "id": "50633531",
+        "name": "Show HN: Analysis of Hacker News predictions since 2008",
+        "url": "https://hnpredictions.com/",
+        "points": 11,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50633531"
+      },
+      {
+        "id": "50641746",
+        "name": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
+        "url": "https://spendgap.ai/",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50641746"
+      },
+      {
+        "id": "50632752",
+        "name": "Show HN: Living Wall – a Mac wallpaper that grows around your desktop icons",
+        "url": "https://livingwallapp.com/hn",
+        "points": 6,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50632752"
+      },
+      {
+        "id": "50639615",
+        "name": "Show HN: Lightscale AI – A language for LLMs to write business software",
+        "url": "https://lightscale.ai/",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50639615"
+      },
+      {
+        "id": "50633015",
+        "name": "Show HN: Novel DB compression models in Libc – Dockerized NY OpenStreetMap 9:1",
+        "url": "https://www.baseshift.com/blog/dc1",
+        "points": 6,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50633015"
+      },
+      {
+        "id": "50639212",
+        "name": "Show HN: Termius was asking me for $120 a year, so I built my own SSH client",
+        "url": "https://branchbay.dev/branchshell",
+        "points": 5,
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=50639212"
+      },
+      {
+        "id": "50634489",
+        "name": "Show HN: ModelXare – Decentralized AI Models",
+        "url": "https://www.modelxare.com/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50634489"
+      },
+      {
+        "id": "50633329",
+        "name": "Show HN: Mole – research agent that traces claims to their sources",
+        "url": "https://mole.so/",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50633329"
+      },
+      {
+        "id": "50642300",
+        "name": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
+        "url": "https://github.com/click6067-ship-it/token-tv",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50642300"
+      },
+      {
+        "id": "50636574",
+        "name": "Show HN: UFO OPTIX Scanning satellite imagery for flying craft artifacts",
+        "url": "https://ufoptix.org",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50636574"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/alignmint",
+        "name": "AlignMint",
+        "description": "One system for a small nonprofit's money, donors, and people",
+        "url": "https://betalist.com/startups/alignmint"
+      },
+      {
+        "id": "/startups/mytpen",
+        "name": "myTpen",
+        "description": "The EdTech OS providing academic workflows for teachers",
+        "url": "https://betalist.com/startups/mytpen"
+      },
+      {
+        "id": "/startups/lionbox",
+        "name": "LionBox",
+        "description": "Run private, offline AI for your team on office hardware",
+        "url": "https://betalist.com/startups/lionbox"
+      },
+      {
+        "id": "/startups/pepelly",
+        "name": "Pepelly",
+        "description": "TestFlight",
+        "url": "https://betalist.com/startups/pepelly"
+      },
+      {
+        "id": "/startups/geocalendar",
+        "name": "GeoCalendar",
+        "description": "A booking page offering customers times with the least driving",
+        "url": "https://betalist.com/startups/geocalendar"
+      },
+      {
+        "id": "/startups/episode",
+        "name": "Episode",
+        "description": "Launch landing pages and matching ads, then test what converts",
+        "url": "https://betalist.com/startups/episode"
+      },
+      {
+        "id": "/startups/betterlaunch",
+        "name": "BetterLaunch",
+        "description": "Discover and launch standout products with curated listings",
+        "url": "https://betalist.com/startups/betterlaunch"
+      },
+      {
+        "id": "/startups/best-of",
+        "name": "BEST OF",
+        "description": "Find, save, and share real people's recommendations from restaurants to app",
+        "url": "https://betalist.com/startups/best-of"
+      },
+      {
+        "id": "/startups/brokenproduct",
+        "name": "BrokenProduct",
+        "description": "Run an AI UX audit and get a human-reviewed report in 12 hours",
+        "url": "https://betalist.com/startups/brokenproduct"
+      },
+      {
+        "id": "/startups/daedalus",
+        "name": "Daedalus",
+        "description": "Desktop studio to research, build, and ship full-stack web and mobile apps",
+        "url": "https://betalist.com/startups/daedalus"
+      },
+      {
+        "id": "/startups/coavon",
+        "name": "Coavon",
+        "description": "Manage projects, clients, docs, files, and chat for small teams on one app",
+        "url": "https://betalist.com/startups/coavon"
+      },
+      {
+        "id": "/startups/poco-a-poco",
+        "name": "Poco a poco",
+        "description": "Learn Spanish through real conversations with guidance and feedback",
+        "url": "https://betalist.com/startups/poco-a-poco"
+      },
+      {
+        "id": "/startups/patentref",
+        "name": "PatentRef",
+        "description": "A PatentsView-compatible API for US patent grants since 1976",
+        "url": "https://betalist.com/startups/patentref"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/a-month-after-launch-98-of-my-traffic-is-still-bots-uxexY1nxeJHNTjEaTH66",
+        "title": "A month after launch, 98% of my traffic is still bots",
+        "url": "https://www.indiehackers.com/post/a-month-after-launch-98-of-my-traffic-is-still-bots-uxexY1nxeJHNTjEaTH66",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/what-actually-got-my-first-waitlist-signups-was-answering-people-who-were-already-asking-kUV5sHj5sWOu3mYVGw6a",
+        "title": "What actually got my first waitlist signups was answering people who were already asking",
+        "url": "https://www.indiehackers.com/post/what-actually-got-my-first-waitlist-signups-was-answering-people-who-were-already-asking-kUV5sHj5sWOu3mYVGw6a",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/19-years-on-reddit-and-now-shadowbanned-in-a-week-marketing-a-parenting-app-has-been-tricky-SgLtxs0vJR4oM3qoPrVF",
+        "title": "19 years on Reddit, and now shadowbanned in a week? Marketing a parenting app has been tricky.",
+        "url": "https://www.indiehackers.com/post/19-years-on-reddit-and-now-shadowbanned-in-a-week-marketing-a-parenting-app-has-been-tricky-SgLtxs0vJR4oM3qoPrVF",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-read-the-code-of-5-ai-built-apps-in-public-129-alerts-1-fix-that-mattered-0-paid-orders-so-far-MECeH22rrgE0sgy8Bbpx",
+        "title": "I read the code of 5 AI-built apps in public. 129 alerts, 1 fix that mattered, 0 paid orders so far.",
+        "url": "https://www.indiehackers.com/post/i-read-the-code-of-5-ai-built-apps-in-public-129-alerts-1-fix-that-mattered-0-paid-orders-so-far-MECeH22rrgE0sgy8Bbpx",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/0-revenue-and-im-still-building-crazy-or-committed-T7UtrA9ytXMdrtRV4iiw",
+        "title": "DailyLaunch: $0 revenue and I'm still building. Crazy or committed?",
+        "url": "https://www.indiehackers.com/post/0-revenue-and-im-still-building-crazy-or-committed-T7UtrA9ytXMdrtRV4iiw",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/a-lemon-squeezy-rival-offers-to-move-sellers-subscribers-and-license-keys-LFtMqHAJt7jdZodfPnGg",
+        "title": "A Lemon Squeezy rival offers to move sellers' subscribers and license keys",
+        "url": "https://www.indiehackers.com/post/launches/a-lemon-squeezy-rival-offers-to-move-sellers-subscribers-and-license-keys-LFtMqHAJt7jdZodfPnGg",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/takes/rails-creator-says-he-ran-gemini-on-six-computers-in-a-day-and-never-hit-a-usage-limit-UrjWobdSz3L5Beh4Bxh5",
+        "title": "Rails' creator says he ran Gemini on six computers in a day and never hit a usage limit",
+        "url": "https://www.indiehackers.com/post/takes/rails-creator-says-he-ran-gemini-on-six-computers-in-a-day-and-never-hit-a-usage-limit-UrjWobdSz3L5Beh4Bxh5",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/x-can-flag-a-small-accounts-reply-as-fast-reply-spam-for-30-days-FdnxNpTkaV8CQp8fBPpA",
+        "title": "X can flag a small account's reply as \"fast reply spam\" for 30 days",
+        "url": "https://www.indiehackers.com/post/news/x-can-flag-a-small-accounts-reply-as-fast-reply-spam-for-30-days-FdnxNpTkaV8CQp8fBPpA",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/gemini-4s-cheapest-model-at-full-effort-can-cost-more-than-a-pricier-one-4NtKgYVOIRsN5iqmqgHA",
+        "title": "Gemini 4's cheapest model, at full effort, can cost more than a pricier one",
+        "url": "https://www.indiehackers.com/post/numbers/gemini-4s-cheapest-model-at-full-effort-can-cost-more-than-a-pricier-one-4NtKgYVOIRsN5iqmqgHA",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/the-money-sheet-marc-lous-newsletter-tool-passes-3k-mrr-and-more-k8cehl0C8BdAnNtiapRT",
+        "title": "The Money sheet: Marc Lou's newsletter tool passes $3K MRR, and more",
+        "url": "https://www.indiehackers.com/post/numbers/the-money-sheet-marc-lous-newsletter-tool-passes-3k-mrr-and-more-k8cehl0C8BdAnNtiapRT",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/a-builder-outside-mondays-top-100-is-second-on-marc-lou-s-hackathon-board-XsHAV7wzqdP9sBVJY4OM",
+        "title": "A builder outside Monday's top 100 is second on Marc Lou's hackathon board",
+        "url": "https://www.indiehackers.com/post/numbers/a-builder-outside-mondays-top-100-is-second-on-marc-lou-s-hackathon-board-XsHAV7wzqdP9sBVJY4OM",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 13
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 11
+    }
+  }
+}
