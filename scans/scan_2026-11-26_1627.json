@@ -1,0 +1,313 @@
+{
+  "scan_time": "2026-11-26T16:27:05.110595+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "myclaw-3-0",
+        "name": "MyClaw 3.0",
+        "tagline": "Build an always-on AI team with shared memory",
+        "description": "MyClaw lets you build your own AI team with OpenClaw, Claude Code, Codex, Hermes Agent, Pi, and more. Give each teammate its own role, tools, skills, and choice of 50+ models, with shared memory across your team. Your agents run on always-on cloud computers, use your apps, access data, and handle recurring tasks even when you're offline. Assign work from the web, Slack, Telegram, or WhatsApp. No server setup or lock-in to a single AI provider.",
+        "votes": 333,
+        "ph_url": "https://www.producthunt.com/posts/myclaw-3-0",
+        "website": "https://www.producthunt.com/r/I5P5AWTAYY2JLB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Business"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "distribution-dev",
+        "name": "distribution.dev",
+        "tagline": "Advertise to developers on many sites with one campaign",
+        "description": "Anyone can build a product now, so the hard part is getting people to see it. distribution.dev is an ad network for developers, built by the publishers themselves: daily.dev and DEV (dev.to), together among the largest developer content platforms in the world. You set up one campaign and it runs on many developer sites at once, with ads made to fit in on each one.",
+        "votes": 299,
+        "ph_url": "https://www.producthunt.com/posts/distribution-dev",
+        "website": "https://www.producthunt.com/r/FLP2CUVR6YHJZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Marketing",
+          "Advertising",
+          "Developer Tools"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50656036",
+        "name": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "url": "https://michidk.github.io/sidebyside/",
+        "points": 18,
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=50656036"
+      },
+      {
+        "id": "50647219",
+        "name": "Show HN: Openfal, local image and video generation with a fal-style API",
+        "url": "https://openfal.org",
+        "points": 15,
+        "comments": 5,
+        "hn_url": "https://news.ycombinator.com/item?id=50647219"
+      },
+      {
+        "id": "50651099",
+        "name": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+        "url": "https://olumino.app",
+        "points": 12,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50651099"
+      },
+      {
+        "id": "50646482",
+        "name": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
+        "url": "https://github.com/onatm/rustling",
+        "points": 12,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50646482"
+      },
+      {
+        "id": "50650402",
+        "name": "Show HN: Run your own Hacker News on Hatamoto (open-source, one binary)",
+        "url": "https://news.hatamoto.dev/",
+        "points": 11,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50650402"
+      },
+      {
+        "id": "50652560",
+        "name": "Show HN: Anthropic and OpenAI Math Tracker",
+        "url": "https://bedolpab.github.io/antoai-math/",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50652560"
+      },
+      {
+        "id": "50655639",
+        "name": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+        "url": "https://github.com/batanus/lip-dictation",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50655639"
+      },
+      {
+        "id": "50647231",
+        "name": "Show HN: <include-content> – Lazy loading with no app JavaScript",
+        "url": "https://nucleus.excom.dev/packages/include-content",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50647231"
+      },
+      {
+        "id": "50644653",
+        "name": "Show HN: Run Inkling 2 Mini on Mac Faster Than Anywhere Else",
+        "url": "https://www.subconscious.dev/local",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50644653"
+      },
+      {
+        "id": "50646369",
+        "name": "Show HN: Eggsimulator",
+        "url": "https://eggeggegg.vercel.app/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50646369"
+      },
+      {
+        "id": "50648189",
+        "name": "Show HN: HN topics bar chart race, I use HTML-in-Canvas 3D(need Chrome 157+)",
+        "url": "https://iantpe.github.io/hn-topic-race/?cat=langHist",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50648189"
+      },
+      {
+        "id": "50655338",
+        "name": "Show HN: I spent 10 years traveling and built a travel blog out of the data",
+        "url": "https://steve.ly/travels",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50655338"
+      },
+      {
+        "id": "50654686",
+        "name": "Show HN: Selenia – Plain-English Selenium locators from a 24 MB model, no LLM",
+        "url": "https://github.com/penielny/selenia",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50654686"
+      },
+      {
+        "id": "50654562",
+        "name": "Show HN: 44% chance of a catastrophe that kills over 10% of humanity by 2100",
+        "url": "https://doomanalysis.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50654562"
+      },
+      {
+        "id": "50652661",
+        "name": "Show HN: Hozo compiles React Native to native UI and semantic HTML",
+        "url": "https://github.com/iray-tno/hozo",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50652661"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/tapemoon",
+        "name": "Tapemoon",
+        "description": "Turn your song into a beat-cut AI music video you control",
+        "url": "https://betalist.com/startups/tapemoon"
+      },
+      {
+        "id": "/startups/blackverses",
+        "name": "BlackVerses",
+        "description": "A culture-first social app where Black creators post, go live and get paid",
+        "url": "https://betalist.com/startups/blackverses"
+      },
+      {
+        "id": "/startups/onflai",
+        "name": "onflAI",
+        "description": "Build and test integrations across apps, APIs, files, and databases",
+        "url": "https://betalist.com/startups/onflai"
+      },
+      {
+        "id": "/startups/visualizza-fattura",
+        "name": "Visualizza Fattura",
+        "description": "Free viewer for Italian e-invoices and signed P7M files in the browser",
+        "url": "https://betalist.com/startups/visualizza-fattura"
+      },
+      {
+        "id": "/startups/koru-2",
+        "name": "Koru",
+        "description": "Take notes, run AI agents, and sync privately across devices",
+        "url": "https://betalist.com/startups/koru-2"
+      },
+      {
+        "id": "/startups/influ",
+        "name": "INFLU",
+        "description": "See what is rising in fashion on Instagram before it is obvious",
+        "url": "https://betalist.com/startups/influ"
+      },
+      {
+        "id": "/startups/dreamslop",
+        "name": "DreamSlop",
+        "description": "Party games on a shared screen using phones as controllers",
+        "url": "https://betalist.com/startups/dreamslop"
+      },
+      {
+        "id": "/startups/sprigsites",
+        "name": "SprigSites",
+        "description": "Build and manage client websites and billing from one AI-powered hub",
+        "url": "https://betalist.com/startups/sprigsites"
+      },
+      {
+        "id": "/startups/insider-club",
+        "name": "Insider Club",
+        "description": "Add a fully native community forum to your Shopify store",
+        "url": "https://betalist.com/startups/insider-club"
+      },
+      {
+        "id": "/startups/oops-social",
+        "name": "Oops Social",
+        "description": "Meet people through voice, games, and chemistry, not endless swipes.",
+        "url": "https://betalist.com/startups/oops-social"
+      },
+      {
+        "id": "/startups/blampow",
+        "name": "BlamPow",
+        "description": "Read and publish webcomics and webtoons with ease",
+        "url": "https://betalist.com/startups/blampow"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/i-wrote-to-15-founders-i-didnt-even-get-a-no-SZXQhDekmDRPjflK52Sf",
+        "title": "I wrote to 15 founders. I didn't even get a \"no\".",
+        "url": "https://www.indiehackers.com/post/i-wrote-to-15-founders-i-didnt-even-get-a-no-SZXQhDekmDRPjflK52Sf",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-have-three-saas-ideas-every-one-already-has-competitors-should-i-still-build-one-SYbQxT79gTa6UH2enKDa",
+        "title": "I have three SaaS ideas. Every one already has competitors. Should I still build one?",
+        "url": "https://www.indiehackers.com/post/i-have-three-saas-ideas-every-one-already-has-competitors-should-i-still-build-one-SYbQxT79gTa6UH2enKDa",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-put-the-refund-rules-on-our-pricing-page-not-just-the-prices-LkG6UwsUnFVJaEXJdqHp",
+        "title": "I put the refund rules on our pricing page, not just the prices",
+        "url": "https://www.indiehackers.com/post/i-put-the-refund-rules-on-our-pricing-page-not-just-the-prices-LkG6UwsUnFVJaEXJdqHp",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/the-run-that-quietly-did-nothing-dk7TpVUE85SyXNhO0dRI",
+        "title": "The run that quietly did nothing",
+        "url": "https://www.indiehackers.com/post/the-run-that-quietly-did-nothing-dk7TpVUE85SyXNhO0dRI",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/when-i-raise-prices-current-customers-keep-the-old-price-for-6-months-and-get-a-30-day-email-not-a-surprise-on-the-next-invoice-dIXeQB5SnFa9qD6ndeuP",
+        "title": "Indiehunt: When I raise prices, current customers keep the old price for 6 months and get a 30-day email, not a surprise on the next invoice",
+        "url": "https://www.indiehackers.com/post/when-i-raise-prices-current-customers-keep-the-old-price-for-6-months-and-get-a-30-day-email-not-a-surprise-on-the-next-invoice-dIXeQB5SnFa9qD6ndeuP",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/b2b-startups-on-marc-lous-site-are-likelier-than-b2c-ones-to-make-10k-a-month-hkywOxO1TnwQ8YiKfS94",
+        "title": "B2B startups on Marc Lou's site are likelier than B2C ones to make $10K a month",
+        "url": "https://www.indiehackers.com/post/numbers/b2b-startups-on-marc-lous-site-are-likelier-than-b2c-ones-to-make-10k-a-month-hkywOxO1TnwQ8YiKfS94",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/pricing/gpt-6-2-astra-now-uses-up-chatgpt-plan-limits-40-faster-than-last-week-3aiobEfq6zQmIoLxFgVh",
+        "title": "GPT-6.2 Astra now uses up ChatGPT plan limits 40% faster than last week",
+        "url": "https://www.indiehackers.com/post/pricing/gpt-6-2-astra-now-uses-up-chatgpt-plan-limits-40-faster-than-last-week-3aiobEfq6zQmIoLxFgVh",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/a-screenshot-api-is-losing-mrr-its-founder-says-he-stopped-marketing-SFxavtH0wA0ueQYdGbVK",
+        "title": "A screenshot API is losing MRR. Its founder says he stopped marketing.",
+        "url": "https://www.indiehackers.com/post/numbers/a-screenshot-api-is-losing-mrr-its-founder-says-he-stopped-marketing-SFxavtH0wA0ueQYdGbVK",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/a-media-founder-who-says-vc-backed-media-works-out-never-raised-17-5m-cF04du7lgD3EKIA8GFbS",
+        "title": "A media founder who says VC-backed media \"works out never\" raised $17.5M",
+        "url": "https://www.indiehackers.com/post/news/a-media-founder-who-says-vc-backed-media-works-out-never-raised-17-5m-cF04du7lgD3EKIA8GFbS",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/a-coding-app-stops-using-claude-and-codex-sign-in-files-to-count-users-3BYT5WHmfqtQZxUEmX8O",
+        "title": "A coding app stops using Claude and Codex sign-in files to count users",
+        "url": "https://www.indiehackers.com/post/news/a-coding-app-stops-using-claude-and-codex-sign-in-files-to-count-users-3BYT5WHmfqtQZxUEmX8O",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/github-actions-was-disrupted-for-the-11th-time-this-month-gtiaPVgcLJsKmrOClft2",
+        "title": "GitHub Actions was disrupted for the 11th time this month",
+        "url": "https://www.indiehackers.com/post/news/github-actions-was-disrupted-for-the-11th-time-this-month-gtiaPVgcLJsKmrOClft2",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 11
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 11
+    }
+  }
+}
