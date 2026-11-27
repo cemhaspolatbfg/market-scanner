@@ -1,0 +1,319 @@
+{
+  "scan_time": "2026-11-27T16:12:07.815331+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "hub-d3d2bb55-5f42-4355-98fe-d7e0b636a030",
+        "name": "Hub",
+        "tagline": "Run 100 Claude Code or Codex sessions like 5",
+        "description": "Open-source dispatcher for Claude Code and Codex sessions. Write a goal in your browser or Telegram, a coordinator hands it to agents, and only the decisions come back. Self-hosted, Apache-2.0, on your own Claude or ChatGPT subscription. One-line install. Experimental: agents run without permission prompts.",
+        "votes": 413,
+        "ph_url": "https://www.producthunt.com/posts/hub-d3d2bb55-5f42-4355-98fe-d7e0b636a030",
+        "website": "https://www.producthunt.com/r/SKCIVKZDKR5QGT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Open Source",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      },
+      {
+        "id": "airbots",
+        "name": "Airbot",
+        "tagline": "The AI chief of staff that texts you first",
+        "description": "Most AI assistants wait for you to ask. Airbot texts you first. It checks the conversations, meetings, and customer updates spread across email, Slack, your calendar, and CRM, then brings you only the priorities that matter. Behind every message is work already prepared: a drafted response, a meeting brief, a booking, or a CRM change. Approve what should happen directly in WhatsApp or iMessage. Airbot helps founders and lean teams stay on top of work without living in their notifications.",
+        "votes": 306,
+        "ph_url": "https://www.producthunt.com/posts/airbots",
+        "website": "https://www.producthunt.com/r/EGSFSGAVXJ7PGU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Productivity",
+          "Sales",
+          "Artificial Intelligence"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50658191",
+        "name": "Show HN: Fuck_data_brokers.py",
+        "url": "https://github.com/gary23w/f-ck_data_brokers",
+        "points": 240,
+        "comments": 53,
+        "hn_url": "https://news.ycombinator.com/item?id=50658191"
+      },
+      {
+        "id": "50667726",
+        "name": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+        "url": "https://bouncemarket.minhanhday.com/",
+        "points": 76,
+        "comments": 30,
+        "hn_url": "https://news.ycombinator.com/item?id=50667726"
+      },
+      {
+        "id": "50657070",
+        "name": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+        "url": "https://github.com/rxliuli/sim-drop",
+        "points": 52,
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=50657070"
+      },
+      {
+        "id": "50662217",
+        "name": "Show HN: Sqrin – A better screen share for Mac",
+        "url": "https://sqrin.app",
+        "points": 13,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50662217"
+      },
+      {
+        "id": "50657069",
+        "name": "Show HN: Dev-Mem – Local-first SQLite knowledge graph for AI coding agents",
+        "url": "https://github.com/HarsH-1877/Dev-Mem",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50657069"
+      },
+      {
+        "id": "50660493",
+        "name": "Show HN: Shirudo.today: Virtual eBPF patching on stock Linux",
+        "url": "https://shirudo.today/blog/launch.html",
+        "points": 6,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50660493"
+      },
+      {
+        "id": "50659922",
+        "name": "Show HN: I Built 90s Style Low Cost Ads Concept with Rotate Ad Exchange",
+        "url": "https://rotate.ad/",
+        "points": 5,
+        "comments": 4,
+        "hn_url": "https://news.ycombinator.com/item?id=50659922"
+      },
+      {
+        "id": "50659618",
+        "name": "Show HN: Single Calendar – Sync multiple Google calendars",
+        "url": "https://singlecalendar.com",
+        "points": 5,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50659618"
+      },
+      {
+        "id": "50664795",
+        "name": "Show HN: Europe Instead – find the European version of the tools you use",
+        "url": "https://europeinstead.com",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50664795"
+      },
+      {
+        "id": "50659404",
+        "name": "Show HN: Explore the 17M-line Lean proof of the Riemann Hypothesis",
+        "url": "https://maic.me/alpoge/",
+        "points": 5,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50659404"
+      },
+      {
+        "id": "50658574",
+        "name": "Show HN: Pocket Garden – 150 plus web games in a virtual console",
+        "url": "https://triptych.github.io/web-games-andrew/console/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50658574"
+      },
+      {
+        "id": "50659437",
+        "name": "Show HN: Décor does HTML widgets for the Mac (you know, like in the old days)",
+        "url": "https://stgm.github.io/decor/",
+        "points": 4,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50659437"
+      },
+      {
+        "id": "50668111",
+        "name": "Show HN: A 1999 small-business website for a New Jersey collections crew",
+        "url": "https://rentagoon.com/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50668111"
+      },
+      {
+        "id": "50664783",
+        "name": "Show HN: Pure-Python Docx to PDF Converter, No Word or LibreOffice Needed",
+        "url": "https://github.com/rahulkhairnarr/docx-to-pdf-converter",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50664783"
+      },
+      {
+        "id": "50663124",
+        "name": "Show HN: Telegram image bot – 3 free AI images a day, 1 USDT = 10",
+        "url": "https://alexchen-imgbot-sales.containers.snapdeploy.app/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50663124"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/cosend",
+        "name": "Cosend",
+        "description": "WhatsApp team inbox with all features in every plan at a fair price",
+        "url": "https://betalist.com/startups/cosend"
+      },
+      {
+        "id": "/startups/really-remote",
+        "name": "Really Remote",
+        "description": "Find verified remote jobs you can take from anywhere",
+        "url": "https://betalist.com/startups/really-remote"
+      },
+      {
+        "id": "/startups/meet-travel-friends",
+        "name": "Meet Travel Friends",
+        "description": "Meet people who share your travel and outdoor adventures",
+        "url": "https://betalist.com/startups/meet-travel-friends"
+      },
+      {
+        "id": "/startups/moonide",
+        "name": "MoonIDE",
+        "description": "Query, edit, and export MongoDB locally on macOS without accounts",
+        "url": "https://betalist.com/startups/moonide"
+      },
+      {
+        "id": "/startups/dalroti",
+        "name": "DalRoti",
+        "description": "Trade, automate, and copy across markets from one web terminal",
+        "url": "https://betalist.com/startups/dalroti"
+      },
+      {
+        "id": "/startups/eppika",
+        "name": "Eppika",
+        "description": "Learn languages by reading books you love",
+        "url": "https://betalist.com/startups/eppika"
+      },
+      {
+        "id": "/startups/pressonify-ai",
+        "name": "Pressonify.ai",
+        "description": "Agentic press release creation for citation generation",
+        "url": "https://betalist.com/startups/pressonify-ai"
+      },
+      {
+        "id": "/startups/amuzey",
+        "name": "Amuzey",
+        "description": "Turns your app or product into a voiced, animated cartoon promo reel",
+        "url": "https://betalist.com/startups/amuzey"
+      },
+      {
+        "id": "/startups/coilr",
+        "name": "Coilr",
+        "description": "is an all-in-one Steam analytics platform",
+        "url": "https://betalist.com/startups/coilr"
+      },
+      {
+        "id": "/startups/cornerstone",
+        "name": "Cornerstone",
+        "description": "A safe AI tutor for the whole family with parents in charge",
+        "url": "https://betalist.com/startups/cornerstone"
+      },
+      {
+        "id": "/startups/your-coucou",
+        "name": "Your Coucou",
+        "description": "A twice-daily check-in app for people who live alone",
+        "url": "https://betalist.com/startups/your-coucou"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/chatgpt-recommends-8-tools-for-my-exact-problem-mine-isnt-one-of-them-AQykyNTtBS5CdTjZOx7P",
+        "title": "Declone: ChatGPT recommends 8 tools for my exact problem. Mine isn't one of them.",
+        "url": "https://www.indiehackers.com/post/chatgpt-recommends-8-tools-for-my-exact-problem-mine-isnt-one-of-them-AQykyNTtBS5CdTjZOx7P",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/video-editing-shouldnt-feel-like-passing-files-around-all-day-so-we-built-teams-on-cardboard-and-now-it-feels-like-a-sport-6yAOvDAm9JiKZmDYtvzS",
+        "title": "Video editing shouldn't feel like passing files around all day. So we built Teams on Cardboard, and now, it feels like a sport!",
+        "url": "https://www.indiehackers.com/post/video-editing-shouldnt-feel-like-passing-files-around-all-day-so-we-built-teams-on-cardboard-and-now-it-feels-like-a-sport-6yAOvDAm9JiKZmDYtvzS",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/i-built-a-local-first-jira-gantt-sprint-forecasting-tool-because-getting-a-marketplace-plugin-past-jira-admins-and-infosec-takes-months-tzhm3BLsOrGis09Nd9P1",
+        "title": "InSprintAI: I built a local-first Jira Gantt & sprint forecasting tool - because getting a Marketplace plugin past Jira Admins and InfoSec takes months",
+        "url": "https://www.indiehackers.com/post/i-built-a-local-first-jira-gantt-sprint-forecasting-tool-because-getting-a-marketplace-plugin-past-jira-admins-and-infosec-takes-months-tzhm3BLsOrGis09Nd9P1",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/300-visitors-in-24-hours-but-zero-conversions-what-went-wrong-yf4UjXpmlAdxnnYaPpfD",
+        "title": "p2p.gifts: 300+ Visitors in 24 Hours, but Zero Conversions. What Went Wrong?",
+        "url": "https://www.indiehackers.com/post/300-visitors-in-24-hours-but-zero-conversions-what-went-wrong-yf4UjXpmlAdxnnYaPpfD",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/we-rank-80-on-google-for-our-own-main-keyword-turns-out-our-best-sales-channel-is-telling-people-things-before-we-have-to-LnIIwoW7pQeq5RGih2m3",
+        "title": "We rank #80 on google for our own main keyword. Turns out our best sales channel is telling people things before we have to",
+        "url": "https://www.indiehackers.com/post/we-rank-80-on-google-for-our-own-main-keyword-turns-out-our-best-sales-channel-is-telling-people-things-before-we-have-to-LnIIwoW7pQeq5RGih2m3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/ga4-counted-1-704-users-on-my-tiny-site-in-one-day-almost-none-of-them-stayed-a-single-second-fGQdH7VK7eUCGPufhGC7",
+        "title": "GA4 counted 1,704 users on my tiny site in one day. Almost none of them stayed a single second.",
+        "url": "https://www.indiehackers.com/post/ga4-counted-1-704-users-on-my-tiny-site-in-one-day-almost-none-of-them-stayed-a-single-second-fGQdH7VK7eUCGPufhGC7",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/an-ai-seo-tool-has-made-4m-one-cofounder-had-failed-at-saas-twice-cj7TLKYdsCzbHp2zCIF3",
+        "title": "An AI SEO tool has made €4M. One cofounder had failed at SaaS twice.",
+        "url": "https://www.indiehackers.com/post/numbers/an-ai-seo-tool-has-made-4m-one-cofounder-had-failed-at-saas-twice-cj7TLKYdsCzbHp2zCIF3",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/a-high-school-for-teenage-founders-is-running-a-1m-scholarship-contest-4rbbpPJZJOI3oVkKKbqd",
+        "title": "A high school for teenage founders is running a $1M scholarship contest",
+        "url": "https://www.indiehackers.com/post/launches/a-high-school-for-teenage-founders-is-running-a-1m-scholarship-contest-4rbbpPJZJOI3oVkKKbqd",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/google-play-developers-must-say-by-february-1-if-theyre-a-business-IjfMlLNaXzf9RidBgVjq",
+        "title": "Google Play developers must say by February 1 if they're a business",
+        "url": "https://www.indiehackers.com/post/news/google-play-developers-must-say-by-february-1-if-theyre-a-business-IjfMlLNaXzf9RidBgVjq",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/the-lead-in-marc-lous-100k-hackathon-changed-hands-twice-in-a-day-ldsQ7GKnaBBPhyRfVUCN",
+        "title": "The lead in Marc Lou's $100K Hackathon changed hands twice in a day",
+        "url": "https://www.indiehackers.com/post/numbers/the-lead-in-marc-lous-100k-hackathon-changed-hands-twice-in-a-day-ldsQ7GKnaBBPhyRfVUCN",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/takes/pieter-levels-says-anthropic-or-openai-should-buy-zapier-SKo8qQHxy0xgFHf7fmOH",
+        "title": "Pieter Levels says Anthropic or OpenAI should buy Zapier",
+        "url": "https://www.indiehackers.com/post/takes/pieter-levels-says-anthropic-or-openai-should-buy-zapier-SKo8qQHxy0xgFHf7fmOH",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/numbers/a-mac-app-for-tiktok-marketers-tops-marc-lous-hackathon-board-by-5-xzBkx5UdK7QmCS7Iv5KE",
+        "title": "A Mac app for TikTok marketers tops Marc Lou's hackathon board by $5",
+        "url": "https://www.indiehackers.com/post/numbers/a-mac-app-for-tiktok-marketers-tops-marc-lous-hackathon-board-by-5-xzBkx5UdK7QmCS7Iv5KE",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 2
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 15
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 11
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 12
+    }
+  }
+}
