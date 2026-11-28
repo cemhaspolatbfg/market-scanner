@@ -1,0 +1,272 @@
+{
+  "scan_time": "2026-11-28T15:05:27.243323+00:00",
+  "sources": {
+    "producthunt": [
+      {
+        "id": "wizstar-r1",
+        "name": "Wizstar R1",
+        "tagline": "Seedance 2.0-level product videos at a lower cost",
+        "description": "Wizstar R1 is an in-house AI video model built for affordable, everyday creation. Combine up to nine reference images and videos to generate 5–15-second videos with native audio, guided by your products, characters, scenes, and styles. R1 excels at animation and 3D content and matches Seedance 2.0's usable-output rate for product videos in internal tests. Eligible members enjoy unlimited, credit-free generation, giving creators more freedom to experiment and refine their ideas.",
+        "votes": 281,
+        "ph_url": "https://www.producthunt.com/posts/wizstar-r1",
+        "website": "https://www.producthunt.com/r/MFADSN4RJLJCWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+MarketSearch+%28ID%3A+283688%29",
+        "topics": [
+          "Design Tools",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "source": "Product Hunt"
+      }
+    ],
+    "hackernews": [
+      {
+        "id": "50669673",
+        "name": "Show HN: DragDropMath – Learn math by feel",
+        "url": "https://dragdropmath.com/",
+        "points": 161,
+        "comments": 44,
+        "hn_url": "https://news.ycombinator.com/item?id=50669673"
+      },
+      {
+        "id": "50677091",
+        "name": "Show HN: Luciole Mono – terminal font designed for legibility",
+        "url": "https://scriptor-pro.github.io/luciole-mono/",
+        "points": 58,
+        "comments": 27,
+        "hn_url": "https://news.ycombinator.com/item?id=50677091"
+      },
+      {
+        "id": "50670443",
+        "name": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+        "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+        "points": 58,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=50670443"
+      },
+      {
+        "id": "50668269",
+        "name": "Show HN: King – Man + Woman = ?",
+        "url": "https://kingminusman.com/",
+        "points": 42,
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=50668269"
+      },
+      {
+        "id": "50673018",
+        "name": "Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab",
+        "url": "https://tesseracted.com/experiments-llm-os/",
+        "points": 30,
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=50673018"
+      },
+      {
+        "id": "50675831",
+        "name": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+        "url": "https://fleetlayer.ai/",
+        "points": 18,
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=50675831"
+      },
+      {
+        "id": "50675517",
+        "name": "Show HN: unLAB.run – homelab in a tab using unkernel",
+        "url": "https://unlab.run",
+        "points": 11,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50675517"
+      },
+      {
+        "id": "50671383",
+        "name": "Show HN: Glossbeam – Highlight text on your Mac to see an explanation beside it",
+        "url": "https://github.com/YasserShkeir/glossbeam-open",
+        "points": 8,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50671383"
+      },
+      {
+        "id": "50670265",
+        "name": "Show HN: MCP for fixing id3 tags of music files",
+        "url": "https://code.blago.cloud/blago/mcp_id3",
+        "points": 5,
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=50670265"
+      },
+      {
+        "id": "50674887",
+        "name": "Show HN: WikiVectors – makes any LLM smarter",
+        "url": "https://wikivectors.com/",
+        "points": 5,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50674887"
+      },
+      {
+        "id": "50672243",
+        "name": "Show HN: I built an anonymous real time status generator for anything?",
+        "url": "https://statusmeter.web.app/",
+        "points": 4,
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=50672243"
+      },
+      {
+        "id": "50672106",
+        "name": "Show HN: Create Immersive Audiobooks",
+        "url": "https://warblize.com/",
+        "points": 4,
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50672106"
+      },
+      {
+        "id": "50676994",
+        "name": "Show HN: DecksMD – Native Markdown flashcards for your Markdown vault",
+        "url": "https://decksmd.app/",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50676994"
+      },
+      {
+        "id": "50674729",
+        "name": "Show HN: Riffsheet – your coding agent breaks down a short video shot by shot",
+        "url": "https://github.com/riffkit/riffsheet",
+        "points": 4,
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=50674729"
+      }
+    ],
+    "betalist": [
+      {
+        "id": "/startups/incleus",
+        "name": "Incleus",
+        "description": "Send invoices with accurate per-line tax and get paid faster",
+        "url": "https://betalist.com/startups/incleus"
+      },
+      {
+        "id": "/startups/tag-docket",
+        "name": "Tag Docket",
+        "description": "A shared registry of UTM links and naming rules for marketing agencies",
+        "url": "https://betalist.com/startups/tag-docket"
+      },
+      {
+        "id": "/startups/everxcloud",
+        "name": "EverXCloud",
+        "description": "Rent GPUs hourly from verified suppliers or rent out your own",
+        "url": "https://betalist.com/startups/everxcloud"
+      },
+      {
+        "id": "/startups/cozicademy",
+        "name": "CoziCademy",
+        "description": "Guide screen time while kids learn and earn rewards",
+        "url": "https://betalist.com/startups/cozicademy"
+      },
+      {
+        "id": "/startups/nara-hem",
+        "name": "Nära Hem",
+        "description": "TestFlight",
+        "url": "https://betalist.com/startups/nara-hem"
+      },
+      {
+        "id": "/startups/carnet",
+        "name": "Carnet",
+        "description": "Collect appointments, tasks, and notes in one calm weekly view",
+        "url": "https://betalist.com/startups/carnet"
+      },
+      {
+        "id": "/startups/snub-phone",
+        "name": "Snub Phone",
+        "description": "TestFlight",
+        "url": "https://betalist.com/startups/snub-phone"
+      },
+      {
+        "id": "/startups/modvision",
+        "name": "ModVision",
+        "description": "See your car in 3D and browse real aftermarket parts that fit it",
+        "url": "https://betalist.com/startups/modvision"
+      },
+      {
+        "id": "/startups/comx-studio",
+        "name": "ComX Studio",
+        "description": "A studio to script, draw, and export comics with optional AI",
+        "url": "https://betalist.com/startups/comx-studio"
+      },
+      {
+        "id": "/startups/removebackground-me",
+        "name": "removebackground.me",
+        "description": "Remove image backgrounds and refine cutouts online",
+        "url": "https://betalist.com/startups/removebackground-me"
+      },
+      {
+        "id": "/startups/agentmsgr",
+        "name": "AgentMsgr",
+        "description": "Manage all your AI agents in one shared group chat you control",
+        "url": "https://betalist.com/startups/agentmsgr"
+      },
+      {
+        "id": "/startups/nuggets-3",
+        "name": "Nuggets",
+        "description": "Your everyday life creates its own diary",
+        "url": "https://betalist.com/startups/nuggets-3"
+      },
+      {
+        "id": "/startups/chronicles",
+        "name": "Chronicles",
+        "description": "Your journal, plans, habits, budget, media, and AI all in one place",
+        "url": "https://betalist.com/startups/chronicles"
+      }
+    ],
+    "indiehackers": [
+      {
+        "id": "https://www.indiehackers.com/post/numbers/a-tiktok-trend-tracker-says-it-passed-50k-in-november-gross-volume-7JsE244lZscbalRjObQq",
+        "title": "A TikTok trend tracker says it passed $50K in November gross volume",
+        "url": "https://www.indiehackers.com/post/numbers/a-tiktok-trend-tracker-says-it-passed-50k-in-november-gross-volume-7JsE244lZscbalRjObQq",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/recent-claude-models-reached-outside-weak-sandboxes-in-up-to-32-of-tests-PKrH6vXsIIwXUFrhpGld",
+        "title": "Recent Claude models reached outside weak sandboxes in up to 32% of tests",
+        "url": "https://www.indiehackers.com/post/news/recent-claude-models-reached-outside-weak-sandboxes-in-up-to-32-of-tests-PKrH6vXsIIwXUFrhpGld",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/second-place-in-marc-lous-hackathon-disqualifies-himself-over-old-code-Gvc0jUUkOsjIkqXnhfPj",
+        "title": "Second place in Marc Lou's hackathon disqualifies himself over old code",
+        "url": "https://www.indiehackers.com/post/news/second-place-in-marc-lous-hackathon-disqualifies-himself-over-old-code-Gvc0jUUkOsjIkqXnhfPj",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/launches/openai-offers-ai-experts-up-to-8-000-a-month-to-help-small-businesses-pv8eZSF4bzynYYrebDjx",
+        "title": "OpenAI offers AI experts up to $8,000 a month to help small businesses",
+        "url": "https://www.indiehackers.com/post/launches/openai-offers-ai-experts-up-to-8-000-a-month-to-help-small-businesses-pv8eZSF4bzynYYrebDjx",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/news/marc-lous-100k-hackathon-now-has-150-000-in-cash-prizes-58os9aTVSogVcbpq2fBY",
+        "title": "Marc Lou's $100K Hackathon now has $150,000 in cash prizes",
+        "url": "https://www.indiehackers.com/post/news/marc-lous-100k-hackathon-now-has-150-000-in-cash-prizes-58os9aTVSogVcbpq2fBY",
+        "votes": "—"
+      },
+      {
+        "id": "https://www.indiehackers.com/post/trends/three-founders-are-swapping-hosted-tools-for-their-own-servers-1FNsWUqmJo0CamQ4oEc3",
+        "title": "Three founders are swapping hosted tools for their own servers",
+        "url": "https://www.indiehackers.com/post/trends/three-founders-are-swapping-hosted-tools-for-their-own-servers-1FNsWUqmJo0CamQ4oEc3",
+        "votes": "—"
+      }
+    ]
+  },
+  "stats": {
+    "producthunt": {
+      "raw": 10,
+      "new": 1
+    },
+    "hackernews": {
+      "raw": 15,
+      "new": 14
+    },
+    "betalist": {
+      "raw": 15,
+      "new": 13
+    },
+    "indiehackers": {
+      "raw": 15,
+      "new": 6
+    }
+  }
+}
